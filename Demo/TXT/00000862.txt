@@ -1,0 +1,30 @@
+L5
+class: android.widget.TextView
+bounds: [0, 84, 1440, 753]
+resource-id: id/profilo_titolo
+tag: Text
+
+L7
+class: com.obscience.imamma.widget.MyImageButton
+bounds: [233, 1074, 553, 1394]
+resource-id: id/profilo_mamma_button
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [279, 1422, 507, 1513]
+resource-id: id/profilo_mamma_text
+tag: Text
+
+L7
+class: com.obscience.imamma.widget.MyImageButton
+bounds: [885, 1074, 1205, 1394]
+resource-id: id/profilo_medico_button
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [900, 1422, 1190, 1513]
+resource-id: id/profilo_medico_text
+tag: Text
+

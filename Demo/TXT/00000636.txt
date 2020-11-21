@@ -1,0 +1,42 @@
+L2
+class: android.support.v7.widget.AppCompatTextView
+bounds: [188, 660, 1252, 884]
+resource-id: id/title
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [524, 972, 1140, 1048]
+resource-id: id/text1
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [524, 1101, 1140, 1177]
+resource-id: id/text1
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [524, 1230, 1140, 1306]
+resource-id: id/text1
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [524, 1359, 1140, 1435]
+resource-id: id/text1
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [524, 1488, 1140, 1564]
+resource-id: id/text1
+tag: Text
+
+L6
+class: android.support.v7.widget.AppCompatButton
+bounds: [244, 1592, 1196, 1760]
+resource-id: id/filter_run
+tag: Button
+

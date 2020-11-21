@@ -1,0 +1,114 @@
+L10
+class: android.widget.TextView
+bounds: [274, 365, 1384, 497]
+resource-id: id/action_text
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [274, 606, 1422, 795]
+resource-id: id/action_text
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [274, 905, 1420, 1037]
+resource-id: id/action_text
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [274, 1175, 1280, 1307]
+resource-id: id/action_text
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [274, 1445, 1316, 1577]
+resource-id: id/action_text
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [18, 37, 144, 163]
+resource-id: id/c
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [1296, 37, 1422, 163]
+resource-id: id/h
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [179, 28, 1033, 172]
+resource-id: id/nametext
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [0, 200, 1440, 287]
+resource-id: id/actTextName
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [0, 2234, 1440, 2392]
+resource-id: id/homecontact
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [233, 297, 1206, 2217]
+resource-id: id/prevview
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [0, 1710, 1440, 2217]
+resource-id: id/actItemInfo
+tag: Text
+
+L7
+class: android.widget.Button
+bounds: [18, 1204, 225, 1299]
+resource-id: id/liftButton
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [1215, 1204, 1422, 1299]
+resource-id: id/rightButton
+tag: Button
+
+L9
+class: android.widget.ImageView
+bounds: [18, 317, 246, 545]
+resource-id: id/action_icon
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [18, 587, 246, 815]
+resource-id: id/action_icon
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [18, 857, 246, 1085]
+resource-id: id/action_icon
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [18, 1127, 246, 1355]
+resource-id: id/action_icon
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [18, 1397, 246, 1625]
+resource-id: id/action_icon
+tag: Image
+

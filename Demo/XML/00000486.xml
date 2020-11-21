@@ -1,0 +1,81 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>00000486</filename>
+  <size>
+    <width>1440</width>
+    <height>2560</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Text</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>223</xmin>
+      <ymin> 692</ymin>
+      <xmax> 1217</xmax>
+      <ymax> 817</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Image</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>545</xmin>
+      <ymin> 842</ymin>
+      <xmax> 895</xmax>
+      <ymax> 1192</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Text</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>234</xmin>
+      <ymin> 1210</ymin>
+      <xmax> 1206</xmax>
+      <ymax> 1433</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Text</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>234</xmin>
+      <ymin> 1469</ymin>
+      <xmax> 1206</xmax>
+      <ymax> 1550</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>234</xmin>
+      <ymin> 1586</ymin>
+      <xmax> 716</xmax>
+      <ymax> 1754</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>724</xmin>
+      <ymin> 1586</ymin>
+      <xmax> 1206</xmax>
+      <ymax> 1754</ymax>
+    </bndbox>
+  </object>
+</annotation>

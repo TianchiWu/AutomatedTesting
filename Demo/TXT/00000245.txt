@@ -1,0 +1,72 @@
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [353, 810, 1094, 948]
+resource-id: id/google_drive_account_name
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [195, 613, 420, 788]
+resource-id: id/backup_restore_title
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [213, 827, 318, 932]
+resource-id: id/google_drive_icon
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1094, 813, 1227, 946]
+resource-id: id/google_drive_auth_status
+tag: Image
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [195, 967, 1245, 971]
+resource-id: id/google_drive_line
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [213, 1006, 318, 1111]
+resource-id: id/local_icon
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [213, 1185, 318, 1290]
+resource-id: id/dropbox_icon
+tag: Image
+
+L7
+class: android.widget.LinearLayout
+bounds: [1094, 1171, 1227, 1304]
+resource-id: id/dropbox_login_layout
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [213, 1364, 318, 1469]
+resource-id: id/gmail_icon
+tag: Image
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [195, 1504, 1245, 1508]
+resource-id: id/gmail_line
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [213, 1543, 318, 1648]
+resource-id: id/cloud_icon
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [213, 1722, 318, 1827]
+resource-id: id/help_icon
+tag: Image
+

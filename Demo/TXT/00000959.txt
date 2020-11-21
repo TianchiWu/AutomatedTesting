@@ -1,0 +1,54 @@
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [353, 280, 1332, 352]
+resource-id: id/ad_description
+tag: Text
+
+L8
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 0, 1440, 280]
+resource-id: id/appbar
+tag: Image
+
+L10
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar_recipe_details
+tag: Bar
+
+L13
+class: de.hdodenhof.circleimageview.CircleImageView
+bounds: [80, 280, 325, 359]
+resource-id: id/ad_image
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [987, 387, 1388, 555]
+resource-id: id/ad_action
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [52, 851, 1388, 1656]
+resource-id: id/recipe_details_instruction
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [308, 1712, 531, 1778]
+resource-id: id/recipe_details_source
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

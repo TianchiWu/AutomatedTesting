@@ -1,0 +1,72 @@
+L7
+class: android.view.View
+bounds: [0, 84, 1440, 284]
+resource-id: id/base_top_toolbar_shadow
+tag: Bar
+
+L8
+class: com.fareportal.corelibrary.view.CustomTextView
+bounds: [204, 325, 529, 454]
+resource-id: id/hotel_filter_matched_results_text_textview
+tag: Text
+
+L8
+class: com.fareportal.corelibrary.view.CustomTextView
+bounds: [943, 325, 1235, 454]
+resource-id: id/hotel_filter_cheapest_price_text_textview
+tag: Text
+
+L8
+class: com.fareportal.corelibrary.view.CustomTextView
+bounds: [56, 141, 250, 223]
+resource-id: id/toolbar_title
+tag: Bar
+
+L7
+class: com.fareportal.corelibrary.view.CustomTextView
+bounds: [578, 525, 861, 621]
+resource-id: id/hotel_filter_screen_clear_all_filters_text
+tag: Text
+
+L10
+class: com.fareportal.corelibrary.view.CustomTextView
+bounds: [183, 1176, 255, 1225]
+resource-id: id/hotel_filter_screen_price_tab_min_value_textview
+tag: Text
+
+L10
+class: com.fareportal.corelibrary.view.CustomTextView
+bounds: [1161, 1176, 1257, 1225]
+resource-id: id/hotel_filter_screen_price_tab_max_value_textview
+tag: Text
+
+L10
+class: com.fareportal.corelibrary.view.CustomTextView
+bounds: [594, 951, 845, 1014]
+resource-id: id/hotel_filter_screen_price_tab_selected_range_textview
+tag: Text
+
+L7
+class: android.view.View
+bounds: [0, 816, 1440, 823]
+resource-id: id/slider_toolbar_shadow
+tag: Bar
+
+L6
+class: com.fareportal.corelibrary.view.FooterViewLayout
+bounds: [40, 2151, 1400, 2352]
+resource-id: id/hotelFilterScreenFooterLayout
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,78 @@
+L19
+class: android.support.v7.widget.AppCompatTextView
+bounds: [32, 543, 1264, 703]
+resource-id: id/phonetics_view
+tag: Text
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 305, 147, 400]
+resource-id: id/tv_switch_1
+tag: Text
+
+L18
+class: android.support.v7.widget.AppCompatImageView
+bounds: [129, 305, 224, 400]
+resource-id: id/handle
+tag: Image
+
+L18
+class: android.support.v7.widget.AppCompatTextView
+bounds: [109, 305, 224, 400]
+resource-id: id/tv_switch_2
+tag: Text
+
+L16
+class: com.bappi.ui.ClearableAutoCompleteTextView
+bounds: [224, 287, 1426, 419]
+resource-id: id/input_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatButton
+bounds: [14, 423, 315, 525]
+resource-id: id/button_prev
+tag: Button
+
+L16
+class: android.support.v7.widget.AppCompatButton
+bounds: [319, 423, 592, 525]
+resource-id: id/button_translate
+tag: Button
+
+L16
+class: android.support.v7.widget.AppCompatButton
+bounds: [596, 423, 897, 525]
+resource-id: id/button_pronunce
+tag: Button
+
+L16
+class: android.support.v7.widget.AppCompatButton
+bounds: [901, 423, 1079, 525]
+resource-id: id/button_clear
+tag: Button
+
+L16
+class: android.support.v7.widget.AppCompatButton
+bounds: [1083, 423, 1426, 525]
+resource-id: id/button_add_to_studyplan
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

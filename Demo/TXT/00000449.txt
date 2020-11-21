@@ -1,0 +1,42 @@
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [282, 1039, 1157, 1179]
+resource-id: id/numberlocator
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [282, 1197, 1157, 1337]
+resource-id: id/stdcodes
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [282, 1355, 1157, 1495]
+resource-id: id/isdcodes
+tag: Button
+
+L7
+class: com.google.android.gms.plus.PlusOneButton
+bounds: [286, 1548, 1154, 1632]
+resource-id: id/plus_one_button
+tag: Button
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,102 @@
+L9
+class: com.mathmaster.widget.AutofitTextView
+bounds: [651, 635, 1370, 843]
+resource-id: id/tvEarnedPointsStr
+tag: Text
+
+L9
+class: com.mathmaster.widget.AutofitTextView
+bounds: [651, 901, 1370, 1109]
+resource-id: id/tvHighestPointsStr
+tag: Text
+
+L8
+class: com.mathmaster.widget.AutofitTextView
+bounds: [309, 1359, 1130, 1490]
+resource-id: id/tvNextLevelStr
+tag: Text
+
+L7
+class: com.mathmaster.widget.CustomTextView
+bounds: [70, 292, 1370, 589]
+resource-id: id/tvExpression
+tag: Text
+
+L7
+class: android.widget.RelativeLayout
+bounds: [70, 610, 595, 1135]
+resource-id: id/ivCharacterBackground
+tag: Image
+
+L8
+class: com.mathmaster.widget.AutofitTextView
+bounds: [98, 1037, 567, 1135]
+resource-id: id/tvLevel
+tag: Text
+
+L7
+class: android.widget.ProgressBar
+bounds: [70, 1205, 1370, 1331]
+resource-id: id/progNextLevel
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [47, 1907, 271, 2131]
+resource-id: id/btnHome
+tag: Button
+
+L8
+class: com.mathmaster.widget.AutofitTextView
+bounds: [89, 2152, 229, 2218]
+resource-id: id/tvHome
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [347, 1818, 683, 2154]
+resource-id: id/btnPlayAgain
+tag: Button
+
+L8
+class: com.mathmaster.widget.AutofitTextView
+bounds: [347, 2175, 683, 2308]
+resource-id: id/tvPlayAgain
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [755, 1818, 1091, 2154]
+resource-id: id/btnPlayNextChapter
+tag: Button
+
+L8
+class: com.mathmaster.widget.AutofitTextView
+bounds: [755, 2175, 1091, 2308]
+resource-id: id/tvPlayNext
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1168, 1907, 1392, 2131]
+resource-id: id/btnShare
+tag: Button
+
+L8
+class: com.mathmaster.widget.AutofitTextView
+bounds: [1201, 2152, 1358, 2218]
+resource-id: id/tvShare
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,30 @@
+L7
+class: android.widget.TextView
+bounds: [247, 543, 1192, 1008]
+resource-id: id/date_picker_day
+tag: Picker
+
+L6
+class: android.widget.TextView
+bounds: [247, 543, 1192, 1131]
+resource-id: id/date_picker_year
+tag: Picker
+
+L5
+class: android.widget.TextView
+bounds: [247, 382, 1192, 487]
+resource-id: id/date_picker_header
+tag: Header
+
+L5
+class: android.widget.LinearLayout
+bounds: [247, 487, 1192, 1187]
+resource-id: id/day_picker_selected_date_layout
+tag: Picker
+
+L5
+class: android.widget.Button
+bounds: [247, 1926, 1192, 2094]
+resource-id: id/done
+tag: Button
+

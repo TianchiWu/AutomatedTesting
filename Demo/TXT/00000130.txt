@@ -1,0 +1,42 @@
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [232, 436, 1208, 737]
+resource-id: id/date_picker_header_date
+tag: Header
+
+L8
+class: android.widget.LinearLayout
+bounds: [148, 436, 1292, 800]
+resource-id: id/date_picker_header
+tag: Header
+
+L8
+class: com.android.internal.widget.DialogViewAnimator
+bounds: [148, 800, 1292, 1843]
+resource-id: id/animator
+tag: Picker
+
+L10
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [206, 835, 374, 1003]
+resource-id: id/prev
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1066, 835, 1234, 1003]
+resource-id: id/next
+tag: Button
+
+L4
+class: com.android.internal.widget.ButtonBarLayout
+bounds: [148, 1843, 1292, 2039]
+resource-id: id/buttonPanel
+tag: Button
+
+L5
+class: android.support.v7.widget.AppCompatButton
+bounds: [1018, 1857, 1250, 2025]
+resource-id: id/button1
+tag: Button
+

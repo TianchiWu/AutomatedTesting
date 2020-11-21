@@ -1,0 +1,36 @@
+L6
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 1046, 1440, 1295]
+resource-id: id/button1
+tag: Button
+
+L6
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 1295, 1440, 1544]
+resource-id: id/button2
+tag: Button
+
+L6
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 1544, 1440, 1793]
+resource-id: id/button3
+tag: Button
+
+L6
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 1793, 1440, 2042]
+resource-id: id/button4
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

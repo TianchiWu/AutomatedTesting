@@ -1,0 +1,114 @@
+L6
+class: android.widget.TextView
+bounds: [204, 259, 1088, 2126]
+resource-id: id/message_text
+tag: Text
+
+L4
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 259]
+resource-id: id/bottom_write_bar2
+tag: Bar
+
+L5
+class: android.widget.ImageView
+bounds: [140, 84, 315, 259]
+resource-id: id/ImageViewPB
+tag: Image
+
+L5
+class: android.widget.TextView
+bounds: [350, 121, 1300, 259]
+resource-id: id/text_message
+tag: Text
+
+L4
+class: android.widget.LinearLayout
+bounds: [0, 2130, 1440, 2392]
+resource-id: id/bottom_write_bar
+tag: Bar
+
+L5
+class: android.widget.EditText
+bounds: [20, 2150, 1226, 2372]
+resource-id: id/text
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [1264, 2199, 1422, 2374]
+resource-id: id/sendButton
+tag: Button
+
+L6
+class: android.widget.ImageView
+bounds: [11, 259, 186, 297]
+resource-id: id/ImageView01
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [11, 345, 186, 520]
+resource-id: id/ImageView01
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [11, 568, 186, 743]
+resource-id: id/ImageView01
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [11, 791, 186, 966]
+resource-id: id/ImageView01
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [11, 1014, 186, 1189]
+resource-id: id/ImageView01
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [11, 1237, 186, 1412]
+resource-id: id/ImageView01
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [11, 1460, 186, 1635]
+resource-id: id/ImageView01
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [11, 1683, 186, 1858]
+resource-id: id/ImageView01
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [11, 1906, 186, 2081]
+resource-id: id/ImageView01
+tag: Image
+
+L5
+class: android.widget.ProgressBar
+bounds: [510, 946, 930, 1366]
+resource-id: id/progressBar1
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

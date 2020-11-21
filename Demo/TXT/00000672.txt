@@ -1,0 +1,30 @@
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 245, 1356, 609]
+resource-id: id/grl__activity_auth__text_view_title
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [439, 665, 1001, 741]
+resource-id: id/grl__activity_auth__text_view_subtitle
+tag: Text
+
+L7
+class: com.facebook.login.widget.LoginButton
+bounds: [168, 2074, 1272, 2224]
+resource-id: id/login_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

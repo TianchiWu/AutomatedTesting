@@ -1,0 +1,48 @@
+L15
+class: android.support.v7.widget.ab
+bounds: [300, 371, 1140, 662]
+resource-id: id/date_picker_header_date
+tag: Header
+
+L3
+class: android.support.v7.widget.FitWindowsFrameLayout
+bounds: [216, 371, 1224, 2104]
+resource-id: id/action_bar_root
+tag: NavigationBar
+
+L6
+class: android.widget.FrameLayout
+bounds: [216, 371, 1224, 1908]
+resource-id: id/customPanel
+tag: Picker
+
+L14
+class: android.widget.LinearLayout
+bounds: [216, 371, 1224, 725]
+resource-id: id/date_picker_header
+tag: Header
+
+L14
+class: com.android.internal.widget.DialogViewAnimator
+bounds: [216, 725, 1224, 1908]
+resource-id: id/animator
+tag: Picker
+
+L6
+class: android.support.v7.widget.ButtonBarLayout
+bounds: [216, 1908, 1224, 2104]
+resource-id: id/buttonPanel
+tag: Button
+
+L7
+class: android.support.v7.widget.i
+bounds: [687, 1922, 958, 2090]
+resource-id: id/button2
+tag: Button
+
+L7
+class: android.support.v7.widget.i
+bounds: [958, 1922, 1182, 2090]
+resource-id: id/button1
+tag: Button
+

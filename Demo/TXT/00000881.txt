@@ -1,0 +1,42 @@
+L8
+class: android.widget.TextSwitcher
+bounds: [318, 464, 1122, 634]
+resource-id: id/switcher
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [207, 381, 610, 717]
+resource-id: id/imgCircle1
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [402, 381, 738, 717]
+resource-id: id/imgCircle2
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [954, 465, 1122, 633]
+resource-id: id/imgCircle3
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 1003, 1440, 1173]
+resource-id: id/txtEnterDate
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [416, 1613, 1024, 1781]
+resource-id: id/btnNext
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [430, 1947, 1009, 2027]
+resource-id: id/txt_i_dont_know_my_dueDate
+tag: Text
+

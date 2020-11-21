@@ -1,0 +1,156 @@
+L8
+class: android.widget.Button
+bounds: [92, 140, 400, 308]
+resource-id: id/manual_icon
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [400, 191, 734, 257]
+resource-id: id/manual_explanation
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [92, 312, 400, 480]
+resource-id: id/manual_icon
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [400, 363, 668, 429]
+resource-id: id/manual_explanation
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [92, 484, 400, 652]
+resource-id: id/manual_icon
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [400, 535, 700, 601]
+resource-id: id/manual_explanation
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [92, 656, 400, 824]
+resource-id: id/manual_icon
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [400, 678, 1348, 801]
+resource-id: id/manual_explanation
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [92, 828, 400, 996]
+resource-id: id/manual_icon
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [400, 879, 1063, 945]
+resource-id: id/manual_explanation
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [92, 1000, 400, 1168]
+resource-id: id/manual_icon
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [400, 1051, 728, 1117]
+resource-id: id/manual_explanation
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [92, 1172, 400, 1340]
+resource-id: id/manual_icon
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [400, 1223, 750, 1289]
+resource-id: id/manual_explanation
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [92, 1344, 400, 1512]
+resource-id: id/manual_icon
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [400, 1395, 939, 1461]
+resource-id: id/manual_explanation
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [92, 1516, 400, 1684]
+resource-id: id/manual_icon
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [400, 1567, 748, 1633]
+resource-id: id/manual_explanation
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [92, 1688, 400, 1856]
+resource-id: id/manual_icon
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [400, 1739, 859, 1805]
+resource-id: id/manual_explanation
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [92, 1860, 400, 2028]
+resource-id: id/manual_icon
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [400, 1911, 1219, 1977]
+resource-id: id/manual_explanation
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [92, 2032, 400, 2140]
+resource-id: id/manual_icon
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [400, 2083, 829, 2140]
+resource-id: id/manual_explanation
+tag: Text
+
+L4
+class: com.android.internal.widget.ButtonBarLayout
+bounds: [92, 2140, 1348, 2336]
+resource-id: id/buttonPanel
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [1082, 2154, 1306, 2322]
+resource-id: id/button1
+tag: Button
+

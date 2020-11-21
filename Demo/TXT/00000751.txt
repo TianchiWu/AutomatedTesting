@@ -1,0 +1,144 @@
+L14
+class: it.ideasolutions.kyms.calculator.ColorButton
+bounds: [0, 686, 4, 1112]
+resource-id: id/calc_sin
+tag: Button
+
+L14
+class: it.ideasolutions.kyms.calculator.ColorButton
+bounds: [0, 686, 484, 1112]
+resource-id: id/calc_cos
+tag: Button
+
+L14
+class: it.ideasolutions.kyms.calculator.ColorButton
+bounds: [0, 686, 964, 1112]
+resource-id: id/calc_tan
+tag: Button
+
+L14
+class: it.ideasolutions.kyms.calculator.ColorButton
+bounds: [0, 1112, 4, 1538]
+resource-id: id/calc_ln
+tag: Button
+
+L14
+class: it.ideasolutions.kyms.calculator.ColorButton
+bounds: [0, 1112, 484, 1538]
+resource-id: id/calc_lg
+tag: Button
+
+L14
+class: it.ideasolutions.kyms.calculator.ColorButton
+bounds: [0, 1112, 964, 1538]
+resource-id: id/calc_factorial
+tag: Button
+
+L14
+class: it.ideasolutions.kyms.calculator.ColorButton
+bounds: [0, 1538, 4, 1965]
+resource-id: id/calc_pi
+tag: Button
+
+L14
+class: it.ideasolutions.kyms.calculator.ColorButton
+bounds: [0, 1538, 484, 1965]
+resource-id: id/calc_e
+tag: Button
+
+L14
+class: it.ideasolutions.kyms.calculator.ColorButton
+bounds: [0, 1538, 964, 1965]
+resource-id: id/calc_power
+tag: Button
+
+L14
+class: it.ideasolutions.kyms.calculator.ColorButton
+bounds: [0, 1965, 4, 2217]
+resource-id: id/calc_leftParen
+tag: Button
+
+L14
+class: it.ideasolutions.kyms.calculator.ColorButton
+bounds: [0, 1965, 484, 2217]
+resource-id: id/calc_rightParen
+tag: Button
+
+L14
+class: it.ideasolutions.kyms.calculator.ColorButton
+bounds: [0, 1965, 964, 2217]
+resource-id: id/calc_sqrt
+tag: Button
+
+L12
+class: it.ideasolutions.kyms.ui.HomeSectionButtonView
+bounds: [0, 425, 480, 809]
+resource-id: id/btn_home_archive
+tag: Button
+
+L12
+class: it.ideasolutions.kyms.ui.HomeSectionButtonView
+bounds: [480, 425, 960, 809]
+resource-id: id/btn_home_browser
+tag: Button
+
+L12
+class: it.ideasolutions.kyms.ui.HomeSectionButtonView
+bounds: [960, 425, 1440, 809]
+resource-id: id/btn_home_downloads
+tag: Button
+
+L12
+class: it.ideasolutions.kyms.ui.HomeSectionButtonView
+bounds: [440, 1151, 1000, 1194]
+resource-id: id/btn_home_settings
+tag: Button
+
+L13
+class: com.devspark.robototextview.widget.RobotoButton
+bounds: [0, 280, 1440, 448]
+resource-id: id/removeads
+tag: Button
+
+L12
+class: com.devspark.robototextview.widget.RobotoButton
+bounds: [0, 452, 1440, 620]
+resource-id: id/support_request
+tag: Button
+
+L12
+class: com.devspark.robototextview.widget.RobotoButton
+bounds: [0, 1583, 1440, 1751]
+resource-id: id/createchange_alphanum_password
+tag: Button
+
+L12
+class: com.devspark.robototextview.widget.RobotoButton
+bounds: [0, 1755, 1440, 1923]
+resource-id: id/change_pin
+tag: Button
+
+L10
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L10
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 276]
+resource-id: id/toolbar
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

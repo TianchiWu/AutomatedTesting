@@ -1,0 +1,84 @@
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [18, 1361, 852, 1691]
+resource-id: id/notif_setting_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [18, 577, 852, 653]
+resource-id: id/notif_setting_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [18, 689, 852, 765]
+resource-id: id/notif_setting_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [18, 801, 852, 877]
+resource-id: id/notif_setting_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [18, 913, 852, 989]
+resource-id: id/notif_setting_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [18, 1025, 852, 1101]
+resource-id: id/notif_setting_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [18, 1137, 852, 1213]
+resource-id: id/notif_setting_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [18, 1249, 852, 1325]
+resource-id: id/notif_setting_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [18, 1727, 852, 1803]
+resource-id: id/notif_setting_text
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [35, 1870, 706, 2038]
+resource-id: id/notif_settings_cancel
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [734, 1870, 1405, 2038]
+resource-id: id/notif_settings_save
+tag: Button
+
+L4
+class: android.support.v7.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

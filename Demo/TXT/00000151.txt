@@ -1,0 +1,126 @@
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 98, 133, 242]
+resource-id: id/backTriangleIcon
+tag: Button
+
+L15
+class: com.whitescape.ride_allinone.view.ProximaNovaTextViewBold
+bounds: [133, 84, 287, 258]
+resource-id: id/abTitle
+tag: Text
+
+L15
+class: com.whitescape.ride_allinone.view.WscDoubleClickImageView
+bounds: [0, 498, 1439, 1938]
+resource-id: id/posterView
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [638, 1133, 801, 1303]
+resource-id: id/playView
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [69, 2001, 118, 2124]
+resource-id: id/badge
+tag: Image
+
+L15
+class: com.whitescape.ride_allinone.view.ProximaNovaTextViewBold
+bounds: [118, 2003, 548, 2122]
+resource-id: id/badgeText
+tag: Text
+
+L14
+class: com.whitescape.ride_allinone.view.ProximaNovaTextView
+bounds: [0, 2124, 1440, 2192]
+resource-id: id/selfComment
+tag: Text
+
+L8
+class: com.whitescape.ride_allinone.view.WscCenterRadioButton
+bounds: [14, 2206, 297, 2378]
+resource-id: id/tabTricks
+tag: Button
+
+L8
+class: com.whitescape.ride_allinone.view.WscCenterRadioButton
+bounds: [297, 2206, 581, 2378]
+resource-id: id/tabFeed
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [581, 2206, 857, 2378]
+resource-id: id/tabAdd
+tag: Button
+
+L8
+class: com.whitescape.ride_allinone.view.WscCenterRadioButton
+bounds: [857, 2206, 1141, 2378]
+resource-id: id/tabNotifications
+tag: Button
+
+L8
+class: com.whitescape.ride_allinone.view.WscCenterRadioButton
+bounds: [1141, 2206, 1425, 2378]
+resource-id: id/tabProfile
+tag: Button
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 259]
+resource-id: id/actionbarLayout
+tag: Bar
+
+L9
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 99, 134, 243]
+resource-id: id/backTriangleIcon
+tag: Button
+
+L9
+class: com.whitescape.ride_allinone.view.ProximaNovaTextViewBold
+bounds: [134, 84, 288, 259]
+resource-id: id/abTitle
+tag: Text
+
+L10
+class: com.whitescape.ride_allinone.view.ProximaNovaTextViewBlack
+bounds: [579, 93, 826, 249]
+resource-id: id/exploreSpinnerName
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [826, 125, 959, 216]
+resource-id: id/spinnerArrow
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1264, 100, 1405, 241]
+resource-id: id/searchMainIcon
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1270, 84, 1440, 254]
+resource-id: id/navbarCloseCross
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

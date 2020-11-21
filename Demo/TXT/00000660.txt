@@ -1,0 +1,60 @@
+L6
+class: android.widget.EditText
+bounds: [349, 986, 1175, 1280]
+resource-id: id/et_password
+tag: Text
+
+L2
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 2392]
+resource-id: id/content
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [230, 375, 1210, 831]
+resource-id: id/iv_logo
+tag: Image
+
+L5
+class: android.widget.TextView
+bounds: [474, 831, 966, 986]
+resource-id: id/login_scr_title
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [230, 1143, 349, 1269]
+resource-id: id/icon_pass
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [1084, 1154, 1210, 1259]
+resource-id: id/iv_show_pass
+tag: Image
+
+L5
+class: android.widget.Button
+bounds: [230, 1315, 1210, 1462]
+resource-id: id/sign_in_out
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [467, 1462, 973, 1581]
+resource-id: id/forgot_pass
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [369, 1981, 1070, 2100]
+resource-id: id/change_sign_type
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [1250, 84, 1440, 267]
+resource-id: id/iv_support
+tag: Image
+

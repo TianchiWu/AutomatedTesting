@@ -1,0 +1,60 @@
+L4
+class: android.widget.EditText
+bounds: [195, 660, 1245, 917]
+resource-id: id/txtPassword
+tag: Text
+
+L4
+class: android.widget.ImageView
+bounds: [35, 287, 1405, 501]
+resource-id: id/imageView5
+tag: Image
+
+L4
+class: android.widget.TextView
+bounds: [35, 571, 216, 642]
+resource-id: id/lblForgotPassword
+tag: Text
+
+L4
+class: android.widget.Button
+bounds: [195, 970, 1245, 1156]
+resource-id: id/cmdCreateAccount
+tag: Button
+
+L4
+class: android.widget.Button
+bounds: [195, 1226, 510, 1394]
+resource-id: id/button
+tag: Button
+
+L4
+class: android.widget.Button
+bounds: [845, 1226, 1245, 1394]
+resource-id: id/button3
+tag: Button
+
+L4
+class: android.widget.ProgressBar
+bounds: [587, 1226, 853, 1492]
+resource-id: id/stsProgressBar
+tag: Bar
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 385, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

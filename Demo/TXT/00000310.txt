@@ -1,0 +1,72 @@
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [8, 292, 1432, 414]
+resource-id: id/drawer_name
+tag: Text
+
+L8
+class: android.widget.ProgressBar
+bounds: [0, 363, 1440, 419]
+resource-id: id/progress_bar
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 315, 182, 427]
+resource-id: id/drawer_icon
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 496, 182, 608]
+resource-id: id/drawer_icon
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [182, 509, 559, 595]
+resource-id: id/drawer_name
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 677, 182, 789]
+resource-id: id/drawer_icon
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [182, 690, 344, 776]
+resource-id: id/drawer_name
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 858, 182, 970]
+resource-id: id/drawer_icon
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [182, 871, 451, 957]
+resource-id: id/drawer_name
+tag: Text
+
+L4
+class: android.support.v7.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

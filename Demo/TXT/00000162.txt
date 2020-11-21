@@ -1,0 +1,108 @@
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 387, 924, 574]
+resource-id: id/textAuthor
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [315, 651, 1370, 812]
+resource-id: id/textNumChapters
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [315, 900, 1370, 1061]
+resource-id: id/textNumChapters
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [315, 1149, 1370, 1310]
+resource-id: id/textNumChapters
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [315, 1398, 1370, 1559]
+resource-id: id/textNumChapters
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [315, 1647, 1370, 1808]
+resource-id: id/textNumChapters
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [315, 1896, 1370, 2057]
+resource-id: id/textNumChapters
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [315, 2145, 1370, 2199]
+resource-id: id/textNumChapters
+tag: Text
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L10
+class: android.support.v7.widget.SearchView
+bounds: [1272, 98, 1440, 266]
+resource-id: id/action_search
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 644, 245, 819]
+resource-id: id/imageBook
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 893, 245, 1068]
+resource-id: id/imageBook
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 1142, 245, 1317]
+resource-id: id/imageBook
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 1391, 245, 1566]
+resource-id: id/imageBook
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 1640, 245, 1815]
+resource-id: id/imageBook
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 1889, 245, 2064]
+resource-id: id/imageBook
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 2138, 245, 2199]
+resource-id: id/imageBook
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

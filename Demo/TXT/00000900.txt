@@ -1,0 +1,42 @@
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/main_toolbar
+tag: Bar
+
+L8
+class: com.bbm.ui.views.SettingCompoundButton
+bounds: [0, 549, 1440, 777]
+resource-id: id/view_show_location
+tag: Button
+
+L11
+class: android.support.v7.widget.ak
+bounds: [1272, 605, 1384, 717]
+resource-id: id/setting_compound_button
+tag: Button
+
+L8
+class: com.bbm.ui.views.SettingCompoundButton
+bounds: [0, 777, 1440, 1092]
+resource-id: id/view_swilt
+tag: Button
+
+L11
+class: android.support.v7.widget.ak
+bounds: [1272, 876, 1384, 988]
+resource-id: id/setting_compound_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,132 @@
+L5
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 412]
+resource-id: id/color_key_header
+tag: Header
+
+L7
+class: com.panasonic.pavc.viera.utility.EffectImageButton
+bounds: [25, 129, 183, 234]
+resource-id: id/btn_power
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [201, 129, 306, 234]
+resource-id: id/image_common_access_info_tvon
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [644, 154, 796, 210]
+resource-id: id/image_viera
+tag: Image
+
+L6
+class: com.panasonic.pavc.viera.utility.EffectImageButton
+bounds: [11, 291, 366, 401]
+resource-id: id/btn_r
+tag: Button
+
+L6
+class: com.panasonic.pavc.viera.utility.EffectImageButton
+bounds: [366, 291, 721, 401]
+resource-id: id/btn_g
+tag: Button
+
+L6
+class: com.panasonic.pavc.viera.utility.EffectImageButton
+bounds: [721, 291, 1075, 401]
+resource-id: id/btn_b
+tag: Button
+
+L6
+class: com.panasonic.pavc.viera.utility.EffectImageButton
+bounds: [1075, 291, 1429, 401]
+resource-id: id/btn_y
+tag: Button
+
+L12
+class: com.panasonic.pavc.viera.utility.EffectImageButton
+bounds: [53, 482, 333, 659]
+resource-id: id/btn_viera_tools
+tag: Button
+
+L12
+class: com.panasonic.pavc.viera.utility.EffectImageButton
+bounds: [1107, 482, 1387, 659]
+resource-id: id/btn_exit
+tag: Button
+
+L12
+class: com.panasonic.pavc.viera.utility.EffectImageButton
+bounds: [53, 1921, 333, 2098]
+resource-id: id/btn_sub_menu
+tag: Button
+
+L12
+class: com.panasonic.pavc.viera.utility.EffectImageButton
+bounds: [1107, 1921, 1387, 2098]
+resource-id: id/btn_return
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [91, 2189, 196, 2294]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [102, 2308, 185, 2374]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [379, 2189, 484, 2294]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [349, 2308, 514, 2374]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [667, 2189, 772, 2294]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [654, 2308, 786, 2374]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [955, 2189, 1060, 2294]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [905, 2308, 1111, 2374]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [1243, 2189, 1348, 2294]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [1238, 2308, 1354, 2374]
+resource-id: id/title
+tag: Text
+

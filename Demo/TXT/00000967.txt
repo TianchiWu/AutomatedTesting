@@ -1,0 +1,30 @@
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/main_toolbar
+tag: Bar
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 139, 621, 224]
+resource-id: id/main_toolbar_title
+tag: Bar
+
+L9
+class: android.widget.ProgressBar
+bounds: [0, 280, 1440, 288]
+resource-id: id/progress_bar
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

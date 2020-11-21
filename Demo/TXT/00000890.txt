@@ -1,0 +1,30 @@
+L6
+class: com.galaxytone.tarotcore.view.AsyncImageView
+bounds: [0, 262, 1440, 2392]
+resource-id: id/spread_icon
+tag: Image
+
+L6
+class: android.widget.ImageButton
+bounds: [3, 3, 90, 90]
+resource-id: id/home_button
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [93, 0, 1347, 114]
+resource-id: id/title_text
+tag: Text
+
+L6
+class: android.widget.ImageButton
+bounds: [1350, 3, 1437, 90]
+resource-id: id/overflow_button
+tag: Button
+
+L5
+class: android.widget.ImageView
+bounds: [0, 114, 1440, 117]
+resource-id: id/titleDivider
+tag: Image
+

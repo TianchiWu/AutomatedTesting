@@ -1,0 +1,72 @@
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [595, 130, 866, 234]
+resource-id: id/toolbar_title
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatEditText
+bounds: [56, 384, 1384, 484]
+resource-id: id/first_name_ed
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatEditText
+bounds: [56, 616, 1384, 716]
+resource-id: id/last_name_ed
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatEditText
+bounds: [56, 848, 1384, 948]
+resource-id: id/email_ed
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatEditText
+bounds: [56, 1080, 1384, 1180]
+resource-id: id/phone_ed
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatEditText
+bounds: [56, 1312, 1384, 1412]
+resource-id: id/password_ed
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatEditText
+bounds: [56, 1544, 1384, 1644]
+resource-id: id/confirm_password_ed
+tag: Text
+
+L8
+class: com.parkgenius.view.AnimateButton
+bounds: [56, 1749, 1384, 1918]
+resource-id: id/sign_up_button
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatEditText
+bounds: [0, 1974, 1440, 2262]
+resource-id: id/terms_and_policy_text_view
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

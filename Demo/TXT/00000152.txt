@@ -1,0 +1,30 @@
+L3
+class: android.widget.TextView
+bounds: [14, 2, 1426, 83]
+resource-id: id/title
+tag: Text
+
+L4
+class: android.widget.ImageView
+bounds: [63, 151, 1440, 935]
+resource-id: id/equalizer_graph
+tag: Image
+
+L5
+class: android.widget.Button
+bounds: [0, 2030, 480, 2217]
+resource-id: id/equalizer_presets
+tag: Button
+
+L5
+class: android.widget.ToggleButton
+bounds: [480, 2030, 960, 2217]
+resource-id: id/equalizer_on_off
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [960, 2030, 1440, 2217]
+resource-id: id/equalizer_close
+tag: Button
+

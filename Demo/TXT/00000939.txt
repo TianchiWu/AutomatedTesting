@@ -1,0 +1,48 @@
+L5
+class: android.widget.ToggleButton
+bounds: [195, 270, 405, 427]
+resource-id: id/button1
+tag: Button
+
+L5
+class: android.widget.ToggleButton
+bounds: [405, 270, 615, 427]
+resource-id: id/button6
+tag: Button
+
+L5
+class: android.widget.ToggleButton
+bounds: [615, 270, 825, 427]
+resource-id: id/button12
+tag: Button
+
+L5
+class: android.widget.ToggleButton
+bounds: [825, 270, 1035, 427]
+resource-id: id/buttonYTD
+tag: Button
+
+L5
+class: android.widget.ToggleButton
+bounds: [1035, 270, 1245, 427]
+resource-id: id/buttonAll
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 430, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

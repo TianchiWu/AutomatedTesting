@@ -1,0 +1,222 @@
+L10
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [193, 1910, 1008, 2134]
+resource-id: id/title
+tag: Text
+
+L8
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [224, 154, 697, 296]
+resource-id: id/subTituloDrawer
+tag: Text
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar_actionbar
+tag: Bar
+
+L12
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [0, 1182, 1440, 1289]
+resource-id: id/noInternetTextView
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatButton
+bounds: [77, 2147, 702, 2315]
+resource-id: id/rate_n_button
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatButton
+bounds: [738, 2147, 1363, 2315]
+resource-id: id/rate_p_button
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 129, 224, 353]
+resource-id: id/ImgDrawer
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [549, 169, 567, 235]
+resource-id: id/tv_YuppCredits
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1025, 189, 1067, 266]
+resource-id: id/sidebar_arraow
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 427, 116, 515]
+resource-id: id/icon
+tag: Image
+
+L10
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [193, 435, 332, 506]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 575, 116, 663]
+resource-id: id/icon
+tag: Image
+
+L10
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [193, 583, 365, 654]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 723, 116, 811]
+resource-id: id/icon
+tag: Image
+
+L10
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [193, 731, 490, 802]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 871, 116, 959]
+resource-id: id/icon
+tag: Image
+
+L10
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [193, 879, 429, 950]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1019, 116, 1107]
+resource-id: id/icon
+tag: Image
+
+L10
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [193, 1027, 395, 1098]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1167, 116, 1255]
+resource-id: id/icon
+tag: Image
+
+L10
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [193, 1175, 545, 1246]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1315, 116, 1403]
+resource-id: id/icon
+tag: Image
+
+L10
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [193, 1323, 357, 1394]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1463, 116, 1551]
+resource-id: id/icon
+tag: Image
+
+L10
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [193, 1471, 323, 1542]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1611, 116, 1699]
+resource-id: id/icon
+tag: Image
+
+L10
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [193, 1619, 609, 1690]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1759, 116, 1847]
+resource-id: id/icon
+tag: Image
+
+L10
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [193, 1767, 436, 1838]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1907, 116, 1995]
+resource-id: id/icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 2055, 116, 2143]
+resource-id: id/icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 2203, 116, 2291]
+resource-id: id/icon
+tag: Image
+
+L10
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [193, 2211, 488, 2282]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 2358, 123, 2392]
+resource-id: id/icon
+tag: Image
+
+L10
+class: com.yupptv.mobile.widget.YuppTextView
+bounds: [200, 2369, 467, 2392]
+resource-id: id/freetrial_title
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

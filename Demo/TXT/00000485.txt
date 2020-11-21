@@ -1,0 +1,12 @@
+L7
+class: android.widget.Button
+bounds: [185, 1832, 535, 2196]
+resource-id: id/cameraButton
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [905, 1832, 1255, 2196]
+resource-id: id/chooseButton
+tag: Button
+

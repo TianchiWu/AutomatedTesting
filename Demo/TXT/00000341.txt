@@ -1,0 +1,60 @@
+L7
+class: com.booking.ui.TextIconView
+bounds: [0, 84, 219, 301]
+resource-id: id/btn_close
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [393, 387, 1047, 496]
+resource-id: id/iv_logo
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [422, 697, 1231, 763]
+resource-id: id/txt_message0
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [422, 855, 1011, 921]
+resource-id: id/txt_message1
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [422, 1055, 1006, 1121]
+resource-id: id/txt_message2
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [422, 1255, 1094, 1321]
+resource-id: id/txt_message3
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [175, 1782, 1265, 1928]
+resource-id: id/btn_view_my_bookings
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [56, 2060, 1384, 2218]
+resource-id: id/btn_start_search
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

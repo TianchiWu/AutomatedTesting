@@ -1,0 +1,72 @@
+L8
+class: android.widget.TextView
+bounds: [81, 1082, 1359, 1218]
+resource-id: id/clear
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [0, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [70, 463, 1370, 529]
+resource-id: id/training_log_weight_label
+tag: Text
+
+L9
+class: android.widget.ImageButton
+bounds: [327, 553, 523, 721]
+resource-id: id/training_log_decrease_weight
+tag: Button
+
+L9
+class: android.widget.EditText
+bounds: [523, 536, 916, 739]
+resource-id: id/training_log_weight
+tag: Text
+
+L9
+class: android.widget.ImageButton
+bounds: [916, 553, 1112, 721]
+resource-id: id/training_log_increase_weight
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [327, 857, 523, 1025]
+resource-id: id/training_log_decrease_reps
+tag: Button
+
+L9
+class: android.widget.EditText
+bounds: [523, 840, 916, 1043]
+resource-id: id/training_log_reps
+tag: Text
+
+L9
+class: android.widget.ImageButton
+bounds: [916, 857, 1112, 1025]
+resource-id: id/training_log_increase_reps
+tag: Button
+
+L7
+class: android.widget.LinearLayout
+bounds: [70, 1071, 1370, 1229]
+resource-id: id/training_log_buttons_default
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 444, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

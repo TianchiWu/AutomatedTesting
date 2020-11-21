@@ -1,0 +1,60 @@
+L6
+class: android.widget.ImageView
+bounds: [0, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [189, 675, 556, 760]
+resource-id: id/SchoolName
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [189, 852, 514, 937]
+resource-id: id/SchoolName
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [189, 1029, 778, 1114]
+resource-id: id/SchoolName
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [189, 1206, 732, 1291]
+resource-id: id/SchoolName
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [35, 1412, 1405, 2195]
+resource-id: id/lyricsText
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [216, 2206, 706, 2381]
+resource-id: id/use_points_button
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [734, 2206, 1224, 2381]
+resource-id: id/buy_button
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 806, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

@@ -1,0 +1,114 @@
+L11
+class: android.widget.FrameLayout
+bounds: [0, 0, 1440, 200]
+resource-id: id/actionbar_divider
+tag: Bar
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [273, 196, 1223, 274]
+resource-id: id/extra
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [273, 664, 1223, 820]
+resource-id: id/extra
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [273, 1210, 1223, 1366]
+resource-id: id/extra
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [273, 1756, 1223, 1912]
+resource-id: id/extra
+tag: Text
+
+L6
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 0, 1440, 196]
+resource-id: id/appbar_layout
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1010, 62, 1149, 133]
+resource-id: id/app_bar_done_text
+tag: Bar
+
+L16
+class: com.sec.penup.ui.widget.RoundedAvatarImageView
+bounds: [77, 196, 217, 266]
+resource-id: id/image
+tag: Image
+
+L16
+class: android.widget.ToggleButton
+bounds: [1279, 196, 1363, 238]
+resource-id: id/follow
+tag: Button
+
+L16
+class: com.sec.penup.ui.widget.RoundedAvatarImageView
+bounds: [77, 672, 217, 812]
+resource-id: id/image
+tag: Image
+
+L16
+class: android.widget.ToggleButton
+bounds: [1279, 700, 1363, 784]
+resource-id: id/follow
+tag: Button
+
+L16
+class: com.sec.penup.ui.widget.RoundedAvatarImageView
+bounds: [77, 1218, 217, 1358]
+resource-id: id/image
+tag: Image
+
+L16
+class: android.widget.ToggleButton
+bounds: [1279, 1246, 1363, 1330]
+resource-id: id/follow
+tag: Button
+
+L16
+class: com.sec.penup.ui.widget.RoundedAvatarImageView
+bounds: [77, 1764, 217, 1904]
+resource-id: id/image
+tag: Image
+
+L16
+class: android.widget.ToggleButton
+bounds: [1279, 1792, 1363, 1876]
+resource-id: id/follow
+tag: Button
+
+L16
+class: com.sec.penup.ui.widget.RoundedAvatarImageView
+bounds: [77, 2310, 217, 2392]
+resource-id: id/image
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [273, 2302, 1223, 2392]
+resource-id: id/name
+tag: Text
+
+L16
+class: android.widget.ToggleButton
+bounds: [1279, 2338, 1363, 2392]
+resource-id: id/follow
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

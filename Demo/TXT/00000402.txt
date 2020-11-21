@@ -1,0 +1,90 @@
+L12
+class: android.widget.TextView
+bounds: [355, 846, 910, 1318]
+resource-id: id/music_lirics
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [355, 1428, 1011, 1832]
+resource-id: id/music_lirics
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [270, 93, 1170, 224]
+resource-id: id/band_title
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [35, 233, 727, 345]
+resource-id: id/subtitle
+tag: Text
+
+L11
+class: com.loopj.android.image.SmartImageView
+bounds: [35, 380, 302, 682]
+resource-id: id/music_image
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [355, 398, 519, 510]
+resource-id: id/music_title
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [355, 510, 1197, 736]
+resource-id: id/music_lirics
+tag: Text
+
+L11
+class: com.loopj.android.image.SmartImageView
+bounds: [35, 828, 302, 1130]
+resource-id: id/music_image
+tag: Image
+
+L11
+class: com.loopj.android.image.SmartImageView
+bounds: [35, 1410, 302, 1712]
+resource-id: id/music_image
+tag: Image
+
+L11
+class: com.loopj.android.image.SmartImageView
+bounds: [35, 1924, 302, 1993]
+resource-id: id/music_image
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [355, 1942, 770, 1993]
+resource-id: id/music_title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [54, 2168, 306, 2392]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [414, 2168, 666, 2392]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [774, 2168, 1026, 2392]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1134, 2168, 1386, 2392]
+resource-id: id/icon
+tag: Image
+

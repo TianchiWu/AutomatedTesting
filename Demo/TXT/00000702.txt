@@ -1,0 +1,96 @@
+L5
+class: android.widget.TextView
+bounds: [430, 120, 1009, 215]
+resource-id: id/lite_text
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [0, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [56, 252, 1272, 364]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [84, 435, 350, 520]
+resource-id: id/title
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [56, 592, 1272, 704]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [84, 775, 843, 860]
+resource-id: id/title
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [56, 1158, 1272, 1270]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [84, 1341, 700, 1426]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [84, 1567, 239, 1652]
+resource-id: id/title
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [56, 1724, 1272, 1836]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [84, 2133, 370, 2218]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [195, 1218, 1245, 1811]
+resource-id: id/tutorial_menu
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [457, 474, 982, 816]
+resource-id: id/tutorial_calendar
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [915, 474, 1440, 1148]
+resource-id: id/tutorial_facebook
+tag: Text
+
+L6
+class: android.widget.FrameLayout
+bounds: [0, 2217, 1440, 2392]
+resource-id: id/ads_container
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+

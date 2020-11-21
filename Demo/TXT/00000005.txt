@@ -1,0 +1,6 @@
+L6
+class: android.widget.TextView
+bounds: [92, 756, 1348, 1876]
+resource-id: id/text1
+tag: Text
+

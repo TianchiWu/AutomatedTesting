@@ -1,0 +1,78 @@
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L8
+class: android.widget.LinearLayout
+bounds: [1272, 84, 1412, 280]
+resource-id: id/right_button_container
+tag: Button
+
+L8
+class: android.support.v7.widget.ae
+bounds: [56, 140, 445, 224]
+resource-id: id/image_view_toolbar_center
+tag: Bar
+
+L15
+class: com.traveloka.android.widget.user.ImageWithUrlWidget
+bounds: [87, 984, 227, 1124]
+resource-id: id/image_new_feature_icon
+tag: Image
+
+L15
+class: com.traveloka.android.widget.user.ImageWithUrlWidget
+bounds: [790, 984, 930, 1124]
+resource-id: id/image_new_feature_icon
+tag: Image
+
+L15
+class: com.traveloka.android.widget.user.ImageWithUrlWidget
+bounds: [87, 1417, 227, 1557]
+resource-id: id/image_new_feature_icon
+tag: Image
+
+L15
+class: com.traveloka.android.widget.user.ImageWithUrlWidget
+bounds: [790, 1417, 930, 1557]
+resource-id: id/image_new_feature_icon
+tag: Image
+
+L15
+class: com.traveloka.android.widget.user.ImageWithUrlWidget
+bounds: [87, 1697, 227, 1837]
+resource-id: id/image_new_feature_icon
+tag: Image
+
+L15
+class: com.traveloka.android.widget.user.ImageWithUrlWidget
+bounds: [790, 1697, 930, 1837]
+resource-id: id/image_new_feature_icon
+tag: Image
+
+L15
+class: com.traveloka.android.widget.user.ImageWithUrlWidget
+bounds: [87, 1977, 227, 2117]
+resource-id: id/image_new_feature_icon
+tag: Image
+
+L15
+class: com.traveloka.android.widget.user.ImageWithUrlWidget
+bounds: [790, 1977, 930, 2117]
+resource-id: id/image_new_feature_icon
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

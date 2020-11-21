@@ -1,0 +1,18 @@
+L5
+class: android.widget.ImageView
+bounds: [0, 94, 168, 248]
+resource-id: id/imgBack
+tag: Image
+
+L5
+class: android.widget.TextView
+bounds: [0, 120, 1440, 223]
+resource-id: id/tvTitle
+tag: Text
+
+L4
+class: android.widget.TextView
+bounds: [0, 1195, 1440, 1280]
+resource-id: id/tvNoItems
+tag: Text
+

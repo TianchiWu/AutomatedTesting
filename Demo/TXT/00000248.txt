@@ -1,0 +1,162 @@
+L13
+class: android.widget.TextView
+bounds: [0, 313, 1240, 2168]
+resource-id: id/TextPlayRadioName
+tag: Text
+
+L12
+class: android.widget.Button
+bounds: [1229, 95, 1387, 246]
+resource-id: id/BtnListSearch
+tag: Button
+
+L12
+class: android.widget.EditText
+bounds: [35, 98, 1194, 256]
+resource-id: id/ETSearch
+tag: Text
+
+L12
+class: android.widget.Button
+bounds: [1195, 268, 1405, 426]
+resource-id: id/BtnListAddToFavorite
+tag: Button
+
+L12
+class: android.widget.Button
+bounds: [950, 268, 1160, 426]
+resource-id: id/BtnListHome
+tag: Button
+
+L12
+class: android.widget.Button
+bounds: [35, 268, 915, 426]
+resource-id: id/BtnListBack
+tag: Button
+
+L13
+class: android.widget.Button
+bounds: [70, 366, 1370, 646]
+resource-id: id/BtnRootOne
+tag: Button
+
+L13
+class: android.widget.Button
+bounds: [70, 716, 1370, 996]
+resource-id: id/BtnRootTwo
+tag: Button
+
+L13
+class: android.widget.Button
+bounds: [70, 1066, 1370, 1346]
+resource-id: id/BtnRootThree
+tag: Button
+
+L12
+class: android.widget.TextView
+bounds: [1289, 479, 1412, 556]
+resource-id: id/TVSamplerate
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1289, 644, 1412, 721]
+resource-id: id/TVSamplerate
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1289, 809, 1412, 886]
+resource-id: id/TVSamplerate
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1289, 974, 1412, 1051]
+resource-id: id/TVSamplerate
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1289, 1139, 1412, 1216]
+resource-id: id/TVSamplerate
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1289, 1304, 1412, 1381]
+resource-id: id/TVSamplerate
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1289, 1469, 1412, 1546]
+resource-id: id/TVSamplerate
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1289, 1634, 1412, 1711]
+resource-id: id/TVSamplerate
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1289, 1799, 1412, 1876]
+resource-id: id/TVSamplerate
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1289, 1964, 1412, 2041]
+resource-id: id/TVSamplerate
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1289, 2129, 1412, 2168]
+resource-id: id/TVSamplerate
+tag: Text
+
+L11
+class: android.widget.Button
+bounds: [0, 2061, 385, 2168]
+resource-id: id/BtnPlayOrStop
+tag: Button
+
+L12
+class: android.widget.SeekBar
+bounds: [385, 2096, 1440, 2168]
+resource-id: id/SeekBarVolume
+tag: Bar
+
+L14
+class: android.widget.ImageButton
+bounds: [70, 548, 263, 741]
+resource-id: id/BtnBackToList
+tag: Button
+
+L14
+class: android.widget.ImageButton
+bounds: [1177, 548, 1370, 741]
+resource-id: id/BtnAddToFavorite
+tag: Button
+
+L14
+class: android.widget.ImageButton
+bounds: [333, 548, 526, 741]
+resource-id: id/BtnSleepTimer
+tag: Button
+
+L14
+class: android.widget.ImageButton
+bounds: [914, 548, 1107, 741]
+resource-id: id/BtnWebsite
+tag: Button
+
+L14
+class: android.widget.LinearLayout
+bounds: [0, 794, 1440, 1256]
+resource-id: id/LLStationLogo
+tag: Image
+

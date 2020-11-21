@@ -1,0 +1,66 @@
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [140, 287, 1440, 2392]
+resource-id: id/ingretextPOP
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [56, 287, 140, 2392]
+resource-id: id/imagePlus
+tag: Image
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 287]
+resource-id: id/topRel
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [218, 127, 1277, 267]
+resource-id: id/logo
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1277, 127, 1365, 267]
+resource-id: id/mic
+tag: Image
+
+L13
+class: com.balysv.materialmenu.MaterialMenuView
+bounds: [57, 127, 197, 267]
+resource-id: id/material_menu_button
+tag: Button
+
+L13
+class: android.widget.ProgressBar
+bounds: [1277, 127, 1365, 267]
+resource-id: id/pb
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [85, 155, 169, 239]
+resource-id: id/drawer_logo
+tag: Image
+
+L10
+class: com.pnikosis.materialishprogress.ProgressWheel
+bounds: [580, 1199, 860, 1479]
+resource-id: id/progress_wheel
+tag: Bar
+
+L7
+class: android.support.design.widget.FloatingActionButton
+bounds: [1188, 1944, 1384, 2140]
+resource-id: id/main_fab
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

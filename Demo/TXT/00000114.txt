@@ -1,0 +1,246 @@
+L18
+class: android.widget.ViewFlipper
+bounds: [529, 1213, 889, 1423]
+resource-id: id/flipperHour1
+tag: Text
+
+L18
+class: android.widget.TextView
+bounds: [521, 359, 918, 710]
+resource-id: id/txtTempUnit
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [309, 1849, 506, 1987]
+resource-id: id/highLowTempParam1
+tag: Text
+
+L11
+class: com.apalon.view.swipe.HorizontalSwipeProgressBarView
+bounds: [0, 0, 1440, 151]
+resource-id: id/pbProgress
+tag: Bar
+
+L18
+class: android.widget.ImageView
+bounds: [849, 495, 918, 564]
+resource-id: id/imgShare
+tag: Image
+
+L17
+class: android.widget.TextView
+bounds: [240, 1136, 1200, 1213]
+resource-id: id/txtWeatherText
+tag: Text
+
+L19
+class: android.widget.TextView
+bounds: [593, 1309, 656, 1422]
+resource-id: id/txtClockHour2_1
+tag: Text
+
+L19
+class: android.widget.TextView
+bounds: [593, 1309, 657, 1423]
+resource-id: id/txtClockHour2_2
+tag: Text
+
+L18
+class: android.widget.ViewFlipper
+bounds: [681, 1309, 745, 1423]
+resource-id: id/flipperMin1
+tag: Text
+
+L15
+class: android.widget.ImageView
+bounds: [288, 706, 1152, 1248]
+resource-id: id/imgWeatherIcon
+tag: Image
+
+L13
+class: com.apalon.weatherlive.layout.PanelLayoutTextForecast
+bounds: [0, 1671, 1440, 2083]
+resource-id: id/widgetForecast
+tag: Text
+
+L14
+class: android.widget.Button
+bounds: [32, 1671, 282, 1877]
+resource-id: id/forecastHourBtn
+tag: Button
+
+L14
+class: android.widget.Button
+bounds: [32, 1877, 282, 2083]
+resource-id: id/forecastDayBtn
+tag: Button
+
+L17
+class: android.widget.ImageView
+bounds: [376, 1739, 476, 1839]
+resource-id: id/imgHourWeatherIcon
+tag: Image
+
+L17
+class: android.widget.TextView
+bounds: [453, 1916, 543, 1987]
+resource-id: id/highLowTempParam2
+tag: Text
+
+L17
+class: android.widget.ImageView
+bounds: [424, 1929, 428, 1972]
+resource-id: id/imgCenter
+tag: Image
+
+L17
+class: android.widget.ImageView
+bounds: [665, 1739, 765, 1839]
+resource-id: id/imgHourWeatherIcon
+tag: Image
+
+L17
+class: android.widget.TextView
+bounds: [680, 1849, 750, 1916]
+resource-id: id/txtWeekdayName
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [598, 1916, 688, 1987]
+resource-id: id/highLowTempParam1
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [742, 1916, 832, 1987]
+resource-id: id/highLowTempParam2
+tag: Text
+
+L17
+class: android.widget.ImageView
+bounds: [713, 1929, 717, 1972]
+resource-id: id/imgCenter
+tag: Image
+
+L17
+class: android.widget.ImageView
+bounds: [954, 1739, 1054, 1839]
+resource-id: id/imgHourWeatherIcon
+tag: Image
+
+L17
+class: android.widget.TextView
+bounds: [962, 1849, 1047, 1916]
+resource-id: id/txtWeekdayName
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [887, 1916, 977, 1987]
+resource-id: id/highLowTempParam1
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [1031, 1916, 1121, 1987]
+resource-id: id/highLowTempParam2
+tag: Text
+
+L17
+class: android.widget.ImageView
+bounds: [1002, 1929, 1006, 1972]
+resource-id: id/imgCenter
+tag: Image
+
+L17
+class: android.widget.ImageView
+bounds: [1243, 1739, 1343, 1839]
+resource-id: id/imgHourWeatherIcon
+tag: Image
+
+L17
+class: android.widget.TextView
+bounds: [1245, 1849, 1342, 1916]
+resource-id: id/txtWeekdayName
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [1176, 1916, 1266, 1987]
+resource-id: id/highLowTempParam1
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [1320, 1916, 1410, 1987]
+resource-id: id/highLowTempParam2
+tag: Text
+
+L17
+class: android.widget.ImageView
+bounds: [1291, 1929, 1295, 1972]
+resource-id: id/imgCenter
+tag: Image
+
+L16
+class: com.apalon.view.FontFitTextView
+bounds: [32, 1888, 1440, 1922]
+resource-id: id/txtWindSpeedSymbol
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [282, 2235, 420, 2373]
+resource-id: id/imgAppIcon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [462, 2264, 794, 2344]
+resource-id: id/txtAppName
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatButton
+bounds: [850, 2250, 1158, 2358]
+resource-id: id/btnUpgrade
+tag: Button
+
+L8
+class: com.apalon.weatherlive.layout.PanelLayoutTopbar
+bounds: [0, 0, 1440, 420]
+resource-id: id/topbar_container
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 0, 151, 151]
+resource-id: id/topbar_radar
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1138, 0, 1289, 151]
+resource-id: id/topbar_settings
+tag: Button
+
+L11
+class: android.widget.RelativeLayout
+bounds: [1289, 0, 1440, 151]
+resource-id: id/info_container
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1377, 0, 1440, 63]
+resource-id: id/badge_icon
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 44, 1412, 106]
+resource-id: id/txtMessage
+tag: Text
+

@@ -1,0 +1,228 @@
+L10
+class: android.widget.TextView
+bounds: [786, 287, 1171, 1426]
+resource-id: id/textOn
+tag: Text
+
+L5
+class: com.raycom.ktre.common.CapitalizedTextView
+bounds: [269, 159, 1003, 267]
+resource-id: id/text_title
+tag: Text
+
+L5
+class: android.widget.Button
+bounds: [1056, 140, 1224, 287]
+resource-id: id/button_close
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [269, 287, 751, 295]
+resource-id: id/textLeft
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [786, 287, 1171, 310]
+resource-id: id/buttonOnOff
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [269, 333, 751, 419]
+resource-id: id/textLeft
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [786, 318, 1171, 434]
+resource-id: id/buttonOnOff
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [269, 457, 751, 543]
+resource-id: id/textLeft
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [786, 442, 1171, 558]
+resource-id: id/buttonOnOff
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [269, 581, 751, 667]
+resource-id: id/textLeft
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [786, 566, 1171, 682]
+resource-id: id/buttonOnOff
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [269, 705, 751, 791]
+resource-id: id/textLeft
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [786, 690, 1171, 806]
+resource-id: id/buttonOnOff
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [269, 829, 751, 915]
+resource-id: id/textLeft
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [786, 814, 1171, 930]
+resource-id: id/buttonOnOff
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [269, 953, 751, 1039]
+resource-id: id/textLeft
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [786, 938, 1171, 1054]
+resource-id: id/buttonOnOff
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [269, 1077, 751, 1163]
+resource-id: id/textLeft
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [786, 1062, 1171, 1178]
+resource-id: id/buttonOnOff
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [269, 1201, 751, 1287]
+resource-id: id/textLeft
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [786, 1186, 1171, 1302]
+resource-id: id/buttonOnOff
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [269, 1325, 751, 1411]
+resource-id: id/textLeft
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [786, 1310, 1171, 1426]
+resource-id: id/buttonOnOff
+tag: Button
+
+L7
+class: com.raycom.ktre.common.CapitalizedTextView
+bounds: [269, 1501, 1171, 1598]
+resource-id: id/textSection
+tag: Text
+
+L8
+class: com.raycom.ktre.v2.flexibleui.cssviews.CssTextView
+bounds: [269, 1635, 468, 1721]
+resource-id: id/textLeft
+tag: Text
+
+L8
+class: com.raycom.ktre.common.TextViewWithSpace
+bounds: [521, 1635, 1090, 1721]
+resource-id: id/textRight
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1115, 1650, 1171, 1706]
+resource-id: id/nav_arrow
+tag: Image
+
+L8
+class: com.raycom.ktre.v2.flexibleui.cssviews.CssTextView
+bounds: [269, 1759, 631, 1845]
+resource-id: id/textLeft
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1115, 1774, 1171, 1830]
+resource-id: id/nav_arrow
+tag: Image
+
+L8
+class: com.raycom.ktre.v2.flexibleui.cssviews.CssTextView
+bounds: [269, 1883, 740, 1969]
+resource-id: id/textLeft
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1115, 1898, 1171, 1954]
+resource-id: id/nav_arrow
+tag: Image
+
+L8
+class: com.raycom.ktre.v2.flexibleui.cssviews.CssTextView
+bounds: [269, 2007, 442, 2093]
+resource-id: id/textLeft
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1115, 2022, 1171, 2078]
+resource-id: id/nav_arrow
+tag: Image
+
+L8
+class: com.raycom.ktre.v2.flexibleui.cssviews.CssTextView
+bounds: [269, 2131, 673, 2217]
+resource-id: id/textLeft
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1115, 2146, 1171, 2202]
+resource-id: id/nav_arrow
+tag: Image
+
+L8
+class: com.raycom.ktre.v2.flexibleui.cssviews.CssTextView
+bounds: [269, 2255, 758, 2336]
+resource-id: id/textLeft
+tag: Text
+
+L8
+class: com.raycom.ktre.common.TextViewWithSpace
+bounds: [811, 2255, 1090, 2336]
+resource-id: id/textRight
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1115, 2270, 1171, 2326]
+resource-id: id/nav_arrow
+tag: Image
+

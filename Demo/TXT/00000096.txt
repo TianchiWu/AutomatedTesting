@@ -1,0 +1,96 @@
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 412, 1440, 1980]
+resource-id: id/search_item
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [56, 1283, 1384, 1598]
+resource-id: id/current_location
+tag: Text
+
+L9
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L10
+class: android.support.v7.widget.SearchView
+bounds: [252, 98, 1372, 266]
+resource-id: id/action_search
+tag: Bar
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1204, 98, 1344, 266]
+resource-id: id/search_close_btn
+tag: Image
+
+L10
+class: android.widget.ProgressBar
+bounds: [636, 1154, 804, 1322]
+resource-id: id/progress_bar_explore
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 336, 1440, 412]
+resource-id: id/tvSuggestions
+tag: Text
+
+L9
+class: android.widget.RelativeLayout
+bounds: [112, 1965, 427, 2280]
+resource-id: id/rlMapThumbnail
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1222, 1909, 1384, 2071]
+resource-id: id/ivDownArrow
+tag: Image
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 2196, 1440, 2392]
+resource-id: id/bottom_toolbar
+tag: Bar
+
+L10
+class: android.widget.Button
+bounds: [0, 2196, 360, 2392]
+resource-id: id/exploreButton
+tag: Button
+
+L10
+class: android.widget.Button
+bounds: [360, 2196, 720, 2392]
+resource-id: id/listButton
+tag: Button
+
+L10
+class: android.widget.Button
+bounds: [720, 2196, 1080, 2392]
+resource-id: id/mapButton
+tag: Button
+
+L10
+class: android.widget.Button
+bounds: [1080, 2196, 1440, 2392]
+resource-id: id/favoritesButton
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [545, 877, 895, 1227]
+resource-id: id/ivNavIcon
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

@@ -1,0 +1,36 @@
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [956, 84, 1282, 168]
+resource-id: id/rateBtn
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [542, 400, 899, 752]
+resource-id: id/imageView2
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [363, 227, 1077, 931]
+resource-id: id/imageCircle
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [975, 1480, 1185, 1690]
+resource-id: id/imageView
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

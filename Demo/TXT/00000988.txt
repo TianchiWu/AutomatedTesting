@@ -1,0 +1,42 @@
+L5
+class: android.widget.TextView
+bounds: [0, 84, 1440, 206]
+resource-id: id/podDetTitle
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [28, 234, 489, 402]
+resource-id: id/playBtn
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [489, 234, 950, 402]
+resource-id: id/shareBtn
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [950, 234, 1412, 402]
+resource-id: id/saveBtn
+tag: Button
+
+L5
+class: android.widget.SeekBar
+bounds: [18, 448, 1422, 511]
+resource-id: id/progressbar
+tag: Bar
+
+L5
+class: android.widget.Button
+bounds: [35, 465, 1405, 633]
+resource-id: id/padBtn
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [0, 668, 1440, 790]
+resource-id: id/podDetAbt
+tag: Text
+

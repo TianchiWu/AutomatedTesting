@@ -1,0 +1,12 @@
+L8
+class: android.widget.TextView
+bounds: [92, 239, 1348, 463]
+resource-id: id/alertTitle
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [628, 1843, 811, 1935]
+resource-id: id/detail5
+tag: Text
+

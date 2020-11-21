@@ -1,0 +1,84 @@
+L13
+class: android.widget.ImageView
+bounds: [664, 311, 776, 423]
+resource-id: id/tabIndicator
+tag: Image
+
+L15
+class: android.widget.TextView
+bounds: [539, 455, 901, 655]
+resource-id: id/contacts_count
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [608, 1303, 831, 1369]
+resource-id: id/search_result_empty
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [304, 311, 416, 423]
+resource-id: id/tabIndicator
+tag: Image
+
+L12
+class: android.widget.ImageView
+bounds: [1024, 311, 1136, 423]
+resource-id: id/tabIndicator
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [35, 1233, 1405, 1299]
+resource-id: id/contacts_empty
+tag: Text
+
+L10
+class: android.widget.FrameLayout
+bounds: [0, 2077, 1440, 2392]
+resource-id: id/bottom_bar
+tag: Bar
+
+L12
+class: android.widget.TextView
+bounds: [53, 2081, 1440, 2186]
+resource-id: id/participants_string
+tag: Text
+
+L15
+class: android.widget.FrameLayout
+bounds: [53, 2186, 193, 2326]
+resource-id: id/you_framelayout
+tag: Image
+
+L16
+class: android.widget.TextView
+bounds: [53, 2256, 193, 2326]
+resource-id: id/you_textview
+tag: Text
+
+L11
+class: android.widget.ImageButton
+bounds: [1160, 2112, 1405, 2357]
+resource-id: id/start_button
+tag: Button
+
+L4
+class: android.support.v7.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

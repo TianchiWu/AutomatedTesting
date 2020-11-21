@@ -1,0 +1,96 @@
+L5
+class: android.widget.ImageView
+bounds: [11, 11, 1429, 164]
+resource-id: id/imgDummy
+tag: Image
+
+L5
+class: android.widget.ProgressBar
+bounds: [587, 1150, 853, 1416]
+resource-id: id/progressBarFc
+tag: Bar
+
+L9
+class: android.widget.ImageView
+bounds: [53, 350, 578, 875]
+resource-id: id/imgAppIcon
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [578, 237, 1352, 534]
+resource-id: id/txtAppName
+tag: Text
+
+L11
+class: android.widget.Button
+bounds: [825, 534, 1105, 674]
+resource-id: id/btAction
+tag: Button
+
+L11
+class: android.widget.ImageButton
+bounds: [825, 709, 1105, 849]
+resource-id: id/btVideo
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [18, 193, 368, 502]
+resource-id: id/imgNew
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [53, 1224, 578, 1749]
+resource-id: id/imgAppIcon
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [578, 1111, 1352, 1408]
+resource-id: id/txtAppName
+tag: Text
+
+L11
+class: android.widget.Button
+bounds: [825, 1408, 1105, 1548]
+resource-id: id/btAction
+tag: Button
+
+L11
+class: android.widget.ImageButton
+bounds: [825, 1583, 1105, 1723]
+resource-id: id/btVideo
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [18, 1067, 368, 1376]
+resource-id: id/imgNew
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [53, 2098, 578, 2392]
+resource-id: id/imgAppIcon
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [578, 1985, 1352, 2282]
+resource-id: id/txtAppName
+tag: Text
+
+L11
+class: android.widget.Button
+bounds: [825, 2282, 1105, 2392]
+resource-id: id/btAction
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [18, 1941, 368, 2250]
+resource-id: id/imgNew
+tag: Image
+

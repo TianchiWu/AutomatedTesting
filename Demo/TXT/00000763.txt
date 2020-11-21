@@ -1,0 +1,186 @@
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 1597, 1124, 1683]
+resource-id: id/addwear
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 1295, 1440, 1388]
+resource-id: id/tex
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 1471, 562, 1597]
+resource-id: id/imageView2
+tag: Image
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbarrel
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [218, 127, 1277, 267]
+resource-id: id/logo
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1277, 127, 1365, 267]
+resource-id: id/mic
+tag: Image
+
+L13
+class: com.balysv.materialmenu.ps.MaterialMenuView
+bounds: [57, 127, 197, 267]
+resource-id: id/material_menu_button
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [85, 155, 169, 239]
+resource-id: id/drawer_logo
+tag: Image
+
+L10
+class: com.gc.materialdesign.views.ProgressBarCircularIndeterminate
+bounds: [636, 1252, 804, 1420]
+resource-id: id/progressBarCircularIndetermininatehome
+tag: Bar
+
+L13
+class: android.widget.RelativeLayout
+bounds: [0, 280, 1440, 1190]
+resource-id: id/relslider
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 979, 1440, 1050]
+resource-id: id/textView1
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatButton
+bounds: [28, 1218, 713, 1386]
+resource-id: id/topbutton1
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatButton
+bounds: [727, 1218, 1412, 1386]
+resource-id: id/topbutton2
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatButton
+bounds: [28, 1400, 713, 1568]
+resource-id: id/topbutton3
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatButton
+bounds: [727, 1400, 1412, 1568]
+resource-id: id/topbutton4
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1596, 1440, 2217]
+resource-id: id/image
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 280, 1440, 1260]
+resource-id: id/imgheader
+tag: Header
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 1388, 1405, 1435]
+resource-id: id/textView1
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [597, 1471, 843, 1597]
+resource-id: id/sharebutton
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [878, 1471, 1124, 1597]
+resource-id: id/btnwear
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatButton
+bounds: [1159, 1471, 1405, 1639]
+resource-id: id/Button12
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 1736, 1080, 1918]
+resource-id: id/textView4
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1080, 1736, 1440, 1918]
+resource-id: id/ingcount
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1988, 235, 2058]
+resource-id: id/imageViewlist1
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [235, 1988, 1405, 2059]
+resource-id: id/textView2
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 2128, 235, 2198]
+resource-id: id/imageViewlist1
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [235, 2128, 1405, 2199]
+resource-id: id/textView2
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 2268, 235, 2338]
+resource-id: id/imageViewlist1
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [235, 2268, 1405, 2339]
+resource-id: id/textView2
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1212, 1260, 1440, 1488]
+resource-id: id/Button1
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

@@ -1,0 +1,120 @@
+L7
+class: android.widget.ImageView
+bounds: [0, 11, 1440, 128]
+resource-id: id/rate
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [0, 319, 1440, 456]
+resource-id: id/links
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [35, 1374, 668, 1467]
+resource-id: id/yearText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [35, 1782, 682, 1899]
+resource-id: id/goToWekDetails
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [35, 861, 1405, 1086]
+resource-id: id/textView5
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1328, 456, 1440, 558]
+resource-id: id/closeBtn
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [1237, 885, 1405, 997]
+resource-id: id/moreInfoText
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [35, 997, 1405, 1202]
+resource-id: id/selectedOptionTxt
+tag: Text
+
+L14
+class: android.widget.NumberPicker$CustomEditText
+bounds: [314, 1530, 538, 1615]
+resource-id: id/numberpicker_input
+tag: Picker
+
+L14
+class: android.widget.NumberPicker$CustomEditText
+bounds: [594, 1530, 818, 1615]
+resource-id: id/numberpicker_input
+tag: Picker
+
+L14
+class: android.widget.NumberPicker$CustomEditText
+bounds: [874, 1530, 1098, 1615]
+resource-id: id/numberpicker_input
+tag: Picker
+
+L11
+class: android.widget.TextView
+bounds: [35, 1983, 1405, 2100]
+resource-id: id/textView2
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [35, 527, 286, 593]
+resource-id: id/startIndicator
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1071, 527, 1405, 593]
+resource-id: id/endIndicator
+tag: Text
+
+L10
+class: android.widget.SeekBar
+bounds: [35, 593, 1405, 649]
+resource-id: id/seekBar
+tag: Bar
+
+L11
+class: android.widget.ImageView
+bounds: [1057, 786, 1405, 1162]
+resource-id: id/dailyTips
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [35, 1697, 1405, 1782]
+resource-id: id/textView7
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [35, 2041, 1405, 2126]
+resource-id: id/textView8
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [35, 2126, 213, 2243]
+resource-id: id/monthsText
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [213, 2126, 336, 2249]
+resource-id: id/monthsMoreInfoText
+tag: Image
+

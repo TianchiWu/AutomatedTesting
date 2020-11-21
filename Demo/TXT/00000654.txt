@@ -1,0 +1,36 @@
+L15
+class: android.widget.ViewSwitcher
+bounds: [0, 322, 1440, 1100]
+resource-id: id/preview_switcher
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [115, 668, 1324, 753]
+resource-id: id/preview_text
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [24, 1166, 1416, 2060]
+resource-id: id/preview_cast_text
+tag: Text
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

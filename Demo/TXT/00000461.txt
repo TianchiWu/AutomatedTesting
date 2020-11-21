@@ -1,0 +1,48 @@
+L7
+class: android.widget.ImageView
+bounds: [1223, 1133, 1398, 1686]
+resource-id: id/w_cloudyfull_img
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [1223, 1874, 1398, 2392]
+resource-id: id/w_ice_img
+tag: Image
+
+L6
+class: android.widget.EditText
+bounds: [18, 270, 1422, 480]
+resource-id: id/w_infotext
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [95, 747, 1380, 850]
+resource-id: id/textView2
+tag: Text
+
+L7
+class: android.widget.SeekBar
+bounds: [95, 850, 1380, 962]
+resource-id: id/w_temperature
+tag: Bar
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 722, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

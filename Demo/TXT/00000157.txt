@@ -1,0 +1,18 @@
+L10
+class: android.support.v7.widget.AppCompatButton
+bounds: [262, 2020, 1178, 2188]
+resource-id: id/facebook_login_b
+tag: Button
+
+L8
+class: com.rey.material.widget.ProgressView
+bounds: [622, 1035, 818, 1231]
+resource-id: id/material_progress_v
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

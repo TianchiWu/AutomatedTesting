@@ -1,0 +1,30 @@
+L5
+class: android.widget.FrameLayout
+bounds: [21, 0, 231, 315]
+resource-id: id/nav_button_frame
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [42, 21, 210, 189]
+resource-id: id/button_home_nav
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [1230, 0, 1440, 210]
+resource-id: id/button_setting_nav
+tag: Button
+
+L5
+class: android.widget.ImageView
+bounds: [551, 1993, 1146, 2203]
+resource-id: id/initial_message
+tag: Image
+
+L5
+class: android.widget.Button
+bounds: [1146, 1923, 1440, 2217]
+resource-id: id/button_scan
+tag: Button
+

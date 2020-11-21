@@ -1,0 +1,57 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>00000355</filename>
+  <size>
+    <width>1440</width>
+    <height>2560</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>NavigationBar</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>92</xmin>
+      <ymin> 309</ymin>
+      <xmax> 1348</xmax>
+      <ymax> 2167</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>92</xmin>
+      <ymin> 1971</ymin>
+      <xmax> 1348</xmax>
+      <ymax> 2167</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>628</xmin>
+      <ymin> 1985</ymin>
+      <xmax> 933</xmax>
+      <ymax> 2153</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>933</xmin>
+      <ymin> 1985</ymin>
+      <xmax> 1306</xmax>
+      <ymax> 2153</ymax>
+    </bndbox>
+  </object>
+</annotation>

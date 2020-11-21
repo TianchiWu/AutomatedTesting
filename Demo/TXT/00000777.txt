@@ -1,0 +1,102 @@
+L14
+class: android.support.v7.widget.aa
+bounds: [207, 1260, 1373, 1353]
+resource-id: id/visited_bar_values
+tag: Bar
+
+L14
+class: android.support.v7.widget.aa
+bounds: [207, 1459, 1373, 1552]
+resource-id: id/lived_bar_values
+tag: Bar
+
+L14
+class: android.support.v7.widget.aa
+bounds: [207, 1658, 1373, 1751]
+resource-id: id/want_bar_values
+tag: Bar
+
+L14
+class: android.support.v7.widget.aa
+bounds: [207, 1857, 1373, 1950]
+resource-id: id/other_bar_values
+tag: Bar
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L12
+class: com.riliclabs.countriesbeen.AsyncBitmapView
+bounds: [0, 280, 1440, 1000]
+resource-id: id/main_map_image
+tag: Image
+
+L13
+class: android.widget.ProgressBar
+bounds: [670, 590, 770, 690]
+resource-id: id/async_progress_bar
+tag: Bar
+
+L13
+class: android.widget.LinearLayout
+bounds: [39, 1232, 1401, 1381]
+resource-id: id/visited_bar
+tag: Bar
+
+L13
+class: android.widget.LinearLayout
+bounds: [39, 1431, 1401, 1580]
+resource-id: id/lived_bar
+tag: Bar
+
+L13
+class: android.widget.LinearLayout
+bounds: [39, 1630, 1401, 1779]
+resource-id: id/want_bar
+tag: Bar
+
+L13
+class: android.widget.LinearLayout
+bounds: [39, 1829, 1401, 1978]
+resource-id: id/other_bar
+tag: Bar
+
+L16
+class: android.support.v7.widget.n
+bounds: [1093, 2020, 1247, 2104]
+resource-id: id/wikipedia_button
+tag: Button
+
+L16
+class: android.support.v7.widget.n
+bounds: [1247, 2020, 1401, 2104]
+resource-id: id/images_button
+tag: Button
+
+L16
+class: android.support.v7.widget.n
+bounds: [1093, 2188, 1247, 2217]
+resource-id: id/wikipedia_button
+tag: Button
+
+L16
+class: android.support.v7.widget.n
+bounds: [1247, 2188, 1401, 2217]
+resource-id: id/images_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

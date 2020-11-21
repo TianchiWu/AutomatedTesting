@@ -1,0 +1,60 @@
+L4
+class: android.widget.ImageView
+bounds: [0, 1879, 233, 2392]
+resource-id: id/imageViewTruck
+tag: Image
+
+L2
+class: android.widget.FrameLayout
+bounds: [0, 0, 1440, 2392]
+resource-id: id/content
+tag: Image
+
+L4
+class: android.widget.ImageView
+bounds: [0, 1097, 198, 1295]
+resource-id: id/butCatalog
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [1207, 70, 1440, 303]
+resource-id: id/butLoadImage
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [1207, 373, 1440, 606]
+resource-id: id/butLoadColour
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [1207, 676, 1440, 909]
+resource-id: id/butLoadText
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [1207, 979, 1440, 1212]
+resource-id: id/butLayers
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [1207, 1282, 1440, 1515]
+resource-id: id/butUndo
+tag: Image
+
+L4
+class: android.widget.ImageView
+bounds: [1207, 2159, 1440, 2392]
+resource-id: id/butValidate
+tag: Image
+
+L4
+class: android.widget.ImageView
+bounds: [18, 70, 349, 287]
+resource-id: id/imageViewLogo
+tag: Image
+

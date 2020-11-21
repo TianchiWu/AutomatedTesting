@@ -1,0 +1,30 @@
+L8
+class: com.ninegag.android.roboto.RButton
+bounds: [268, 1442, 702, 1610]
+resource-id: id/welcomeSignUp
+tag: Button
+
+L8
+class: com.ninegag.android.roboto.RButton
+bounds: [738, 1442, 1172, 1610]
+resource-id: id/welcomeLogin
+tag: Button
+
+L6
+class: com.ninegag.android.roboto.RTextView
+bounds: [634, 2260, 806, 2322]
+resource-id: id/skipButton
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

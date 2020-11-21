@@ -1,0 +1,264 @@
+L13
+class: android.widget.TextView
+bounds: [248, 1833, 481, 2004]
+resource-id: id/tax
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [544, 1833, 675, 2004]
+resource-id: id/tax_amount
+tag: Text
+
+L10
+class: com.birchbox.birchbox.views.AutoResizeTextView
+bounds: [825, 1833, 1405, 2104]
+resource-id: id/total_amount
+tag: Text
+
+L10
+class: com.birchbox.birchbox.views.BBXTextView
+bounds: [438, 574, 705, 652]
+resource-id: id/price_text_view
+tag: Text
+
+L10
+class: com.birchbox.birchbox.views.BBXTextView
+bounds: [438, 946, 705, 1024]
+resource-id: id/price_text_view
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [0, 141, 137, 222]
+resource-id: id/navigation_menu_item
+tag: Image
+
+L7
+class: android.widget.LinearLayout
+bounds: [1127, 84, 1440, 280]
+resource-id: id/right_button_wrapper
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [165, 146, 1092, 218]
+resource-id: id/navigation_title_item
+tag: Text
+
+L7
+class: android.widget.Button
+bounds: [0, 84, 245, 280]
+resource-id: id/left_tap_area
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [1265, 84, 1440, 280]
+resource-id: id/cart_tap_area
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [1090, 84, 1265, 280]
+resource-id: id/box_cart_tap_area
+tag: Button
+
+L12
+class: com.birchbox.birchbox.views.BBXFavoriteImageView
+bounds: [1289, 336, 1384, 410]
+resource-id: id/favorite_button
+tag: Button
+
+L14
+class: android.widget.ImageView
+bounds: [335, 501, 1105, 1271]
+resource-id: id/image_view
+tag: Image
+
+L12
+class: com.birchbox.birchbox.views.BBXTextView
+bounds: [56, 1306, 1090, 1435]
+resource-id: id/title
+tag: Text
+
+L12
+class: com.birchbox.birchbox.views.BBXTextView
+bounds: [56, 1449, 214, 1519]
+resource-id: id/price
+tag: Text
+
+L11
+class: com.birchbox.birchbox.views.BBXTextView
+bounds: [504, 1691, 528, 1747]
+resource-id: id/review_count
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [1300, 1696, 1328, 1742]
+resource-id: id/right_arrow
+tag: Image
+
+L11
+class: com.birchbox.birchbox.views.BBXTextView
+bounds: [1077, 1691, 1244, 1747]
+resource-id: id/reviews_title
+tag: Text
+
+L11
+class: com.birchbox.birchbox.views.BBXTextView
+bounds: [56, 1859, 139, 1929]
+resource-id: id/size
+tag: Text
+
+L11
+class: com.birchbox.birchbox.views.BBXTextView
+bounds: [56, 2091, 198, 2161]
+resource-id: id/qty_text_view
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [307, 2098, 363, 2154]
+resource-id: id/minus_button
+tag: Button
+
+L13
+class: android.widget.ImageView
+bounds: [465, 2098, 521, 2154]
+resource-id: id/plus_button
+tag: Button
+
+L10
+class: android.widget.RelativeLayout
+bounds: [56, 2263, 1384, 2392]
+resource-id: id/add_to_cart_button_container
+tag: Button
+
+L9
+class: android.widget.Button
+bounds: [137, 2147, 1440, 2392]
+resource-id: id/next_button
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [137, 84, 1440, 280]
+resource-id: id/cart_header
+tag: Header
+
+L11
+class: android.widget.ImageView
+bounds: [137, 328, 417, 608]
+resource-id: id/image
+tag: Image
+
+L10
+class: android.widget.RelativeLayout
+bounds: [1191, 508, 1440, 652]
+resource-id: id/edit_button_parent
+tag: Button
+
+L11
+class: com.birchbox.birchbox.views.BBXButton
+bounds: [1219, 536, 1412, 624]
+resource-id: id/edit_button
+tag: Button
+
+L11
+class: com.birchbox.birchbox.views.BBXTextView
+bounds: [438, 305, 1426, 425]
+resource-id: id/title_text_view
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [137, 700, 417, 980]
+resource-id: id/image
+tag: Image
+
+L10
+class: android.widget.RelativeLayout
+bounds: [1191, 880, 1440, 1024]
+resource-id: id/edit_button_parent
+tag: Button
+
+L11
+class: com.birchbox.birchbox.views.BBXButton
+bounds: [1219, 908, 1412, 996]
+resource-id: id/edit_button
+tag: Button
+
+L11
+class: com.birchbox.birchbox.views.BBXTextView
+bounds: [438, 677, 1426, 797]
+resource-id: id/title_text_view
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [508, 1001, 1068, 1474]
+resource-id: id/empty_cart_imageview
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [335, 943, 1105, 1016]
+resource-id: id/select_options_title
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [335, 1090, 529, 1322]
+resource-id: id/quantity_text
+tag: Text
+
+L15
+class: android.widget.ImageView
+bounds: [680, 1188, 743, 1223]
+resource-id: id/minus_button
+tag: Button
+
+L15
+class: android.widget.ImageView
+bounds: [941, 1188, 1004, 1223]
+resource-id: id/plus_button
+tag: Button
+
+L11
+class: android.widget.Button
+bounds: [335, 1392, 709, 1532]
+resource-id: id/remove_from_cart_button
+tag: Button
+
+L11
+class: android.widget.Button
+bounds: [731, 1392, 1105, 1532]
+resource-id: id/update_in_cart_button
+tag: Button
+
+L9
+class: android.widget.RelativeLayout
+bounds: [230, 838, 440, 1048]
+resource-id: id/cancel_button_helper
+tag: Button
+
+L10
+class: android.widget.ImageView
+bounds: [230, 838, 335, 943]
+resource-id: id/cancel_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

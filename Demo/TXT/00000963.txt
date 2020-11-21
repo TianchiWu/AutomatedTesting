@@ -1,0 +1,84 @@
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 350, 520, 598]
+resource-id: id/text1
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 985, 440, 1101]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1136, 453, 1233]
+resource-id: id/text1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [790, 1136, 1359, 1233]
+resource-id: id/text2
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1303, 497, 1400]
+resource-id: id/text1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1125, 1303, 1359, 1400]
+resource-id: id/text2
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1470, 278, 1567]
+resource-id: id/text1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1077, 1470, 1359, 1567]
+resource-id: id/text2
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1637, 266, 1734]
+resource-id: id/text1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1077, 1637, 1359, 1734]
+resource-id: id/text2
+tag: Text
+
+L7
+class: android.widget.RelativeLayout
+bounds: [0, 1836, 1440, 1906]
+resource-id: id/settings_item_footer
+tag: Text
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

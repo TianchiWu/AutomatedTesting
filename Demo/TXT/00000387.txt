@@ -1,0 +1,42 @@
+L11
+class: android.support.v7.widget.AppCompatEditText
+bounds: [198, 1576, 1398, 1884]
+resource-id: id/intro_login_editPassword
+tag: Text
+
+L3
+class: android.support.v7.widget.FitWindowsLinearLayout
+bounds: [0, 84, 1440, 2392]
+resource-id: id/action_bar_root
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [44, 1942, 690, 2092]
+resource-id: id/intro_login_btnBack
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [750, 1942, 1396, 2092]
+resource-id: id/intro_login_btnLogin
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatButton
+bounds: [44, 2180, 1396, 2334]
+resource-id: id/intro_login_btnForgotPassword
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

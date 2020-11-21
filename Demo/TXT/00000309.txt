@@ -1,0 +1,30 @@
+L6
+class: android.widget.ImageView
+bounds: [685, 1591, 755, 1626]
+resource-id: id/imageView1
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [35, 1676, 98, 1739]
+resource-id: id/ImageView01
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [116, 1661, 1405, 1754]
+resource-id: id/nadpissmallhint
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [178, 1789, 1262, 2155]
+resource-id: id/textsmallhint
+tag: Text
+
+L7
+class: android.widget.Button
+bounds: [510, 2225, 930, 2357]
+resource-id: id/buttonsmallhint
+tag: Button
+

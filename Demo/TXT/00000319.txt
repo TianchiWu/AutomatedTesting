@@ -1,0 +1,90 @@
+L5
+class: android.widget.TextView
+bounds: [7, 368, 1433, 967]
+resource-id: id/promotionMinutes
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [160, 0, 1280, 168]
+resource-id: id/remainingExercisesDisplay
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [167, 1106, 1273, 1358]
+resource-id: id/targetMusclesLabel
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [167, 1260, 1273, 1609]
+resource-id: id/targetMusclesTwoLabel
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [177, 480, 527, 760]
+resource-id: id/calorieThisWorkoutDisplay
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [913, 480, 1263, 760]
+resource-id: id/calorieThisWeekDisplay
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [142, 168, 1297, 1043]
+resource-id: id/borderButton
+tag: Image
+
+L6
+class: android.view.SurfaceView
+bounds: [160, 186, 1280, 1026]
+resource-id: id/surfaceView
+tag: Image
+
+L6
+class: android.widget.Button
+bounds: [650, 966, 790, 1106]
+resource-id: id/pauseButton
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [475, 966, 615, 1106]
+resource-id: id/skipBackwardButton
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [825, 966, 965, 1106]
+resource-id: id/skipForwardButton
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [632, 18, 807, 193]
+resource-id: id/twitterButton
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [439, 18, 614, 193]
+resource-id: id/facebookButton
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [825, 18, 1000, 193]
+resource-id: id/rateButton
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [247, 211, 1192, 316]
+resource-id: id/getFullButton
+tag: Button
+

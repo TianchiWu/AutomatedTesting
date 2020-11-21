@@ -1,0 +1,240 @@
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 301, 1440, 430]
+resource-id: id/textCondition
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [31, 1326, 556, 1472]
+resource-id: id/tv_title
+tag: Text
+
+L12
+class: com.shoppingkaki.ui.widgets.SquareImageView
+bounds: [31, 647, 1409, 1326]
+resource-id: id/fiv_image
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [730, 1326, 1255, 1472]
+resource-id: id/tv_title
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [31, 2171, 556, 2317]
+resource-id: id/tv_title
+tag: Text
+
+L12
+class: com.shoppingkaki.ui.widgets.SquareImageView
+bounds: [31, 1492, 1409, 2171]
+resource-id: id/fiv_image
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [730, 2171, 1255, 2317]
+resource-id: id/tv_title
+tag: Text
+
+L12
+class: com.shoppingkaki.ui.widgets.SquareImageView
+bounds: [31, 2337, 1409, 2392]
+resource-id: id/fiv_image
+tag: Image
+
+L7
+class: android.widget.ProgressBar
+bounds: [636, 1252, 804, 1420]
+resource-id: id/gallery_progress
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [556, 647, 710, 787]
+resource-id: id/iv_likes
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [652, 661, 696, 699]
+resource-id: id/tv_likes
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1255, 647, 1409, 787]
+resource-id: id/iv_likes
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1351, 661, 1395, 699]
+resource-id: id/tv_likes
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [556, 1492, 710, 1632]
+resource-id: id/iv_likes
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [652, 1506, 696, 1544]
+resource-id: id/tv_likes
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1255, 1492, 1409, 1632]
+resource-id: id/iv_likes
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1351, 1506, 1395, 1544]
+resource-id: id/tv_likes
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [556, 2337, 710, 2392]
+resource-id: id/iv_likes
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [652, 2351, 696, 2389]
+resource-id: id/tv_likes
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1255, 2337, 1409, 2392]
+resource-id: id/iv_likes
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1351, 2351, 1395, 2389]
+resource-id: id/tv_likes
+tag: Text
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 280, 1440, 600]
+resource-id: id/toolbarContainer
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 280, 480, 441]
+resource-id: id/buttonLocation
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [480, 280, 960, 441]
+resource-id: id/buttonSort
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1107, 312, 1137, 365]
+resource-id: id/priceRangeIndicator
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [960, 280, 1440, 441]
+resource-id: id/buttonCondition
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [135, 476, 221, 565]
+resource-id: id/category_TextView
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [257, 476, 439, 565]
+resource-id: id/category_TextView
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [475, 476, 632, 565]
+resource-id: id/category_TextView
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [668, 476, 803, 565]
+resource-id: id/category_TextView
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [839, 476, 1105, 565]
+resource-id: id/category_TextView
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1141, 476, 1305, 565]
+resource-id: id/category_TextView
+tag: Text
+
+L8
+class: com.melnykov.fab.FloatingActionButton
+bounds: [1188, 2140, 1384, 2336]
+resource-id: id/fab
+tag: Button
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L7
+class: android.widget.SearchView
+bounds: [320, 102, 1440, 261]
+resource-id: id/action_search
+tag: Bar
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [320, 102, 516, 261]
+resource-id: id/search_button
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [376, 125, 488, 237]
+resource-id: id/search_mag_icon
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1239, 116, 1407, 242]
+resource-id: id/search_close_btn
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

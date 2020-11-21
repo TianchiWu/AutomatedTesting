@@ -1,0 +1,54 @@
+L13
+class: com.ducaller.component.RippleTextView
+bounds: [0, 721, 1440, 889]
+resource-id: id/r5
+tag: Text
+
+L12
+class: com.ducaller.widget.RunTextView
+bounds: [480, 347, 1405, 632]
+resource-id: id/cr
+tag: Text
+
+L9
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 889]
+resource-id: id/fx
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [246, 415, 474, 486]
+resource-id: id/cx
+tag: Text
+
+L11
+class: com.ducaller.widget.RunTextView
+bounds: [677, 554, 763, 657]
+resource-id: id/d1
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [140, 1072, 1335, 1226]
+resource-id: id/lv
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [388, 1694, 1051, 2218]
+resource-id: id/i5
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,78 @@
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1307, 1387, 1477]
+resource-id: id/id_services_available
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatEditText
+bounds: [53, 280, 1387, 363]
+resource-id: id/id_account_userid
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatEditText
+bounds: [53, 585, 1387, 760]
+resource-id: id/id_account_password
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatEditText
+bounds: [53, 1039, 1387, 1214]
+resource-id: id/id_retype_password
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatEditText
+bounds: [53, 1665, 1387, 1840]
+resource-id: id/id_security_answer
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [541, 1906, 913, 1991]
+resource-id: id/id_tv_agree_terms
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatCheckedTextView
+bounds: [53, 769, 1387, 937]
+resource-id: id/text1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatCheckedTextView
+bounds: [53, 1082, 1387, 1250]
+resource-id: id/text1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [158, 1392, 455, 1458]
+resource-id: id/id_advance_pay_account
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [53, 1830, 1387, 2005]
+resource-id: id/button_next_facility
+tag: Button
+
+L4
+class: android.support.v7.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

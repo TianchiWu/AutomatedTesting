@@ -1,0 +1,138 @@
+L9
+class: android.widget.TextView
+bounds: [42, 455, 1230, 477]
+resource-id: id/whitetailDoeContactLength
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [42, 602, 1230, 687]
+resource-id: id/whitetailDoeGruntLength
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [42, 812, 1230, 897]
+resource-id: id/whitetailDoeBreedingBellowLength
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [42, 1022, 1230, 1107]
+resource-id: id/whitetailDoeEstrusBleatLength
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [42, 1232, 1230, 1317]
+resource-id: id/whitetailDoeEstrusBleatHeavyLength
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [42, 1442, 1230, 1527]
+resource-id: id/whitetailDoeEstrusBleatMildLength
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [42, 1848, 1230, 1933]
+resource-id: id/whitetailFawnBleatLength
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [42, 2058, 1230, 2143]
+resource-id: id/whitetailFawnBleat2Length
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [1230, 455, 1398, 498]
+resource-id: id/favoriteDoeContact
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1230, 582, 1398, 708]
+resource-id: id/favoriteDoeGrunt
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1230, 792, 1398, 918]
+resource-id: id/favoriteDoeBreedingBellow
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1230, 1002, 1398, 1128]
+resource-id: id/favoriteDoeEstrusBleat
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1230, 1212, 1398, 1338]
+resource-id: id/favoriteDoeEstrusBleatHeavy
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1230, 1422, 1398, 1548]
+resource-id: id/favoriteDoeEstrusBleatMild
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [42, 1632, 1398, 1744]
+resource-id: id/headingFawnCalls
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [1230, 1828, 1398, 1954]
+resource-id: id/favoriteFawnBleat
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1230, 2038, 1398, 2164]
+resource-id: id/favoriteFawnBleat2
+tag: Image
+
+L6
+class: android.widget.Button
+bounds: [42, 2052, 1398, 2178]
+resource-id: id/stop_button
+tag: Button
+
+L7
+class: android.widget.EditText
+bounds: [884, 2220, 1030, 2378]
+resource-id: id/repeat_min
+tag: Text
+
+L7
+class: android.widget.EditText
+bounds: [1154, 2220, 1300, 2378]
+resource-id: id/repeat_sec
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

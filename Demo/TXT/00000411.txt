@@ -1,0 +1,6 @@
+L3
+class: android.support.v7.widget.AppCompatTextView
+bounds: [930, 280, 1433, 1456]
+resource-id: id/text1
+tag: Text
+

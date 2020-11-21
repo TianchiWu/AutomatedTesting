@@ -1,0 +1,150 @@
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 535, 322, 801]
+resource-id: id/ivIcon
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [371, 591, 1073, 672]
+resource-id: id/tvTaskTitle
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [371, 679, 474, 745]
+resource-id: id/tvSubTitle
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [492, 683, 531, 732]
+resource-id: id/ivTaskDifficulty
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1314, 536, 1412, 648]
+resource-id: id/ivMenu
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 976, 322, 1242]
+resource-id: id/ivIcon
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [371, 997, 1314, 1149]
+resource-id: id/tvTaskTitle
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [371, 1156, 474, 1222]
+resource-id: id/tvSubTitle
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [492, 1160, 531, 1209]
+resource-id: id/ivTaskDifficulty
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1314, 977, 1412, 1089]
+resource-id: id/ivMenu
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 1417, 322, 1683]
+resource-id: id/ivIcon
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [371, 1473, 1190, 1554]
+resource-id: id/tvTaskTitle
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [371, 1561, 474, 1627]
+resource-id: id/tvSubTitle
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [492, 1565, 531, 1614]
+resource-id: id/ivTaskDifficulty
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1314, 1418, 1412, 1530]
+resource-id: id/ivMenu
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 1858, 322, 2124]
+resource-id: id/ivIcon
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [371, 1879, 1314, 2031]
+resource-id: id/tvTaskTitle
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [371, 2038, 474, 2104]
+resource-id: id/tvSubTitle
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [492, 2042, 531, 2091]
+resource-id: id/ivTaskDifficulty
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1314, 1859, 1412, 1971]
+resource-id: id/ivMenu
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 2299, 322, 2392]
+resource-id: id/ivIcon
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [371, 2355, 1108, 2392]
+resource-id: id/tvTaskTitle
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1314, 2300, 1412, 2392]
+resource-id: id/ivMenu
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

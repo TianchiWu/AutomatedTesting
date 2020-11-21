@@ -1,0 +1,114 @@
+L7
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 84, 196, 280]
+resource-id: id/backToolbar
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [231, 135, 749, 228]
+resource-id: id/textView53
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [84, 432, 1356, 600]
+resource-id: id/facebook
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [84, 670, 1356, 838]
+resource-id: id/vk
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [84, 891, 1356, 1059]
+resource-id: id/mailru
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [84, 1112, 1356, 1280]
+resource-id: id/yandex
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1350, 1440, 1351]
+resource-id: id/imageView62
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1421, 1440, 1506]
+resource-id: id/imageView63
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 1506, 210, 1674]
+resource-id: id/imageView68
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [294, 1547, 1356, 1632]
+resource-id: id/textView45
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [294, 1758, 1440, 1759]
+resource-id: id/imageView69
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [189, 1861, 217, 1889]
+resource-id: id/imageView70
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [301, 1843, 1335, 1900]
+resource-id: id/textView46
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [189, 2002, 217, 2030]
+resource-id: id/imageView71
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [301, 1984, 1184, 2041]
+resource-id: id/textView47
+tag: Text
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 280, 1440, 291]
+resource-id: id/imageView65
+tag: Image
+
+L6
+class: android.widget.ProgressBar
+bounds: [587, 1105, 853, 1371]
+resource-id: id/progressBar1
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

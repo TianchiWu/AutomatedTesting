@@ -1,0 +1,204 @@
+L6
+class: android.widget.ImageView
+bounds: [46, 722, 197, 1569]
+resource-id: id/nav_drawer_item_icon_left
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [46, 1726, 197, 2132]
+resource-id: id/nav_drawer_item_icon_left
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [126, 1220, 1384, 1315]
+resource-id: id/posted_at
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [133, 1583, 1024, 1702]
+resource-id: id/occupation_and_location
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [126, 2192, 1384, 2287]
+resource-id: id/posted_at
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [0, 126, 84, 210]
+resource-id: id/home
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [0, 252, 1440, 1164]
+resource-id: id/body_text
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [56, 1232, 126, 1302]
+resource-id: id/vote_post_image
+tag: Image
+
+L8
+class: android.widget.Button
+bounds: [28, 1399, 692, 1525]
+resource-id: id/follow_button
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [748, 1399, 1412, 1525]
+resource-id: id/reply_button
+tag: Button
+
+L9
+class: de.hdodenhof.circleimageview.CircleImageView
+bounds: [28, 1583, 133, 1688]
+resource-id: id/avatar
+tag: Image
+
+L8
+class: android.widget.Button
+bounds: [1066, 1583, 1412, 1702]
+resource-id: id/message_button
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [0, 1730, 1440, 2136]
+resource-id: id/body_text
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [56, 2204, 126, 2274]
+resource-id: id/vote_post_image
+tag: Image
+
+L9
+class: de.hdodenhof.circleimageview.CircleImageView
+bounds: [28, 2373, 133, 2392]
+resource-id: id/avatar
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [133, 2373, 486, 2392]
+resource-id: id/poster_name
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [1066, 2373, 1412, 2392]
+resource-id: id/message_button
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [49, 603, 254, 684]
+resource-id: id/nav_drawer_header_text
+tag: Header
+
+L7
+class: android.widget.TextView
+bounds: [197, 722, 491, 814]
+resource-id: id/nav_drawer_item_text
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [197, 869, 452, 961]
+resource-id: id/nav_drawer_item_text
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [197, 1016, 566, 1108]
+resource-id: id/nav_drawer_item_text
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [197, 1163, 517, 1255]
+resource-id: id/nav_drawer_item_text
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [197, 1310, 552, 1402]
+resource-id: id/nav_drawer_item_text
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [197, 1457, 360, 1549]
+resource-id: id/nav_drawer_item_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [49, 1607, 413, 1688]
+resource-id: id/nav_drawer_header_text
+tag: Header
+
+L7
+class: android.widget.TextView
+bounds: [197, 1726, 450, 1818]
+resource-id: id/nav_drawer_item_text
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [197, 1873, 325, 1965]
+resource-id: id/nav_drawer_item_text
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [197, 2020, 328, 2112]
+resource-id: id/nav_drawer_item_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [49, 2170, 603, 2251]
+resource-id: id/nav_drawer_header_text
+tag: Header
+
+L6
+class: android.widget.ImageView
+bounds: [46, 2289, 197, 2392]
+resource-id: id/nav_drawer_item_icon_left
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [197, 2289, 303, 2381]
+resource-id: id/nav_drawer_item_text
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [86, 97, 272, 182]
+resource-id: id/action_bar_title
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [86, 172, 1206, 238]
+resource-id: id/action_bar_subtitle
+tag: NavigationBar
+

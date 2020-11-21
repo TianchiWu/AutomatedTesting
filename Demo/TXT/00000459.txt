@@ -1,0 +1,126 @@
+L6
+class: android.widget.TextView
+bounds: [0, 312, 1440, 474]
+resource-id: id/tab_text
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [920, 115, 1230, 262]
+resource-id: id/baby_main_age
+tag: Text
+
+L4
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 294]
+resource-id: id/header
+tag: Header
+
+L6
+class: android.widget.ImageView
+bounds: [35, 130, 317, 247]
+resource-id: id/baby_logo
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1265, 119, 1405, 259]
+resource-id: id/playblock_photo_view_image
+tag: Image
+
+L10
+class: android.widget.RelativeLayout
+bounds: [1272, 126, 1398, 252]
+resource-id: id/baby_photo_cell_baby_name_first_letter_root
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [162, 559, 530, 625]
+resource-id: id/search_text
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [35, 737, 168, 870]
+resource-id: id/letter_image
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [204, 768, 1394, 839]
+resource-id: id/name
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [35, 980, 168, 1113]
+resource-id: id/letter_image
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [204, 1011, 1394, 1082]
+resource-id: id/name
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [35, 1223, 168, 1356]
+resource-id: id/letter_image
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [204, 1254, 1394, 1325]
+resource-id: id/name
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [35, 1466, 168, 1599]
+resource-id: id/letter_image
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [204, 1497, 1394, 1568]
+resource-id: id/name
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [35, 1709, 168, 1842]
+resource-id: id/letter_image
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [204, 1740, 1394, 1811]
+resource-id: id/name
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [35, 1952, 168, 2085]
+resource-id: id/letter_image
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [204, 1983, 1394, 2054]
+resource-id: id/name
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [35, 2195, 168, 2328]
+resource-id: id/letter_image
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [204, 2226, 1394, 2297]
+resource-id: id/name
+tag: Text
+

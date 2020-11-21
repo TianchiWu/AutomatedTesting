@@ -1,0 +1,138 @@
+L6
+class: android.widget.RelativeLayout
+bounds: [0, 854, 801, 2030]
+resource-id: id/child_item_preant
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [53, 305, 1387, 822]
+resource-id: id/no_data_detail
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [22, 1086, 1418, 1529]
+resource-id: id/newsSubTitle
+tag: Text
+
+L16
+class: com.android.volley.toolbox.NetworkImageView
+bounds: [28, 1634, 448, 2181]
+resource-id: id/imageNewsTitle
+tag: Image
+
+L16
+class: com.android.volley.toolbox.NetworkImageView
+bounds: [28, 1952, 448, 2217]
+resource-id: id/imageNewsTitle
+tag: Image
+
+L6
+class: com.android.volley.toolbox.NetworkImageView
+bounds: [27, 135, 220, 289]
+resource-id: id/condition_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [0, 484, 29, 669]
+resource-id: id/sectionTitle
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [0, 854, 801, 1022]
+resource-id: id/subSectionListItem
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [0, 2030, 17, 2215]
+resource-id: id/sectionTitle
+tag: Text
+
+L14
+class: android.widget.RelativeLayout
+bounds: [0, 253, 1440, 1063]
+resource-id: id/ivImageNewsTitleContainer
+tag: Image
+
+L15
+class: android.widget.ImageView
+bounds: [560, 529, 880, 786]
+resource-id: id/ivVideoThumb
+tag: Image
+
+L15
+class: android.widget.TextView
+bounds: [22, 1086, 1418, 1322]
+resource-id: id/newsTitle
+tag: Text
+
+L17
+class: com.android.volley.toolbox.NetworkImageView
+bounds: [973, 1423, 1135, 1585]
+resource-id: id/weatherConditionImageView
+tag: Image
+
+L17
+class: android.widget.TextView
+bounds: [1142, 1416, 1358, 1556]
+resource-id: id/weatherTemp
+tag: Text
+
+L16
+class: com.pnsdigital.news.views.AutoResizeTextView
+bounds: [483, 1697, 1377, 1849]
+resource-id: id/newsTitle
+tag: Text
+
+L16
+class: com.pnsdigital.news.views.AutoResizeTextView
+bounds: [483, 1987, 1377, 2195]
+resource-id: id/newsTitle
+tag: Text
+
+L16
+class: com.android.volley.toolbox.NetworkImageView
+bounds: [28, 1585, 448, 1863]
+resource-id: id/imageNewsTitle
+tag: Image
+
+L16
+class: com.pnsdigital.news.views.AutoResizeTextView
+bounds: [483, 1648, 1377, 1800]
+resource-id: id/newsTitle
+tag: Text
+
+L16
+class: com.pnsdigital.news.views.AutoResizeTextView
+bounds: [483, 1938, 1377, 2146]
+resource-id: id/newsTitle
+tag: Text
+
+L4
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L8
+class: android.widget.ImageView
+bounds: [0, 101, 133, 234]
+resource-id: id/app_drawer_indicator
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [367, 84, 1073, 252]
+resource-id: id/app_top_bar_logo
+tag: Image
+
+L8
+class: android.widget.FrameLayout
+bounds: [1278, 104, 1405, 231]
+resource-id: id/alert_parent_view
+tag: Image
+

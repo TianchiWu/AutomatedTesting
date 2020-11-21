@@ -1,0 +1,36 @@
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 0, 1440, 196]
+resource-id: id/toolbar
+tag: Bar
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [571, 2059, 869, 2357]
+resource-id: id/btnFinish
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 1867, 84, 2129]
+resource-id: id/btnWhiteboard
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [545, 231, 895, 581]
+resource-id: id/btn_start
+tag: Button
+
+L8
+class: others.HoloCircularProgressBar
+bounds: [534, 231, 905, 602]
+resource-id: id/pb
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

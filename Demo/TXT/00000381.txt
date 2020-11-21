@@ -1,0 +1,114 @@
+L11
+class: android.widget.TextView
+bounds: [365, 1896, 1086, 2048]
+resource-id: id/sorry_description
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [182, 1759, 385, 1981]
+resource-id: id/temp_high
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [49, 1759, 175, 1970]
+resource-id: id/temp_high_icon
+tag: Image
+
+L14
+class: com.yahoo.mobile.client.android.weather.ui.view.TextClockCompat
+bounds: [511, 42, 929, 194]
+resource-id: id/local_time
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [179, 471, 950, 561]
+resource-id: id/alert_update1
+tag: Text
+
+L2
+class: android.widget.FrameLayout
+bounds: [0, 0, 1440, 2392]
+resource-id: id/content
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1300, 2187, 1398, 2223]
+resource-id: id/flickr_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [1032, 2183, 1293, 2226]
+resource-id: id/copyright
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [1000, 2191, 1028, 2223]
+resource-id: id/copyright_icon
+tag: Image
+
+L13
+class: android.widget.ImageView
+bounds: [323, 1908, 449, 1965]
+resource-id: id/temp_low_icon
+tag: Image
+
+L13
+class: android.widget.TextView
+bounds: [456, 1891, 555, 1981]
+resource-id: id/temp_low
+tag: Text
+
+L13
+class: com.yahoo.android.fonts.RobotoTextView
+bounds: [42, 1929, 673, 2374]
+resource-id: id/temperature
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [1289, 2310, 1387, 2346]
+resource-id: id/flickr_icon
+tag: Image
+
+L13
+class: android.widget.TextView
+bounds: [1088, 2306, 1282, 2349]
+resource-id: id/copyright
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [1056, 2314, 1084, 2346]
+resource-id: id/copyright_icon
+tag: Image
+
+L12
+class: android.widget.RelativeLayout
+bounds: [0, 0, 1440, 210]
+resource-id: id/topbar
+tag: Bar
+
+L13
+class: android.widget.ImageView
+bounds: [0, 0, 249, 210]
+resource-id: id/sidebarButton
+tag: Image
+
+L13
+class: android.widget.ImageView
+bounds: [1275, 64, 1356, 145]
+resource-id: id/addLocationButton
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [84, 486, 144, 546]
+resource-id: id/alert_icon1
+tag: Image
+

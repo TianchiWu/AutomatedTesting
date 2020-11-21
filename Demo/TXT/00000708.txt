@@ -1,0 +1,84 @@
+L4
+class: android.widget.ImageView
+bounds: [0, 70, 1440, 441]
+resource-id: id/img_title
+tag: Image
+
+L4
+class: android.widget.LinearLayout
+bounds: [0, 511, 1440, 1415]
+resource-id: id/layout_buttons
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [0, 515, 1440, 767]
+resource-id: id/btn_start
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [0, 771, 1440, 934]
+resource-id: id/btn_counters
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [0, 938, 1440, 1093]
+resource-id: id/btn_rotation
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [0, 1097, 1440, 1252]
+resource-id: id/btn_sales
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [0, 1256, 1440, 1411]
+resource-id: id/btn_patchnotes
+tag: Button
+
+L4
+class: android.widget.LinearLayout
+bounds: [0, 1817, 1440, 2217]
+resource-id: id/layout_buttons2
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [0, 1817, 480, 1982]
+resource-id: id/btn_donate
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [480, 1817, 960, 1982]
+resource-id: id/btn_event
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [960, 1817, 1440, 1982]
+resource-id: id/btn_settings
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [0, 2017, 480, 2182]
+resource-id: id/btn_web
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [480, 2017, 960, 2182]
+resource-id: id/btn_facebook
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [960, 2017, 1440, 2182]
+resource-id: id/btn_twitter
+tag: Button
+

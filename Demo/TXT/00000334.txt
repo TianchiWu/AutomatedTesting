@@ -1,0 +1,198 @@
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [378, 560, 868, 700]
+resource-id: id/offer_value
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [378, 954, 782, 1192]
+resource-id: id/offer_value
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [378, 1446, 975, 1684]
+resource-id: id/offer_value
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [378, 1938, 1059, 2176]
+resource-id: id/offer_value
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1048, 112, 1384, 280]
+resource-id: id/action_scan
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 112, 224, 280]
+resource-id: id/search_box_state_icon
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [224, 118, 1048, 273]
+resource-id: id/search_text_idle
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [138, 333, 341, 395]
+resource-id: id/text1
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [579, 333, 861, 395]
+resource-id: id/text1
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1042, 333, 1357, 395]
+resource-id: id/text1
+tag: Text
+
+L13
+class: android.widget.RelativeLayout
+bounds: [0, 448, 1440, 560]
+resource-id: id/list_header
+tag: Header
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 476, 1005, 532]
+resource-id: id/offer_count
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 560, 322, 749]
+resource-id: id/offer_image
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1187, 560, 1355, 660]
+resource-id: id/offer_state_image
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1187, 660, 1398, 726]
+resource-id: id/offer_state_text
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 961, 322, 1241]
+resource-id: id/offer_image
+tag: Image
+
+L16
+class: com.target.socsav.view.OfferAddedStateView
+bounds: [1230, 1017, 1398, 1185]
+resource-id: id/offer_added_state
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 1453, 322, 1733]
+resource-id: id/offer_image
+tag: Image
+
+L16
+class: com.target.socsav.view.OfferAddedStateView
+bounds: [1230, 1509, 1398, 1677]
+resource-id: id/offer_added_state
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [42, 1882, 352, 1952]
+resource-id: id/offer_label
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 1945, 322, 2196]
+resource-id: id/offer_image
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1187, 1968, 1355, 2136]
+resource-id: id/offer_state_image
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1187, 2136, 1398, 2196]
+resource-id: id/offer_state_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [140, 2217, 220, 2301]
+resource-id: id/tab_icon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [113, 2301, 247, 2357]
+resource-id: id/tab_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [475, 2224, 604, 2308]
+resource-id: id/tab_icon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [472, 2308, 608, 2357]
+resource-id: id/tab_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [842, 2224, 957, 2308]
+resource-id: id/tab_icon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [810, 2308, 990, 2357]
+resource-id: id/tab_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1216, 2224, 1303, 2308]
+resource-id: id/tab_icon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1230, 2308, 1290, 2357]
+resource-id: id/tab_text
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

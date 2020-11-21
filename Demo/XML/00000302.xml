@@ -1,0 +1,105 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>00000302</filename>
+  <size>
+    <width>1440</width>
+    <height>2560</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Header</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>195</xmin>
+      <ymin> 449</ymin>
+      <xmax> 1245</xmax>
+      <ymax> 740</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Picker</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>111</xmin>
+      <ymin> 449</ymin>
+      <xmax> 1329</xmax>
+      <ymax> 1986</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Header</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>111</xmin>
+      <ymin> 449</ymin>
+      <xmax> 1329</xmax>
+      <ymax> 803</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Picker</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>111</xmin>
+      <ymin> 803</ymin>
+      <xmax> 1329</xmax>
+      <ymax> 1986</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Picker</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>111</xmin>
+      <ymin> 803</ymin>
+      <xmax> 1329</xmax>
+      <ymax> 1986</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>92</xmin>
+      <ymin> 1986</ymin>
+      <xmax> 1348</xmax>
+      <ymax> 2182</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>811</xmin>
+      <ymin> 2000</ymin>
+      <xmax> 1082</xmax>
+      <ymax> 2168</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1082</xmin>
+      <ymin> 2000</ymin>
+      <xmax> 1306</xmax>
+      <ymax> 2168</ymax>
+    </bndbox>
+  </object>
+</annotation>

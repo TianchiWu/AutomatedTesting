@@ -1,0 +1,36 @@
+L6
+class: android.widget.ImageView
+bounds: [0, 0, 1440, 1599]
+resource-id: id/tutorialGifImageView
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [35, 1599, 1405, 1751]
+resource-id: id/tutorialTextView
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [1120, 1898, 1391, 1964]
+resource-id: id/skipTextView
+tag: Text
+
+L5
+class: android.widget.ProgressBar
+bounds: [35, 2006, 1405, 2034]
+resource-id: id/tutorialProgressBar
+tag: Bar
+
+L6
+class: android.widget.TextView
+bounds: [1130, 2062, 1405, 2178]
+resource-id: id/tutorialPageNumberRightArrow
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [35, 2234, 1405, 2350]
+resource-id: id/tutorialPageNumberTextView
+tag: Text
+

@@ -1,0 +1,144 @@
+L7
+class: android.widget.ImageView
+bounds: [136, 112, 224, 200]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [110, 207, 250, 254]
+resource-id: id/label
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [496, 112, 584, 200]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [463, 207, 617, 254]
+resource-id: id/label
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [856, 112, 944, 200]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [857, 207, 943, 254]
+resource-id: id/label
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [1216, 112, 1304, 200]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [1219, 207, 1301, 254]
+resource-id: id/label
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [0, 377, 154, 461]
+resource-id: id/menu_item_icon
+tag: Image
+
+L8
+class: com.babycenter.calendarapp.app.widget.TextViewWithFont
+bounds: [154, 382, 1440, 455]
+resource-id: id/menu_item_header
+tag: Header
+
+L8
+class: android.widget.ImageView
+bounds: [0, 577, 154, 661]
+resource-id: id/menu_item_icon
+tag: Image
+
+L8
+class: com.babycenter.calendarapp.app.widget.TextViewWithFont
+bounds: [154, 582, 1440, 655]
+resource-id: id/menu_item_header
+tag: Header
+
+L8
+class: android.widget.ImageView
+bounds: [0, 777, 154, 861]
+resource-id: id/menu_item_icon
+tag: Image
+
+L8
+class: com.babycenter.calendarapp.app.widget.TextViewWithFont
+bounds: [154, 782, 1440, 855]
+resource-id: id/menu_item_header
+tag: Header
+
+L8
+class: android.widget.ImageView
+bounds: [0, 977, 154, 1061]
+resource-id: id/menu_item_icon
+tag: Image
+
+L8
+class: com.babycenter.calendarapp.app.widget.TextViewWithFont
+bounds: [154, 982, 1440, 1055]
+resource-id: id/menu_item_header
+tag: Header
+
+L8
+class: android.widget.ImageView
+bounds: [0, 1177, 154, 1261]
+resource-id: id/menu_item_icon
+tag: Image
+
+L8
+class: com.babycenter.calendarapp.app.widget.TextViewWithFont
+bounds: [154, 1182, 1440, 1255]
+resource-id: id/menu_item_header
+tag: Header
+
+L8
+class: android.widget.ImageView
+bounds: [0, 1377, 154, 1461]
+resource-id: id/menu_item_icon
+tag: Image
+
+L8
+class: com.babycenter.calendarapp.app.widget.TextViewWithFont
+bounds: [154, 1382, 1440, 1455]
+resource-id: id/menu_item_header
+tag: Header
+
+L8
+class: android.widget.ImageView
+bounds: [0, 1577, 154, 1661]
+resource-id: id/menu_item_icon
+tag: Image
+
+L8
+class: com.babycenter.calendarapp.app.widget.TextViewWithFont
+bounds: [154, 1582, 1440, 1655]
+resource-id: id/menu_item_header
+tag: Header
+
+L8
+class: android.widget.ImageView
+bounds: [0, 1777, 154, 1861]
+resource-id: id/menu_item_icon
+tag: Image
+
+L8
+class: com.babycenter.calendarapp.app.widget.TextViewWithFont
+bounds: [154, 1782, 1440, 1855]
+resource-id: id/menu_item_header
+tag: Header
+

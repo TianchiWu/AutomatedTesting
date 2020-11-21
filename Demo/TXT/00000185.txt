@@ -1,0 +1,42 @@
+L9
+class: fr.recettetek.widget.ClearableEditText
+bounds: [56, 577, 1384, 806]
+resource-id: id/editWithIngredient
+tag: Text
+
+L9
+class: fr.recettetek.widget.ClearableEditText
+bounds: [56, 869, 1384, 1098]
+resource-id: id/editWithoutIngredient
+tag: Text
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L7
+class: android.support.v4.view.PagerTabStrip
+bounds: [0, 280, 1440, 392]
+resource-id: id/pager_header
+tag: Header
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 448, 1120, 514]
+resource-id: id/textIntro
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,108 @@
+L7
+class: android.widget.CheckedTextView
+bounds: [56, 392, 1160, 1232]
+resource-id: id/design_menu_item_text
+tag: Text
+
+L7
+class: android.widget.CheckedTextView
+bounds: [56, 1292, 1160, 1964]
+resource-id: id/design_menu_item_text
+tag: Text
+
+L7
+class: android.widget.CheckedTextView
+bounds: [56, 2024, 1160, 2392]
+resource-id: id/design_menu_item_text
+tag: Text
+
+L11
+class: com.tribunemedia.ui.view.weather.WeatherIconsTextView
+bounds: [1225, 139, 1393, 225]
+resource-id: id/temperature_sign
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [1225, 84, 1412, 280]
+resource-id: id/search
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [70, 1599, 1370, 1875]
+resource-id: id/message_message
+tag: Text
+
+L5
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L6
+class: android.widget.FrameLayout
+bounds: [182, 84, 1426, 280]
+resource-id: id/toolbar_content
+tag: Bar
+
+L8
+class: android.widget.TextView
+bounds: [238, 144, 1225, 220]
+resource-id: id/toolbar_title
+tag: Bar
+
+L9
+class: com.tribunemedia.ui.view.weather.WeatherToolbarView
+bounds: [1225, 139, 1393, 225]
+resource-id: id/view_toolbar_weather
+tag: Bar
+
+L12
+class: android.widget.ImageView
+bounds: [492, 1112, 947, 1529]
+resource-id: id/message_image
+tag: Image
+
+L8
+class: com.tribunemedia.ui.view.PagerContainer
+bounds: [0, 280, 1440, 438]
+resource-id: id/tab_bar
+tag: Bar
+
+L9
+class: com.tribunemedia.ui.view.TabLayout
+bounds: [360, 280, 1080, 438]
+resource-id: id/tab_pager
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [11, 438, 151, 596]
+resource-id: id/left_image
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [169, 484, 1282, 550]
+resource-id: id/text
+tag: Text
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 84, 1216, 392]
+resource-id: id/navigation_header_container
+tag: Header
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

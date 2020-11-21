@@ -1,0 +1,72 @@
+L12
+class: android.support.v7.widget.AppCompatCheckedTextView
+bounds: [56, 697, 924, 1201]
+resource-id: id/design_menu_item_text
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatButton
+bounds: [518, 1755, 1300, 1923]
+resource-id: id/btnRegister
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1090, 1923, 1300, 2343]
+resource-id: id/mysaylogo
+tag: Image
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 84, 980, 112]
+resource-id: id/navigation_header_container
+tag: Header
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [14, 2217, 966, 2392]
+resource-id: id/bpAdvertLink
+tag: Image
+
+L11
+class: android.widget.LinearLayout
+bounds: [0, 84, 980, 305]
+resource-id: id/navigation_header_container
+tag: Header
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 84, 980, 273]
+resource-id: id/ivMySayLogo
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatCheckedTextView
+bounds: [56, 305, 924, 473]
+resource-id: id/design_menu_item_text
+tag: Text
+
+L9
+class: android.support.design.widget.NavigationView
+bounds: [0, 501, 980, 2203]
+resource-id: id/navigationViewHeadsetSetup
+tag: Button
+
+L11
+class: android.widget.LinearLayout
+bounds: [0, 501, 980, 529]
+resource-id: id/navigation_header_container
+tag: Header
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

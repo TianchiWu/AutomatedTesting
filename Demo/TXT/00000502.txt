@@ -1,0 +1,12 @@
+L5
+class: android.support.v7.widget.AppCompatImageView
+bounds: [141, 358, 1299, 1793]
+resource-id: id/img_content
+tag: Image
+
+L5
+class: android.support.v7.widget.AppCompatImageView
+bounds: [636, 1888, 803, 2055]
+resource-id: id/img_close
+tag: Image
+

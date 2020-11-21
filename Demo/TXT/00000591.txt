@@ -1,0 +1,42 @@
+L6
+class: android.widget.TextView
+bounds: [0, 200, 1440, 308]
+resource-id: id/main_title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [70, 431, 525, 574]
+resource-id: id/imageView1
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [525, 431, 1004, 573]
+resource-id: id/welcometexttitle
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [70, 592, 1370, 816]
+resource-id: id/welcometext
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [300, 886, 1140, 1026]
+resource-id: id/signinbtn
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [300, 1158, 1140, 1298]
+resource-id: id/signupbtn
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [464, 1351, 975, 1436]
+resource-id: id/forgotpasswdtxt
+tag: Text
+

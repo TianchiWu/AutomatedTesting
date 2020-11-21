@@ -1,0 +1,36 @@
+L19
+class: android.support.v7.widget.AppCompatTextView
+bounds: [709, 570, 1406, 702]
+resource-id: id/cost_value
+tag: Text
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [26, 477, 1414, 570]
+resource-id: id/cost_title
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [944, 702, 1414, 768]
+resource-id: id/cost_date
+tag: Text
+
+L10
+class: android.support.design.widget.FloatingActionButton
+bounds: [1188, 2140, 1384, 2336]
+resource-id: id/id_open_fab_menu
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

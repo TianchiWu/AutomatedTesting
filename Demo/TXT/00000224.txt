@@ -1,0 +1,60 @@
+L9
+class: android.widget.TextView
+bounds: [35, 295, 1405, 762]
+resource-id: id/tvForgot
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [0, 84, 181, 242]
+resource-id: id/ivbar
+tag: Image
+
+L6
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 242]
+resource-id: id/titlebar_container
+tag: Bar
+
+L9
+class: android.widget.TextView
+bounds: [181, 109, 445, 217]
+resource-id: id/title
+tag: Text
+
+L9
+class: android.widget.RelativeLayout
+bounds: [1282, 84, 1440, 242]
+resource-id: id/rlOtherRightButton
+tag: Image
+
+L9
+class: android.widget.Button
+bounds: [35, 867, 1405, 1045]
+resource-id: id/btnLogin
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [632, 1080, 808, 1188]
+resource-id: id/or
+tag: Text
+
+L9
+class: android.widget.Button
+bounds: [35, 1223, 1405, 1401]
+resource-id: id/btnRegister
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [0, 1534, 1440, 1676]
+resource-id: id/textView1
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [35, 2016, 1405, 2290]
+resource-id: id/tvATAgreement
+tag: Text
+

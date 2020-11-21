@@ -1,0 +1,6 @@
+L4
+class: android.widget.ProgressBar
+bounds: [636, 1154, 804, 1322]
+resource-id: id/progressBar
+tag: Bar
+

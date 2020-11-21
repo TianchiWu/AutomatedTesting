@@ -1,0 +1,42 @@
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1148, 480, 2392]
+resource-id: id/podcast_image
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [480, 1148, 1440, 1517]
+resource-id: id/description
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [480, 1555, 1440, 1924]
+resource-id: id/description
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [480, 1962, 1440, 2331]
+resource-id: id/description
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [480, 2369, 1440, 2392]
+resource-id: id/description
+tag: Text
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 448]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L5
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar
+tag: NavigationBar
+

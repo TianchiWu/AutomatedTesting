@@ -1,0 +1,84 @@
+L7
+class: android.widget.TextView
+bounds: [0, 84, 1440, 456]
+resource-id: id/tab_title
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [273, 581, 625, 674]
+resource-id: id/text_time
+tag: Text
+
+L5
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/date_bar
+tag: Bar
+
+L6
+class: android.widget.ImageButton
+bounds: [1244, 84, 1440, 280]
+resource-id: id/settings_btn
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [0, 84, 196, 280]
+resource-id: id/remove_ads_btn
+tag: Button
+
+L7
+class: android.widget.ImageButton
+bounds: [376, 84, 572, 280]
+resource-id: id/arrow_previous
+tag: Button
+
+L7
+class: android.widget.ImageButton
+bounds: [868, 84, 1064, 280]
+resource-id: id/arrow_next
+tag: Button
+
+L11
+class: android.widget.ImageView
+bounds: [63, 512, 238, 722]
+resource-id: id/image_emoticon
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [273, 519, 593, 581]
+resource-id: id/text_date
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [344, 685, 444, 747]
+resource-id: id/tag_name
+tag: Text
+
+L7
+class: android.widget.Button
+bounds: [1160, 1937, 1405, 2182]
+resource-id: id/add_entry_button
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [893, 271, 1430, 460]
+resource-id: id/tip_text
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

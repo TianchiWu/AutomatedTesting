@@ -1,0 +1,204 @@
+L9
+class: com.tretiakov.absframework.views.text.AbsTextView
+bounds: [0, 337, 1440, 589]
+resource-id: id/unfollowD
+tag: Text
+
+L9
+class: com.tretiakov.absframework.views.text.AbsTextView
+bounds: [0, 463, 1440, 736]
+resource-id: id/title
+tag: Text
+
+L10
+class: com.tretiakov.absframework.views.text.AbsTextView
+bounds: [172, 337, 324, 513]
+resource-id: id/followersIndicator
+tag: Text
+
+L10
+class: com.tretiakov.absframework.views.text.AbsTextView
+bounds: [396, 337, 547, 513]
+resource-id: id/followingIndicator
+tag: Text
+
+L11
+class: com.tretiakov.absframework.views.text.AbsTextView
+bounds: [0, 1224, 1440, 1480]
+resource-id: id/autoCreateTitle
+tag: Text
+
+L11
+class: com.tretiakov.absframework.views.text.AbsTextView
+bounds: [0, 1858, 1440, 2163]
+resource-id: id/autoLikeTimelineDesc
+tag: Text
+
+L6
+class: com.tretiakov.absframework.views.AbsToolbar
+bounds: [0, 84, 1440, 252]
+resource-id: id/toolbar
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [600, 84, 768, 252]
+resource-id: id/switchAccount
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [768, 84, 936, 252]
+resource-id: id/search
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [936, 84, 1104, 252]
+resource-id: id/info
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1104, 84, 1272, 252]
+resource-id: id/donate
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1272, 84, 1440, 252]
+resource-id: id/mainMenu
+tag: Button
+
+L7
+class: com.tretiakov.absframework.views.text.AbsTextView
+bounds: [0, 252, 1440, 336]
+resource-id: id/userName
+tag: Text
+
+L7
+class: android.widget.ProgressBar
+bounds: [0, 329, 1440, 336]
+resource-id: id/calculateProgress
+tag: Bar
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 589, 1440, 740]
+resource-id: id/headerContainer
+tag: Header
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 740, 168, 845]
+resource-id: id/searchForLike
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [208, 846, 292, 930]
+resource-id: id/likeDurationMinus
+tag: Button
+
+L12
+class: com.tretiakov.absframework.views.text.AbsTextView
+bounds: [292, 855, 540, 921]
+resource-id: id/likeDuration
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [540, 846, 624, 930]
+resource-id: id/likeDurationPlus
+tag: Button
+
+L12
+class: com.tretiakov.absframework.views.text.AbsTextView
+bounds: [843, 951, 1412, 1035]
+resource-id: id/enableLikeAndCreateButton
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatButton
+bounds: [358, 1056, 1081, 1224]
+resource-id: id/enableLikeButton
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 1480, 168, 1606]
+resource-id: id/searchForCreate
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [208, 1606, 292, 1690]
+resource-id: id/createDurationMinus
+tag: Button
+
+L12
+class: com.tretiakov.absframework.views.text.AbsTextView
+bounds: [292, 1615, 540, 1681]
+resource-id: id/createDuration
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [540, 1606, 624, 1690]
+resource-id: id/createDurationPlus
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatButton
+bounds: [358, 1690, 1081, 1858]
+resource-id: id/enableCreateButton
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [208, 2163, 292, 2224]
+resource-id: id/likeTimelineDurationMinus
+tag: Button
+
+L12
+class: com.tretiakov.absframework.views.text.AbsTextView
+bounds: [292, 2172, 540, 2224]
+resource-id: id/likeTimelineDuration
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [540, 2163, 624, 2224]
+resource-id: id/likeTimelineDurationPlus
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 2224, 479, 2392]
+resource-id: id/actionPeople
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [479, 2224, 962, 2392]
+resource-id: id/actionMenu
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [962, 2224, 1440, 2392]
+resource-id: id/actionEngine
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

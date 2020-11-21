@@ -1,0 +1,66 @@
+L4
+class: android.widget.FrameLayout
+bounds: [0, 2098, 1440, 2392]
+resource-id: id/bottom_action_bar
+tag: NavigationBar
+
+L6
+class: android.widget.LinearLayout
+bounds: [35, 2231, 197, 2357]
+resource-id: id/comment_button
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [148, 2256, 179, 2332]
+resource-id: id/number_of_comments
+tag: Text
+
+L6
+class: android.widget.LinearLayout
+bounds: [197, 2231, 359, 2357]
+resource-id: id/heart_button
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [215, 2252, 299, 2336]
+resource-id: id/heart_status
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [310, 2256, 341, 2332]
+resource-id: id/number_of_hearts
+tag: Text
+
+L6
+class: android.widget.ImageButton
+bounds: [394, 2231, 520, 2357]
+resource-id: id/share
+tag: Button
+
+L6
+class: android.widget.ImageView
+bounds: [555, 2231, 681, 2357]
+resource-id: id/history
+tag: Image
+
+L6
+class: android.widget.LinearLayout
+bounds: [1147, 2231, 1405, 2357]
+resource-id: id/save_button
+tag: Button
+
+L4
+class: com.daililol.material.appbase.widget.MaterialImageButton
+bounds: [0, 84, 168, 252]
+resource-id: id/close
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

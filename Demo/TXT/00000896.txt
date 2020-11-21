@@ -1,0 +1,78 @@
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [530, 1094, 1060, 1170]
+resource-id: id/tv_female
+tag: Text
+
+L6
+class: android.support.v7.widget.AppCompatTextView
+bounds: [300, 1384, 1059, 1628]
+resource-id: id/update_profile_text
+tag: Text
+
+L4
+class: android.support.v7.widget.AppCompatTextView
+bounds: [300, 483, 1140, 586]
+resource-id: id/namef_title
+tag: Text
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [300, 656, 524, 880]
+resource-id: id/photo
+tag: Image
+
+L6
+class: android.support.design.widget.TextInputLayout
+bounds: [580, 684, 1140, 880]
+resource-id: id/name_wrapper
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatEditText
+bounds: [580, 722, 1140, 880]
+resource-id: id/name
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [407, 1094, 502, 1170]
+resource-id: id/tv_you
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [591, 1170, 703, 1282]
+resource-id: id/rb_male
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [856, 1170, 968, 1282]
+resource-id: id/rb_female
+tag: Button
+
+L6
+class: android.support.v7.widget.AppCompatButton
+bounds: [604, 1384, 1140, 1552]
+resource-id: id/age_button
+tag: Button
+
+L6
+class: com.google.android.gms.common.SignInButton
+bounds: [525, 1628, 914, 1796]
+resource-id: id/sign_in_button
+tag: Button
+
+L4
+class: android.support.v7.widget.AppCompatButton
+bounds: [832, 1824, 1140, 1992]
+resource-id: id/button_go
+tag: Button
+
+L4
+class: android.support.v7.widget.AppCompatButton
+bounds: [524, 1824, 832, 1992]
+resource-id: id/button_back
+tag: Button
+

@@ -1,0 +1,12 @@
+L4
+class: android.widget.TextView
+bounds: [0, 0, 1440, 136]
+resource-id: id/imageIndex
+tag: Text
+
+L4
+class: android.widget.TextView
+bounds: [0, 2256, 1440, 2392]
+resource-id: id/imageCaption
+tag: Text
+

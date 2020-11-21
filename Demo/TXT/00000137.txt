@@ -1,0 +1,72 @@
+L13
+class: com.facebook.resources.ui.FbTextView
+bounds: [295, 845, 742, 977]
+resource-id: id/a68
+tag: Text
+
+L11
+class: com.facebook.platform.composer.titlebar.PlatformComposerTitleBarBackground
+bounds: [98, 845, 1342, 978]
+resource-id: id/title_container_view
+tag: Bar
+
+L14
+class: com.facebook.platform.composer.composer.PlatformComposerEditText
+bounds: [110, 1061, 1330, 1137]
+resource-id: id/status_text
+tag: Text
+
+L17
+class: com.facebook.fbui.widget.layout.ImageBlockLayout
+bounds: [117, 1191, 1323, 1443]
+resource-id: id/a25
+tag: Image
+
+L18
+class: com.facebook.resources.ui.EllipsizingTextView
+bounds: [348, 1224, 1288, 1340]
+resource-id: id/a21
+tag: Text
+
+L18
+class: com.facebook.resources.ui.EllipsizingTextView
+bounds: [348, 1347, 465, 1410]
+resource-id: id/a22
+tag: Text
+
+L11
+class: com.facebook.fbui.glyph.GlyphView
+bounds: [110, 1531, 236, 1633]
+resource-id: id/people_tagging_button
+tag: Button
+
+L11
+class: com.facebook.fbui.glyph.GlyphView
+bounds: [289, 1531, 405, 1633]
+resource-id: id/minutiae_button
+tag: Button
+
+L11
+class: com.facebook.fbui.glyph.GlyphView
+bounds: [458, 1531, 556, 1633]
+resource-id: id/place_button
+tag: Button
+
+L11
+class: com.facebook.resources.ui.FbTextView
+bounds: [1150, 1498, 1330, 1666]
+resource-id: id/button_share
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

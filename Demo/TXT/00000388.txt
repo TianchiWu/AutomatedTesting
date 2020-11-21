@@ -1,0 +1,12 @@
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [290, 1833, 1150, 1987]
+resource-id: id/dialog_smartband_btnMoreInfo
+tag: Button
+
+L5
+class: android.support.v7.widget.AppCompatImageView
+bounds: [160, 337, 342, 519]
+resource-id: id/dialog_smartband_btnClose
+tag: Image
+

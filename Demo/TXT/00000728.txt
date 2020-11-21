@@ -1,0 +1,360 @@
+L12
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 308, 756, 374]
+resource-id: id/channelNameSecondLine
+tag: Text
+
+L12
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageView
+bounds: [756, 308, 834, 347]
+resource-id: id/channelLikeIcon
+tag: Image
+
+L12
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 628, 794, 694]
+resource-id: id/channelNameSecondLine
+tag: Text
+
+L12
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 948, 512, 1014]
+resource-id: id/channelNameSecondLine
+tag: Text
+
+L12
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 1268, 704, 1334]
+resource-id: id/channelNameSecondLine
+tag: Text
+
+L12
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 1588, 818, 1654]
+resource-id: id/channelNameSecondLine
+tag: Text
+
+L12
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 1908, 580, 1974]
+resource-id: id/channelNameSecondLine
+tag: Text
+
+L11
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [131, 2260, 622, 2345]
+resource-id: id/channelNameSecondLine
+tag: Text
+
+L11
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageView
+bounds: [622, 2260, 700, 2299]
+resource-id: id/channelLikeIcon
+tag: Image
+
+L8
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [459, 1721, 980, 1859]
+resource-id: id/smartTunerRelatedText
+tag: Text
+
+L10
+class: md56ba2166cb7614b09c0e525b8f9dc9d1d.StingrayAsyncImageView
+bounds: [42, 1901, 277, 2350]
+resource-id: id/coverIcon
+tag: Image
+
+L12
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 2122, 333, 2188]
+resource-id: id/channelNameSecondLine
+tag: Text
+
+L11
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 2188, 1219, 2343]
+resource-id: id/description
+tag: Text
+
+L10
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageView
+bounds: [1219, 1901, 1440, 2350]
+resource-id: id/channelShowOptionsIcon
+tag: Image
+
+L4
+class: md54dd321376d794d7fe7128f15c2a227c6.ConstantSizeLayout
+bounds: [0, 84, 1438, 2390]
+resource-id: id/background_container
+tag: Image
+
+L5
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 259]
+resource-id: id/header_view_container
+tag: Header
+
+L8
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageButton
+bounds: [0, 84, 166, 259]
+resource-id: id/HeaderBackButton
+tag: Button
+
+L8
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageView
+bounds: [332, 84, 1107, 259]
+resource-id: id/HeaderLogo
+tag: Image
+
+L8
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageButton
+bounds: [1274, 84, 1440, 259]
+resource-id: id/HeaderSearchButton
+tag: Button
+
+L15
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageView
+bounds: [72, 443, 142, 513]
+resource-id: id/itemTitleDecoration
+tag: Image
+
+L15
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [142, 399, 1440, 557]
+resource-id: id/itemTitle
+tag: Text
+
+L14
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [142, 557, 1440, 623]
+resource-id: id/itemDescription
+tag: Text
+
+L15
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageView
+bounds: [72, 723, 142, 793]
+resource-id: id/itemTitleDecoration
+tag: Image
+
+L15
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [142, 679, 1440, 837]
+resource-id: id/itemTitle
+tag: Text
+
+L14
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [142, 837, 1440, 903]
+resource-id: id/itemDescription
+tag: Text
+
+L15
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageView
+bounds: [72, 1003, 142, 1073]
+resource-id: id/itemTitleDecoration
+tag: Image
+
+L15
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [142, 959, 1440, 1117]
+resource-id: id/itemTitle
+tag: Text
+
+L14
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [142, 1117, 1440, 1183]
+resource-id: id/itemDescription
+tag: Text
+
+L15
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageView
+bounds: [72, 1283, 142, 1353]
+resource-id: id/itemTitleDecoration
+tag: Image
+
+L15
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [142, 1239, 1440, 1397]
+resource-id: id/itemTitle
+tag: Text
+
+L14
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [142, 1397, 1440, 1463]
+resource-id: id/itemDescription
+tag: Text
+
+L13
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [138, 379, 1440, 537]
+resource-id: id/itemTitle
+tag: Text
+
+L13
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [138, 659, 1440, 817]
+resource-id: id/itemTitle
+tag: Text
+
+L13
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [138, 939, 1440, 1097]
+resource-id: id/itemTitle
+tag: Text
+
+L13
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [138, 1219, 1440, 1377]
+resource-id: id/itemTitle
+tag: Text
+
+L13
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [138, 1499, 1440, 1657]
+resource-id: id/itemTitle
+tag: Text
+
+L13
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [138, 1779, 1440, 1937]
+resource-id: id/itemTitle
+tag: Text
+
+L13
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [138, 2059, 1440, 2217]
+resource-id: id/itemTitle
+tag: Text
+
+L10
+class: md56ba2166cb7614b09c0e525b8f9dc9d1d.StingrayAsyncImageView
+bounds: [42, 301, 277, 536]
+resource-id: id/coverIcon
+tag: Image
+
+L11
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 374, 1219, 529]
+resource-id: id/description
+tag: Text
+
+L10
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageView
+bounds: [1219, 301, 1440, 536]
+resource-id: id/channelShowOptionsIcon
+tag: Image
+
+L10
+class: md56ba2166cb7614b09c0e525b8f9dc9d1d.StingrayAsyncImageView
+bounds: [42, 621, 277, 856]
+resource-id: id/coverIcon
+tag: Image
+
+L11
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 694, 1219, 849]
+resource-id: id/description
+tag: Text
+
+L10
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageView
+bounds: [1219, 621, 1440, 856]
+resource-id: id/channelShowOptionsIcon
+tag: Image
+
+L10
+class: md56ba2166cb7614b09c0e525b8f9dc9d1d.StingrayAsyncImageView
+bounds: [42, 941, 277, 1176]
+resource-id: id/coverIcon
+tag: Image
+
+L11
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 1014, 1219, 1169]
+resource-id: id/description
+tag: Text
+
+L10
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageView
+bounds: [1219, 941, 1440, 1176]
+resource-id: id/channelShowOptionsIcon
+tag: Image
+
+L10
+class: md56ba2166cb7614b09c0e525b8f9dc9d1d.StingrayAsyncImageView
+bounds: [42, 1261, 277, 1496]
+resource-id: id/coverIcon
+tag: Image
+
+L11
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 1334, 1219, 1489]
+resource-id: id/description
+tag: Text
+
+L10
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageView
+bounds: [1219, 1261, 1440, 1496]
+resource-id: id/channelShowOptionsIcon
+tag: Image
+
+L10
+class: md56ba2166cb7614b09c0e525b8f9dc9d1d.StingrayAsyncImageView
+bounds: [42, 1581, 277, 1816]
+resource-id: id/coverIcon
+tag: Image
+
+L11
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 1654, 1219, 1809]
+resource-id: id/description
+tag: Text
+
+L10
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageView
+bounds: [1219, 1581, 1440, 1816]
+resource-id: id/channelShowOptionsIcon
+tag: Image
+
+L11
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayTextView
+bounds: [319, 1974, 1219, 2129]
+resource-id: id/description
+tag: Text
+
+L5
+class: android.view.View
+bounds: [0, 2217, 1440, 2392]
+resource-id: id/player_header_placeholder
+tag: Header
+
+L8
+class: md56bc09ae1812a64c548480ece7eb6d6b8.SlidingBarGalaxieLayout
+bounds: [0, 2215, 1438, 2390]
+resource-id: id/slidingBar
+tag: Bar
+
+L10
+class: android.widget.FrameLayout
+bounds: [53, 2274, 109, 2330]
+resource-id: id/player_logo
+tag: Image
+
+L10
+class: md505972d1a8c19431fa7e9e71f7b609ef8.StingrayImageButton
+bounds: [1339, 2262, 1420, 2343]
+resource-id: id/expand_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,36 @@
+L7
+class: android.widget.ImageView
+bounds: [18, 663, 1142, 1225]
+resource-id: id/ImageViewStickerColor9
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [18, 663, 1422, 1506]
+resource-id: id/ImageViewStickerColor15
+tag: Image
+
+L5
+class: android.widget.EditText
+bounds: [18, 103, 1422, 241]
+resource-id: id/EditTextStickerText
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [18, 396, 420, 499]
+resource-id: id/TextViewStickerTextSize
+tag: Text
+
+L6
+class: android.widget.SeekBar
+bounds: [420, 396, 1422, 508]
+resource-id: id/SeekBarStickerTextSize
+tag: Bar
+
+L5
+class: android.widget.Button
+bounds: [18, 2205, 1422, 2373]
+resource-id: id/ButtonStickerTextCreate
+tag: Button
+

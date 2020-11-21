@@ -1,0 +1,156 @@
+L4
+class: android.widget.ImageView
+bounds: [0, 84, 1440, 2392]
+resource-id: id/touch_event
+tag: Image
+
+L10
+class: android.widget.ImageButton
+bounds: [86, 1503, 268, 1685]
+resource-id: id/share_app_icon
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [85, 1717, 269, 1779]
+resource-id: id/share_app_name
+tag: Text
+
+L10
+class: android.widget.ImageButton
+bounds: [357, 1503, 539, 1685]
+resource-id: id/share_app_icon
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [333, 1717, 563, 1779]
+resource-id: id/share_app_name
+tag: Text
+
+L10
+class: android.widget.ImageButton
+bounds: [627, 1503, 809, 1685]
+resource-id: id/share_app_icon
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [640, 1717, 796, 1779]
+resource-id: id/share_app_name
+tag: Text
+
+L10
+class: android.widget.ImageButton
+bounds: [873, 1506, 1048, 1681]
+resource-id: id/share_app_icon
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [882, 1713, 1038, 1775]
+resource-id: id/share_app_name
+tag: Text
+
+L10
+class: android.widget.ImageButton
+bounds: [1113, 1503, 1295, 1685]
+resource-id: id/share_app_icon
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [1112, 1717, 1296, 1779]
+resource-id: id/share_app_name
+tag: Text
+
+L10
+class: android.widget.ImageButton
+bounds: [1364, 1506, 1440, 1681]
+resource-id: id/share_app_icon
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [1360, 1713, 1440, 1775]
+resource-id: id/share_app_name
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [0, 1836, 1440, 1838]
+resource-id: id/pop_menu_dividing_line1
+tag: Image
+
+L10
+class: android.widget.ImageButton
+bounds: [86, 1894, 268, 2076]
+resource-id: id/share_app_icon
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [85, 2108, 269, 2170]
+resource-id: id/share_app_name
+tag: Text
+
+L10
+class: android.widget.ImageButton
+bounds: [333, 1894, 515, 2076]
+resource-id: id/share_app_icon
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [398, 2108, 450, 2170]
+resource-id: id/share_app_name
+tag: Text
+
+L10
+class: android.widget.ImageButton
+bounds: [579, 1894, 761, 2076]
+resource-id: id/share_app_icon
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [647, 2108, 693, 2170]
+resource-id: id/share_app_name
+tag: Text
+
+L10
+class: android.widget.ImageButton
+bounds: [825, 1894, 1007, 2076]
+resource-id: id/share_app_icon
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [870, 2108, 962, 2170]
+resource-id: id/share_app_name
+tag: Text
+
+L10
+class: android.widget.ImageButton
+bounds: [1071, 1894, 1253, 2076]
+resource-id: id/share_app_icon
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [1116, 2108, 1208, 2170]
+resource-id: id/share_app_name
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [0, 2227, 1440, 2231]
+resource-id: id/pop_menu_dividing_line2
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [0, 2231, 1440, 2392]
+resource-id: id/footer_cancel
+tag: Text
+

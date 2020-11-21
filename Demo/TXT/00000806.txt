@@ -1,0 +1,90 @@
+L15
+class: com.cw.fullepisodes.android.view.FontTextView
+bounds: [0, 1470, 1440, 1628]
+resource-id: id/tv_tab_title
+tag: Text
+
+L21
+class: com.cw.fullepisodes.android.view.FontTextView
+bounds: [53, 2146, 612, 2205]
+resource-id: id/list_item_video_date
+tag: Video
+
+L19
+class: com.cw.fullepisodes.android.view.FontTextView
+bounds: [53, 2088, 1387, 2205]
+resource-id: id/list_item_video_type
+tag: Video
+
+L17
+class: com.cw.fullepisodes.android.view.ScalingImageView
+bounds: [0, 1628, 1440, 2560]
+resource-id: id/list_item_video_image
+tag: Video
+
+L12
+class: android.widget.RelativeLayout
+bounds: [0, 1470, 1440, 2560]
+resource-id: id/show_detail_videos_tab_container
+tag: Video
+
+L12
+class: android.widget.FrameLayout
+bounds: [0, 0, 1440, 1610]
+resource-id: id/container_gallery
+tag: Image
+
+L16
+class: android.widget.ImageView
+bounds: [0, 0, 1440, 1540]
+resource-id: id/home_promotion_gallery_item_image_overlay
+tag: Image
+
+L17
+class: android.widget.ProgressBar
+bounds: [587, 672, 853, 938]
+resource-id: id/progress_bar
+tag: Bar
+
+L11
+class: android.widget.RelativeLayout
+bounds: [0, 1225, 1440, 2560]
+resource-id: id/show_detail_videos_scroll_layout
+tag: Video
+
+L15
+class: android.widget.ProgressBar
+bounds: [587, 2110, 853, 2376]
+resource-id: id/progress_bar
+tag: Bar
+
+L18
+class: com.cw.fullepisodes.android.view.FontTextView
+bounds: [53, 2030, 196, 2088]
+resource-id: id/list_item_video_show_name
+tag: Video
+
+L20
+class: com.cw.fullepisodes.android.view.FontTextView
+bounds: [53, 2088, 989, 2146]
+resource-id: id/list_item_video_title
+tag: Video
+
+L16
+class: com.cw.fullepisodes.android.view.VideoProgress
+bounds: [4, 2251, 1436, 2258]
+resource-id: id/list_item_video_progress_bar
+tag: Video
+
+L9
+class: android.support.v7.widget.Toolbar
+bounds: [0, 88, 1440, 246]
+resource-id: id/toolbar
+tag: Bar
+
+L7
+class: android.widget.RelativeLayout
+bounds: [0, 0, 1440, 88]
+resource-id: id/system_bar_frame
+tag: Bar
+

@@ -1,0 +1,42 @@
+L5
+class: com.android.settings.widget.SwitchBar
+bounds: [0, 196, 1440, 392]
+resource-id: id/switch_bar
+tag: Bar
+
+L6
+class: android.widget.TextView
+bounds: [56, 247, 1218, 340]
+resource-id: id/switch_text
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [56, 392, 1384, 479]
+resource-id: id/title
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [56, 539, 1384, 662]
+resource-id: id/summary
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [0, 392, 1440, 2308]
+resource-id: id/empty
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 0, 1440, 196]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

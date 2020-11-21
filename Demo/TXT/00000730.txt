@@ -1,0 +1,264 @@
+L15
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [550, 944, 889, 1478]
+resource-id: id/step_dashboard_active_level
+tag: Text
+
+L12
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [527, 1631, 913, 1948]
+resource-id: id/tv_activities_count
+tag: Text
+
+L13
+class: cc.pacer.androidapp.ui.common.widget.SmoothlyChangeTextView
+bounds: [555, 394, 885, 620]
+resource-id: id/tv_activity_activetime_min_number
+tag: Text
+
+L13
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [103, 394, 295, 459]
+resource-id: id/tv_activity_calories_number_unit
+tag: Text
+
+L13
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [7, 394, 392, 459]
+resource-id: id/tv_today_activity_calories
+tag: Text
+
+L12
+class: cc.pacer.androidapp.ui.common.widget.SmoothlyChangeTextView
+bounds: [168, 466, 232, 620]
+resource-id: id/tv_activity_calories_number
+tag: Text
+
+L14
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [1176, 394, 1302, 459]
+resource-id: id/tv_activity_distance_number_unit
+tag: Text
+
+L14
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [1080, 394, 1399, 459]
+resource-id: id/tv_today_activity_distance_number_unit
+tag: Text
+
+L13
+class: cc.pacer.androidapp.ui.common.widget.SmoothlyChangeTextView
+bounds: [1160, 466, 1319, 620]
+resource-id: id/tv_activity_distance_number
+tag: Text
+
+L15
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [602, 1104, 837, 1201]
+resource-id: id/tv_activity_paused
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 778, 58, 1491]
+resource-id: id/iv_button_background
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1381, 778, 1440, 1491]
+resource-id: id/iv_button_background
+tag: Button
+
+L13
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [603, 1631, 836, 1702]
+resource-id: id/tv_title
+tag: Text
+
+L13
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [237, 1776, 1203, 1883]
+resource-id: id/tv_flag
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1258, 1491, 1426, 1659]
+resource-id: id/btn_activity_status
+tag: Image
+
+L7
+class: cc.pacer.androidapp.ui.common.widget.TopActionBar
+bounds: [0, 84, 1440, 382]
+resource-id: id/top_bar
+tag: NavigationBar
+
+L9
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 266]
+resource-id: id/top_bar_container
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [936, 119, 1062, 245]
+resource-id: id/top_bar_message_button
+tag: Button
+
+L10
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [1006, 112, 1062, 168]
+resource-id: id/top_bar_group_events_dot
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1303, 112, 1429, 238]
+resource-id: id/top_bar_more_button
+tag: Button
+
+L10
+class: android.widget.LinearLayout
+bounds: [0, 84, 353, 266]
+resource-id: id/ll_top_bar_title
+tag: Bar
+
+L11
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [0, 84, 286, 266]
+resource-id: id/tv_top_bar_center_title
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [286, 167, 318, 182]
+resource-id: id/iv_arrow_down
+tag: Image
+
+L10
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [0, 84, 421, 266]
+resource-id: id/tv_top_bar_swipe_title
+tag: Bar
+
+L10
+class: android.view.View
+bounds: [0, 264, 1440, 266]
+resource-id: id/action_bar_line
+tag: NavigationBar
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 266, 1440, 462]
+resource-id: id/plusbutton_item_gps
+tag: Button
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 463, 1440, 659]
+resource-id: id/plusbutton_item_exercise
+tag: Button
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 660, 1440, 856]
+resource-id: id/plusbutton_item_weight
+tag: Button
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 856, 1440, 1052]
+resource-id: id/plusbutton_item_upgrade
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1052, 1440, 1093]
+resource-id: id/plusButtonMenu_shadow
+tag: Image
+
+L8
+class: cc.pacer.androidapp.ui.common.plusbutton.PlusButton
+bounds: [1119, 99, 1268, 248]
+resource-id: id/plusButton
+tag: Button
+
+L6
+class: cc.pacer.androidapp.ui.common.widget.BottomTabBar
+bounds: [0, 1997, 1440, 2392]
+resource-id: id/bottom_bar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [85, 2046, 202, 2163]
+resource-id: id/bottom_tab_me_icon
+tag: Image
+
+L11
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [119, 2153, 168, 2200]
+resource-id: id/bottom_tab_me_text
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [373, 2046, 490, 2163]
+resource-id: id/bottom_tab_trend_icon
+tag: Image
+
+L11
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [378, 2153, 486, 2200]
+resource-id: id/bottom_tab_trend_text
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [661, 2062, 778, 2179]
+resource-id: id/bottom_tab_activity_icon
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [949, 2046, 1066, 2163]
+resource-id: id/bottom_tab_goal_icon
+tag: Image
+
+L11
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [964, 2153, 1052, 2200]
+resource-id: id/bottom_tab_goal_text
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1237, 2046, 1354, 2163]
+resource-id: id/bottom_tab_group_icon
+tag: Image
+
+L11
+class: cc.pacer.androidapp.ui.common.fonts.TypefaceTextView
+bounds: [1237, 2153, 1353, 2200]
+resource-id: id/bottom_tab_group_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1331, 2247, 1440, 2356]
+resource-id: id/remove_ads_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

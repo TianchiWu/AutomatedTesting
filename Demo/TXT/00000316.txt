@@ -1,0 +1,90 @@
+L5
+class: android.widget.TextView
+bounds: [53, 1791, 1137, 2076]
+resource-id: id/value_interested
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [0, 84, 1440, 2198]
+resource-id: id/avatar
+tag: Image
+
+L5
+class: android.widget.ProgressBar
+bounds: [636, 1057, 804, 1225]
+resource-id: id/wait
+tag: Bar
+
+L6
+class: android.widget.Button
+bounds: [1236, 1388, 1423, 1632]
+resource-id: id/to_vote
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [1236, 1657, 1423, 1901]
+resource-id: id/to_photos
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [1337, 1661, 1419, 1743]
+resource-id: id/num_photos
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [1236, 1926, 1423, 2170]
+resource-id: id/to_gifts
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [1337, 1930, 1419, 2012]
+resource-id: id/num_gifts
+tag: Text
+
+L6
+class: android.widget.RatingBar
+bounds: [53, 2076, 638, 2188]
+resource-id: id/rating
+tag: Bar
+
+L6
+class: android.widget.TextView
+bounds: [1089, 2103, 1137, 2160]
+resource-id: id/num_rates
+tag: Text
+
+L5
+class: android.widget.Button
+bounds: [0, 2198, 288, 2392]
+resource-id: id/wink_btn
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [288, 2198, 576, 2392]
+resource-id: id/chat_btn
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [576, 2198, 864, 2392]
+resource-id: id/favourites_btn
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [864, 2198, 1152, 2392]
+resource-id: id/gift_btn
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [1152, 2198, 1440, 2392]
+resource-id: id/report_btn
+tag: Button
+

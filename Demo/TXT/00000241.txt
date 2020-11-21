@@ -1,0 +1,108 @@
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [36, 1338, 766, 1409]
+resource-id: id/bmrlst
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatEditText
+bounds: [36, 517, 561, 661]
+resource-id: id/txt_query
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatEditText
+bounds: [36, 699, 561, 843]
+resource-id: id/txt_wquery
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatEditText
+bounds: [36, 899, 561, 1043]
+resource-id: id/txt_age
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [36, 358, 281, 429]
+resource-id: id/gender
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [281, 333, 481, 445]
+resource-id: id/radioMale
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [534, 333, 726, 445]
+resource-id: id/radioFemale
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [561, 517, 747, 629]
+resource-id: id/radioCM
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [782, 517, 936, 629]
+resource-id: id/radioIN
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [561, 717, 729, 829]
+resource-id: id/radioKG
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [764, 717, 919, 829]
+resource-id: id/radioLB
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [561, 899, 792, 1011]
+resource-id: id/radioMonth
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [827, 899, 1009, 1011]
+resource-id: id/radioYear
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [379, 1100, 753, 1268]
+resource-id: id/btcalculate
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [753, 1100, 1061, 1268]
+resource-id: id/btnreset
+tag: Button
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

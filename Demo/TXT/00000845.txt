@@ -1,0 +1,114 @@
+L10
+class: com.liquable.nemo.forum.view.DebugNetworkImageView
+bounds: [18, 492, 368, 2392]
+resource-id: id/boardIconImageView
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [417, 756, 798, 803]
+resource-id: id/favoriteCountTextView
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [417, 520, 1394, 756]
+resource-id: id/lastArticleTitleTextView
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [417, 1134, 758, 1181]
+resource-id: id/favoriteCountTextView
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [417, 898, 1394, 1134]
+resource-id: id/lastArticleTitleTextView
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [417, 1512, 774, 1559]
+resource-id: id/favoriteCountTextView
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [417, 1276, 1394, 1512]
+resource-id: id/lastArticleTitleTextView
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [417, 1890, 788, 1937]
+resource-id: id/favoriteCountTextView
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [417, 1654, 1394, 1890]
+resource-id: id/lastArticleTitleTextView
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [417, 2268, 774, 2315]
+resource-id: id/favoriteCountTextView
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [417, 2032, 1394, 2268]
+resource-id: id/lastArticleTitleTextView
+tag: Text
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1324, 520, 1394, 590]
+resource-id: id/countryImageView
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1324, 898, 1394, 968]
+resource-id: id/countryImageView
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1324, 1276, 1394, 1346]
+resource-id: id/countryImageView
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1324, 1654, 1394, 1724]
+resource-id: id/countryImageView
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1324, 2032, 1394, 2102]
+resource-id: id/countryImageView
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

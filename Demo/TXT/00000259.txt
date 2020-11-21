@@ -1,0 +1,12 @@
+L6
+class: android.widget.ImageView
+bounds: [1231, 0, 1440, 252]
+resource-id: id/ImageViewAppListClose
+tag: Image
+
+L4
+class: android.widget.ProgressBar
+bounds: [587, 1063, 853, 1329]
+resource-id: id/ProgressBarAppList
+tag: Bar
+

@@ -1,0 +1,42 @@
+L5
+class: android.widget.ImageButton
+bounds: [1268, 252, 1440, 396]
+resource-id: id/btn_search
+tag: Button
+
+L6
+class: android.widget.AutoCompleteTextView
+bounds: [0, 255, 1268, 393]
+resource-id: id/edit_text_search
+tag: Text
+
+L6
+class: android.widget.ImageButton
+bounds: [1138, 264, 1250, 376]
+resource-id: id/btn_clear
+tag: Button
+
+L4
+class: android.widget.ListView
+bounds: [0, 396, 1440, 2392]
+resource-id: id/list
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 670, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

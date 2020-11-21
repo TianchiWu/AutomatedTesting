@@ -1,0 +1,102 @@
+L9
+class: android.widget.ImageButton
+bounds: [28, 28, 305, 228]
+resource-id: id/buttonMenu
+tag: Button
+
+L8
+class: android.widget.ImageButton
+bounds: [305, 28, 582, 228]
+resource-id: id/toggleButtonRecord
+tag: Button
+
+L8
+class: android.widget.ImageButton
+bounds: [582, 28, 859, 228]
+resource-id: id/buttonStopLoops
+tag: Button
+
+L8
+class: android.widget.ImageButton
+bounds: [859, 28, 1136, 228]
+resource-id: id/toggleButtonSequencer
+tag: Button
+
+L8
+class: android.widget.ImageButton
+bounds: [1136, 28, 1412, 228]
+resource-id: id/btn_change_scene
+tag: Button
+
+L11
+class: com.agminstruments.drumpadmachine.ui.Pad
+bounds: [25, 250, 483, 708]
+resource-id: id/button1
+tag: Button
+
+L11
+class: com.agminstruments.drumpadmachine.ui.Pad
+bounds: [491, 250, 949, 708]
+resource-id: id/button2
+tag: Button
+
+L11
+class: com.agminstruments.drumpadmachine.ui.Pad
+bounds: [957, 250, 1415, 708]
+resource-id: id/button3
+tag: Button
+
+L11
+class: com.agminstruments.drumpadmachine.ui.Pad
+bounds: [957, 716, 1415, 1174]
+resource-id: id/button6
+tag: Button
+
+L11
+class: com.agminstruments.drumpadmachine.ui.Pad
+bounds: [957, 1182, 1415, 1640]
+resource-id: id/button9
+tag: Button
+
+L11
+class: com.agminstruments.drumpadmachine.ui.Pad
+bounds: [957, 1648, 1415, 2106]
+resource-id: id/button12
+tag: Button
+
+L7
+class: android.widget.RelativeLayout
+bounds: [0, 2217, 1440, 2392]
+resource-id: id/bottomPanel
+tag: Button
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 0, 1043, 221]
+resource-id: id/header
+tag: Header
+
+L9
+class: android.widget.ImageButton
+bounds: [0, 0, 193, 221]
+resource-id: id/button_back_no_wallet
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [394, 64, 649, 157]
+resource-id: id/menuTitle
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [28, 232, 1008, 358]
+resource-id: id/itemName
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

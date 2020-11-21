@@ -1,0 +1,90 @@
+L9
+class: android.widget.TextView
+bounds: [77, 245, 291, 301]
+resource-id: id/volume_title
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [1082, 653, 1363, 709]
+resource-id: id/volume_value
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [11, 804, 1429, 1035]
+resource-id: id/brand
+tag: Image
+
+L8
+class: android.widget.SeekBar
+bounds: [0, 1035, 1440, 1123]
+resource-id: id/sbVolume
+tag: Bar
+
+L10
+class: com.seattle.apps.CircleBar
+bounds: [18, 1141, 1422, 2304]
+resource-id: id/circlebar
+tag: Bar
+
+L6
+class: android.widget.ImageView
+bounds: [77, 245, 138, 306]
+resource-id: id/menu_ic
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [215, 233, 1216, 318]
+resource-id: id/menu_title
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [77, 462, 138, 523]
+resource-id: id/menu_ic
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [215, 450, 1216, 535]
+resource-id: id/menu_title
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [77, 679, 138, 740]
+resource-id: id/menu_ic
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [215, 667, 1216, 752]
+resource-id: id/menu_title
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 0, 1440, 168]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [1, 56, 57, 112]
+resource-id: id/up
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [15, 14, 155, 154]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [169, 41, 646, 126]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

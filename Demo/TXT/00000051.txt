@@ -1,0 +1,6 @@
+L4
+class: com.google.android.exoplayer.VideoSurfaceView
+bounds: [0, 839, 1440, 1637]
+resource-id: id/surface_view
+tag: Video
+

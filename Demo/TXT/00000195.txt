@@ -1,0 +1,6 @@
+L6
+class: w.MultiLangTextView
+bounds: [401, 2101, 1038, 2273]
+resource-id: id/tutorialGetStartedBtn
+tag: Text
+

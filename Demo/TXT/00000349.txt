@@ -1,0 +1,150 @@
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 449, 196, 1305]
+resource-id: id/name_text
+tag: Text
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/my_toolbar
+tag: Bar
+
+L7
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1020, 657]
+resource-id: id/app_bar
+tag: Bar
+
+L9
+class: android.widget.ImageView
+bounds: [56, 692, 154, 790]
+resource-id: id/nav_list_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [210, 708, 417, 774]
+resource-id: id/nav_list_item
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [56, 864, 154, 962]
+resource-id: id/nav_list_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [210, 880, 412, 946]
+resource-id: id/nav_list_item
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [56, 1036, 154, 1134]
+resource-id: id/nav_list_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [210, 1052, 347, 1118]
+resource-id: id/nav_list_item
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [56, 1208, 154, 1306]
+resource-id: id/nav_list_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [210, 1224, 363, 1290]
+resource-id: id/nav_list_item
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [56, 1380, 154, 1478]
+resource-id: id/nav_list_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [210, 1396, 333, 1462]
+resource-id: id/nav_list_item
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [56, 1552, 154, 1650]
+resource-id: id/nav_list_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [210, 1568, 371, 1634]
+resource-id: id/nav_list_item
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [56, 1724, 154, 1822]
+resource-id: id/nav_list_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [210, 1740, 445, 1806]
+resource-id: id/nav_list_item
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [56, 1896, 154, 1994]
+resource-id: id/nav_list_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [210, 1912, 425, 1978]
+resource-id: id/nav_list_item
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [56, 2068, 154, 2166]
+resource-id: id/nav_list_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [210, 2084, 473, 2150]
+resource-id: id/nav_list_item
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [56, 2240, 154, 2338]
+resource-id: id/nav_list_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [210, 2256, 325, 2322]
+resource-id: id/nav_list_item
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

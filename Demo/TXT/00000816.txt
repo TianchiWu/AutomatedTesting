@@ -1,0 +1,102 @@
+L11
+class: com.wsi.android.weather.ui.videoplayer.WSIVideoPlayer
+bounds: [0, 273, 1440, 1334]
+resource-id: id/video_player
+tag: Video
+
+L10
+class: com.wsi.android.weather.ui.videoplayer.WSIVideoPlayerWithAdPlayback
+bounds: [0, 238, 1440, 2392]
+resource-id: id/fragment_video_player_content
+tag: Video
+
+L3
+class: android.support.v7.widget.FitWindowsLinearLayout
+bounds: [0, 84, 1440, 2392]
+resource-id: id/action_bar_root
+tag: Image
+
+L12
+class: android.widget.FrameLayout
+bounds: [0, 2241, 1440, 2392]
+resource-id: id/application_root_view_controlbar_bottom_holder
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 2245, 98, 2392]
+resource-id: id/navigation_bar_scroll_to_left_button
+tag: Button
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1342, 2245, 1440, 2392]
+resource-id: id/navigation_bar_scroll_to_right_button
+tag: Button
+
+L16
+class: com.wsi.android.framework.app.ui.widget.HorizontalScrollView
+bounds: [98, 2245, 1342, 2392]
+resource-id: id/navigation_bar_scroll
+tag: Bar
+
+L12
+class: android.widget.FrameLayout
+bounds: [0, 259, 1440, 385]
+resource-id: id/application_root_view_controlbar_top_holder
+tag: Bar
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 259, 350, 382]
+resource-id: id/station_logo
+tag: Image
+
+L15
+class: com.wsi.android.weather.ui.widget.LocationBar
+bounds: [350, 259, 1299, 382]
+resource-id: id/location_bar
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [498, 259, 1151, 382]
+resource-id: id/current_location_btn
+tag: Text
+
+L14
+class: android.view.View
+bounds: [0, 382, 1440, 385]
+resource-id: id/top_bar_bottom_divider
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 119, 119, 203]
+resource-id: id/video_player_fragment_close_button
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [508, 356, 744, 431]
+resource-id: id/video_time
+tag: Video
+
+L12
+class: android.widget.ProgressBar
+bounds: [636, 845, 804, 1013]
+resource-id: id/video_player_progress_bar
+tag: Video
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

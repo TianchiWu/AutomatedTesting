@@ -1,0 +1,174 @@
+L11
+class: android.widget.TextView
+bounds: [0, 1344, 1405, 2392]
+resource-id: id/serviceListServiceName
+tag: Text
+
+L14
+class: android.widget.ImageView
+bounds: [158, 932, 416, 978]
+resource-id: id/start5
+tag: Image
+
+L14
+class: android.widget.TextView
+bounds: [961, 1362, 1168, 1502]
+resource-id: id/serviceListServiceVariantDuration
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [961, 1562, 1168, 1702]
+resource-id: id/serviceListServiceVariantDuration
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [961, 1762, 1168, 1902]
+resource-id: id/serviceListServiceVariantDuration
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [961, 1962, 1168, 2102]
+resource-id: id/serviceListServiceVariantDuration
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [961, 2162, 1168, 2302]
+resource-id: id/serviceListServiceVariantDuration
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [18, 569, 1422, 738]
+resource-id: id/txtBusinessAddress
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [463, 902, 1387, 1009]
+resource-id: id/showReviews
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [363, 1044, 1077, 1299]
+resource-id: id/ctvMapAndDetails
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [246, 91, 1194, 241]
+resource-id: id/txtDescription
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [1186, 1362, 1405, 1502]
+resource-id: id/serviceListServiceVariantEdit
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [1186, 1562, 1405, 1702]
+resource-id: id/serviceListServiceVariantEdit
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [1186, 1762, 1405, 1902]
+resource-id: id/serviceListServiceVariantEdit
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [1186, 1962, 1405, 2102]
+resource-id: id/serviceListServiceVariantEdit
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [1186, 2162, 1405, 2302]
+resource-id: id/serviceListServiceVariantEdit
+tag: Text
+
+L14
+class: android.widget.Button
+bounds: [0, 1335, 720, 1503]
+resource-id: id/loadResultsPrev
+tag: Button
+
+L14
+class: android.widget.Button
+bounds: [720, 1335, 1440, 1503]
+resource-id: id/loadResultsNext
+tag: Button
+
+L9
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 1224]
+resource-id: id/appBarLayout
+tag: Bar
+
+L12
+class: android.widget.ImageView
+bounds: [0, 84, 1440, 1044]
+resource-id: id/imgBusinessPhoto
+tag: Image
+
+L13
+class: android.widget.ImageView
+bounds: [35, 903, 140, 1008]
+resource-id: id/businessLogoView
+tag: Image
+
+L14
+class: android.widget.TextView
+bounds: [0, 1044, 480, 1219]
+resource-id: id/ctvServices
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [960, 1044, 1440, 1219]
+resource-id: id/ctvInpirations
+tag: Text
+
+L11
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 259]
+resource-id: id/toolbar
+tag: Header
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 294]
+resource-id: id/headerLayout
+tag: Header
+
+L9
+class: net.booksy.customer.views.header.TwoTextHeaderView
+bounds: [0, 84, 1440, 259]
+resource-id: id/header
+tag: Header
+
+L12
+class: android.widget.ImageView
+bounds: [18, 134, 99, 208]
+resource-id: id/imgLeft
+tag: Image
+
+L12
+class: android.widget.ImageView
+bounds: [1359, 138, 1422, 205]
+resource-id: id/imgRight
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [0, 2246, 1440, 2392]
+resource-id: id/imgAddBookmark
+tag: Text
+

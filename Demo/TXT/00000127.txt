@@ -1,0 +1,90 @@
+L12
+class: android.widget.TextView
+bounds: [138, 277, 356, 2003]
+resource-id: id/my_textview
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [610, 277, 828, 2003]
+resource-id: id/my_textview
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1082, 277, 1300, 2003]
+resource-id: id/my_textview
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [22, 2003, 1335, 2161]
+resource-id: id/m_image
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [245, 497, 1195, 1743]
+resource-id: id/m_image
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [18, 270, 296, 384]
+resource-id: id/logo_image
+tag: Image
+
+L7
+class: android.widget.EditText
+bounds: [7, 1995, 1433, 2153]
+resource-id: id/entry_text
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [7, 1995, 165, 2153]
+resource-id: id/sticko_btn
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [1275, 1995, 1433, 2153]
+resource-id: id/pencil_icon_btn
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [46, 2189, 214, 2357]
+resource-id: id/imageView
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [284, 2189, 452, 2357]
+resource-id: id/imageView
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [522, 2189, 690, 2357]
+resource-id: id/imageView
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [760, 2189, 928, 2357]
+resource-id: id/imageView
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [998, 2189, 1166, 2357]
+resource-id: id/imageView
+tag: Image
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+

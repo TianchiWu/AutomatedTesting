@@ -1,0 +1,138 @@
+L12
+class: com.odigeo.app.android.lib.ui.widgets.CustomTextView
+bounds: [54, 495, 695, 664]
+resource-id: id/txtButtonWithHint_text
+tag: Text
+
+L12
+class: com.odigeo.app.android.lib.ui.widgets.CustomTextView
+bounds: [756, 495, 1397, 664]
+resource-id: id/txtButtonWithHint_text
+tag: Text
+
+L12
+class: com.odigeo.app.android.lib.ui.widgets.CustomTextView
+bounds: [54, 750, 695, 887]
+resource-id: id/txtButtonWithHint_text
+tag: Text
+
+L12
+class: com.odigeo.app.android.lib.ui.widgets.CustomTextView
+bounds: [756, 750, 1397, 887]
+resource-id: id/txtButtonWithHint_text
+tag: Text
+
+L12
+class: com.odigeo.app.android.lib.ui.widgets.CustomTextView
+bounds: [54, 989, 1397, 1126]
+resource-id: id/txtButtonWithHint_text
+tag: Text
+
+L10
+class: com.odigeo.app.android.lib.ui.widgets.ButtonSearchDestination
+bounds: [18, 466, 720, 694]
+resource-id: id/cell_from
+tag: Button
+
+L10
+class: com.odigeo.app.android.lib.ui.widgets.ButtonSearchDestination
+bounds: [720, 466, 1422, 694]
+resource-id: id/cell_to
+tag: Button
+
+L10
+class: com.odigeo.app.android.lib.ui.widgets.ButtonSearchDate
+bounds: [18, 705, 720, 933]
+resource-id: id/cell_dateGo
+tag: Button
+
+L10
+class: com.odigeo.app.android.lib.ui.widgets.ButtonSearchDate
+bounds: [720, 705, 1422, 933]
+resource-id: id/cell_dateReturn
+tag: Button
+
+L10
+class: com.odigeo.app.android.lib.ui.widgets.ButtonPassengers
+bounds: [18, 944, 1422, 1172]
+resource-id: id/cell_passengers
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [762, 1225, 1380, 1291]
+resource-id: id/hint
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [797, 1326, 1177, 1392]
+resource-id: id/text1
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [106, 1473, 1334, 1655]
+resource-id: id/button_acept_widgetSearchActivity
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [18, 1690, 1271, 1825]
+resource-id: id/tvSearchHistoryTitle
+tag: Text
+
+L10
+class: android.widget.ImageButton
+bounds: [1306, 1717, 1387, 1798]
+resource-id: id/ibtnClearHistory
+tag: Button
+
+L16
+class: android.widget.ImageView
+bounds: [426, 1898, 475, 1923]
+resource-id: id/icon_history_search_row
+tag: Image
+
+L15
+class: com.odigeo.app.android.lib.ui.widgets.CustomTextView
+bounds: [71, 1946, 390, 2008]
+resource-id: id/dates_history_search
+tag: Text
+
+L15
+class: android.widget.ImageView
+bounds: [390, 1954, 492, 2000]
+resource-id: id/icon_passenger_row_history_search
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [492, 1944, 520, 2010]
+resource-id: id/number_passengers_row_history_search
+tag: Text
+
+L4
+class: android.support.v7.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 448]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L5
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

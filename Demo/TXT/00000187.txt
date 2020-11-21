@@ -1,0 +1,78 @@
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 84, 1440, 284]
+resource-id: id/tvTitleActMain
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 278, 1440, 446]
+resource-id: id/imageView
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [347, 551, 1093, 648]
+resource-id: id/lbl_dob
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [87, 718, 1352, 815]
+resource-id: id/tvDateOfBirth
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [360, 956, 1080, 1053]
+resource-id: id/lbl_dob_father
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [87, 1123, 1352, 1220]
+resource-id: id/tvDateOfBirthFather
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [664, 1256, 776, 2030]
+resource-id: id/tvDobGuideMessage
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [1132, 2085, 1384, 2337]
+resource-id: id/btnOK
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 2065, 721, 2357]
+resource-id: id/imgNewApp
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [666, 2079, 778, 2191]
+resource-id: id/imgNewIcon
+tag: Image
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

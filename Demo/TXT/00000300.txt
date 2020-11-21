@@ -1,0 +1,252 @@
+L11
+class: com.andexert.library.RippleView
+bounds: [14, 615, 1426, 1855]
+resource-id: id/rl_con
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 1142, 190, 1202]
+resource-id: id/iv_icon_group
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [769, 1142, 910, 1202]
+resource-id: id/iv_icon_group
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 1776, 190, 1836]
+resource-id: id/iv_icon_group
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [769, 1776, 910, 1836]
+resource-id: id/iv_icon_group
+tag: Image
+
+L6
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 316]
+resource-id: id/tabAppbar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [116, 136, 237, 257]
+resource-id: id/photoImageView
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [384, 136, 505, 257]
+resource-id: id/sayImageView
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [656, 136, 777, 257]
+resource-id: id/clubImageView
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [928, 136, 1049, 257]
+resource-id: id/chatImageView
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1200, 136, 1321, 257]
+resource-id: id/myImageView
+tag: Image
+
+L8
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 316, 1440, 468]
+resource-id: id/tabAppbar
+tag: Bar
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [91, 316, 196, 456]
+resource-id: id/tabTitleText
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [294, 316, 371, 456]
+resource-id: id/tabTitleText
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [469, 316, 598, 456]
+resource-id: id/tabTitleText
+tag: Text
+
+L11
+class: com.andexert.library.RippleView
+bounds: [1228, 316, 1440, 468]
+resource-id: id/myRippleView
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [49, 1050, 671, 1131]
+resource-id: id/tv_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [208, 1148, 231, 1195]
+resource-id: id/tv_group_count
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [266, 1152, 294, 1191]
+resource-id: id/iv_icon_distance
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [312, 1148, 452, 1195]
+resource-id: id/tv_distance_count
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [769, 1050, 1391, 1131]
+resource-id: id/tv_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [928, 1148, 946, 1195]
+resource-id: id/tv_group_count
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [981, 1152, 1009, 1191]
+resource-id: id/iv_icon_distance
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1027, 1148, 1167, 1195]
+resource-id: id/tv_distance_count
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [49, 1684, 671, 1765]
+resource-id: id/tv_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [208, 1782, 226, 1829]
+resource-id: id/tv_group_count
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [261, 1786, 289, 1825]
+resource-id: id/iv_icon_distance
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [307, 1782, 447, 1829]
+resource-id: id/tv_distance_count
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [769, 1684, 1391, 1765]
+resource-id: id/tv_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [928, 1782, 946, 1829]
+resource-id: id/tv_group_count
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [981, 1786, 1009, 1825]
+resource-id: id/iv_icon_distance
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1027, 1782, 1166, 1829]
+resource-id: id/tv_distance_count
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [14, 1883, 1426, 2392]
+resource-id: id/iv_content
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1331, 1925, 1366, 1960]
+resource-id: id/iv_privacy
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 2386, 165, 2392]
+resource-id: id/iv_user_photo
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [200, 2362, 1167, 2392]
+resource-id: id/tv_title
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [92, 468, 984, 591]
+resource-id: id/myLocationTextView
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1090, 468, 1274, 591]
+resource-id: id/nearTypeTextView
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1292, 468, 1348, 591]
+resource-id: id/distanceTextView
+tag: Text
+
+L6
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1189, 2141, 1412, 2364]
+resource-id: id/floatButton
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

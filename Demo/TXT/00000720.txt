@@ -1,0 +1,42 @@
+L6
+class: android.widget.ImageView
+bounds: [360, 2170, 1080, 2392]
+resource-id: id/cart_image
+tag: Image
+
+L5
+class: android.widget.RelativeLayout
+bounds: [0, 2170, 360, 2392]
+resource-id: id/deal
+tag: Image
+
+L5
+class: android.widget.RelativeLayout
+bounds: [1080, 2170, 1440, 2392]
+resource-id: id/account
+tag: Image
+
+L4
+class: android.widget.ProgressBar
+bounds: [633, 882, 807, 1056]
+resource-id: id/progress_dialog
+tag: Bar
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 403, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

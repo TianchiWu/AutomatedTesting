@@ -1,0 +1,114 @@
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 280, 1440, 1270]
+resource-id: id/banner
+tag: Image
+
+L12
+class: hs.TextView
+bounds: [56, 322, 721, 398]
+resource-id: id/title
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 398, 161, 503]
+resource-id: id/icon
+tag: Image
+
+L12
+class: hs.TextView
+bounds: [56, 503, 721, 839]
+resource-id: id/text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [70, 1332, 228, 1490]
+resource-id: id/icon
+tag: Image
+
+L13
+class: hs.TextView
+bounds: [298, 1376, 513, 1445]
+resource-id: id/text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [513, 1358, 1370, 1463]
+resource-id: id/lock
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [70, 1613, 228, 1771]
+resource-id: id/icon
+tag: Image
+
+L13
+class: hs.TextView
+bounds: [298, 1657, 618, 1726]
+resource-id: id/text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [618, 1639, 1370, 1744]
+resource-id: id/lock
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [70, 1894, 228, 2052]
+resource-id: id/icon
+tag: Image
+
+L13
+class: hs.TextView
+bounds: [298, 1938, 643, 2007]
+resource-id: id/text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [643, 1920, 1370, 2025]
+resource-id: id/lock
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [70, 2175, 228, 2333]
+resource-id: id/icon
+tag: Image
+
+L13
+class: hs.TextView
+bounds: [298, 2219, 483, 2288]
+resource-id: id/text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [483, 2201, 1370, 2306]
+resource-id: id/lock
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

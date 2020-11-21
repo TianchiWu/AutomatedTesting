@@ -1,0 +1,78 @@
+L8
+class: com.android.contacts.common.list.ViewPagerTabs
+bounds: [0, 308, 1440, 459]
+resource-id: id/lists_pager_header
+tag: Header
+
+L12
+class: com.android.dialer.list.PhoneFavoriteSquareTileView
+bounds: [4, 466, 722, 1011]
+resource-id: id/contact_tile
+tag: Image
+
+L16
+class: android.widget.TextView
+bounds: [46, 855, 680, 926]
+resource-id: id/contact_tile_name
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [46, 926, 680, 979]
+resource-id: id/contact_tile_phone_type
+tag: Text
+
+L14
+class: android.widget.ImageButton
+bounds: [596, 466, 722, 592]
+resource-id: id/contact_tile_secondary_button
+tag: Button
+
+L4
+class: android.widget.FrameLayout
+bounds: [622, 2140, 818, 2336]
+resource-id: id/floating_action_button_container
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 308]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L4
+class: com.android.dialer.widget.SearchEditTextLayout
+bounds: [28, 112, 1412, 280]
+resource-id: id/search_view_container
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [70, 147, 168, 245]
+resource-id: id/search_magnifying_glass
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [259, 163, 1258, 229]
+resource-id: id/search_box_start_search
+tag: Text
+
+L6
+class: android.widget.ImageButton
+bounds: [1272, 147, 1370, 245]
+resource-id: id/dialtacts_options_menu_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

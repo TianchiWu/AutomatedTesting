@@ -1,0 +1,36 @@
+L5
+class: android.widget.TableRow
+bounds: [28, 308, 1412, 483]
+resource-id: id/tr_ads
+tag: Button
+
+L6
+class: android.widget.EditText
+bounds: [46, 534, 1086, 619]
+resource-id: id/et_search
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [1086, 501, 1394, 669]
+resource-id: id/bt_search
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

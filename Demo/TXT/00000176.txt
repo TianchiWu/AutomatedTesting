@@ -1,0 +1,108 @@
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [667, 1066, 772, 1220]
+resource-id: id/pointer
+tag: Image
+
+L3
+class: android.support.v7.widget.FitWindowsLinearLayout
+bounds: [0, 0, 1440, 2392]
+resource-id: id/action_bar_root
+tag: Image
+
+L10
+class: android.widget.LinearLayout
+bounds: [0, 0, 1440, 280]
+resource-id: id/addressFrame
+tag: Bar
+
+L13
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+
+L13
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbarBackground
+tag: Bar
+
+L14
+class: com.tblabs.presentation.components.custom.textview.TaxibeatTextView
+bounds: [0, 84, 168, 280]
+resource-id: id/leftAction
+tag: Text
+
+L15
+class: com.tblabs.presentation.components.custom.textview.TaxibeatTextView
+bounds: [224, 84, 1328, 280]
+resource-id: id/title
+tag: Text
+
+L14
+class: com.tblabs.presentation.components.custom.textview.TaxibeatTextView
+bounds: [1328, 84, 1440, 280]
+resource-id: id/rightAction
+tag: Text
+
+L12
+class: com.tblabs.presentation.components.custom.textview.TaxibeatTextView
+bounds: [64, 2237, 1411, 2362]
+resource-id: id/fare_price
+tag: Text
+
+L15
+class: com.tblabs.presentation.components.custom.textview.TaxibeatTextView
+bounds: [113, 2385, 920, 2392]
+resource-id: id/main_label
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 0, 1440, 2392]
+resource-id: id/fake_map
+tag: Image
+
+L11
+class: com.tblabs.presentation.components.custom.textview.TaxibeatTextView
+bounds: [611, 617, 828, 836]
+resource-id: id/errorIcon
+tag: Text
+
+L11
+class: com.tblabs.presentation.components.custom.textview.TaxibeatTextView
+bounds: [165, 934, 1275, 1135]
+resource-id: id/errorTitle
+tag: Text
+
+L11
+class: com.tblabs.presentation.components.custom.textview.TaxibeatTextView
+bounds: [126, 1186, 1314, 1340]
+resource-id: id/errorMessage
+tag: Text
+
+L12
+class: com.tblabs.presentation.components.custom.TaxibeatButton
+bounds: [28, 1690, 1412, 1858]
+resource-id: id/enableGPSButton
+tag: Button
+
+L13
+class: com.tblabs.presentation.components.custom.textview.TaxibeatTextView
+bounds: [60, 1706, 1331, 1834]
+resource-id: id/text1
+tag: Text
+
+L12
+class: com.tblabs.presentation.components.custom.textview.TaxibeatTextView
+bounds: [126, 1690, 1314, 1774]
+resource-id: id/retryMessage
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

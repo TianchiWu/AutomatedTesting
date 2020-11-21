@@ -1,0 +1,84 @@
+L4
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 266]
+resource-id: id/fixed_titlebar_container
+tag: Bar
+
+L8
+class: android.widget.ImageButton
+bounds: [1104, 84, 1272, 266]
+resource-id: id/tab_switcher
+tag: Button
+
+L8
+class: android.widget.ImageButton
+bounds: [1272, 84, 1440, 266]
+resource-id: id/more
+tag: Button
+
+L7
+class: com.android.browser.PageProgressView
+bounds: [0, 228, 1440, 266]
+resource-id: id/progress
+tag: Bar
+
+L10
+class: android.widget.LinearLayout
+bounds: [303, 132, 1143, 244]
+resource-id: id/titlebar
+tag: Bar
+
+L11
+class: android.widget.TextView
+bounds: [331, 132, 947, 244]
+resource-id: id/title
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [947, 132, 1143, 244]
+resource-id: id/closetab
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [303, 244, 1143, 804]
+resource-id: id/tab_view
+tag: Image
+
+L10
+class: android.widget.LinearLayout
+bounds: [303, 902, 1143, 1014]
+resource-id: id/titlebar
+tag: Bar
+
+L11
+class: android.widget.TextView
+bounds: [331, 902, 947, 1014]
+resource-id: id/title
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [947, 902, 1143, 1014]
+resource-id: id/closetab
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [303, 1014, 1143, 1574]
+resource-id: id/tab_view
+tag: Image
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 266]
+resource-id: id/tabbar
+tag: Bar
+
+L7
+class: android.widget.ImageButton
+bounds: [936, 84, 1104, 266]
+resource-id: id/newtab
+tag: Button
+

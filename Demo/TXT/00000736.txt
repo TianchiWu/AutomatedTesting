@@ -1,0 +1,42 @@
+L7
+class: android.support.v7.widget.AppCompatEditText
+bounds: [42, 665, 1398, 981]
+resource-id: id/login_password_edit_text
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 84, 1440, 609]
+resource-id: id/create_account_image
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 308, 1440, 458]
+resource-id: id/textView3
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [56, 1037, 1384, 1205]
+resource-id: id/login_account_button
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [56, 1261, 1384, 1429]
+resource-id: id/forgot_password_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

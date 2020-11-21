@@ -1,0 +1,48 @@
+L10
+class: com.scvngr.levelup.app.afx
+bounds: [195, 449, 1245, 740]
+resource-id: id/date_picker_header_date
+tag: Header
+
+L7
+class: android.widget.DatePicker
+bounds: [111, 449, 1329, 1986]
+resource-id: id/levelup_date_picker
+tag: Picker
+
+L9
+class: android.widget.LinearLayout
+bounds: [111, 449, 1329, 803]
+resource-id: id/date_picker_header
+tag: Header
+
+L9
+class: com.android.internal.widget.DialogViewAnimator
+bounds: [111, 803, 1329, 1986]
+resource-id: id/animator
+tag: Picker
+
+L10
+class: android.widget.YearPickerView
+bounds: [111, 803, 1329, 1986]
+resource-id: id/date_picker_year_picker
+tag: Picker
+
+L4
+class: com.android.internal.widget.ButtonBarLayout
+bounds: [92, 1986, 1348, 2182]
+resource-id: id/buttonPanel
+tag: Button
+
+L5
+class: com.scvngr.levelup.app.aeu
+bounds: [811, 2000, 1082, 2168]
+resource-id: id/button2
+tag: Button
+
+L5
+class: com.scvngr.levelup.app.aeu
+bounds: [1082, 2000, 1306, 2168]
+resource-id: id/button1
+tag: Button
+

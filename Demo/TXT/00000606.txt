@@ -1,0 +1,12 @@
+L6
+class: android.widget.TextView
+bounds: [0, 1201, 1440, 2064]
+resource-id: id/TvGameplay
+tag: Text
+
+L4
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 217]
+resource-id: id/linearLayout1
+tag: Text
+

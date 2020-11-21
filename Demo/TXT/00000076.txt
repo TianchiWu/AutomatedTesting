@@ -1,0 +1,6 @@
+L6
+class: android.widget.TextView
+bounds: [215, 621, 1232, 1858]
+resource-id: id/spinnertext
+tag: Text
+

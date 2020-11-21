@@ -1,0 +1,120 @@
+L11
+class: android.widget.TextView
+bounds: [237, 127, 840, 266]
+resource-id: id/myLocationInfo
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [31, 109, 206, 284]
+resource-id: id/myProfilePicture
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [848, 84, 1050, 309]
+resource-id: id/myEditProfileButton
+tag: Image
+
+L9
+class: android.widget.Button
+bounds: [0, 309, 1050, 471]
+resource-id: id/menu_item_home
+tag: Button
+
+L9
+class: android.widget.Button
+bounds: [0, 471, 1050, 633]
+resource-id: id/menu_item_matchgame
+tag: Button
+
+L10
+class: android.widget.Button
+bounds: [0, 633, 1050, 795]
+resource-id: id/menu_item_mutual_matches
+tag: Button
+
+L9
+class: android.widget.Button
+bounds: [0, 795, 1050, 957]
+resource-id: id/menu_item_onlinenow
+tag: Button
+
+L9
+class: android.widget.Button
+bounds: [0, 957, 1050, 1119]
+resource-id: id/menu_item_search
+tag: Button
+
+L9
+class: android.widget.Button
+bounds: [0, 1119, 1050, 1281]
+resource-id: id/menu_item_statusfeed
+tag: Button
+
+L10
+class: android.widget.Button
+bounds: [0, 1281, 1050, 1443]
+resource-id: id/menu_item_messages
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [880, 1316, 1015, 1414]
+resource-id: id/menu_item_messages_count
+tag: Text
+
+L10
+class: android.widget.Button
+bounds: [0, 1443, 1050, 1605]
+resource-id: id/menu_item_viewedme
+tag: Button
+
+L10
+class: android.widget.Button
+bounds: [0, 1605, 1050, 1767]
+resource-id: id/menu_item_friendsandfavs
+tag: Button
+
+L9
+class: android.widget.Button
+bounds: [0, 1767, 1050, 1929]
+resource-id: id/menu_item_settings
+tag: Button
+
+L9
+class: android.widget.Button
+bounds: [0, 1929, 1050, 2091]
+resource-id: id/menu_item_feedback
+tag: Button
+
+L9
+class: android.widget.Button
+bounds: [0, 2109, 1050, 2249]
+resource-id: id/menu_item_logout
+tag: Button
+
+L8
+class: com.greatpersonalsmedia.android.layout.TitleBar
+bounds: [1049, 84, 1440, 252]
+resource-id: id/titlebar
+tag: Bar
+
+L11
+class: android.widget.LinearLayout
+bounds: [1049, 101, 1264, 234]
+resource-id: id/titlebar_menu_button
+tag: Button
+
+L11
+class: android.widget.LinearLayout
+bounds: [1317, 84, 1440, 252]
+resource-id: id/titlebar_center_layout
+tag: Bar
+
+L16
+class: android.widget.ImageView
+bounds: [1067, 270, 1417, 620]
+resource-id: id/profileImage
+tag: Image
+

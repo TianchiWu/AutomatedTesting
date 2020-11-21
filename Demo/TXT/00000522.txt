@@ -1,0 +1,132 @@
+L7
+class: android.widget.TextView
+bounds: [171, 329, 322, 399]
+resource-id: id/drawer_title
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [147, 554, 346, 624]
+resource-id: id/drawer_title
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [129, 779, 364, 849]
+resource-id: id/drawer_title
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [181, 1004, 312, 1074]
+resource-id: id/drawer_title
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [154, 1229, 340, 1299]
+resource-id: id/drawer_title
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [553, 329, 1383, 399]
+resource-id: id/linearLayoutTitle
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [553, 554, 1383, 624]
+resource-id: id/linearLayoutTitle
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [553, 779, 1383, 849]
+resource-id: id/linearLayoutTitle
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [553, 1075, 1383, 1145]
+resource-id: id/linearLayoutTitle
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [553, 1300, 1383, 1370]
+resource-id: id/linearLayoutTitle
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [553, 1525, 1383, 1595]
+resource-id: id/linearLayoutTitle
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [553, 1750, 1383, 1820]
+resource-id: id/linearLayoutTitle
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [553, 1975, 1383, 2045]
+resource-id: id/linearLayoutTitle
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [553, 2200, 1383, 2270]
+resource-id: id/linearLayoutTitle
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L5
+class: android.widget.SearchView
+bounds: [418, 84, 614, 252]
+resource-id: id/options_menu_search
+tag: Button
+
+L6
+class: android.widget.ImageView
+bounds: [657, 106, 780, 229]
+resource-id: id/account_menu_imageview
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [869, 106, 992, 229]
+resource-id: id/inbox_menu_image
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [949, 100, 1019, 163]
+resource-id: id/inbox_badge_text
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [1079, 106, 1202, 229]
+resource-id: id/bag_menu_image
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [1159, 100, 1229, 163]
+resource-id: id/bag_badge_text
+tag: Text
+

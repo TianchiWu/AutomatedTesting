@@ -1,0 +1,54 @@
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [289, 835, 1151, 1283]
+resource-id: id/topStatusTextView
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [289, 1371, 1151, 1540]
+resource-id: id/subStatusTextView
+tag: Text
+
+L11
+class: net.adventureprojects.android.widget.MapFollowButton
+bounds: [1265, 252, 1426, 413]
+resource-id: id/mapFollowButton
+tag: Button
+
+L11
+class: net.adventureprojects.android.widget.TwoStateButton
+bounds: [1265, 427, 1426, 588]
+resource-id: id/satButton
+tag: Button
+
+L10
+class: net.adventureprojects.android.widget.MapToolbar
+bounds: [0, 84, 1440, 252]
+resource-id: id/toolbar
+tag: Bar
+
+L13
+class: android.widget.ProgressBar
+bounds: [667, 1427, 772, 1532]
+resource-id: id/progressSpinner
+tag: Bar
+
+L13
+class: android.widget.ProgressBar
+bounds: [289, 1596, 1151, 1624]
+resource-id: id/progressBar
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

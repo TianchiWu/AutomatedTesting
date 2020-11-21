@@ -1,0 +1,102 @@
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [127, 804, 1313, 907]
+resource-id: id/scale_text
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [92, 942, 1348, 1702]
+resource-id: id/button_area
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [103, 953, 500, 1121]
+resource-id: id/button_1
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [522, 953, 919, 1121]
+resource-id: id/button_2
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [941, 953, 1337, 1121]
+resource-id: id/button_3
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [103, 1143, 500, 1311]
+resource-id: id/button_4
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [522, 1143, 919, 1311]
+resource-id: id/button_5
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [941, 1143, 1337, 1311]
+resource-id: id/button_6
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [103, 1333, 500, 1501]
+resource-id: id/button_7
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [522, 1333, 919, 1501]
+resource-id: id/button_8
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [941, 1333, 1337, 1501]
+resource-id: id/button_9
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [103, 1523, 500, 1691]
+resource-id: id/button_c
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [522, 1523, 919, 1691]
+resource-id: id/button_0
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [941, 1523, 1337, 1691]
+resource-id: id/button_d
+tag: Button
+
+L4
+class: com.android.internal.widget.ButtonBarLayout
+bounds: [92, 1702, 1348, 1898]
+resource-id: id/buttonPanel
+tag: Button
+
+L5
+class: android.support.v7.widget.AppCompatButton
+bounds: [811, 1716, 1082, 1884]
+resource-id: id/button2
+tag: Button
+
+L5
+class: android.support.v7.widget.AppCompatButton
+bounds: [1082, 1716, 1306, 1884]
+resource-id: id/button1
+tag: Button
+

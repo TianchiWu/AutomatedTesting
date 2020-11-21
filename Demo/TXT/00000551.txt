@@ -1,0 +1,144 @@
+L9
+class: android.widget.TextView
+bounds: [228, 467, 1440, 614]
+resource-id: id/artist
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [245, 273, 1405, 420]
+resource-id: id/artist
+tag: Text
+
+L5
+class: android.widget.Button
+bounds: [35, 108, 203, 213]
+resource-id: id/back_btn
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [456, 118, 983, 203]
+resource-id: id/pro_title
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [265, 1578, 1175, 1694]
+resource-id: id/make_btn
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [265, 1729, 1175, 1845]
+resource-id: id/mgr_btn
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [265, 1880, 1175, 1996]
+resource-id: id/inapp_btn
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [265, 2031, 1175, 2147]
+resource-id: id/help_btn
+tag: Button
+
+L8
+class: android.widget.EditText
+bounds: [158, 256, 1405, 424]
+resource-id: id/search_filter
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [0, 442, 210, 652]
+resource-id: id/album_img
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [0, 495, 1440, 571]
+resource-id: id/no_list
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [1274, 95, 1405, 226]
+resource-id: id/help_btn
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [35, 273, 210, 448]
+resource-id: id/album_img
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [1299, 414, 1405, 471]
+resource-id: id/duration
+tag: Text
+
+L9
+class: android.widget.SeekBar
+bounds: [844, 712, 1422, 815]
+resource-id: id/seek_len
+tag: Bar
+
+L9
+class: android.widget.TextView
+bounds: [35, 816, 311, 873]
+resource-id: id/start_text
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [653, 816, 786, 887]
+resource-id: id/length_text
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [1149, 816, 1405, 873]
+resource-id: id/end_text
+tag: Text
+
+L9
+class: android.widget.SeekBar
+bounds: [18, 1833, 637, 1936]
+resource-id: id/fade_in
+tag: Bar
+
+L9
+class: android.widget.TextView
+bounds: [655, 1835, 785, 1934]
+resource-id: id/TextView01
+tag: Text
+
+L9
+class: android.widget.SeekBar
+bounds: [813, 1833, 1422, 1936]
+resource-id: id/fade_out
+tag: Bar
+
+L9
+class: android.widget.Button
+bounds: [370, 1972, 580, 2182]
+resource-id: id/play_btn
+tag: Button
+
+L9
+class: android.widget.Button
+bounds: [860, 1972, 1070, 2182]
+resource-id: id/save_btn
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [0, 238, 1440, 314]
+resource-id: id/no_list
+tag: Text
+

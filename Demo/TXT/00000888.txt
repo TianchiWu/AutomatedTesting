@@ -1,0 +1,24 @@
+L8
+class: android.widget.TextView
+bounds: [80, 517, 1374, 782]
+resource-id: id/txt_desc
+tag: Text
+
+L4
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L4
+class: android.widget.ImageButton
+bounds: [1272, 308, 1412, 448]
+resource-id: id/f_switch
+tag: Button
+
+L4
+class: android.widget.ImageButton
+bounds: [1104, 308, 1244, 448]
+resource-id: id/f_info
+tag: Button
+

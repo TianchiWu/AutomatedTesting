@@ -1,0 +1,36 @@
+L8
+class: android.view.View
+bounds: [0, 84, 1440, 284]
+resource-id: id/toolbar_separator
+tag: Bar
+
+L8
+class: com.hoott.android.ui.widget.RobotoTextView
+bounds: [376, 1050, 1063, 1153]
+resource-id: id/pick_location_message
+tag: Text
+
+L8
+class: com.hoott.android.ui.widget.RobotoTextView
+bounds: [570, 1555, 869, 1621]
+resource-id: id/action_search
+tag: Text
+
+L6
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 284]
+resource-id: id/actions_toolbar_box
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

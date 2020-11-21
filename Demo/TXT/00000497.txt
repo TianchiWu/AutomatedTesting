@@ -1,0 +1,120 @@
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [328, 602, 465, 1943]
+resource-id: id/country_flag
+tag: Image
+
+L5
+class: android.support.v7.widget.AppCompatTextView
+bounds: [328, 285, 884, 397]
+resource-id: id/dialog_heading
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [533, 627, 868, 713]
+resource-id: id/country_name
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [868, 623, 1112, 735]
+resource-id: id/country_radio
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [533, 799, 808, 885]
+resource-id: id/country_name
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [808, 795, 1112, 907]
+resource-id: id/country_radio
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [533, 971, 672, 1057]
+resource-id: id/country_name
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [672, 967, 1112, 1079]
+resource-id: id/country_radio
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [533, 1143, 811, 1229]
+resource-id: id/country_name
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [811, 1139, 1112, 1251]
+resource-id: id/country_radio
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [533, 1315, 789, 1401]
+resource-id: id/country_name
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [789, 1311, 1112, 1423]
+resource-id: id/country_radio
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [533, 1487, 664, 1573]
+resource-id: id/country_name
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [664, 1483, 1112, 1595]
+resource-id: id/country_radio
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [533, 1659, 821, 1745]
+resource-id: id/country_name
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [821, 1655, 1112, 1767]
+resource-id: id/country_radio
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [533, 1831, 771, 1917]
+resource-id: id/country_name
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [771, 1827, 1112, 1939]
+resource-id: id/country_radio
+tag: Button
+
+L5
+class: android.support.v7.widget.AppCompatTextView
+bounds: [481, 2055, 838, 2218]
+resource-id: id/dialog_ok
+tag: Text
+
+L5
+class: android.support.v7.widget.AppCompatTextView
+bounds: [950, 2055, 1112, 2218]
+resource-id: id/dialog_cancel
+tag: Text
+

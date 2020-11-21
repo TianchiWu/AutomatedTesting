@@ -1,0 +1,78 @@
+L7
+class: android.widget.TextView
+bounds: [53, 374, 751, 543]
+resource-id: id/summary
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [53, 723, 633, 892]
+resource-id: id/summary
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [53, 949, 751, 1118]
+resource-id: id/summary
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [53, 1298, 751, 1467]
+resource-id: id/summary
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [576, 102, 864, 205]
+resource-id: id/lbl_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [0, 224, 1440, 345]
+resource-id: id/title
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [0, 573, 1440, 694]
+resource-id: id/title
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [0, 1148, 1440, 1269]
+resource-id: id/title
+tag: Text
+
+L6
+class: android.widget.RadioButton
+bounds: [0, 2197, 288, 2392]
+resource-id: id/radio_button0
+tag: Button
+
+L6
+class: android.widget.RadioButton
+bounds: [288, 2197, 576, 2392]
+resource-id: id/radio_button1
+tag: Button
+
+L6
+class: android.widget.RadioButton
+bounds: [576, 2197, 864, 2392]
+resource-id: id/radio_button2
+tag: Button
+
+L6
+class: android.widget.RadioButton
+bounds: [864, 2197, 1152, 2392]
+resource-id: id/radio_button3
+tag: Button
+
+L6
+class: android.widget.RadioButton
+bounds: [1152, 2197, 1440, 2392]
+resource-id: id/radio_button4
+tag: Button
+

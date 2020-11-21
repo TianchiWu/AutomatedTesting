@@ -1,0 +1,132 @@
+L11
+class: wsj.customViews.TypefaceTextView
+bounds: [0, 529, 1120, 1476]
+resource-id: id/nav_drawer_settings
+tag: Text
+
+L11
+class: wsj.customViews.TypefaceTextView
+bounds: [0, 529, 1120, 1073]
+resource-id: id/textView5
+tag: Text
+
+L14
+class: wsj.ui.misc.EllipsizingTextView
+bounds: [70, 2131, 1366, 2392]
+resource-id: id/summary
+tag: Text
+
+L12
+class: wsj.customViews.TypefaceTextView
+bounds: [56, 280, 1120, 500]
+resource-id: id/nav_drawer_edition_textview
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [14, 462, 1422, 1246]
+resource-id: id/image
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [14, 1309, 63, 1371]
+resource-id: id/status_icon
+tag: Image
+
+L15
+class: wsj.customViews.BaselineGridTextView
+bounds: [70, 1309, 1366, 1495]
+resource-id: id/headline
+tag: Text
+
+L14
+class: wsj.customViews.BaselineGridTextView
+bounds: [70, 1509, 1366, 1998]
+resource-id: id/summary
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [862, 2345, 1422, 2392]
+resource-id: id/image
+tag: Image
+
+L8
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 448]
+resource-id: id/toolbar_container
+tag: Bar
+
+L9
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [359, 136, 1164, 206]
+resource-id: id/logo
+tag: Image
+
+L11
+class: wsj.customViews.TypefaceTextView
+bounds: [455, 238, 1068, 280]
+resource-id: id/section_front_ab_timestamp
+tag: Text
+
+L12
+class: wsj.customViews.TypefaceTextView
+bounds: [530, 280, 967, 448]
+resource-id: id/text1
+tag: Text
+
+L12
+class: wsj.customViews.TypefaceTextView
+bounds: [1079, 280, 1325, 448]
+resource-id: id/text1
+tag: Text
+
+L12
+class: wsj.customViews.TypefaceTextView
+bounds: [1437, 280, 1440, 448]
+resource-id: id/text1
+tag: Text
+
+L10
+class: android.widget.LinearLayout
+bounds: [0, 161, 1120, 284]
+resource-id: id/nav_drawer_login_free_trial_button_layout
+tag: Button
+
+L12
+class: wsj.customViews.TypefaceButton
+bounds: [112, 161, 634, 284]
+resource-id: id/nav_drawer_free_trial_btn
+tag: Button
+
+L11
+class: wsj.customViews.TypefaceButton
+bounds: [690, 161, 1008, 284]
+resource-id: id/nav_drawer_login_btn
+tag: Button
+
+L12
+class: wsj.customViews.TypefaceTextView
+bounds: [56, 369, 1120, 425]
+resource-id: id/nav_drawer_edition_header_textview
+tag: Header
+
+L12
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1008, 422, 1078, 492]
+resource-id: id/nav_drawer_edition_picker_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

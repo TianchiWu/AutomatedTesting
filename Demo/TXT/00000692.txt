@@ -1,0 +1,156 @@
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 385, 994, 531]
+resource-id: id/profileStat
+tag: Text
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/my_awesome_toolbar
+tag: Bar
+
+L12
+class: com.journey.app.etsyStaggeredGridView.DynamicHeightImageView
+bounds: [0, 280, 720, 1000]
+resource-id: id/imageView1
+tag: Image
+
+L8
+class: com.journey.app.custom.FABButton
+bounds: [1146, 2098, 1398, 2350]
+resource-id: id/fab
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 2267, 542, 2333]
+resource-id: id/relativeBottomText
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 2264, 138, 2336]
+resource-id: id/relativeBottomIcon
+tag: Text
+
+L9
+class: android.widget.RelativeLayout
+bounds: [0, 0, 1050, 587]
+resource-id: id/linearTop
+tag: Image
+
+L11
+class: com.journey.app.roundedimageview.RoundedImageView
+bounds: [56, 147, 252, 343]
+resource-id: id/profilePic
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 643, 139, 715]
+resource-id: id/textView1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 646, 431, 712]
+resource-id: id/textView2
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 827, 139, 899]
+resource-id: id/textView1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 830, 449, 896]
+resource-id: id/textView2
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1011, 139, 1083]
+resource-id: id/textView1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 1014, 616, 1080]
+resource-id: id/textView2
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1195, 138, 1267]
+resource-id: id/textView1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 1198, 366, 1264]
+resource-id: id/textView2
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1379, 144, 1451]
+resource-id: id/textView1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 1382, 492, 1448]
+resource-id: id/textView2
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1567, 137, 1639]
+resource-id: id/textView1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 1570, 354, 1636]
+resource-id: id/textView2
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1751, 138, 1823]
+resource-id: id/textView1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 1754, 466, 1820]
+resource-id: id/textView2
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1935, 139, 2007]
+resource-id: id/textView1
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 1938, 437, 2004]
+resource-id: id/textView2
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

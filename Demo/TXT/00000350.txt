@@ -1,0 +1,66 @@
+L10
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 277]
+resource-id: id/ll_topbar
+tag: Bar
+
+L15
+class: android.widget.ImageView
+bounds: [1264, 121, 1422, 240]
+resource-id: id/chat_menu_btn_img
+tag: Image
+
+L15
+class: android.widget.TextView
+bounds: [186, 101, 1211, 186]
+resource-id: id/chat_head_name
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [186, 197, 502, 259]
+resource-id: id/chat_head_status
+tag: Text
+
+L15
+class: android.widget.ImageView
+bounds: [35, 1491, 123, 1579]
+resource-id: id/chat_add_more_btn
+tag: Image
+
+L15
+class: android.widget.TextView
+bounds: [1312, 1471, 1440, 1592]
+resource-id: id/chat_foot_send_btn
+tag: Text
+
+L15
+class: android.widget.ImageView
+bounds: [1312, 1471, 1405, 1600]
+resource-id: id/chat_foot_more_btn
+tag: Image
+
+L15
+class: me.dingtone.app.im.view.CustomEditText
+bounds: [180, 1476, 1256, 1595]
+resource-id: id/chat_foot_edit
+tag: Text
+
+L15
+class: android.widget.LinearLayout
+bounds: [480, 1620, 960, 1970]
+resource-id: id/chat_tools_video
+tag: Video
+
+L18
+class: android.widget.TextView
+bounds: [0, 277, 1440, 365]
+resource-id: id/chatting_time_tv
+tag: Text
+
+L20
+class: me.dingtone.app.im.view.TextViewFixTouchConsume
+bounds: [1258, 408, 1321, 479]
+resource-id: id/chatting_content_tv
+tag: Text
+

@@ -1,0 +1,24 @@
+L7
+class: android.widget.ImageView
+bounds: [303, 2199, 1092, 2339]
+resource-id: id/webder
+tag: Image
+
+L5
+class: android.webkit.WebView
+bounds: [0, 84, 1440, 2147]
+resource-id: id/webview
+tag: Bar
+
+L6
+class: android.widget.TextView
+bounds: [404, 133, 1036, 236]
+resource-id: id/textView1
+tag: Text
+
+L6
+class: android.widget.ProgressBar
+bounds: [636, 1132, 804, 1300]
+resource-id: id/progressbar
+tag: Bar
+

@@ -1,0 +1,36 @@
+L5
+class: android.widget.ImageView
+bounds: [0, 189, 1440, 361]
+resource-id: id/ImageViewMainTouchIcon8
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [1201, 811, 1440, 2392]
+resource-id: id/ImageViewMainPreferences
+tag: Image
+
+L2
+class: android.widget.FrameLayout
+bounds: [0, 0, 1440, 2392]
+resource-id: id/content
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [1201, 361, 1440, 600]
+resource-id: id/ImageViewTalk
+tag: Image
+
+L5
+class: android.view.View
+bounds: [0, 0, 240, 520]
+resource-id: id/ViewToolbarGame
+tag: Bar
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 520, 240, 2392]
+resource-id: id/LinearLayoutToolbarGame
+tag: Bar
+

@@ -1,0 +1,90 @@
+L7
+class: com.meritnation.school.widget.TextViewRegular
+bounds: [615, 91, 1440, 242]
+resource-id: id/part1_line
+tag: Text
+
+L11
+class: com.meritnation.school.widget.TextViewRegular
+bounds: [28, 301, 1440, 406]
+resource-id: id/question_no
+tag: Text
+
+L15
+class: com.meritnation.school.widget.TextViewRegular
+bounds: [28, 626, 1440, 731]
+resource-id: id/solution
+tag: Text
+
+L9
+class: com.meritnation.school.widget.TextViewRegular
+bounds: [704, 287, 1440, 372]
+resource-id: id/text_child
+tag: Text
+
+L9
+class: com.meritnation.school.widget.TextViewRegular
+bounds: [704, 466, 1440, 551]
+resource-id: id/text_child
+tag: Text
+
+L9
+class: com.meritnation.school.widget.TextViewRegular
+bounds: [704, 824, 1440, 909]
+resource-id: id/text_child
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [42, 84, 112, 273]
+resource-id: id/close
+tag: Image
+
+L8
+class: com.meritnation.school.widget.TextViewCondensed
+bounds: [147, 84, 1272, 273]
+resource-id: id/test_name
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1272, 84, 1440, 273]
+resource-id: id/drawer
+tag: Image
+
+L6
+class: android.widget.ProgressBar
+bounds: [0, 273, 1440, 329]
+resource-id: id/progressBar
+tag: Bar
+
+L9
+class: android.widget.ImageButton
+bounds: [0, 2210, 720, 2385]
+resource-id: id/f_ncertpage_back_btn
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [720, 2210, 1440, 2385]
+resource-id: id/f_ncertpage_forward_btn
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [18, 2206, 1422, 2210]
+resource-id: id/divider
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

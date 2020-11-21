@@ -1,0 +1,66 @@
+L16
+class: com.thomsonreuters.reuters.ui.SourceSansProTextView
+bounds: [0, 1233, 1440, 1682]
+resource-id: id/stream_large_item_view_description
+tag: Text
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/stream_toolbar
+tag: Bar
+
+L11
+class: android.support.v7.widget.as
+bounds: [252, 112, 746, 224]
+resource-id: id/actionbar_image
+tag: Bar
+
+L11
+class: android.widget.RelativeLayout
+bounds: [252, 119, 1076, 227]
+resource-id: id/menu_actionbar_homepage_search_button
+tag: Button
+
+L16
+class: com.thomsonreuters.reuters.ui.FixedAspectRatioImageView
+bounds: [0, 281, 1440, 1177]
+resource-id: id/stream_large_item_view_image
+tag: Image
+
+L16
+class: com.thomsonreuters.reuters.ui.SourceSansProTextView
+bounds: [0, 1721, 253, 1854]
+resource-id: id/stream_large_item_view_timestamp
+tag: Text
+
+L16
+class: com.thomsonreuters.reuters.ui.SourceSansProTextView
+bounds: [53, 337, 500, 401]
+resource-id: id/stream_large_item_view_channel_timestamp
+tag: Text
+
+L18
+class: com.thomsonreuters.reuters.ui.SourceSansProTextView
+bounds: [53, 2145, 233, 2208]
+resource-id: id/stream_normal_item_view_timestamp
+tag: Text
+
+L18
+class: com.thomsonreuters.reuters.ui.KnowledgeTextView
+bounds: [53, 2212, 1037, 2353]
+resource-id: id/stream_normal_item_view_headline
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

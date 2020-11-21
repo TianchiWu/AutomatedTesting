@@ -1,0 +1,18 @@
+L9
+class: android.widget.ImageView
+bounds: [636, 1883, 804, 1939]
+resource-id: id/inactive
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [650, 1897, 734, 1925]
+resource-id: id/active
+tag: Image
+
+L6
+class: com.ksmobile.launcher.theme.base.view.HighlightTextView
+bounds: [105, 1981, 1335, 2336]
+resource-id: id/theme_controll
+tag: Text
+

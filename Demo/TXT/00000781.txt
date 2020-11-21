@@ -1,0 +1,132 @@
+L1
+class: com.android.internal.widget.ActionBarOverlayLayout
+bounds: [0, 0, 1440, 2392]
+resource-id: id/decor_content_parent
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [0, 52, 1440, 1972]
+resource-id: id/intent_review_imageview
+tag: Image
+
+L7
+class: com.android.camera.ui.CountDownView
+bounds: [0, 0, 1440, 2392]
+resource-id: id/count_down_view
+tag: Text
+
+L7
+class: com.android.camera.widget.ModeOptions
+bounds: [0, 1720, 1440, 1972]
+resource-id: id/mode_options
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [216, 1762, 384, 1930]
+resource-id: id/exposure_n2
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [426, 1762, 594, 1930]
+resource-id: id/exposure_n1
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [636, 1762, 804, 1930]
+resource-id: id/exposure_0
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [846, 1762, 1014, 1930]
+resource-id: id/exposure_p1
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [1056, 1762, 1224, 1930]
+resource-id: id/exposure_p2
+tag: Button
+
+L8
+class: com.android.camera.ui.TopRightWeightedLayout
+bounds: [0, 1720, 1440, 1972]
+resource-id: id/mode_options_buttons
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [111, 1762, 279, 1930]
+resource-id: id/exposure_button
+tag: Button
+
+L9
+class: com.android.camera.MultiToggleImageButton
+bounds: [321, 1762, 489, 1930]
+resource-id: id/countdown_toggle_button
+tag: Button
+
+L9
+class: com.android.camera.MultiToggleImageButton
+bounds: [531, 1762, 699, 1930]
+resource-id: id/grid_lines_toggle_button
+tag: Button
+
+L9
+class: com.android.camera.MultiToggleImageButton
+bounds: [741, 1762, 909, 1930]
+resource-id: id/hdr_plus_toggle_button
+tag: Button
+
+L9
+class: com.android.camera.MultiToggleImageButton
+bounds: [951, 1762, 1119, 1930]
+resource-id: id/camera_toggle_button
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [1271, 1802, 1355, 1886]
+resource-id: id/three_dots
+tag: Image
+
+L6
+class: com.android.camera.ui.BottomBar
+bounds: [0, 1972, 1440, 2392]
+resource-id: id/bottom_bar
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [573, 1993, 867, 2287]
+resource-id: id/done_button
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [252, 811, 503, 1007]
+resource-id: id/selector_text
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [252, 1049, 503, 1245]
+resource-id: id/selector_text
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [1230, 1846, 1398, 2014]
+resource-id: id/settings_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

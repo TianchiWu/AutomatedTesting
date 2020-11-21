@@ -1,0 +1,138 @@
+L12
+class: android.widget.TextView
+bounds: [435, 552, 1236, 692]
+resource-id: id/homeScore
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [435, 764, 1236, 904]
+resource-id: id/homeScore
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [435, 976, 1236, 1116]
+resource-id: id/homeScore
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [435, 1188, 1236, 1328]
+resource-id: id/homeScore
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [435, 1400, 1236, 1540]
+resource-id: id/homeScore
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [42, 556, 224, 688]
+resource-id: id/gameSummaryText
+tag: Text
+
+L12
+class: com.loopj.android.image.SmartImageView
+bounds: [365, 552, 435, 692]
+resource-id: id/homeImage
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [42, 768, 224, 900]
+resource-id: id/gameSummaryText
+tag: Text
+
+L12
+class: com.loopj.android.image.SmartImageView
+bounds: [365, 764, 435, 904]
+resource-id: id/homeImage
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [42, 980, 224, 1112]
+resource-id: id/gameSummaryText
+tag: Text
+
+L12
+class: com.loopj.android.image.SmartImageView
+bounds: [365, 976, 435, 1116]
+resource-id: id/homeImage
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [42, 1192, 225, 1324]
+resource-id: id/gameSummaryText
+tag: Text
+
+L12
+class: com.loopj.android.image.SmartImageView
+bounds: [365, 1188, 435, 1328]
+resource-id: id/homeImage
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [42, 1404, 225, 1536]
+resource-id: id/gameSummaryText
+tag: Text
+
+L12
+class: com.loopj.android.image.SmartImageView
+bounds: [365, 1400, 435, 1540]
+resource-id: id/homeImage
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [1265, 2196, 1440, 2392]
+resource-id: id/imageView_pullup_scoreboard
+tag: Image
+
+L6
+class: android.widget.ProgressBar
+bounds: [545, 427, 895, 777]
+resource-id: id/progressBar1
+tag: Bar
+
+L6
+class: android.widget.TextView
+bounds: [0, 427, 1440, 515]
+resource-id: id/date_header
+tag: Header
+
+L12
+class: com.loopj.android.image.SmartImageView
+bounds: [365, 1484, 435, 1554]
+resource-id: id/awayImage
+tag: Image
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 226, 224]
+resource-id: id/home
+tag: Image
+
+L5
+class: android.widget.Spinner
+bounds: [240, 84, 871, 252]
+resource-id: id/action_bar_spinner
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [254, 109, 481, 224]
+resource-id: id/name_view
+tag: Text
+

@@ -1,0 +1,198 @@
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [25, 361, 445, 2217]
+resource-id: id/ml_item_thumbnail
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [445, 2071, 1415, 2217]
+resource-id: id/ml_item_resolution
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [445, 361, 1415, 602]
+resource-id: id/ml_item_time
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [445, 646, 1415, 887]
+resource-id: id/ml_item_time
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [445, 931, 1415, 1172]
+resource-id: id/ml_item_time
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [445, 1216, 1415, 1457]
+resource-id: id/ml_item_time
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [445, 1501, 1415, 1742]
+resource-id: id/ml_item_time
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [445, 1786, 1415, 2027]
+resource-id: id/ml_item_time
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 546, 294, 791]
+resource-id: id/menu_audio
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [108, 791, 235, 857]
+resource-id: id/textView5
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 927, 294, 1172]
+resource-id: id/menu_network
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [14, 1172, 329, 1238]
+resource-id: id/textView6
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 1308, 294, 1553]
+resource-id: id/menu_history
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [93, 1553, 249, 1619]
+resource-id: id/textView7
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 1689, 294, 1934]
+resource-id: id/menu_info
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [106, 1934, 236, 2000]
+resource-id: id/textView8
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1227, 536, 1380, 602]
+resource-id: id/ml_item_resolution
+tag: Text
+
+L17
+class: android.widget.ProgressBar
+bounds: [480, 606, 1380, 624]
+resource-id: id/ml_item_progress
+tag: Bar
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1227, 821, 1380, 887]
+resource-id: id/ml_item_resolution
+tag: Text
+
+L17
+class: android.widget.ProgressBar
+bounds: [480, 891, 1380, 909]
+resource-id: id/ml_item_progress
+tag: Bar
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1227, 1106, 1380, 1172]
+resource-id: id/ml_item_resolution
+tag: Text
+
+L17
+class: android.widget.ProgressBar
+bounds: [480, 1176, 1380, 1194]
+resource-id: id/ml_item_progress
+tag: Bar
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1227, 1391, 1380, 1457]
+resource-id: id/ml_item_resolution
+tag: Text
+
+L17
+class: android.widget.ProgressBar
+bounds: [480, 1461, 1380, 1479]
+resource-id: id/ml_item_progress
+tag: Bar
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1227, 1676, 1380, 1742]
+resource-id: id/ml_item_resolution
+tag: Text
+
+L17
+class: android.widget.ProgressBar
+bounds: [480, 1746, 1380, 1764]
+resource-id: id/ml_item_progress
+tag: Bar
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1227, 1961, 1380, 2027]
+resource-id: id/ml_item_resolution
+tag: Text
+
+L17
+class: android.widget.ProgressBar
+bounds: [480, 2031, 1380, 2049]
+resource-id: id/ml_item_progress
+tag: Bar
+
+L11
+class: android.widget.RelativeLayout
+bounds: [0, 2322, 1440, 2392]
+resource-id: id/info_layout
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [18, 2322, 857, 2388]
+resource-id: id/info_text
+tag: Text
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/main_toolbar
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

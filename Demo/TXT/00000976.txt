@@ -1,0 +1,54 @@
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [548, 490, 891, 735]
+resource-id: id/imageAlQuranKarim
+tag: Image
+
+L6
+class: android.widget.RelativeLayout
+bounds: [300, 770, 1140, 1705]
+resource-id: id/buttonArea
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [300, 770, 1140, 917]
+resource-id: id/buttonIndexBacaQuran
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [300, 967, 1140, 1114]
+resource-id: id/buttonIndexLastRead
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [300, 1164, 1140, 1311]
+resource-id: id/buttonIndexPencarian
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [300, 1361, 1140, 1508]
+resource-id: id/buttonIndexJadwalSholat
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [300, 1558, 1140, 1705]
+resource-id: id/buttonIndexSetting
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

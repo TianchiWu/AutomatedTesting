@@ -1,0 +1,120 @@
+L15
+class: com.addodoc.care.widget.FontTextView
+bounds: [151, 793, 1310, 868]
+resource-id: id/vaccine1DueAt
+tag: Text
+
+L15
+class: com.addodoc.care.widget.FontTextView
+bounds: [151, 924, 1310, 999]
+resource-id: id/vaccine2DueAt
+tag: Text
+
+L15
+class: com.addodoc.care.widget.FontTextView
+bounds: [151, 1055, 1310, 1130]
+resource-id: id/vaccineMissedAt
+tag: Text
+
+L15
+class: com.addodoc.care.widget.FontTextView
+bounds: [247, 2015, 1193, 2154]
+resource-id: id/empty_doc_info_details
+tag: Text
+
+L7
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 252]
+resource-id: id/appbar
+tag: Bar
+
+L9
+class: android.widget.ProgressBar
+bounds: [0, 252, 1440, 288]
+resource-id: id/progress_bar
+tag: Bar
+
+L13
+class: android.widget.RelativeLayout
+bounds: [46, 252, 1394, 373]
+resource-id: id/child_growth
+tag: Text
+
+L14
+class: com.addodoc.care.widget.FontTextView
+bounds: [46, 252, 1394, 373]
+resource-id: id/view_chart
+tag: Text
+
+L14
+class: com.addodoc.care.widget.FontTextView
+bounds: [46, 499, 1394, 606]
+resource-id: id/title_vaccines
+tag: Text
+
+L14
+class: android.widget.ProgressBar
+bounds: [46, 624, 1394, 680]
+resource-id: id/progress_bar_vaccines
+tag: Bar
+
+L14
+class: com.addodoc.care.widget.FontTextView
+bounds: [46, 680, 295, 765]
+resource-id: id/subHeading1
+tag: Text
+
+L14
+class: com.addodoc.care.widget.FontTextView
+bounds: [46, 1190, 1394, 1350]
+resource-id: id/view_more_vaccinations
+tag: Text
+
+L14
+class: com.addodoc.care.widget.FontTextView
+bounds: [46, 1448, 1394, 1555]
+resource-id: id/title_documents
+tag: Text
+
+L14
+class: android.support.v7.widget.o
+bounds: [1303, 1448, 1387, 1532]
+resource-id: id/doc_upload_button
+tag: Button
+
+L14
+class: android.widget.ProgressBar
+bounds: [46, 1573, 1394, 1629]
+resource-id: id/progress_bar_documents
+tag: Bar
+
+L14
+class: com.addodoc.care.widget.FontTextView
+bounds: [46, 1594, 1394, 1754]
+resource-id: id/view_documents
+tag: Text
+
+L9
+class: android.widget.FrameLayout
+bounds: [625, 259, 815, 370]
+resource-id: id/header_name
+tag: Header
+
+L10
+class: com.addodoc.care.widget.FontTextView
+bounds: [667, 277, 773, 352]
+resource-id: id/child_name_header
+tag: Header
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

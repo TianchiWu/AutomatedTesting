@@ -1,0 +1,36 @@
+L8
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 284]
+resource-id: id/appbar
+tag: Bar
+
+L9
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [214, 316, 671, 392]
+resource-id: id/activity_title
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1243, 316, 1373, 381]
+resource-id: id/activity_date
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 84, 1440, 224]
+resource-id: id/error_message_view
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

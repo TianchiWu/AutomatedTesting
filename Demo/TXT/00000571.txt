@@ -1,0 +1,60 @@
+L6
+class: android.widget.TextView
+bounds: [741, 256, 1062, 408]
+resource-id: id/app_version
+tag: Text
+
+L4
+class: android.widget.ImageView
+bounds: [18, 102, 158, 213]
+resource-id: id/img_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [506, 102, 933, 213]
+resource-id: id/txt_context1
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [1282, 102, 1422, 213]
+resource-id: id/btn_action_overflow
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [270, 1858, 410, 1998]
+resource-id: id/img_facebook
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [460, 1858, 600, 1998]
+resource-id: id/img_twitter
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [650, 1858, 790, 1998]
+resource-id: id/img_google_plus
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [840, 1858, 980, 1998]
+resource-id: id/img_website
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [1030, 1858, 1170, 1998]
+resource-id: id/img_contact_support
+tag: Image
+
+L5
+class: android.widget.TextView
+bounds: [381, 2023, 1058, 2099]
+resource-id: id/app_website
+tag: Text
+

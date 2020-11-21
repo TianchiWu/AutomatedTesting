@@ -1,0 +1,222 @@
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [236, 677, 1203, 827]
+resource-id: id/cur_cond_wind
+tag: Text
+
+L18
+class: android.support.v7.widget.AppCompatTextView
+bounds: [717, 470, 897, 655]
+resource-id: id/cur_cond_desc
+tag: Text
+
+L19
+class: android.view.View
+bounds: [0, 910, 980, 1016]
+resource-id: id/carousel_header_separator
+tag: Header
+
+L22
+class: android.support.v7.widget.AppCompatTextView
+bounds: [42, 1414, 469, 1620]
+resource-id: id/hourly_temp
+tag: Text
+
+L22
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 1082, 945, 1197]
+resource-id: id/hourly_hour
+tag: Text
+
+L22
+class: android.support.v7.widget.AppCompatTextView
+bounds: [511, 1414, 938, 1620]
+resource-id: id/hourly_temp
+tag: Text
+
+L16
+class: com.wsi.android.framework.app.ui.widget.HiddenHeadlineTextView
+bounds: [0, 259, 1440, 469]
+resource-id: id/hidden_headlines
+tag: Text
+
+L3
+class: android.support.v7.widget.FitWindowsLinearLayout
+bounds: [0, 84, 1440, 2392]
+resource-id: id/action_bar_root
+tag: Image
+
+L12
+class: android.widget.FrameLayout
+bounds: [0, 259, 1440, 385]
+resource-id: id/application_root_view_controlbar_top_holder
+tag: Bar
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 261, 350, 380]
+resource-id: id/station_logo
+tag: Image
+
+L15
+class: com.wsi.android.weather.ui.widget.LocationBar
+bounds: [350, 259, 1299, 382]
+resource-id: id/location_bar
+tag: Bar
+
+L15
+class: com.wsi.android.framework.app.ui.widget.MenuButton
+bounds: [1299, 259, 1440, 382]
+resource-id: id/menu_button
+tag: Button
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1299, 276, 1422, 364]
+resource-id: id/menu_button_icon
+tag: Button
+
+L14
+class: android.view.View
+bounds: [0, 382, 1440, 385]
+resource-id: id/top_bar_bottom_divider
+tag: Bar
+
+L15
+class: android.widget.LinearLayout
+bounds: [0, 434, 1440, 845]
+resource-id: id/fragment_home_carousel_theme_weather_bar
+tag: Bar
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [542, 475, 717, 650]
+resource-id: id/cur_cond_icon
+tag: Image
+
+L16
+class: android.widget.FrameLayout
+bounds: [0, 910, 980, 1694]
+resource-id: id/carosel_item_container
+tag: Header
+
+L20
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 910, 834, 1015]
+resource-id: id/carousel_panel_title
+tag: Text
+
+L20
+class: android.support.v7.widget.AppCompatImageView
+bounds: [834, 910, 945, 1015]
+resource-id: id/carousel_panel_icon
+tag: Image
+
+L21
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 1051, 945, 1659]
+resource-id: id/submit_thumbnail
+tag: Image
+
+L22
+class: android.support.v7.widget.AppCompatImageView
+bounds: [150, 1197, 360, 1407]
+resource-id: id/hourly_weather_icon
+tag: Image
+
+L22
+class: android.support.v7.widget.AppCompatImageView
+bounds: [619, 1197, 829, 1407]
+resource-id: id/hourly_weather_icon
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 2259, 133, 2357]
+resource-id: id/share_button
+tag: Button
+
+L13
+class: android.view.View
+bounds: [670, 382, 1440, 386]
+resource-id: id/drawer_header_separator
+tag: Header
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [705, 412, 1352, 483]
+resource-id: id/drawer_item_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [705, 535, 1363, 606]
+resource-id: id/drawer_item_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [705, 676, 1363, 747]
+resource-id: id/drawer_item_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [705, 817, 1363, 888]
+resource-id: id/drawer_item_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [705, 958, 1363, 1029]
+resource-id: id/drawer_item_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [705, 1099, 1363, 1170]
+resource-id: id/drawer_item_title
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1363, 1110, 1426, 1163]
+resource-id: id/drawer_right_icon
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [705, 1240, 1363, 1311]
+resource-id: id/drawer_item_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [705, 1381, 1363, 1452]
+resource-id: id/drawer_item_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [705, 1522, 1363, 1593]
+resource-id: id/drawer_item_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [705, 1663, 1363, 1734]
+resource-id: id/drawer_item_title
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

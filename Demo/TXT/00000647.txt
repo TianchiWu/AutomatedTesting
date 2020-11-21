@@ -1,0 +1,42 @@
+L5
+class: android.widget.ImageView
+bounds: [572, 2280, 867, 2339]
+resource-id: id/page4
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [0, 224, 1440, 332]
+resource-id: id/guide5_top_tv
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [195, 619, 1245, 1856]
+resource-id: id/guide5_iv
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [105, 2041, 1335, 2199]
+resource-id: id/guide5_bottom_tv
+tag: Text
+
+L4
+class: android.widget.ImageView
+bounds: [1310, 102, 1422, 214]
+resource-id: id/guide_cancel_iv
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

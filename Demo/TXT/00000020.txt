@@ -1,0 +1,78 @@
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 116, 613, 248]
+resource-id: id/TextView02
+tag: Text
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 280, 1440, 2217]
+resource-id: id/shadow
+tag: Image
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 1758, 1440, 2217]
+resource-id: id/text_view_fragment
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 1904, 1440, 2217]
+resource-id: id/textButton
+tag: Button
+
+L7
+class: android.widget.RelativeLayout
+bounds: [720, 280, 1440, 2217]
+resource-id: id/relative_layout_image_gallery
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [720, 1758, 1440, 2217]
+resource-id: id/text_view_fragment
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [720, 1904, 1440, 2217]
+resource-id: id/textButton
+tag: Button
+
+L6
+class: android.widget.ProgressBar
+bounds: [587, 1105, 853, 1371]
+resource-id: id/progressBarGallery
+tag: Bar
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 84, 1440, 2217]
+resource-id: id/blurImage
+tag: Image
+
+L6
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [908, 280, 1440, 798]
+resource-id: id/stopPresentationImageButton
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

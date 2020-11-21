@@ -1,0 +1,180 @@
+L11
+class: android.widget.ImageView
+bounds: [174, 437, 1266, 710]
+resource-id: id/CatImage
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [174, 770, 1266, 1043]
+resource-id: id/CatImage
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [174, 1103, 1266, 1376]
+resource-id: id/CatImage
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [174, 1436, 1266, 1709]
+resource-id: id/CatImage
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [53, 323, 1385, 398]
+resource-id: id/tvMagnetsCompartir
+tag: Text
+
+L4
+class: android.widget.ImageButton
+bounds: [0, 84, 126, 210]
+resource-id: id/btnMylists
+tag: Button
+
+L4
+class: android.widget.ImageButton
+bounds: [1314, 84, 1440, 210]
+resource-id: id/btnMenu
+tag: Button
+
+L11
+class: android.widget.TextView
+bounds: [234, 694, 387, 755]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [515, 694, 651, 755]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [812, 694, 900, 755]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1030, 694, 1229, 755]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [227, 1027, 393, 1088]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [495, 1027, 672, 1088]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [757, 1027, 956, 1088]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1065, 1027, 1194, 1088]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [198, 1360, 422, 1421]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [466, 1360, 700, 1421]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [792, 1360, 921, 1421]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1083, 1360, 1176, 1421]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [270, 1693, 351, 1754]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [501, 1693, 665, 1754]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [822, 1693, 891, 1754]
+resource-id: id/CatText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1078, 1693, 1180, 1754]
+resource-id: id/CatText
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [67, 437, 179, 549]
+resource-id: id/btn_volver
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [179, 437, 291, 549]
+resource-id: id/btn_catv2
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [291, 446, 618, 540]
+resource-id: id/tv_mycat
+tag: Text
+
+L9
+class: android.widget.ImageButton
+bounds: [156, 102, 394, 340]
+resource-id: id/icoMagnetsEnLinea
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [600, 102, 838, 340]
+resource-id: id/icoMagnetsFinalizadas
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [1044, 102, 1282, 340]
+resource-id: id/icoMagnetsInfoGrupo
+tag: Button
+
+L5
+class: android.widget.ProgressBar
+bounds: [636, 1154, 804, 1322]
+resource-id: id/progressBar1
+tag: Bar
+

@@ -1,0 +1,36 @@
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [196, 14, 1440, 182]
+resource-id: id/share
+tag: Text
+
+L3
+class: android.support.v7.widget.FitWindowsLinearLayout
+bounds: [0, 0, 1440, 2560]
+resource-id: id/action_bar_root
+tag: Image
+
+L8
+class: android.widget.ProgressBar
+bounds: [636, 1196, 804, 1364]
+resource-id: id/img_progress
+tag: Bar
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 0, 1440, 392]
+resource-id: id/action_bar_scrim
+tag: NavigationBar
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 0, 1440, 196]
+resource-id: id/action_bar_
+tag: NavigationBar
+
+L7
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 0, 196, 196]
+resource-id: id/home_as_up
+tag: Button
+

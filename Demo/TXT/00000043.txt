@@ -1,0 +1,48 @@
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [263, 319, 1257, 468]
+resource-id: id/song_artist
+tag: Text
+
+L7
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/appbarlayout
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [63, 315, 221, 473]
+resource-id: id/albumArt
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1292, 334, 1412, 454]
+resource-id: id/popup_menu
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1058, 280, 1366, 588]
+resource-id: id/fastscroller_bubble
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1394, 280, 1412, 399]
+resource-id: id/fastscroller_handle
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,24 @@
+L5
+class: android.widget.TextView
+bounds: [0, 84, 1440, 340]
+resource-id: id/location_search_hint
+tag: Text
+
+L5
+class: android.widget.Button
+bounds: [18, 101, 211, 224]
+resource-id: id/location_search_back
+tag: Button
+
+L6
+class: com.wsi.android.framework.app.ui.widget.LocationSearchEditText
+bounds: [18, 358, 1215, 505]
+resource-id: id/location_search_box
+tag: Text
+
+L6
+class: android.widget.ImageButton
+bounds: [1251, 358, 1422, 505]
+resource-id: id/location_search_button
+tag: Button
+

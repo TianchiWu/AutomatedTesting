@@ -1,0 +1,78 @@
+L11
+class: com.papyrus.ui.view.PapyrusTextView
+bounds: [252, 105, 1412, 301]
+resource-id: id/toolbar_title
+tag: Bar
+
+L12
+class: android.widget.ImageView
+bounds: [0, 323, 1440, 1198]
+resource-id: id/image_hero
+tag: Image
+
+L11
+class: com.papyrus.ui.view.PapyrusTextView
+bounds: [84, 1268, 1356, 1599]
+resource-id: id/label_description
+tag: Text
+
+L11
+class: android.widget.LinearLayout
+bounds: [0, 1627, 1440, 1907]
+resource-id: id/layout_button
+tag: Button
+
+L12
+class: com.papyrus.ui.view.PapyrusTextView
+bounds: [70, 1712, 1230, 1822]
+resource-id: id/label_title
+tag: Text
+
+L11
+class: com.papyrus.ui.view.PapyrusTextView
+bounds: [309, 1712, 1384, 2115]
+resource-id: id/label_title
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [56, 2035, 350, 2385]
+resource-id: id/image_peaky_dog
+tag: Image
+
+L8
+class: com.papyrus.ui.toolbar.PapyrusToolbar
+bounds: [0, 84, 1440, 392]
+resource-id: id/toolbar
+tag: Bar
+
+L10
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 322]
+resource-id: id/layout_toolbar
+tag: Bar
+
+L11
+class: android.widget.ImageView
+bounds: [28, 119, 196, 287]
+resource-id: id/toolbar_navigation
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [0, 133, 1440, 273]
+resource-id: id/toolbar_logo
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,36 @@
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [66, 1139, 1374, 1465]
+resource-id: id/swipetoseemore
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1052, 1337, 1210, 1495]
+resource-id: id/swipeindicator
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [702, 2217, 738, 2283]
+resource-id: id/centerpoint
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [738, 2217, 1228, 2357]
+resource-id: id/signin_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

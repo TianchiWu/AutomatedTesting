@@ -1,0 +1,90 @@
+L10
+class: android.widget.TableLayout
+bounds: [0, 280, 1440, 476]
+resource-id: id/customTab
+tag: Text
+
+L17
+class: com.danh32.fontify.TextView
+bounds: [583, 511, 1405, 777]
+resource-id: id/tvListTime
+tag: Text
+
+L17
+class: com.danh32.fontify.TextView
+bounds: [583, 911, 1405, 1177]
+resource-id: id/tvListTime
+tag: Text
+
+L17
+class: com.danh32.fontify.TextView
+bounds: [583, 1311, 1405, 1577]
+resource-id: id/tvListTime
+tag: Text
+
+L17
+class: com.danh32.fontify.TextView
+bounds: [583, 1650, 1405, 2001]
+resource-id: id/tvListTime
+tag: Text
+
+L17
+class: com.danh32.fontify.TextView
+bounds: [583, 2074, 1405, 2340]
+resource-id: id/tvListTime
+tag: Text
+
+L8
+class: m.sanook.com.utils.GalleryVideoViewPager
+bounds: [0, 476, 1440, 2392]
+resource-id: id/viewSubMenuPager
+tag: Video
+
+L11
+class: android.widget.ProgressBar
+bounds: [632, 1346, 807, 1521]
+resource-id: id/pbProgressbar
+tag: Bar
+
+L16
+class: com.inthecheesefactory.thecheeselibrary.widget.AdjustableImageView
+bounds: [35, 511, 583, 838]
+resource-id: id/imgListThumbnail
+tag: Image
+
+L16
+class: com.inthecheesefactory.thecheeselibrary.widget.AdjustableImageView
+bounds: [35, 911, 583, 1238]
+resource-id: id/imgListThumbnail
+tag: Image
+
+L16
+class: com.inthecheesefactory.thecheeselibrary.widget.AdjustableImageView
+bounds: [35, 1311, 583, 1412]
+resource-id: id/imgListThumbnail
+tag: Image
+
+L16
+class: com.inthecheesefactory.thecheeselibrary.widget.AdjustableImageView
+bounds: [35, 1650, 583, 1977]
+resource-id: id/imgListThumbnail
+tag: Image
+
+L16
+class: com.inthecheesefactory.thecheeselibrary.widget.AdjustableImageView
+bounds: [35, 2074, 583, 2392]
+resource-id: id/imgListThumbnail
+tag: Image
+
+L4
+class: android.support.v7.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L7
+class: com.danh32.fontify.TextView
+bounds: [196, 132, 1440, 249]
+resource-id: id/txt_action_bar_title
+tag: NavigationBar
+

@@ -1,0 +1,126 @@
+L18
+class: android.support.v7.widget.AppCompatTextView
+bounds: [196, 1329, 1093, 1405]
+resource-id: id/tw__tweet_timestamp
+tag: Text
+
+L22
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 656, 580, 805]
+resource-id: id/offseason_title
+tag: Text
+
+L22
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1246, 656, 1370, 805]
+resource-id: id/offseason_date
+tag: Text
+
+L3
+class: android.support.v7.widget.FitWindowsLinearLayout
+bounds: [0, 84, 1440, 2392]
+resource-id: id/action_bar_root
+tag: Image
+
+L7
+class: com.yinzcam.common.android.ui.menu.YinzToolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/yinz_menu_activity_titlebar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1307, 126, 1419, 238]
+resource-id: id/view_button_titlebar_icon
+tag: Button
+
+L9
+class: android.widget.RelativeLayout
+bounds: [1174, 126, 1286, 238]
+resource-id: id/radio_titlebar_button
+tag: Button
+
+L14
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 280, 1440, 1292]
+resource-id: id/appbar_layout
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 280, 1440, 1120]
+resource-id: id/headline_scroll_background_image
+tag: Image
+
+L18
+class: android.support.v7.widget.AppCompatImageView
+bounds: [10, 1305, 1430, 1884]
+resource-id: id/media_card_image
+tag: Image
+
+L19
+class: android.support.v7.widget.AppCompatTextView
+bounds: [45, 1919, 1395, 2012]
+resource-id: id/media_card_title
+tag: Text
+
+L21
+class: android.support.v7.widget.AppCompatTextView
+bounds: [45, 2040, 346, 2097]
+resource-id: id/media_card_date
+tag: Text
+
+L20
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1282, 2012, 1395, 2125]
+resource-id: id/card_view_media_share_button
+tag: Button
+
+L18
+class: android.support.v7.widget.AppCompatImageView
+bounds: [10, 2186, 1430, 2392]
+resource-id: id/media_card_image
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 1348, 168, 1474]
+resource-id: id/tw__tweet_author_avatar
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1342, 1347, 1398, 1393]
+resource-id: id/tw__twitter_logo
+tag: Image
+
+L18
+class: com.twitter.sdk.android.tweetui.internal.MediaBadgeView
+bounds: [210, 2037, 305, 2093]
+resource-id: id/tw__tweet_media_badge
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [196, 2122, 1398, 2392]
+resource-id: id/tw__tweet_text
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 2167, 1440, 2392]
+resource-id: id/yinz_menu_activity_ad_view
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 2104, 112, 2216]
+resource-id: id/yinz_menu_activity_ad_button_close
+tag: Button
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 84, 1440, 2392]
+resource-id: id/yinz_menu_activity_secondsplash
+tag: Image
+

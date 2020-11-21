@@ -1,0 +1,24 @@
+L7
+class: com.dylvian.mango.activities.widgets.FontedTextView
+bounds: [140, 1083, 1300, 1224]
+resource-id: id/dialog_layout_textview
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [70, 1298, 1370, 1463]
+resource-id: id/dialog_layout_buttons
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

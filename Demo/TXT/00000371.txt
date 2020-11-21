@@ -1,0 +1,84 @@
+L13
+class: android.widget.TextView
+bounds: [56, 252, 360, 394]
+resource-id: id/summary
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [56, 510, 360, 652]
+resource-id: id/summary
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [56, 768, 531, 910]
+resource-id: id/summary
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [56, 1026, 529, 1168]
+resource-id: id/summary
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [0, 196, 1440, 328]
+resource-id: id/MapStatusBar
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [982, 545, 1120, 889]
+resource-id: id/speed
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [980, 477, 1121, 886]
+resource-id: id/speedUnit
+tag: Text
+
+L11
+class: android.widget.RelativeLayout
+bounds: [1147, 381, 1387, 621]
+resource-id: id/speedLimitLayoutEU
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [35, 2077, 245, 2287]
+resource-id: id/buttonReport
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [0, 377, 98, 475]
+resource-id: id/btnToggleMenu
+tag: Image
+
+L13
+class: android.widget.TextView
+bounds: [56, 1284, 517, 1360]
+resource-id: id/title
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 0, 1440, 196]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L4
+class: android.widget.LinearLayout
+bounds: [0, 14, 196, 182]
+resource-id: id/action_mode_close_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

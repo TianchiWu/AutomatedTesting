@@ -1,0 +1,132 @@
+L12
+class: android.widget.LinearLayout
+bounds: [0, 280, 960, 2200]
+resource-id: id/guys_grid_item_parent
+tag: Image
+
+L12
+class: android.widget.LinearLayout
+bounds: [0, 280, 1440, 2217]
+resource-id: id/guys_grid_item_parent
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [480, 694, 1243, 826]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 694, 389, 826]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 1174, 191, 1306]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [480, 1174, 735, 1306]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [960, 1174, 1151, 1306]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 1654, 191, 1786]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [480, 1654, 671, 1786]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [960, 1654, 1151, 1786]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [480, 2134, 784, 2217]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [960, 2134, 1336, 2217]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 280, 174, 346]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [480, 280, 587, 346]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [960, 280, 1132, 346]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 2134, 191, 2200]
+resource-id: id/guys_grid_item_stats
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 2200, 37, 2217]
+resource-id: id/guys_grid_item_username
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [404, 2050, 517, 2158]
+resource-id: id/image_view
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [517, 2050, 1035, 2161]
+resource-id: id/popup_bubble
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

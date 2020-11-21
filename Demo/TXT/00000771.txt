@@ -1,0 +1,42 @@
+L7
+class: android.widget.EditText
+bounds: [175, 865, 1265, 1120]
+resource-id: id/textPassword
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [0, 94, 115, 262]
+resource-id: id/home
+tag: Image
+
+L7
+class: android.widget.Button
+bounds: [175, 1155, 1265, 1300]
+resource-id: id/buttonSubmit
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [175, 1328, 610, 1464]
+resource-id: id/buttonResetPassword
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [175, 1838, 1265, 1983]
+resource-id: id/buttonSignUp
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 273]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [139, 145, 305, 211]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

@@ -1,0 +1,24 @@
+L3
+class: android.widget.TextView
+bounds: [14, 86, 1426, 167]
+resource-id: id/title
+tag: Text
+
+L4
+class: android.widget.TextView
+bounds: [18, 179, 1422, 264]
+resource-id: id/question
+tag: Text
+
+L5
+class: android.widget.Button
+bounds: [0, 264, 822, 2392]
+resource-id: id/no4
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [822, 264, 1440, 2392]
+resource-id: id/yes4
+tag: Button
+

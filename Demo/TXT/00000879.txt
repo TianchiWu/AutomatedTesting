@@ -1,0 +1,48 @@
+L9
+class: android.support.v7.widget.AppCompatCheckedTextView
+bounds: [56, 546, 1008, 1554]
+resource-id: id/design_menu_item_text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 447, 1440, 783]
+resource-id: id/options_celsius
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [1272, 447, 1384, 615]
+resource-id: id/radioButton
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [1272, 615, 1384, 783]
+resource-id: id/radioButton2
+tag: Button
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 0, 1064, 546]
+resource-id: id/navigation_header_container
+tag: Header
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,24 @@
+L6
+class: android.widget.ImageView
+bounds: [0, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L4
+class: mcdonalds.core.view.LoadingProgressBar
+bounds: [35, 287, 210, 462]
+resource-id: id/progress_loader
+tag: Bar
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 592, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

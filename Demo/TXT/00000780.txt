@@ -1,0 +1,96 @@
+L6
+class: android.widget.TextView
+bounds: [936, 252, 1439, 1227]
+resource-id: id/menu_other_apps
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [207, 252, 763, 1221]
+resource-id: id/Traffic
+tag: Text
+
+L5
+class: android.widget.ScrollView
+bounds: [207, 1187, 1233, 1439]
+resource-id: id/data_scroll_view
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [207, 804, 1233, 1839]
+resource-id: id/camera_content
+tag: Image
+
+L5
+class: android.widget.ImageButton
+bounds: [0, 84, 196, 252]
+resource-id: id/home
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [196, 84, 552, 252]
+resource-id: id/actionbar_compat_title
+tag: Bar
+
+L5
+class: android.widget.ImageButton
+bounds: [1104, 84, 1272, 252]
+resource-id: id/menu_refresh
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [1272, 84, 1440, 252]
+resource-id: id/menu_more
+tag: Button
+
+L5
+class: android.widget.ToggleButton
+bounds: [984, 804, 1096, 923]
+resource-id: id/camera_favorite_image
+tag: Button
+
+L5
+class: android.widget.ImageView
+bounds: [725, 804, 844, 923]
+resource-id: id/camera_video_image
+tag: Video
+
+L5
+class: lam.justbecause.tripcheckerfree.MarqueeTextView
+bounds: [207, 790, 725, 929]
+resource-id: id/camera_title
+tag: Text
+
+L5
+class: android.widget.ProgressBar
+bounds: [587, 1244, 853, 1510]
+resource-id: id/camera_progressBar
+tag: Bar
+
+L5
+class: android.widget.ImageButton
+bounds: [11, 252, 186, 448]
+resource-id: id/menu_center
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [11, 453, 186, 649]
+resource-id: id/menu_layers
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [936, 1232, 1439, 1367]
+resource-id: id/menu_remove_ads
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [936, 1372, 1439, 1507]
+resource-id: id/menu_old_version
+tag: Text
+

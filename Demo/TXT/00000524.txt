@@ -1,0 +1,78 @@
+L9
+class: com.mobileappsteam.myprayer.widgets.CustomFontTextView
+bounds: [210, 627, 904, 1502]
+resource-id: id/menu_title
+tag: Text
+
+L13
+class: com.mobileappsteam.myprayer.widgets.CustomFontTextView
+bounds: [176, 605, 1264, 748]
+resource-id: id/tv_prayer_arabic_date
+tag: Text
+
+L15
+class: com.mobileappsteam.myprayer.widgets.CustomFontTextView
+bounds: [268, 1120, 516, 1324]
+resource-id: id/tv_prayer_name_current
+tag: Text
+
+L9
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L11
+class: com.mobileappsteam.myprayer.widgets.CustomFontTextView
+bounds: [0, 466, 1440, 587]
+resource-id: id/tv_prayer_location
+tag: Text
+
+L14
+class: com.mobileappsteam.myprayer.widgets.CustomFontTextView
+bounds: [36, 856, 233, 977]
+resource-id: id/tv_prayer_time
+tag: Text
+
+L15
+class: com.mobileappsteam.myprayer.widgets.CustomFontTextView
+bounds: [268, 870, 468, 963]
+resource-id: id/tv_prayer_name
+tag: Text
+
+L14
+class: com.mobileappsteam.myprayer.widgets.CustomFontTextView
+bounds: [36, 1144, 233, 1265]
+resource-id: id/tv_prayer_time
+tag: Text
+
+L14
+class: com.mobileappsteam.myprayer.widgets.CustomFontTextView
+bounds: [36, 1432, 233, 1553]
+resource-id: id/tv_prayer_time
+tag: Text
+
+L15
+class: com.mobileappsteam.myprayer.widgets.CustomFontTextView
+bounds: [268, 1446, 458, 1539]
+resource-id: id/tv_prayer_name
+tag: Text
+
+L7
+class: android.widget.RelativeLayout
+bounds: [0, 84, 910, 574]
+resource-id: id/nav_header_container
+tag: Header
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

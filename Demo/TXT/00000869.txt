@@ -1,0 +1,66 @@
+L7
+class: android.widget.ProgressBar
+bounds: [587, 928, 853, 1418]
+resource-id: id/progressBar1
+tag: Bar
+
+L6
+class: android.widget.ImageView
+bounds: [0, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.ImageButton
+bounds: [0, 2042, 288, 2217]
+resource-id: id/menu_previous
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [288, 2042, 576, 2217]
+resource-id: id/menu_share
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [576, 2042, 864, 2217]
+resource-id: id/menu_caption
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [864, 2042, 1152, 2217]
+resource-id: id/menu_download
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [1152, 2042, 1440, 2217]
+resource-id: id/menu_next
+tag: Button
+
+L4
+class: com.thechive.widget.GalleryViewPager
+bounds: [0, 252, 1440, 2042]
+resource-id: id/gallery
+tag: Image
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [169, 97, 1412, 182]
+resource-id: id/action_bar_title
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [169, 172, 322, 238]
+resource-id: id/action_bar_subtitle
+tag: NavigationBar
+

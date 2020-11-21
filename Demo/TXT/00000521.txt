@@ -1,0 +1,60 @@
+L9
+class: android.support.v7.widget.AppCompatCheckedTextView
+bounds: [56, 588, 924, 1596]
+resource-id: id/design_menu_item_text
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [174, 969, 1266, 1138]
+resource-id: id/help_others_discover_user_country
+tag: Text
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [230, 1316, 1210, 1674]
+resource-id: id/help_others_discover_exercise_content
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [174, 1856, 1266, 2024]
+resource-id: id/help_others_discover_view_exercise
+tag: Text
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 0, 980, 588]
+resource-id: id/navigation_header_container
+tag: Header
+
+L11
+class: android.widget.FrameLayout
+bounds: [56, 162, 280, 386]
+resource-id: id/userProfileContainer
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [238, 162, 280, 225]
+resource-id: id/userUnseenExercises
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 428, 980, 504]
+resource-id: id/userProfileName
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

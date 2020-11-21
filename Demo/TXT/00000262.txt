@@ -1,0 +1,42 @@
+L9
+class: android.widget.TextView
+bounds: [333, 607, 1300, 794]
+resource-id: id/text_description
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [105, 1722, 1335, 1788]
+resource-id: id/text_leave_btn
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [105, 614, 1335, 685]
+resource-id: id/text_confirm
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [105, 598, 298, 791]
+resource-id: id/img_ad_icon
+tag: Image
+
+L8
+class: android.widget.RelativeLayout
+bounds: [1282, 596, 1335, 649]
+resource-id: id/ad_label_frame
+tag: Text
+
+L6
+class: android.widget.RelativeLayout
+bounds: [105, 829, 1335, 1476]
+resource-id: id/ad_item_image_frame
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [105, 1511, 1335, 1651]
+resource-id: id/text_download_btn
+tag: Text
+

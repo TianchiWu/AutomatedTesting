@@ -1,0 +1,180 @@
+L10
+class: android.widget.FrameLayout
+bounds: [0, 280, 959, 2199]
+resource-id: id/v_thumb_wrapper
+tag: Image
+
+L10
+class: android.widget.FrameLayout
+bounds: [0, 280, 1439, 2217]
+resource-id: id/v_thumb_wrapper
+tag: Image
+
+L13
+class: com.colure.tool.widget.TextViewPlus
+bounds: [112, 665, 465, 731]
+resource-id: id/v_folder_pic_num
+tag: Text
+
+L13
+class: com.colure.tool.widget.TextViewPlus
+bounds: [592, 665, 945, 731]
+resource-id: id/v_folder_pic_num
+tag: Text
+
+L13
+class: com.colure.tool.widget.TextViewPlus
+bounds: [1072, 665, 1425, 731]
+resource-id: id/v_folder_pic_num
+tag: Text
+
+L13
+class: com.colure.tool.widget.TextViewPlus
+bounds: [112, 1145, 465, 1211]
+resource-id: id/v_folder_pic_num
+tag: Text
+
+L13
+class: com.colure.tool.widget.TextViewPlus
+bounds: [592, 1145, 945, 1211]
+resource-id: id/v_folder_pic_num
+tag: Text
+
+L13
+class: com.colure.tool.widget.TextViewPlus
+bounds: [1072, 1145, 1425, 1211]
+resource-id: id/v_folder_pic_num
+tag: Text
+
+L13
+class: com.colure.tool.widget.TextViewPlus
+bounds: [112, 1625, 465, 1691]
+resource-id: id/v_folder_pic_num
+tag: Text
+
+L13
+class: com.colure.tool.widget.TextViewPlus
+bounds: [592, 1625, 945, 1691]
+resource-id: id/v_folder_pic_num
+tag: Text
+
+L13
+class: com.colure.tool.widget.TextViewPlus
+bounds: [1072, 1625, 1425, 1691]
+resource-id: id/v_folder_pic_num
+tag: Text
+
+L13
+class: com.colure.tool.widget.TextViewPlus
+bounds: [112, 2105, 465, 2171]
+resource-id: id/v_folder_pic_num
+tag: Text
+
+L13
+class: com.colure.tool.widget.TextViewPlus
+bounds: [592, 2105, 945, 2171]
+resource-id: id/v_folder_pic_num
+tag: Text
+
+L13
+class: com.colure.tool.widget.TextViewPlus
+bounds: [1072, 2105, 1425, 2171]
+resource-id: id/v_folder_pic_num
+tag: Text
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/v_toolbar
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 670, 91, 726]
+resource-id: id/v_folder_image
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [515, 670, 571, 726]
+resource-id: id/v_folder_image
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [995, 670, 1051, 726]
+resource-id: id/v_folder_image
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 1150, 91, 1206]
+resource-id: id/v_folder_image
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [515, 1150, 571, 1206]
+resource-id: id/v_folder_image
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [995, 1150, 1051, 1206]
+resource-id: id/v_folder_image
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 1630, 91, 1686]
+resource-id: id/v_folder_image
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [515, 1630, 571, 1686]
+resource-id: id/v_folder_image
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [995, 1630, 1051, 1686]
+resource-id: id/v_folder_image
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 2110, 91, 2166]
+resource-id: id/v_folder_image
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [515, 2110, 571, 2166]
+resource-id: id/v_folder_image
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [995, 2110, 1051, 2166]
+resource-id: id/v_folder_image
+tag: Image
+
+L7
+class: android.view.View
+bounds: [0, 280, 1440, 294]
+resource-id: id/v_toolbar_shadow
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L2
+class: android.support.v7.widget.AppCompatButton
+bounds: [1081, 2182, 1398, 2350]
+resource-id: id/showcase_button
+tag: Button
+

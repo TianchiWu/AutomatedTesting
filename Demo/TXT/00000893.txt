@@ -1,0 +1,48 @@
+L9
+class: com.eyewind.tint.TypeFaceTextView
+bounds: [619, 196, 820, 281]
+resource-id: id/name
+tag: Text
+
+L9
+class: com.eyewind.tint.TypeFaceTextView
+bounds: [654, 1457, 785, 1542]
+resource-id: id/name
+tag: Text
+
+L8
+class: android.support.design.widget.CollapsingToolbarLayout
+bounds: [0, 0, 1440, 196]
+resource-id: id/toolbarLayout
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [985, 28, 1125, 168]
+resource-id: id/rate
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1132, 28, 1272, 168]
+resource-id: id/remove_ads
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1279, 28, 1419, 168]
+resource-id: id/more_app
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 2205, 1440, 2392]
+resource-id: id/end_padder
+tag: Image
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 0, 980, 1138]
+resource-id: id/navigation_header_container
+tag: Header
+

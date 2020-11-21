@@ -1,0 +1,30 @@
+L6
+class: android.support.v7.widget.AppCompatEditText
+bounds: [91, 336, 1384, 968]
+resource-id: id/editSendFeedback
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 968, 764, 2063]
+resource-id: id/screenshotView
+tag: Image
+
+L4
+class: android.support.v7.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

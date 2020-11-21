@@ -1,0 +1,42 @@
+L6
+class: android.widget.ImageView
+bounds: [56, 1618, 140, 1702]
+resource-id: id/icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [252, 1548, 1440, 1772]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.LinearLayout
+bounds: [0, 1772, 1440, 1996]
+resource-id: id/button_bar
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [781, 1800, 1125, 1968]
+resource-id: id/button_once
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [1125, 1800, 1398, 1968]
+resource-id: id/button_always
+tag: Button
+
+L6
+class: android.widget.ImageView
+bounds: [84, 2252, 168, 2336]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [252, 2251, 479, 2336]
+resource-id: id/text1
+tag: Text
+

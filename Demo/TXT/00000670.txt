@@ -1,0 +1,54 @@
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 280, 1440, 910]
+resource-id: id/backgroundArtwork
+tag: Image
+
+L15
+class: uk.co.senab.bitmapcache.CacheableImageView
+bounds: [70, 350, 441, 721]
+resource-id: id/thumbnail
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [511, 375, 1370, 451]
+resource-id: id/name
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [514, 451, 591, 528]
+resource-id: id/mediaType
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [602, 456, 1117, 522]
+resource-id: id/author
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatButton
+bounds: [504, 528, 1370, 696]
+resource-id: id/subscribe
+tag: Button
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

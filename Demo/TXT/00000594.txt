@@ -1,0 +1,48 @@
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [413, 336, 1026, 1433]
+resource-id: id/text_exercise
+tag: Text
+
+L7
+class: android.widget.FrameLayout
+bounds: [499, 1461, 940, 1902]
+resource-id: id/image_exercise
+tag: Video
+
+L7
+class: com.perigee.seven.ui.view.SegmentedProgressView
+bounds: [545, 1986, 895, 2336]
+resource-id: id/progress
+tag: Bar
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1096, 1986, 1384, 2336]
+resource-id: id/forward
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 1986, 344, 2336]
+resource-id: id/backward
+tag: Image
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

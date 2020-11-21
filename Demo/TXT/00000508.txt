@@ -1,0 +1,102 @@
+L7
+class: android.widget.TextView
+bounds: [536, 742, 904, 808]
+resource-id: id/vip_center_vip_tag
+tag: Text
+
+L4
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 266]
+resource-id: id/vip_center_header
+tag: Header
+
+L5
+class: android.widget.RelativeLayout
+bounds: [0, 84, 196, 266]
+resource-id: id/common_header_back_btn_rl
+tag: Header
+
+L6
+class: android.widget.ImageView
+bounds: [24, 101, 171, 248]
+resource-id: id/common_header_back_btn
+tag: Header
+
+L6
+class: android.widget.TextView
+bounds: [370, 130, 1070, 220]
+resource-id: id/common_header_title
+tag: Header
+
+L8
+class: com.mico.image.widget.MicoImageView
+bounds: [545, 357, 895, 707]
+resource-id: id/user_avatar_iv
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [819, 371, 882, 431]
+resource-id: id/vip_center_top_cap_iv
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [551, 808, 888, 979]
+resource-id: id/vip_become_vip_tv
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [263, 1049, 473, 1182]
+resource-id: id/vip_recognition_iv
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1003, 1053, 1140, 1169]
+resource-id: id/recent_visitors_iv
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [284, 1424, 452, 1536]
+resource-id: id/vip_no_ad_iv
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [968, 1417, 1175, 1540]
+resource-id: id/vip_greeting_iv
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [35, 1914, 193, 2072]
+resource-id: id/vip_super_roaming_icon
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [35, 2146, 193, 2217]
+resource-id: id/vip_stickers_icon
+tag: Image
+
+L5
+class: android.widget.TextView
+bounds: [18, 2245, 1422, 2364]
+resource-id: id/vip_center_bottom_tv
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,66 @@
+L12
+class: com.contextlogic.wishlocal.ui.text.ThemedEditText
+bounds: [385, 322, 1405, 622]
+resource-id: id/update_profile_fragment_last_name_text
+tag: Text
+
+L6
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/drawer_activity_toolbar_container
+tag: Bar
+
+L12
+class: com.contextlogic.wishlocal.ui.image.NetworkImageView
+bounds: [35, 315, 350, 630]
+resource-id: id/update_profile_fragment_profile_image
+tag: Image
+
+L12
+class: com.contextlogic.wishlocal.ui.text.ThemedTextView
+bounds: [131, 537, 254, 630]
+resource-id: id/update_profile_edit_profile_picture_button
+tag: Button
+
+L10
+class: com.contextlogic.wishlocal.ui.text.ThemedTextView
+bounds: [35, 851, 1405, 992]
+resource-id: id/update_profile_fragment_location_text
+tag: Text
+
+L11
+class: com.contextlogic.wishlocal.ui.text.ThemedTextView
+bounds: [35, 1156, 720, 1303]
+resource-id: id/update_profile_fragment_female_button
+tag: Button
+
+L11
+class: com.contextlogic.wishlocal.ui.text.ThemedTextView
+bounds: [720, 1156, 1405, 1303]
+resource-id: id/update_profile_fragment_male_button
+tag: Button
+
+L10
+class: com.contextlogic.wishlocal.ui.text.ThemedTextView
+bounds: [35, 1373, 1405, 1520]
+resource-id: id/update_profile_fragment_save_button
+tag: Button
+
+L10
+class: com.contextlogic.wishlocal.ui.text.ThemedTextView
+bounds: [35, 1555, 1405, 1702]
+resource-id: id/update_profile_fragment_skip_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

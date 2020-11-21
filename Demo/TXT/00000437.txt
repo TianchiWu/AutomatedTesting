@@ -1,0 +1,126 @@
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/contentToolbar
+tag: Bar
+
+L9
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [196, 135, 572, 229]
+resource-id: id/actionBarTitleTextView
+tag: Text
+
+L13
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [388, 1099, 1051, 1197]
+resource-id: id/intro_text_title
+tag: Text
+
+L13
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [196, 1267, 1244, 1437]
+resource-id: id/intro_text_content
+tag: Text
+
+L11
+class: android.support.v7.widget.az
+bounds: [1272, 1989, 1384, 2101]
+resource-id: id/info_button_next
+tag: Button
+
+L9
+class: android.widget.LinearLayout
+bounds: [0, 2157, 1440, 2392]
+resource-id: id/myaccount_info_buttons
+tag: Button
+
+L10
+class: com.cf.flightsearch.views.CustomButton
+bounds: [53, 2157, 706, 2339]
+resource-id: id/myaccount_info_button_signup
+tag: Button
+
+L10
+class: com.cf.flightsearch.views.CustomButton
+bounds: [734, 2157, 1387, 2339]
+resource-id: id/myaccount_info_button_login
+tag: Button
+
+L8
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [0, 84, 1264, 280]
+resource-id: id/navigationDrawerHeaderTitle
+tag: Text
+
+L11
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [224, 335, 536, 406]
+resource-id: id/navigationDrawerItemTitle
+tag: Text
+
+L11
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [224, 521, 754, 592]
+resource-id: id/navigationDrawerItemTitle
+tag: Text
+
+L11
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [224, 707, 734, 778]
+resource-id: id/navigationDrawerItemTitle
+tag: Text
+
+L11
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [224, 893, 528, 964]
+resource-id: id/navigationDrawerItemTitle
+tag: Text
+
+L11
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [224, 1079, 506, 1150]
+resource-id: id/navigationDrawerItemTitle
+tag: Text
+
+L11
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [224, 1265, 419, 1336]
+resource-id: id/navigationDrawerItemTitle
+tag: Text
+
+L11
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [224, 1451, 636, 1522]
+resource-id: id/navigationDrawerItemTitle
+tag: Text
+
+L12
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [245, 2189, 439, 2260]
+resource-id: id/navigationDrawerSignUp
+tag: Text
+
+L12
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [537, 2189, 690, 2260]
+resource-id: id/navigationDrawerLogIn
+tag: Text
+
+L11
+class: com.cf.flightsearch.views.CustomTextView
+bounds: [245, 2260, 822, 2322]
+resource-id: id/navigationDrawerPhrase
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

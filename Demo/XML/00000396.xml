@@ -1,0 +1,57 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>00000396</filename>
+  <size>
+    <width>1440</width>
+    <height>2560</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Text</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>216</xmin>
+      <ymin> 654</ymin>
+      <xmax> 1224</xmax>
+      <ymax> 855</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Picker</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>297</xmin>
+      <ymin> 1213</ymin>
+      <xmax> 1143</xmax>
+      <ymax> 1288</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>216</xmin>
+      <ymin> 1647</ymin>
+      <xmax> 716</xmax>
+      <ymax> 1822</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>720</xmin>
+      <ymin> 1647</ymin>
+      <xmax> 1224</xmax>
+      <ymax> 1822</ymax>
+    </bndbox>
+  </object>
+</annotation>

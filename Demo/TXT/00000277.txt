@@ -1,0 +1,240 @@
+L14
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [281, 469, 1195, 651]
+resource-id: id/tv_subtitle
+tag: Text
+
+L14
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [281, 750, 1195, 868]
+resource-id: id/tv_subtitle
+tag: Text
+
+L14
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [281, 999, 1195, 1117]
+resource-id: id/tv_subtitle
+tag: Text
+
+L14
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [281, 1248, 1195, 1366]
+resource-id: id/tv_subtitle
+tag: Text
+
+L14
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [281, 1497, 1195, 1615]
+resource-id: id/tv_subtitle
+tag: Text
+
+L14
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [281, 1746, 1195, 1864]
+resource-id: id/tv_subtitle
+tag: Text
+
+L13
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [210, 2042, 915, 2217]
+resource-id: id/tv_sp_subtitle
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1195, 438, 1440, 683]
+resource-id: id/ib_right_icon
+tag: Button
+
+L13
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [35, 473, 1160, 648]
+resource-id: id/tv_title
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1195, 687, 1440, 932]
+resource-id: id/ib_right_icon
+tag: Button
+
+L13
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [35, 722, 1160, 897]
+resource-id: id/tv_title
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1195, 936, 1440, 1181]
+resource-id: id/ib_right_icon
+tag: Button
+
+L13
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [35, 971, 1160, 1146]
+resource-id: id/tv_title
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1195, 1185, 1440, 1430]
+resource-id: id/ib_right_icon
+tag: Button
+
+L13
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [35, 1220, 1160, 1395]
+resource-id: id/tv_title
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1195, 1434, 1440, 1679]
+resource-id: id/ib_right_icon
+tag: Button
+
+L13
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [35, 1469, 1160, 1644]
+resource-id: id/tv_title
+tag: Text
+
+L11
+class: android.widget.ProgressBar
+bounds: [636, 1077, 804, 1245]
+resource-id: id/progress_bar
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 280, 140, 438]
+resource-id: id/ib_back
+tag: Button
+
+L12
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [140, 280, 1037, 438]
+resource-id: id/tv_list_title
+tag: Text
+
+L13
+class: android.widget.RelativeLayout
+bounds: [18, 456, 263, 665]
+resource-id: id/rl_icon
+tag: Image
+
+L13
+class: android.widget.RelativeLayout
+bounds: [18, 705, 263, 914]
+resource-id: id/rl_icon
+tag: Image
+
+L13
+class: android.widget.RelativeLayout
+bounds: [18, 954, 263, 1163]
+resource-id: id/rl_icon
+tag: Image
+
+L13
+class: android.widget.RelativeLayout
+bounds: [18, 1203, 263, 1412]
+resource-id: id/rl_icon
+tag: Image
+
+L13
+class: android.widget.RelativeLayout
+bounds: [18, 1452, 263, 1661]
+resource-id: id/rl_icon
+tag: Image
+
+L13
+class: android.widget.RelativeLayout
+bounds: [18, 1701, 263, 1910]
+resource-id: id/rl_icon
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1195, 1683, 1440, 1928]
+resource-id: id/ib_right_icon
+tag: Button
+
+L13
+class: android.widget.RelativeLayout
+bounds: [18, 1950, 263, 2042]
+resource-id: id/rl_icon
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1195, 1932, 1440, 2042]
+resource-id: id/ib_right_icon
+tag: Button
+
+L14
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [281, 1963, 1195, 2042]
+resource-id: id/tv_title
+tag: Text
+
+L9
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L10
+class: com.appgeneration.ituner.ui.view.QuickSandTextView
+bounds: [253, 146, 464, 218]
+resource-id: id/toolbar_title
+tag: Bar
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 2042, 1440, 2217]
+resource-id: id/fragment_player
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [632, 2042, 807, 2217]
+resource-id: id/ib_sp_icon_close
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 2042, 175, 2217]
+resource-id: id/ib_icon_play
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1265, 2042, 1440, 2217]
+resource-id: id/ib_icon_pro
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1090, 2042, 1265, 2217]
+resource-id: id/ib_icon_more
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [915, 2042, 1090, 2217]
+resource-id: id/ib_icon_fav
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

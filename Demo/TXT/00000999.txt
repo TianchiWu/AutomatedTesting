@@ -1,0 +1,60 @@
+L7
+class: android.widget.TextView
+bounds: [0, 420, 1440, 2392]
+resource-id: id/advisories_list_counties
+tag: Text
+
+L2
+class: android.widget.FrameLayout
+bounds: [0, 420, 1440, 2392]
+resource-id: id/content
+tag: Text
+
+L5
+class: android.widget.ScrollView
+bounds: [0, 420, 1440, 2392]
+resource-id: id/advisory_display
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 420]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L3
+class: com.android.internal.widget.ActionBarView
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L4
+class: android.widget.TextView
+bounds: [169, 84, 495, 252]
+resource-id: id/action_bar_text
+tag: NavigationBar
+
+L7
+class: android.widget.ImageView
+bounds: [1207, 280, 1319, 392]
+resource-id: id/advisory_tab_image
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [1264, 273, 1339, 348]
+resource-id: id/advisory_count_image
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [1263, 273, 1338, 348]
+resource-id: id/advisory_tab_count
+tag: Text
+

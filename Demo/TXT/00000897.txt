@@ -1,0 +1,30 @@
+L5
+class: android.widget.TextView
+bounds: [56, 1791, 1440, 1951]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [138, 2007, 306, 2175]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [169, 2214, 274, 2336]
+resource-id: id/text1
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [470, 2007, 638, 2175]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [420, 2214, 687, 2336]
+resource-id: id/text1
+tag: Text
+

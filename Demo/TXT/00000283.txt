@@ -1,0 +1,66 @@
+L6
+class: android.widget.ImageView
+bounds: [950, 276, 1440, 451]
+resource-id: id/appsettings
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [56, 259, 218, 469]
+resource-id: id/date_large
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [119, 599, 609, 722]
+resource-id: id/dashboard_image_one
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [830, 599, 1320, 722]
+resource-id: id/dashboard_image_two
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [119, 1047, 609, 1170]
+resource-id: id/dashboard_image_three
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [830, 1047, 1320, 1170]
+resource-id: id/dashboard_image_four
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [119, 1527, 609, 1650]
+resource-id: id/dashboard_image_five
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [830, 1559, 1320, 1682]
+resource-id: id/dashboard_image_six
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [475, 2030, 965, 2170]
+resource-id: id/dashboard_image_nine
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

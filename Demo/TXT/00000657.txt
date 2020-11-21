@@ -1,0 +1,24 @@
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1409, 1384, 1913]
+resource-id: id/description
+tag: Text
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [360, 112, 1080, 1512]
+resource-id: id/main_image
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [437, 2045, 1002, 2213]
+resource-id: id/positive_action
+tag: Button
+
+L9
+class: com.yinzcam.common.android.ui.fonts.FontButton
+bounds: [824, 2241, 1384, 2392]
+resource-id: id/cancel_action
+tag: Button
+

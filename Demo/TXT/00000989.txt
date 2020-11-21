@@ -1,0 +1,66 @@
+L5
+class: android.widget.TextView
+bounds: [28, 703, 1342, 913]
+resource-id: id/trigger_detail
+tag: Text
+
+L4
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 277]
+resource-id: id/header
+tag: Header
+
+L5
+class: android.widget.Button
+bounds: [18, 119, 277, 242]
+resource-id: id/button_cancel
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [558, 138, 881, 223]
+resource-id: id/txt_view_title
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [1307, 128, 1412, 233]
+resource-id: id/plus_smart_actions
+tag: Button
+
+L4
+class: android.widget.TextView
+bounds: [70, 452, 1370, 528]
+resource-id: id/title_text_view
+tag: Text
+
+L4
+class: android.widget.FrameLayout
+bounds: [0, 2199, 1440, 2392]
+resource-id: id/holder_nav_buttons
+tag: Button
+
+L5
+class: android.widget.ImageView
+bounds: [1370, 774, 1412, 841]
+resource-id: id/img_right_arrow
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [28, 913, 1179, 1123]
+resource-id: id/txt_view_label
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [1225, 913, 1356, 1123]
+resource-id: id/txt_view_value
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [1384, 996, 1412, 1040]
+resource-id: id/img_right_arrow
+tag: Image
+

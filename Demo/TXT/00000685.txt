@@ -1,0 +1,48 @@
+L6
+class: android.widget.EditText
+bounds: [21, 902, 1384, 1178]
+resource-id: id/account_password
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [21, 1346, 133, 1458]
+resource-id: id/foldableIcon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [168, 1369, 561, 1435]
+resource-id: id/foldableText
+tag: Text
+
+L5
+class: android.widget.Button
+bounds: [0, 2224, 719, 2392]
+resource-id: id/manual_setup
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [721, 2224, 1440, 2392]
+resource-id: id/next
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 159, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [173, 125, 774, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

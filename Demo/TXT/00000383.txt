@@ -1,0 +1,150 @@
+L14
+class: android.widget.ImageView
+bounds: [52, 213, 152, 358]
+resource-id: id/dialog_trainer_speaker_image_left_inactive
+tag: Image
+
+L13
+class: com.babbel.mobile.android.en.views.StyledTextView
+bounds: [296, 276, 945, 418]
+resource-id: id/dialog_trainer_item_refText
+tag: Text
+
+L13
+class: com.babbel.mobile.android.en.views.StyledTextView
+bounds: [122, 643, 481, 785]
+resource-id: id/dialog_trainer_item_refText
+tag: Text
+
+L14
+class: android.widget.ImageView
+bounds: [1288, 580, 1388, 725]
+resource-id: id/dialog_trainer_speaker_image_right_inactive
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [52, 947, 152, 1092]
+resource-id: id/dialog_trainer_speaker_image_left_inactive
+tag: Image
+
+L13
+class: com.babbel.mobile.android.en.views.StyledTextView
+bounds: [122, 1377, 1144, 1643]
+resource-id: id/dialog_trainer_item_refText
+tag: Text
+
+L14
+class: android.widget.ImageView
+bounds: [1288, 1314, 1388, 1459]
+resource-id: id/dialog_trainer_speaker_image_right_inactive
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [52, 1805, 152, 1950]
+resource-id: id/dialog_trainer_speaker_image_left_inactive
+tag: Image
+
+L4
+class: android.widget.RelativeLayout
+bounds: [0, 0, 1440, 172]
+resource-id: id/trainer_topbar
+tag: Bar
+
+L5
+class: android.widget.ImageView
+bounds: [0, 0, 168, 168]
+resource-id: id/trainer_topbar_close
+tag: Image
+
+L6
+class: android.widget.ProgressBar
+bounds: [387, 63, 1052, 109]
+resource-id: id/trainer_progressBar
+tag: Bar
+
+L6
+class: android.widget.TextView
+bounds: [1303, 53, 1327, 110]
+resource-id: id/trainer_count_current
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [1363, 53, 1387, 110]
+resource-id: id/trainer_count_total
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [152, 188, 226, 485]
+resource-id: id/dialog_trainer_bubble_left
+tag: Image
+
+L12
+class: android.widget.ImageView
+bounds: [1214, 555, 1288, 852]
+resource-id: id/dialog_trainer_bubble_right
+tag: Image
+
+L12
+class: android.widget.ImageView
+bounds: [152, 922, 226, 1219]
+resource-id: id/dialog_trainer_bubble_left
+tag: Image
+
+L13
+class: com.babbel.mobile.android.en.views.ChoiceButtonTextLayout
+bounds: [296, 1010, 1198, 1081]
+resource-id: id/dialog_trainer_item_choiceText
+tag: Button
+
+L13
+class: com.babbel.mobile.android.en.views.StyledTextView
+bounds: [296, 1081, 1261, 1152]
+resource-id: id/dialog_trainer_item_refText
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [1214, 1289, 1288, 1710]
+resource-id: id/dialog_trainer_bubble_right
+tag: Image
+
+L12
+class: android.widget.ImageView
+bounds: [152, 1780, 226, 2077]
+resource-id: id/dialog_trainer_bubble_left
+tag: Image
+
+L13
+class: com.babbel.mobile.android.en.views.ChoiceButtonTextLayout
+bounds: [296, 1868, 458, 1939]
+resource-id: id/dialog_trainer_item_choiceText
+tag: Button
+
+L13
+class: com.babbel.mobile.android.en.views.StyledTextView
+bounds: [296, 1939, 708, 2010]
+resource-id: id/dialog_trainer_item_refText
+tag: Text
+
+L5
+class: android.widget.Button
+bounds: [1387, 172, 1440, 2147]
+resource-id: id/dev_navigation_next
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [371, 2218, 625, 2321]
+resource-id: id/styled_solution_button_letter
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [766, 2218, 1068, 2321]
+resource-id: id/styled_solution_button_letter
+tag: Button
+

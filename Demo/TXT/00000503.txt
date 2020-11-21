@@ -1,0 +1,102 @@
+L9
+class: com.lazada.customviews.FontTextView
+bounds: [84, 326, 1356, 482]
+resource-id: id/all_reviews_header_price
+tag: Header
+
+L10
+class: com.lazada.customviews.FontTextView
+bounds: [84, 1052, 1356, 1309]
+resource-id: id/all_reviews_review_text
+tag: Text
+
+L10
+class: com.lazada.customviews.FontTextView
+bounds: [84, 1526, 1356, 1845]
+resource-id: id/all_reviews_review_text
+tag: Text
+
+L10
+class: com.lazada.customviews.FontTextView
+bounds: [84, 2062, 1356, 2381]
+resource-id: id/all_reviews_review_text
+tag: Text
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L6
+class: android.widget.FrameLayout
+bounds: [0, 280, 1440, 2392]
+resource-id: id/activity_reviews_root
+tag: Header
+
+L10
+class: android.support.v7.widget.AppCompatRatingBar
+bounds: [78, 489, 393, 552]
+resource-id: id/product_rating
+tag: Bar
+
+L10
+class: com.lazada.customviews.FontTextView
+bounds: [407, 482, 694, 552]
+resource-id: id/product_rating_count
+tag: Text
+
+L9
+class: com.lazada.customviews.FontButton
+bounds: [84, 629, 1356, 804]
+resource-id: id/all_reviews_header_write_review
+tag: Header
+
+L10
+class: com.lazada.customviews.FontTextView
+bounds: [84, 899, 1356, 961]
+resource-id: id/all_reviews_review_title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatRatingBar
+bounds: [84, 975, 399, 1038]
+resource-id: id/all_reviews_review_rating
+tag: Bar
+
+L10
+class: com.lazada.customviews.FontTextView
+bounds: [84, 1373, 1356, 1435]
+resource-id: id/all_reviews_review_title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatRatingBar
+bounds: [84, 1449, 399, 1512]
+resource-id: id/all_reviews_review_rating
+tag: Bar
+
+L10
+class: com.lazada.customviews.FontTextView
+bounds: [84, 1909, 1356, 1971]
+resource-id: id/all_reviews_review_title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatRatingBar
+bounds: [84, 1985, 399, 2048]
+resource-id: id/all_reviews_review_rating
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

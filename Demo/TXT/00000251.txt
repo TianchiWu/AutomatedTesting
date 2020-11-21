@@ -1,0 +1,60 @@
+L8
+class: android.widget.ImageView
+bounds: [136, 330, 206, 400]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [206, 332, 336, 398]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [607, 330, 677, 400]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [677, 332, 832, 398]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [1189, 332, 1217, 398]
+resource-id: id/title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [35, 477, 158, 600]
+resource-id: id/imgFile
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [158, 477, 1405, 600]
+resource-id: id/txtNameFile
+tag: Text
+
+L5
+class: android.widget.ImageButton
+bounds: [1317, 309, 1422, 414]
+resource-id: id/btnMenu
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [1177, 309, 1282, 414]
+resource-id: id/btnSettings
+tag: Button
+
+L7
+class: android.widget.ImageButton
+bounds: [526, 1916, 911, 2374]
+resource-id: id/btnRecord
+tag: Button
+

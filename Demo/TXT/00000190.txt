@@ -1,0 +1,30 @@
+L13
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [0, 864, 1440, 1704]
+resource-id: id/value
+tag: Text
+
+L10
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [56, 308, 1384, 401]
+resource-id: id/introScreenTitle
+tag: Text
+
+L12
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [818, 1214, 937, 1290]
+resource-id: id/hintView
+tag: Text
+
+L10
+class: org.iggymedia.periodtracker.views.TypefaceButton
+bounds: [56, 2168, 1384, 2336]
+resource-id: id/introScreenNext
+tag: Button
+
+L7
+class: org.iggymedia.periodtracker.views.FloatingActionButton
+bounds: [1188, 2112, 1384, 2308]
+resource-id: id/floatingActionButton
+tag: Button
+

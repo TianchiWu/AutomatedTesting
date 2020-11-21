@@ -1,0 +1,30 @@
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [177, 1782, 457, 2062]
+resource-id: id/learn
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [575, 1782, 855, 2062]
+resource-id: id/color
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [978, 1782, 1258, 2062]
+resource-id: id/my_work
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1223, 70, 1370, 217]
+resource-id: id/no_ad
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

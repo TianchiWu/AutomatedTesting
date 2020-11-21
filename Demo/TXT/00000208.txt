@@ -1,0 +1,120 @@
+L14
+class: android.widget.ImageView
+bounds: [70, 289, 161, 496]
+resource-id: id/setting_image_setteisuru_2
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [70, 764, 161, 971]
+resource-id: id/setting_image_setteisuru_3
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [70, 1239, 161, 1446]
+resource-id: id/setting_image_setteisuru_4
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [378, 2228, 1062, 2381]
+resource-id: id/imageView2
+tag: Image
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/tool_bar
+tag: Bar
+
+L9
+class: android.support.v7.internal.view.menu.ActionMenuItemView
+bounds: [1244, 98, 1440, 266]
+resource-id: id/global_menu_open_self_actionbar_menu
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [1272, 282, 1370, 380]
+resource-id: id/radio_notify_seiri_false
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [1272, 398, 1370, 496]
+resource-id: id/radio_notify_seiri_true
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 531, 1405, 624]
+resource-id: id/setting_label_hairan
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [1272, 757, 1370, 855]
+resource-id: id/radio_notify_hairan_false
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [1272, 873, 1370, 971]
+resource-id: id/radio_notify_hairan_true
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 1006, 1405, 1099]
+resource-id: id/setting_label_twitter
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [1272, 1232, 1370, 1330]
+resource-id: id/radio_twitter_false
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [1272, 1348, 1370, 1446]
+resource-id: id/radio_twitter_true
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 1481, 1405, 1574]
+resource-id: id/setting_label_start_week
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [1272, 1574, 1370, 1672]
+resource-id: id/radio_cal_day
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [1272, 1672, 1370, 1770]
+resource-id: id/radio_cal_week
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [1272, 1770, 1370, 1868]
+resource-id: id/radio_cal_month
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 1903, 1405, 1996]
+resource-id: id/setting_label_calendar
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [1272, 2129, 1370, 2217]
+resource-id: id/radio_cal_default
+tag: Button
+

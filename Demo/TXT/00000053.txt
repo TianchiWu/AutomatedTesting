@@ -1,0 +1,144 @@
+L7
+class: android.view.View
+bounds: [181, 165, 1067, 199]
+resource-id: id/progress_bar_glow
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [764, 99, 1422, 463]
+resource-id: id/share_card
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [96, 746, 1344, 2136]
+resource-id: id/copy
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [196, 0, 1272, 376]
+resource-id: id/header_title
+tag: Header
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 467, 1440, 474]
+resource-id: id/drop_shadow
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 84, 196, 280]
+resource-id: id/home
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1244, 84, 1440, 280]
+resource-id: id/share_button
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1076, 84, 1272, 280]
+resource-id: id/zoom_button
+tag: Button
+
+L8
+class: android.view.View
+bounds: [196, 175, 358, 189]
+resource-id: id/progress_bar
+tag: Bar
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [84, 336, 1356, 637]
+resource-id: id/tip_title
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 763, 252, 931]
+resource-id: id/tip_1_image
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 1057, 252, 1225]
+resource-id: id/tip_2_image
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 1351, 252, 1519]
+resource-id: id/tip_3_image
+tag: Image
+
+L6
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 2032, 1384, 2116]
+resource-id: id/ix_prompt
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [32, 344, 1408, 1800]
+resource-id: id/copy
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [1120, 1800, 1344, 2024]
+resource-id: id/cta_button
+tag: Button
+
+L9
+class: com.google.android.apps.primer.lesson.card.PinButton
+bounds: [1184, 1912, 1408, 2136]
+resource-id: id/pin
+tag: Button
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1076, 84, 1244, 280]
+resource-id: id/ghost_zoom
+tag: Image
+
+L6
+class: android.view.View
+bounds: [196, 84, 1076, 280]
+resource-id: id/ghost_progress
+tag: Bar
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [342, 2420, 692, 2560]
+resource-id: id/previous_card
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [748, 2420, 1098, 2560]
+resource-id: id/next_card
+tag: Text
+
+L6
+class: com.google.android.apps.primer.recap.OverlayHeader
+bounds: [0, 0, 1440, 474]
+resource-id: id/header
+tag: Header
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 0, 196, 196]
+resource-id: id/close
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

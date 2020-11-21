@@ -1,0 +1,72 @@
+L8
+class: android.widget.ImageView
+bounds: [70, 553, 385, 1797]
+resource-id: id/img
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [490, 644, 518, 776]
+resource-id: id/size
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [490, 1586, 566, 1718]
+resource-id: id/size
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [18, 112, 186, 280]
+resource-id: id/back
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [18, 1931, 756, 1997]
+resource-id: id/selcectphoto
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [1261, 1901, 1387, 2027]
+resource-id: id/next
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [490, 958, 674, 1024]
+resource-id: id/txt
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [490, 1024, 518, 1090]
+resource-id: id/size
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [490, 1272, 708, 1338]
+resource-id: id/txt
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [490, 1338, 518, 1404]
+resource-id: id/size
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

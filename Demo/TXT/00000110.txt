@@ -1,0 +1,60 @@
+L9
+class: com.supervalu.roboto.widgets.RobotoTextView
+bounds: [0, 372, 1080, 1101]
+resource-id: id/nav_list_item_text
+tag: Text
+
+L9
+class: com.supervalu.roboto.widgets.RobotoTextView
+bounds: [0, 1185, 1080, 1706]
+resource-id: id/nav_list_item_text
+tag: Text
+
+L9
+class: com.supervalu.roboto.widgets.RobotoTextView
+bounds: [0, 1790, 1080, 2311]
+resource-id: id/nav_list_item_text
+tag: Text
+
+L5
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 288]
+resource-id: id/nav_header
+tag: Header
+
+L7
+class: android.widget.ImageView
+bounds: [46, 130, 578, 242]
+resource-id: id/landing_page_toggle
+tag: Image
+
+L6
+class: android.widget.Button
+bounds: [720, 125, 1080, 247]
+resource-id: id/nav_sign_in_btn
+tag: Button
+
+L5
+class: android.widget.RelativeLayout
+bounds: [1165, 84, 1440, 485]
+resource-id: id/include_header
+tag: Header
+
+L6
+class: android.widget.Button
+bounds: [1183, 357, 1255, 464]
+resource-id: id/imgBanner_list
+tag: Button
+
+L7
+class: android.widget.EditText
+bounds: [1205, 187, 1440, 595]
+resource-id: id/editAddItemNotLoggedIn
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [1165, 307, 1440, 2392]
+resource-id: id/txtvwNoItemsinList
+tag: Text
+

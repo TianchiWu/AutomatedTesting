@@ -1,0 +1,30 @@
+L10
+class: android.widget.EditText
+bounds: [0, 1037, 1440, 1178]
+resource-id: id/primary_business_input
+tag: Text
+
+L10
+class: android.widget.Button
+bounds: [370, 1248, 1070, 1449]
+resource-id: id/next_button
+tag: Button
+
+L9
+class: android.widget.Button
+bounds: [1195, 2187, 1384, 2336]
+resource-id: id/skip_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,33 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>00000485</filename>
+  <size>
+    <width>1440</width>
+    <height>2560</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>185</xmin>
+      <ymin> 1832</ymin>
+      <xmax> 535</xmax>
+      <ymax> 2196</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>905</xmin>
+      <ymin> 1832</ymin>
+      <xmax> 1255</xmax>
+      <ymax> 2196</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,18 @@
+L4
+class: com.google.android.gms.common.SignInButton
+bounds: [394, 894, 1045, 1083]
+resource-id: id/btn_sign_in
+tag: Button
+
+L4
+class: com.facebook.login.widget.LoginButton
+bounds: [394, 1195, 1045, 1372]
+resource-id: id/authButton
+tag: Button
+
+L6
+class: android.support.v7.widget.AppCompatTextView
+bounds: [565, 1476, 873, 1561]
+resource-id: id/textView
+tag: Text
+

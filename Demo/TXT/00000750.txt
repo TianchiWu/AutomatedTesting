@@ -1,0 +1,30 @@
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [482, 813, 958, 1142]
+resource-id: id/geolocation_imageview
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [361, 1268, 1078, 1376]
+resource-id: id/geolocation_title_textview
+tag: Text
+
+L10
+class: com.globo.navigation.view.AutoResizeTextView
+bounds: [105, 1418, 1335, 1660]
+resource-id: id/geolocation_message_textview
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1188, 333, 1349, 494]
+resource-id: id/close
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatButton
+bounds: [558, 1914, 882, 2082]
+resource-id: id/agree
+tag: Button
+

@@ -1,0 +1,108 @@
+L6
+class: android.widget.ImageView
+bounds: [371, 172, 1037, 351]
+resource-id: id/img_Logo
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [778, 358, 901, 434]
+resource-id: id/tvVersionName
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [35, 522, 592, 598]
+resource-id: id/textViewLanguage
+tag: Text
+
+L6
+class: android.widget.ToggleButton
+bounds: [35, 616, 502, 763]
+resource-id: id/toggleButtonRussian
+tag: Button
+
+L6
+class: android.widget.ToggleButton
+bounds: [482, 616, 959, 763]
+resource-id: id/toggleButtonUkranian
+tag: Button
+
+L6
+class: android.widget.ToggleButton
+bounds: [939, 616, 1405, 763]
+resource-id: id/toggleButtonEnglish
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [35, 816, 350, 892]
+resource-id: id/textViewTemperature
+tag: Text
+
+L6
+class: android.widget.ToggleButton
+bounds: [35, 910, 730, 1057]
+resource-id: id/toggleButtonCelsius
+tag: Button
+
+L6
+class: android.widget.ToggleButton
+bounds: [710, 910, 1405, 1057]
+resource-id: id/toggleButtonFahrenheit
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [35, 1110, 253, 1186]
+resource-id: id/textViewDistance
+tag: Text
+
+L6
+class: android.widget.ToggleButton
+bounds: [35, 1204, 730, 1351]
+resource-id: id/toggleButtonKilometers
+tag: Button
+
+L6
+class: android.widget.ToggleButton
+bounds: [710, 1204, 1405, 1351]
+resource-id: id/toggleButtonMiles
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [35, 1404, 328, 1480]
+resource-id: id/textViewWindSpeed
+tag: Text
+
+L6
+class: android.widget.ToggleButton
+bounds: [35, 1498, 730, 1645]
+resource-id: id/toggleButtonMps
+tag: Button
+
+L6
+class: android.widget.ToggleButton
+bounds: [710, 1498, 1405, 1645]
+resource-id: id/toggleButtonKph
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [35, 1698, 255, 1774]
+resource-id: id/textViewPressure
+tag: Text
+
+L6
+class: android.widget.ToggleButton
+bounds: [35, 1792, 730, 1939]
+resource-id: id/toggleButtonmmHg
+tag: Button
+
+L6
+class: android.widget.ToggleButton
+bounds: [710, 1792, 1405, 1939]
+resource-id: id/toggleButtonkPa
+tag: Button
+

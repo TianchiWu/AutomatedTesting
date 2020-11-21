@@ -1,0 +1,66 @@
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [160, 2256, 1280, 2392]
+resource-id: id/tvNotAStudent
+tag: Text
+
+L3
+class: android.support.v7.widget.FitWindowsLinearLayout
+bounds: [0, 84, 1440, 2392]
+resource-id: id/action_bar_root
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [283, 1315, 1157, 1490]
+resource-id: id/imageView6
+tag: Image
+
+L8
+class: android.support.design.widget.TextInputLayout
+bounds: [283, 1490, 1157, 1682]
+resource-id: id/inputLayoutUsername
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatEditText
+bounds: [283, 1528, 1157, 1682]
+resource-id: id/etUsername
+tag: Text
+
+L9
+class: android.support.design.widget.TextInputLayout
+bounds: [283, 1682, 1157, 1874]
+resource-id: id/inputLayoutPassword
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatEditText
+bounds: [283, 1720, 1157, 1874]
+resource-id: id/etPassword
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1024, 1770, 1157, 1832]
+resource-id: id/tvShowPassword
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [283, 1944, 1157, 2084]
+resource-id: id/bSignIn
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

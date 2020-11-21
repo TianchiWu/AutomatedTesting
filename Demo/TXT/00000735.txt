@@ -1,0 +1,66 @@
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 482, 1384, 558]
+resource-id: id/rowTextView
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 702, 1384, 778]
+resource-id: id/rowTextView
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 922, 1384, 998]
+resource-id: id/rowTextView
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1142, 1384, 1218]
+resource-id: id/rowTextView
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1362, 1384, 1438]
+resource-id: id/rowTextView
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1582, 1384, 1658]
+resource-id: id/rowTextView
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1802, 1384, 1878]
+resource-id: id/rowTextView
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 2022, 1384, 2098]
+resource-id: id/rowTextView
+tag: Text
+
+L4
+class: android.support.v7.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

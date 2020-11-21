@@ -1,0 +1,36 @@
+L6
+class: android.widget.ImageView
+bounds: [0, 112, 112, 224]
+resource-id: id/home
+tag: Image
+
+L5
+class: com.fineapptech.ttalk.view.roundimage.RoundedImageView
+bounds: [28, 280, 291, 543]
+resource-id: id/iv_photo
+tag: Image
+
+L5
+class: android.widget.EditText
+bounds: [588, 627, 1384, 759]
+resource-id: id/et_nick
+tag: Text
+
+L4
+class: android.widget.TextView
+bounds: [28, 843, 1412, 983]
+resource-id: id/btn_save
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [114, 112, 306, 224]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

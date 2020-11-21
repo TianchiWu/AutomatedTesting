@@ -1,0 +1,228 @@
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [21, 620, 1121, 828]
+resource-id: id/coWhere
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [21, 875, 1121, 1083]
+resource-id: id/coWhere
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [21, 1130, 1121, 1338]
+resource-id: id/coWhere
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [21, 1385, 1121, 1593]
+resource-id: id/coWhere
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [21, 1640, 1121, 1848]
+resource-id: id/coWhere
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [21, 1895, 1121, 2103]
+resource-id: id/coWhere
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [21, 2150, 1121, 2358]
+resource-id: id/coWhere
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 475, 1440, 809]
+resource-id: id/listings_status_text
+tag: Text
+
+L16
+class: android.widget.ImageView
+bounds: [1139, 613, 1419, 803]
+resource-id: id/emptystars
+tag: Image
+
+L16
+class: android.widget.ImageView
+bounds: [1139, 868, 1419, 1058]
+resource-id: id/emptystars
+tag: Image
+
+L16
+class: android.widget.ImageView
+bounds: [1139, 1123, 1419, 1313]
+resource-id: id/emptystars
+tag: Image
+
+L16
+class: android.widget.ImageView
+bounds: [1139, 1378, 1419, 1568]
+resource-id: id/emptystars
+tag: Image
+
+L16
+class: android.widget.ImageView
+bounds: [1139, 1633, 1419, 1823]
+resource-id: id/emptystars
+tag: Image
+
+L16
+class: android.widget.ImageView
+bounds: [1139, 1888, 1419, 2078]
+resource-id: id/emptystars
+tag: Image
+
+L16
+class: android.widget.ImageView
+bounds: [1139, 2143, 1419, 2333]
+resource-id: id/emptystars
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [722, 588, 1440, 763]
+resource-id: id/rb_relevance
+tag: Button
+
+L16
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [722, 767, 1440, 942]
+resource-id: id/rb_alphabetic
+tag: Button
+
+L16
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [722, 946, 1440, 1121]
+resource-id: id/rb_reverse_alphabetic
+tag: Button
+
+L16
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [722, 1125, 1440, 1300]
+resource-id: id/rb_distance
+tag: Button
+
+L16
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [722, 1304, 1440, 1479]
+resource-id: id/rb_rating_htol
+tag: Button
+
+L16
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [722, 1483, 1440, 1658]
+resource-id: id/rb_rating_ltoh
+tag: Button
+
+L13
+class: android.widget.ImageView
+bounds: [1365, 472, 1419, 563]
+resource-id: id/iv_carrot_left
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1175, 475, 1330, 560]
+resource-id: id/tv_listing_sort
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1279, 613, 1419, 660]
+resource-id: id/coDistance
+tag: Text
+
+L16
+class: android.widget.ImageView
+bounds: [1139, 757, 1370, 803]
+resource-id: id/fullstars
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1279, 868, 1419, 915]
+resource-id: id/coDistance
+tag: Text
+
+L16
+class: android.widget.ImageView
+bounds: [1139, 1012, 1370, 1058]
+resource-id: id/fullstars
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1279, 1123, 1419, 1170]
+resource-id: id/coDistance
+tag: Text
+
+L16
+class: android.widget.ImageView
+bounds: [1139, 1267, 1370, 1313]
+resource-id: id/fullstars
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1279, 1378, 1419, 1425]
+resource-id: id/coDistance
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1279, 1633, 1419, 1680]
+resource-id: id/coDistance
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1279, 1888, 1419, 1935]
+resource-id: id/coDistance
+tag: Text
+
+L16
+class: android.widget.ImageView
+bounds: [1139, 2032, 1275, 2078]
+resource-id: id/fullstars
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1279, 2143, 1419, 2190]
+resource-id: id/coDistance
+tag: Text
+
+L13
+class: android.widget.ProgressBar
+bounds: [636, 1483, 804, 1651]
+resource-id: id/listings_progress
+tag: Bar
+
+L4
+class: android.support.v7.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

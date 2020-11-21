@@ -1,0 +1,120 @@
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 129, 1093, 235]
+resource-id: id/tvTitleHeader
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 449, 1230, 616]
+resource-id: id/tvDescr
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 714, 1230, 881]
+resource-id: id/tvDescr
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 979, 1230, 1231]
+resource-id: id/tvDescr
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 1329, 1230, 1581]
+resource-id: id/tvDescr
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 1679, 1230, 1931]
+resource-id: id/tvDescr
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 2029, 1230, 2196]
+resource-id: id/tvDescr
+tag: Text
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 333, 1230, 351]
+resource-id: id/tvDescr
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1264, 479, 1370, 585]
+resource-id: id/ivArrow
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1264, 744, 1370, 850]
+resource-id: id/ivArrow
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1264, 1052, 1370, 1158]
+resource-id: id/ivArrow
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1264, 1402, 1370, 1508]
+resource-id: id/ivArrow
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1226, 1404, 1370, 1480]
+resource-id: id/ivPro
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1264, 1752, 1370, 1858]
+resource-id: id/ivArrow
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1264, 2059, 1370, 2165]
+resource-id: id/ivArrow
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 2294, 1230, 2339]
+resource-id: id/tvTitle
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1264, 2324, 1370, 2339]
+resource-id: id/ivArrow
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

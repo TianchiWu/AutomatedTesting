@@ -1,0 +1,24 @@
+L5
+class: android.widget.Button
+bounds: [28, 88, 277, 261]
+resource-id: id/back_button
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [333, 141, 1107, 207]
+resource-id: id/view_header_text
+tag: Header
+
+L5
+class: android.widget.Button
+bounds: [1163, 88, 1412, 261]
+resource-id: id/option_button
+tag: Button
+
+L5
+class: android.widget.ProgressBar
+bounds: [636, 1247, 804, 1415]
+resource-id: id/progressBar
+tag: Bar
+

@@ -1,0 +1,60 @@
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 280, 250, 2392]
+resource-id: id/recipe_thumbnail
+tag: Image
+
+L6
+class: com.mufumbo.android.recipe.search.views.components.MyProfileView
+bounds: [250, 84, 1440, 280]
+resource-id: id/myself_view
+tag: Image
+
+L9
+class: com.makeramen.RoundedImageView
+bounds: [306, 119, 432, 245]
+resource-id: id/user_image
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [432, 144, 1118, 220]
+resource-id: id/user_name_text
+tag: Text
+
+L9
+class: com.github.hotchpotch.iconicfontengine.widget.IconicFontTextView
+bounds: [1118, 84, 1279, 280]
+resource-id: id/stats_button
+tag: Button
+
+L9
+class: com.github.hotchpotch.iconicfontengine.widget.IconicFontTextView
+bounds: [1279, 84, 1440, 280]
+resource-id: id/settings_button
+tag: Button
+
+L10
+class: com.github.hotchpotch.iconicfontengine.widget.IconicFontTextView
+bounds: [740, 690, 950, 921]
+resource-id: id/empty_recipe_icon
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [347, 963, 1343, 1039]
+resource-id: id/empty_message
+tag: Text
+
+L5
+class: android.support.v7.internal.widget.FitWindowsLinearLayout
+bounds: [0, 84, 250, 2392]
+resource-id: id/action_bar_root
+tag: NavigationBar
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 250, 280]
+resource-id: id/toolbar
+tag: Bar
+

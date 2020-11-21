@@ -1,0 +1,156 @@
+L13
+class: android.widget.FrameLayout
+bounds: [14, 182, 1426, 362]
+resource-id: id/thumbnail_frame
+tag: Image
+
+L13
+class: android.widget.TextView
+bounds: [14, 362, 1426, 467]
+resource-id: id/title
+tag: Text
+
+L13
+class: android.widget.FrameLayout
+bounds: [14, 495, 1426, 675]
+resource-id: id/thumbnail_frame
+tag: Image
+
+L13
+class: android.widget.TextView
+bounds: [14, 675, 1426, 780]
+resource-id: id/title
+tag: Text
+
+L13
+class: android.widget.FrameLayout
+bounds: [14, 808, 1426, 988]
+resource-id: id/thumbnail_frame
+tag: Image
+
+L13
+class: android.widget.TextView
+bounds: [14, 988, 1426, 1093]
+resource-id: id/title
+tag: Text
+
+L13
+class: android.widget.FrameLayout
+bounds: [14, 1121, 1426, 1301]
+resource-id: id/thumbnail_frame
+tag: Image
+
+L13
+class: android.widget.TextView
+bounds: [14, 1301, 1426, 1406]
+resource-id: id/title
+tag: Text
+
+L13
+class: android.widget.FrameLayout
+bounds: [14, 1434, 1426, 1614]
+resource-id: id/thumbnail_frame
+tag: Image
+
+L13
+class: android.widget.TextView
+bounds: [14, 1614, 1426, 1718]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [219, 59, 499, 108]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [973, 59, 1188, 108]
+resource-id: id/title
+tag: Text
+
+L14
+class: android.widget.ImageView
+bounds: [272, 184, 447, 359]
+resource-id: id/vid_icon
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [992, 184, 1167, 359]
+resource-id: id/vid_icon
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [272, 497, 447, 672]
+resource-id: id/vid_icon
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [992, 497, 1167, 672]
+resource-id: id/vid_icon
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [272, 810, 447, 985]
+resource-id: id/vid_icon
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [992, 810, 1167, 985]
+resource-id: id/vid_icon
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [272, 1123, 447, 1298]
+resource-id: id/vid_icon
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [992, 1123, 1167, 1298]
+resource-id: id/vid_icon
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [272, 1436, 447, 1611]
+resource-id: id/vid_icon
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [992, 1436, 1167, 1611]
+resource-id: id/vid_icon
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [0, 1753, 452, 1954]
+resource-id: id/arrow
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [214, 1954, 505, 2322]
+resource-id: id/homescene_video_play
+tag: Video
+
+L8
+class: android.widget.ImageView
+bounds: [754, 1954, 1045, 2322]
+resource-id: id/imageView1
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1114, 1954, 1405, 2322]
+resource-id: id/imageView2
+tag: Image
+

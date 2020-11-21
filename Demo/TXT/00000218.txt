@@ -1,0 +1,108 @@
+L14
+class: com.frankly.news.widget.CustomTextView
+bounds: [63, 1648, 205, 1701]
+resource-id: id/frn_ago
+tag: Text
+
+L15
+class: com.frankly.news.widget.CustomTextView
+bounds: [522, 1955, 664, 2008]
+resource-id: id/frn_ago
+tag: Text
+
+L9
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/frn_toolbar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [496, 98, 916, 266]
+resource-id: id/frn_image_logo
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1112, 119, 1238, 245]
+resource-id: id/frn_weather_icon
+tag: Image
+
+L12
+class: com.frankly.news.widget.CustomTextView
+bounds: [1259, 126, 1391, 237]
+resource-id: id/frn_weather_temperature
+tag: Text
+
+L13
+class: com.frankly.news.widget.CustomTextView
+bounds: [63, 490, 1377, 552]
+resource-id: id/frn_text_category_name
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1321, 490, 1377, 546]
+resource-id: id/frn_image_arrow
+tag: Image
+
+L13
+class: android.widget.FrameLayout
+bounds: [0, 594, 1440, 1399]
+resource-id: id/frn_container
+tag: Image
+
+L13
+class: com.frankly.news.widget.CustomTextView
+bounds: [0, 1399, 1440, 1648]
+resource-id: id/frn_text_story_headline
+tag: Text
+
+L13
+class: android.widget.FrameLayout
+bounds: [63, 1792, 469, 2072]
+resource-id: id/frn_container
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [213, 1879, 318, 1984]
+resource-id: id/frn_play_indicator_image
+tag: Image
+
+L14
+class: com.frankly.news.widget.CustomTextView
+bounds: [522, 1792, 1377, 1955]
+resource-id: id/frn_text_story_headline
+tag: Text
+
+L13
+class: android.widget.FrameLayout
+bounds: [63, 2142, 469, 2217]
+resource-id: id/frn_container
+tag: Image
+
+L14
+class: com.frankly.news.widget.CustomTextView
+bounds: [522, 2142, 991, 2217]
+resource-id: id/frn_text_story_headline
+tag: Text
+
+L10
+class: android.widget.ProgressBar
+bounds: [636, 1336, 804, 1504]
+resource-id: id/frn_progress_bar_loading
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,120 @@
+L13
+class: android.widget.TextView
+bounds: [11, 668, 1429, 988]
+resource-id: id/weight_title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [82, 280, 206, 404]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [87, 399, 200, 465]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [350, 280, 513, 404]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [357, 399, 507, 465]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [661, 280, 778, 397]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [644, 399, 796, 465]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [932, 280, 1084, 392]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [925, 399, 1090, 465]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1214, 280, 1377, 404]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [1212, 399, 1379, 465]
+resource-id: id/title
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [0, 483, 1440, 549]
+resource-id: id/stats_title1
+tag: Text
+
+L13
+class: android.widget.ProgressBar
+bounds: [11, 549, 1429, 584]
+resource-id: id/frequency_slider
+tag: Bar
+
+L14
+class: android.widget.ToggleButton
+bounds: [0, 584, 170, 641]
+resource-id: id/myexpandco
+tag: Button
+
+L14
+class: android.widget.TextView
+bounds: [170, 584, 1440, 650]
+resource-id: id/stats_sstatus
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [11, 988, 1429, 1590]
+resource-id: id/weight_text
+tag: Text
+
+L15
+class: android.widget.Button
+bounds: [386, 1618, 687, 1764]
+resource-id: id/btn_weight
+tag: Button
+
+L15
+class: android.widget.Button
+bounds: [709, 1618, 1054, 1764]
+resource-id: id/btn_chart
+tag: Button
+
+L13
+class: android.widget.TextView
+bounds: [11, 1820, 1429, 1966]
+resource-id: id/baby_text2
+tag: Text
+
+L14
+class: android.widget.ImageButton
+bounds: [11, 1966, 1429, 2392]
+resource-id: id/stats_imagebtn
+tag: Button
+

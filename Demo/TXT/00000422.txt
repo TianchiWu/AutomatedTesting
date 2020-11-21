@@ -1,0 +1,294 @@
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [266, 512, 1132, 631]
+resource-id: id/ringtone_duration
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [266, 736, 1132, 855]
+resource-id: id/ringtone_duration
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [266, 960, 1132, 1079]
+resource-id: id/ringtone_duration
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [266, 1184, 1132, 1303]
+resource-id: id/ringtone_duration
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [266, 1408, 1132, 1527]
+resource-id: id/ringtone_duration
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [266, 1632, 1132, 1751]
+resource-id: id/ringtone_duration
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [266, 1856, 1132, 1975]
+resource-id: id/ringtone_duration
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [266, 2080, 1132, 2199]
+resource-id: id/ringtone_duration
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatSeekBar
+bounds: [119, 311, 1287, 374]
+resource-id: id/volume_control
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [225, 280, 494, 476]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [954, 280, 1205, 476]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 476, 1440, 477]
+resource-id: id/title_sep_bottom
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [25, 505, 193, 673]
+resource-id: id/ringtone_icon
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [154, 603, 224, 673]
+resource-id: id/isnew
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1132, 508, 1258, 634]
+resource-id: id/menu
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1265, 508, 1391, 634]
+resource-id: id/play_icon
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [25, 729, 193, 897]
+resource-id: id/ringtone_icon
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [154, 827, 224, 897]
+resource-id: id/isnew
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1132, 732, 1258, 858]
+resource-id: id/menu
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1265, 732, 1391, 858]
+resource-id: id/play_icon
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [25, 953, 193, 1121]
+resource-id: id/ringtone_icon
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [154, 1051, 224, 1121]
+resource-id: id/isnew
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1132, 956, 1258, 1082]
+resource-id: id/menu
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1265, 956, 1391, 1082]
+resource-id: id/play_icon
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [25, 1177, 193, 1345]
+resource-id: id/ringtone_icon
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [154, 1275, 224, 1345]
+resource-id: id/isnew
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1132, 1180, 1258, 1306]
+resource-id: id/menu
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1265, 1180, 1391, 1306]
+resource-id: id/play_icon
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [25, 1401, 193, 1569]
+resource-id: id/ringtone_icon
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [154, 1499, 224, 1569]
+resource-id: id/isnew
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1132, 1404, 1258, 1530]
+resource-id: id/menu
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1265, 1404, 1391, 1530]
+resource-id: id/play_icon
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [25, 1625, 193, 1793]
+resource-id: id/ringtone_icon
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [154, 1723, 224, 1793]
+resource-id: id/isnew
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1132, 1628, 1258, 1754]
+resource-id: id/menu
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1265, 1628, 1391, 1754]
+resource-id: id/play_icon
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [25, 1849, 193, 2017]
+resource-id: id/ringtone_icon
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [154, 1947, 224, 2017]
+resource-id: id/isnew
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1132, 1852, 1258, 1978]
+resource-id: id/menu
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1265, 1852, 1391, 1978]
+resource-id: id/play_icon
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [25, 2073, 193, 2217]
+resource-id: id/ringtone_icon
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [154, 2171, 224, 2217]
+resource-id: id/isnew
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1132, 2076, 1258, 2202]
+resource-id: id/menu
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1265, 2076, 1391, 2202]
+resource-id: id/play_icon
+tag: Button
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.LinearLayout
+bounds: [56, 144, 703, 220]
+resource-id: id/tabs_layout
+tag: Text
+
+L8
+class: android.widget.LinearLayout
+bounds: [936, 98, 1104, 266]
+resource-id: id/search_bar
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,66 @@
+L6
+class: android.widget.ImageView
+bounds: [53, 113, 436, 218]
+resource-id: id/titleIV
+tag: Image
+
+L6
+class: android.widget.ImageButton
+bounds: [1277, 84, 1440, 247]
+resource-id: id/searchIB
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [1114, 84, 1277, 247]
+resource-id: id/browseIB
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [951, 84, 1114, 247]
+resource-id: id/cartIB
+tag: Button
+
+L5
+class: android.widget.EditText
+bounds: [39, 115, 827, 215]
+resource-id: id/searchET
+tag: Text
+
+L5
+class: android.widget.ImageButton
+bounds: [827, 115, 930, 215]
+resource-id: id/mSearchAnimIB
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [1291, 115, 1433, 215]
+resource-id: id/sayItIB
+tag: Button
+
+L6
+class: android.widget.ImageView
+bounds: [0, 291, 37, 326]
+resource-id: id/goBackIV
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [90, 276, 1177, 342]
+resource-id: id/ListHeadingTextView
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [0, 412, 1440, 478]
+resource-id: id/textview
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [0, 563, 1440, 629]
+resource-id: id/textview
+tag: Text
+

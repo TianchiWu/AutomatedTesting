@@ -1,0 +1,93 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>00000130</filename>
+  <size>
+    <width>1440</width>
+    <height>2560</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Header</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>232</xmin>
+      <ymin> 436</ymin>
+      <xmax> 1208</xmax>
+      <ymax> 737</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Header</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>148</xmin>
+      <ymin> 436</ymin>
+      <xmax> 1292</xmax>
+      <ymax> 800</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Picker</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>148</xmin>
+      <ymin> 800</ymin>
+      <xmax> 1292</xmax>
+      <ymax> 1843</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>206</xmin>
+      <ymin> 835</ymin>
+      <xmax> 374</xmax>
+      <ymax> 1003</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1066</xmin>
+      <ymin> 835</ymin>
+      <xmax> 1234</xmax>
+      <ymax> 1003</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>148</xmin>
+      <ymin> 1843</ymin>
+      <xmax> 1292</xmax>
+      <ymax> 2039</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1018</xmin>
+      <ymin> 1857</ymin>
+      <xmax> 1250</xmax>
+      <ymax> 2025</ymax>
+    </bndbox>
+  </object>
+</annotation>

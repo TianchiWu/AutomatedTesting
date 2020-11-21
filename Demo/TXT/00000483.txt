@@ -1,0 +1,60 @@
+L10
+class: android.widget.LinearLayout
+bounds: [0, 280, 1440, 2217]
+resource-id: id/cardView_item_film
+tag: Image
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 138, 485, 226]
+resource-id: id/toolbar_title
+tag: Bar
+
+L7
+class: android.widget.ProgressBar
+bounds: [636, 1252, 804, 1420]
+resource-id: id/progressBar
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 956, 158, 1114]
+resource-id: id/imv_favorite_itemfilm
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [720, 956, 878, 1114]
+resource-id: id/imv_favorite_itemfilm
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 2026, 158, 2184]
+resource-id: id/imv_favorite_itemfilm
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [720, 2026, 878, 2184]
+resource-id: id/imv_favorite_itemfilm
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

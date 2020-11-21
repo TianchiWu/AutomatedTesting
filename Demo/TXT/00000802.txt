@@ -1,0 +1,48 @@
+L7
+class: android.widget.TextView
+bounds: [0, 366, 1440, 877]
+resource-id: id/title
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [0, 252, 1440, 364]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [28, 948, 869, 1033]
+resource-id: id/title
+tag: Text
+
+L4
+class: android.widget.TextView
+bounds: [0, 1103, 1440, 1204]
+resource-id: id/preferences_footer
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L5
+class: android.widget.ImageButton
+bounds: [0, 122, 137, 213]
+resource-id: id/public_account_custom_back_button
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [137, 125, 1216, 210]
+resource-id: id/public_account_custom_back_header_title
+tag: Header
+
+L5
+class: android.widget.Button
+bounds: [1216, 84, 1440, 252]
+resource-id: id/public_account_optional_right_button
+tag: Button
+

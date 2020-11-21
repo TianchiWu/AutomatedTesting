@@ -1,0 +1,54 @@
+L9
+class: android.support.v7.widget.AppCompatCheckedTextView
+bounds: [56, 364, 924, 1708]
+resource-id: id/design_menu_item_text
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 280, 1412, 2210]
+resource-id: id/tvContentSMS
+tag: Text
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [69, 1101, 93, 1158]
+resource-id: id/tvNumberSMS
+tag: Text
+
+L8
+class: android.widget.FrameLayout
+bounds: [0, 2217, 1440, 2392]
+resource-id: id/viewAds
+tag: Image
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 0, 980, 364]
+resource-id: id/navigation_header_container
+tag: Header
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [117, 112, 863, 224]
+resource-id: id/tvTitleSMS
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

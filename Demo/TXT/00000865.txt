@@ -1,0 +1,6 @@
+L5
+class: android.widget.Button
+bounds: [457, 2182, 982, 2322]
+resource-id: id/btExitHelp
+tag: Button
+

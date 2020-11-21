@@ -1,0 +1,114 @@
+L6
+class: android.widget.TextView
+bounds: [0, 172, 1440, 359]
+resource-id: id/description
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [161, 798, 994, 940]
+resource-id: id/list_show_row_date
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [161, 1331, 962, 1473]
+resource-id: id/list_show_row_date
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [161, 1807, 951, 1949]
+resource-id: id/list_show_row_date
+tag: Text
+
+L3
+class: android.widget.ImageView
+bounds: [14, 100, 70, 156]
+resource-id: id/left_icon
+tag: Image
+
+L3
+class: android.widget.ProgressBar
+bounds: [92, 93, 1426, 163]
+resource-id: id/progress_horizontal
+tag: Bar
+
+L4
+class: android.widget.TextView
+bounds: [102, 86, 1419, 167]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [161, 404, 705, 407]
+resource-id: id/list_show_row_date
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [1153, 404, 1433, 545]
+resource-id: id/icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [7, 545, 1433, 782]
+resource-id: id/list_show_row_descr
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [7, 798, 161, 882]
+resource-id: id/new_icon
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [1153, 798, 1433, 1078]
+resource-id: id/icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [7, 1078, 1433, 1315]
+resource-id: id/list_show_row_descr
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [7, 1331, 161, 1415]
+resource-id: id/new_icon
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [1153, 1331, 1433, 1611]
+resource-id: id/icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [7, 1611, 1433, 1791]
+resource-id: id/list_show_row_descr
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [7, 1807, 161, 1891]
+resource-id: id/new_icon
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [1153, 1807, 1433, 2087]
+resource-id: id/icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [7, 2087, 1433, 2147]
+resource-id: id/list_show_row_descr
+tag: Text
+

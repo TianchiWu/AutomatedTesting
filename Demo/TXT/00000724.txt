@@ -1,0 +1,24 @@
+L6
+class: android.widget.ImageView
+bounds: [0, 111, 1440, 2235]
+resource-id: id/ImageViewGameReactionField12
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [18, 18, 1422, 111]
+resource-id: id/TextViewGameReactionScore
+tag: Text
+
+L2
+class: android.widget.FrameLayout
+bounds: [0, 0, 1440, 2392]
+resource-id: id/content
+tag: Image
+
+L4
+class: android.widget.TextView
+bounds: [0, 0, 1440, 2392]
+resource-id: id/TextViewGameReactionCountdown
+tag: Text
+

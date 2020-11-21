@@ -1,0 +1,24 @@
+L13
+class: com.facebook.resources.ui.FbTextView
+bounds: [553, 1182, 887, 1275]
+resource-id: id/gdp_dialog_user_name
+tag: Text
+
+L13
+class: com.facebook.resources.ui.FbTextView
+bounds: [366, 1317, 1074, 1462]
+resource-id: id/gdp_dialog_permissions_text
+tag: Text
+
+L12
+class: com.facebook.resources.ui.FbButton
+bounds: [254, 1574, 1186, 1756]
+resource-id: id/gdp_dialog_continue_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

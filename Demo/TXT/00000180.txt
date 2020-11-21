@@ -1,0 +1,42 @@
+L7
+class: com.quecontactos.pjc.QCEditText
+bounds: [56, 546, 1384, 862]
+resource-id: id/password
+tag: Text
+
+L4
+class: android.support.v7.internal.widget.NativeActionModeAwareLayout
+bounds: [0, 280, 1440, 2392]
+resource-id: id/content
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [352, 336, 1087, 546]
+resource-id: id/imageLogo
+tag: Image
+
+L7
+class: com.quecontactos.pjc.QCButton
+bounds: [335, 918, 1105, 1054]
+resource-id: id/sign_in_button
+tag: Button
+
+L7
+class: com.quecontactos.pjc.QCButton
+bounds: [335, 1103, 1105, 1239]
+resource-id: id/register_button
+tag: Button
+
+L7
+class: com.quecontactos.pjc.QCButton
+bounds: [335, 1379, 1105, 1515]
+resource-id: id/remind_button
+tag: Button
+
+L4
+class: android.support.v7.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+

@@ -1,0 +1,90 @@
+L6
+class: android.widget.TextView
+bounds: [0, 84, 875, 692]
+resource-id: id/showsButton
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [200, 89, 577, 240]
+resource-id: id/subtitleTextView
+tag: Text
+
+L2
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 2392]
+resource-id: id/content
+tag: Image
+
+L5
+class: android.widget.TextView
+bounds: [0, 2243, 875, 2392]
+resource-id: id/settingsButton
+tag: Text
+
+L6
+class: com.fox.now.views.ActionBarView
+bounds: [0, 84, 1440, 245]
+resource-id: id/actionBarView
+tag: NavigationBar
+
+L9
+class: android.widget.ImageButton
+bounds: [28, 112, 172, 217]
+resource-id: id/menuButtonDefault
+tag: Button
+
+L8
+class: android.widget.ToggleButton
+bounds: [28, 259, 296, 364]
+resource-id: id/syncButton
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [324, 259, 447, 364]
+resource-id: id/settings_icon
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [1080, 287, 1193, 344]
+resource-id: id/currentSelectionTextView
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1330, 295, 1384, 335]
+resource-id: id/dropdownArrow
+tag: Image
+
+L11
+class: android.widget.Button
+bounds: [381, 1405, 1113, 1579]
+resource-id: id/joinTheConversationButton
+tag: Button
+
+L11
+class: android.widget.ImageButton
+bounds: [28, 1625, 207, 1741]
+resource-id: id/leftArrow
+tag: Button
+
+L11
+class: android.widget.TextView
+bounds: [207, 1638, 1233, 1728]
+resource-id: id/currentListLabelTextView
+tag: Text
+
+L11
+class: android.widget.ImageButton
+bounds: [1233, 1625, 1412, 1741]
+resource-id: id/rightArrow
+tag: Button
+
+L5
+class: android.widget.ImageView
+bounds: [0, 84, 1440, 2392]
+resource-id: id/tutorialImageView
+tag: Image
+

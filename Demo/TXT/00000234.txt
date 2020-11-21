@@ -1,0 +1,72 @@
+L7
+class: android.widget.ImageView
+bounds: [0, 340, 475, 958]
+resource-id: id/measurementIcon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [130, 2048, 1310, 2199]
+resource-id: id/babyScreenNameAge
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [475, 340, 1429, 406]
+resource-id: id/nameTv
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [475, 427, 1440, 512]
+resource-id: id/babyNameTv
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [18, 1039, 475, 1249]
+resource-id: id/nursingicon
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [18, 1391, 475, 1601]
+resource-id: id/pumpingicon
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [0, 1743, 475, 1953]
+resource-id: id/bottleIcon
+tag: Image
+
+L6
+class: android.widget.ImageButton
+bounds: [18, 2067, 130, 2179]
+resource-id: id/addNewBaby
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L5
+class: android.widget.Spinner
+bounds: [169, 84, 430, 252]
+resource-id: id/action_bar_spinner
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [183, 130, 374, 206]
+resource-id: id/text1
+tag: Text
+

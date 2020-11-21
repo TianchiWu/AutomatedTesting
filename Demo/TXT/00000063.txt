@@ -1,0 +1,60 @@
+L6
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 0, 1440, 196]
+resource-id: id/app_bar_layout
+tag: Bar
+
+L6
+class: android.widget.HorizontalScrollView
+bounds: [0, 261, 1335, 1490]
+resource-id: id/horizontal_scroll
+tag: Video
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1293, 217, 1419, 343]
+resource-id: id/gps_indicator
+tag: Image
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [195, 1576, 1245, 1664]
+resource-id: id/gps_reflected_pseudoradar
+tag: Image
+
+L6
+class: android.widget.RelativeLayout
+bounds: [0, 1664, 1440, 2217]
+resource-id: id/buttons_holder
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 1671, 1440, 1839]
+resource-id: id/park_button
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 0, 161, 357]
+resource-id: id/find_button
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 2035, 1440, 2203]
+resource-id: id/map_button
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [240, 2217, 1360, 2392]
+resource-id: id/ad_image
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

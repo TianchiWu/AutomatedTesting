@@ -1,0 +1,96 @@
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [193, 432, 1384, 903]
+resource-id: id/guest_review_negative
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [193, 1024, 1384, 1495]
+resource-id: id/guest_review_negative
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [193, 1616, 1384, 2087]
+resource-id: id/guest_review_negative
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 280, 342, 320]
+resource-id: id/guest_review_score_summary
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [458, 280, 579, 329]
+resource-id: id/guest_reviews_staff
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [635, 280, 901, 329]
+resource-id: id/guest_reviews_cleanliness
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [957, 280, 1202, 329]
+resource-id: id/guest_reviews_location
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 427, 154, 525]
+resource-id: id/guest_review_rating
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1019, 154, 1117]
+resource-id: id/guest_review_rating
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1611, 154, 1709]
+resource-id: id/guest_review_rating
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 2175, 195, 2224]
+resource-id: id/from
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 2224, 924, 2364]
+resource-id: id/total_price
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [931, 2185, 1412, 2353]
+resource-id: id/book_now
+tag: Button
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

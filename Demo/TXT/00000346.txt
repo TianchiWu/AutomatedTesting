@@ -1,0 +1,6 @@
+L2
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 2392]
+resource-id: id/content
+tag: Image
+

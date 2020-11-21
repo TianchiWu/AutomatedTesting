@@ -1,0 +1,24 @@
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 350, 1370, 2183]
+resource-id: id/settings_logout_btn
+tag: Text
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/settings_toolbar
+tag: Bar
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 140, 508, 223]
+resource-id: id/settings_toolbar_tittle
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

@@ -1,0 +1,6 @@
+L3
+class: android.support.v7.widget.AppCompatCheckedTextView
+bounds: [1104, 294, 1272, 630]
+resource-id: id/text1
+tag: Text
+

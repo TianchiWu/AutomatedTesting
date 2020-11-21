@@ -1,0 +1,108 @@
+L10
+class: com.wizzair.WizzAirApp.ui.view.WizzTextView
+bounds: [53, 308, 285, 478]
+resource-id: id/textViewDepartureValue
+tag: Text
+
+L11
+class: com.wizzair.WizzAirApp.ui.view.WizzTextView
+bounds: [53, 768, 522, 938]
+resource-id: id/textViewDepartureDateValue
+tag: Text
+
+L11
+class: com.wizzair.WizzAirApp.ui.view.WizzTextView
+bounds: [53, 998, 413, 1168]
+resource-id: id/textViewReturnDateValue
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [0, 131, 270, 233]
+resource-id: id/wizz_ab_logo
+tag: Image
+
+L10
+class: com.wizzair.WizzAirApp.ui.view.WizzTextView
+bounds: [53, 538, 128, 630]
+resource-id: id/textViewArrivalTitle
+tag: Text
+
+L10
+class: com.wizzair.WizzAirApp.ui.view.WizzTextView
+bounds: [53, 630, 455, 708]
+resource-id: id/textViewArrivalValue
+tag: Text
+
+L10
+class: com.wizzair.WizzAirApp.ui.view.WizzTextView
+bounds: [53, 1289, 840, 1381]
+resource-id: id/textViewAdult
+tag: Text
+
+L11
+class: com.wizzair.WizzAirApp.ui.view.WizzButton
+bounds: [858, 1246, 1016, 1424]
+resource-id: id/buttonAdultNegative
+tag: Button
+
+L11
+class: com.wizzair.WizzAirApp.ui.view.WizzTextView
+bounds: [1051, 1251, 1194, 1418]
+resource-id: id/textViewAdultValue
+tag: Text
+
+L11
+class: com.wizzair.WizzAirApp.ui.view.WizzButton
+bounds: [1229, 1246, 1387, 1424]
+resource-id: id/buttonAdultPositive
+tag: Button
+
+L10
+class: com.wizzair.WizzAirApp.ui.view.WizzTextView
+bounds: [391, 1529, 973, 1621]
+resource-id: id/travellingWithKids
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1008, 1563, 1048, 1586]
+resource-id: id/travellingWithKidsArrow
+tag: Image
+
+L9
+class: com.wizzair.WizzAirApp.ui.view.WizzButton
+bounds: [53, 1772, 1387, 1948]
+resource-id: id/buttonSearch
+tag: Button
+
+L9
+class: com.wizzair.WizzAirApp.ui.view.WizzTextView
+bounds: [53, 1966, 1387, 2104]
+resource-id: id/flightSearchDescription
+tag: Text
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L7
+class: com.wizzair.WizzAirApp.ui.view.WizzTextView
+bounds: [298, 134, 705, 230]
+resource-id: id/wizz_ab_title
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

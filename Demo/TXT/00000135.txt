@@ -1,0 +1,186 @@
+L7
+class: android.widget.TextView
+bounds: [0, 939, 825, 1725]
+resource-id: id/nav_menu_log_analysis
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [0, 392, 825, 862]
+resource-id: id/nav_menu_calcamp_my
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [0, 2033, 825, 2392]
+resource-id: id/nav_menu_account_more
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [0, 161, 825, 294]
+resource-id: id/nav_menu_calcamp_avatar_link
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [56, 633, 1384, 709]
+resource-id: id/calcamp_feeditem_timeAgo
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [0, 140, 93, 196]
+resource-id: id/home
+tag: Image
+
+L7
+class: android.widget.LinearLayout
+bounds: [0, 315, 797, 392]
+resource-id: id/nav_menu_header_calcamp
+tag: Header
+
+L7
+class: android.widget.LinearLayout
+bounds: [0, 862, 797, 939]
+resource-id: id/nav_menu_header_logging
+tag: Header
+
+L7
+class: android.widget.LinearLayout
+bounds: [0, 1725, 797, 1802]
+resource-id: id/nav_menu_header_social
+tag: Header
+
+L7
+class: android.widget.TextView
+bounds: [0, 1802, 825, 1956]
+resource-id: id/nav_menu_social_forum
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [0, 1956, 797, 2033]
+resource-id: id/nav_menu_header_account
+tag: Header
+
+L14
+class: android.widget.ImageView
+bounds: [21, 283, 284, 546]
+resource-id: id/calcamp_feeditem_image
+tag: Image
+
+L15
+class: android.widget.TextView
+bounds: [305, 273, 1440, 339]
+resource-id: id/calcamp_feeditem_name
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [450, 386, 562, 452]
+resource-id: id/calcamp_feeditem_supporters
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [833, 386, 889, 452]
+resource-id: id/calcamp_feeditem_points
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [1203, 386, 1231, 452]
+resource-id: id/calcamp_feeditem_achievements
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [56, 709, 1384, 1402]
+resource-id: id/calcamp_feeditem_text
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [78, 1420, 145, 1496]
+resource-id: id/calcamp_feeditem_grade
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [200, 1420, 328, 1496]
+resource-id: id/calcamp_feeditem_caloriecount
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [399, 1420, 431, 1496]
+resource-id: id/calcamp_feeditem_goalcount
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [993, 1448, 1057, 1524]
+resource-id: id/calcamp_feeditem_comments
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [1194, 1448, 1258, 1524]
+resource-id: id/calcamp_feeditem_likes
+tag: Text
+
+L18
+class: android.widget.TextView
+bounds: [28, 1644, 330, 1813]
+resource-id: id/tabsText
+tag: Text
+
+L18
+class: android.widget.TextView
+bounds: [388, 1644, 690, 1813]
+resource-id: id/tabsText
+tag: Text
+
+L18
+class: android.widget.TextView
+bounds: [748, 1644, 1051, 1813]
+resource-id: id/tabsText
+tag: Text
+
+L18
+class: android.widget.TextView
+bounds: [1109, 1644, 1412, 1813]
+resource-id: id/tabsText
+tag: Text
+
+L20
+class: android.widget.LinearLayout
+bounds: [28, 1897, 1412, 2231]
+resource-id: id/wrapperImages
+tag: Image
+
+L21
+class: android.widget.TextView
+bounds: [56, 2189, 1384, 2231]
+resource-id: id/txtMeal
+tag: Text
+
+L21
+class: android.widget.TextView
+bounds: [56, 1925, 1384, 2043]
+resource-id: id/txtMeal
+tag: Text
+
+L19
+class: android.widget.TextView
+bounds: [1330, 2099, 1384, 2175]
+resource-id: id/txtCalories
+tag: Text
+
+L4
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+

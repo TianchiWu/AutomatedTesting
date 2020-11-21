@@ -1,0 +1,90 @@
+L10
+class: com.syncme.activities.custom_views.SyncMeSocialLoginButton
+bounds: [35, 385, 1405, 623]
+resource-id: id/btn_facebook
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [561, 472, 878, 535]
+resource-id: id/imgNetworkLogo
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1274, 472, 1337, 535]
+resource-id: id/imgStatus
+tag: Image
+
+L10
+class: com.syncme.activities.custom_views.SyncMeSocialLoginButton
+bounds: [35, 623, 1405, 861]
+resource-id: id/btn_google_plus
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [581, 701, 859, 782]
+resource-id: id/imgNetworkLogo
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1274, 710, 1337, 773]
+resource-id: id/imgStatus
+tag: Image
+
+L10
+class: com.syncme.activities.custom_views.SyncMeSocialLoginButton
+bounds: [35, 861, 1405, 1099]
+resource-id: id/btn_twitter
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [581, 953, 859, 1007]
+resource-id: id/imgNetworkLogo
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1274, 948, 1337, 1011]
+resource-id: id/imgStatus
+tag: Image
+
+L10
+class: com.syncme.activities.custom_views.SyncMeSocialLoginButton
+bounds: [35, 1099, 1405, 1337]
+resource-id: id/btn_vk
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [504, 1178, 936, 1257]
+resource-id: id/imgNetworkLogo
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1274, 1186, 1337, 1249]
+resource-id: id/imgStatus
+tag: Image
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,24 @@
+L6
+class: me.grantland.widget.AutofitTextView
+bounds: [168, 343, 1272, 469]
+resource-id: id/dialog_title
+tag: Text
+
+L6
+class: me.grantland.widget.AutofitTextView
+bounds: [168, 525, 1272, 1771]
+resource-id: id/dialog_message
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [168, 1773, 315, 1921]
+resource-id: id/agree_check
+tag: Image
+
+L6
+class: android.support.v7.widget.AppCompatTextView
+bounds: [168, 1979, 1272, 2140]
+resource-id: id/continue_button
+tag: Button
+

@@ -1,0 +1,42 @@
+L4
+class: android.widget.FrameLayout
+bounds: [0, 0, 1440, 214]
+resource-id: id/fixed_titlebar_container
+tag: Bar
+
+L7
+class: com.android.browser.NavigationBarPhone
+bounds: [0, 0, 1440, 182]
+resource-id: id/taburlbar
+tag: Bar
+
+L9
+class: android.widget.ImageView
+bounds: [33, 35, 187, 147]
+resource-id: id/magnify
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [54, 35, 166, 147]
+resource-id: id/favicon
+tag: Image
+
+L8
+class: android.widget.ImageButton
+bounds: [1104, 0, 1272, 182]
+resource-id: id/tab_switcher
+tag: Button
+
+L8
+class: android.widget.ImageButton
+bounds: [1272, 0, 1440, 182]
+resource-id: id/more
+tag: Button
+
+L7
+class: com.android.browser.PageProgressView
+bounds: [0, 144, 1440, 214]
+resource-id: id/progress
+tag: Bar
+

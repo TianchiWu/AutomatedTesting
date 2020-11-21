@@ -1,0 +1,42 @@
+L6
+class: android.widget.RelativeLayout
+bounds: [0, 210, 1440, 2101]
+resource-id: id/maincontent
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [194, 2159, 457, 2334]
+resource-id: id/camera
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [457, 2159, 720, 2334]
+resource-id: id/items
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [720, 2159, 983, 2334]
+resource-id: id/brightness
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [983, 2159, 1246, 2334]
+resource-id: id/save
+tag: Button
+
+L6
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1177, 217, 1440, 392]
+resource-id: id/share
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

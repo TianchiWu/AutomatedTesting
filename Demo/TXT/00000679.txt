@@ -1,0 +1,144 @@
+L6
+class: android.widget.TextView
+bounds: [212, 626, 1262, 692]
+resource-id: id/textView3
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [212, 1108, 1262, 1174]
+resource-id: id/textView6
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [212, 1590, 1262, 1656]
+resource-id: id/textView9
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [212, 2072, 1262, 2138]
+resource-id: id/textView12
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [387, 0, 597, 210]
+resource-id: id/sharebtn
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [632, 0, 842, 210]
+resource-id: id/stop
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [387, 210, 1087, 276]
+resource-id: id/textView00
+tag: Text
+
+L6
+class: android.widget.ToggleButton
+bounds: [877, 0, 1087, 210]
+resource-id: id/toggle
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [212, 276, 562, 626]
+resource-id: id/button1
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [177, 692, 189, 758]
+resource-id: id/spacer4
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [177, 1174, 189, 1240]
+resource-id: id/spacer7
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [177, 1656, 189, 1722]
+resource-id: id/spacer10
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [177, 2138, 189, 2182]
+resource-id: id/spacer13
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [212, 758, 562, 1108]
+resource-id: id/button4
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [562, 758, 912, 1108]
+resource-id: id/button5
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [912, 758, 1262, 1108]
+resource-id: id/button6
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [212, 1240, 562, 1590]
+resource-id: id/button7
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [562, 1240, 912, 1590]
+resource-id: id/button8
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [912, 1240, 1262, 1590]
+resource-id: id/button9
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [212, 1722, 562, 2072]
+resource-id: id/button10
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [562, 1722, 912, 2072]
+resource-id: id/button11
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [912, 1722, 1262, 2072]
+resource-id: id/button12
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [562, 276, 912, 626]
+resource-id: id/button2
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [912, 276, 1262, 626]
+resource-id: id/button3
+tag: Button
+

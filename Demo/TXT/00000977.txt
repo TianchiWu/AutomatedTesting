@@ -1,0 +1,54 @@
+L5
+class: android.widget.CheckedTextView
+bounds: [0, 215, 1440, 723]
+resource-id: id/text1
+tag: Text
+
+L4
+class: android.widget.RelativeLayout
+bounds: [0, 0, 1440, 158]
+resource-id: id/topBar
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [0, 4, 240, 158]
+resource-id: id/topButton1
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [241, 4, 480, 158]
+resource-id: id/topButton2
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [481, 4, 720, 158]
+resource-id: id/topButton3
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [721, 4, 960, 158]
+resource-id: id/topButton4
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [961, 4, 1200, 158]
+resource-id: id/topButton5
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [1201, 4, 1440, 158]
+resource-id: id/topButton6
+tag: Button
+
+L4
+class: android.widget.Button
+bounds: [0, 2224, 1440, 2392]
+resource-id: id/doneButton
+tag: Button
+

@@ -1,0 +1,36 @@
+L4
+class: android.support.v7.widget.AppCompatTextView
+bounds: [223, 692, 1217, 817]
+resource-id: id/titleDialog
+tag: Text
+
+L4
+class: android.support.v7.widget.AppCompatImageView
+bounds: [545, 842, 895, 1192]
+resource-id: id/imageCertificate
+tag: Image
+
+L4
+class: android.support.v7.widget.AppCompatTextView
+bounds: [234, 1210, 1206, 1433]
+resource-id: id/text1
+tag: Text
+
+L4
+class: android.support.v7.widget.AppCompatTextView
+bounds: [234, 1469, 1206, 1550]
+resource-id: id/text2
+tag: Text
+
+L5
+class: android.support.v7.widget.AppCompatButton
+bounds: [234, 1586, 716, 1754]
+resource-id: id/buttonYes
+tag: Button
+
+L5
+class: android.support.v7.widget.AppCompatButton
+bounds: [724, 1586, 1206, 1754]
+resource-id: id/buttonNo
+tag: Button
+

@@ -1,0 +1,60 @@
+L5
+class: android.widget.TextView
+bounds: [505, 113, 935, 230]
+resource-id: id/tvAddWSTitle
+tag: Text
+
+L5
+class: android.widget.Button
+bounds: [0, 101, 140, 241]
+resource-id: id/buttonAddWBack
+tag: Button
+
+L6
+class: android.widget.RelativeLayout
+bounds: [76, 335, 1364, 1826]
+resource-id: id/rlAddWBig
+tag: Image
+
+L7
+class: android.widget.Button
+bounds: [76, 1613, 1364, 2039]
+resource-id: id/buttonAddW
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [76, 2039, 1364, 2392]
+resource-id: id/buttonAddAllW
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [82, 761, 1357, 863]
+resource-id: id/tvAddWInfo
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [438, 1394, 1002, 1543]
+resource-id: id/tvAddWAmount
+tag: Text
+
+L7
+class: android.widget.Button
+bounds: [1107, 1356, 1300, 1549]
+resource-id: id/buttonAddWPlus
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [140, 1356, 333, 1549]
+resource-id: id/buttonAddWMinus
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [581, 405, 858, 507]
+resource-id: id/tvAddWTitle
+tag: Text
+

@@ -1,0 +1,54 @@
+L4
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 299]
+resource-id: id/header_layout
+tag: Header
+
+L6
+class: android.widget.TextView
+bounds: [172, 84, 1267, 299]
+resource-id: id/wizard_step_screen_title
+tag: Text
+
+L6
+class: android.widget.ImageButton
+bounds: [1267, 84, 1440, 299]
+resource-id: id/wizard_step_help_button
+tag: Button
+
+L4
+class: android.widget.TextView
+bounds: [0, 299, 1440, 492]
+resource-id: id/text_wizard_step_help_div
+tag: Text
+
+L6
+class: com.healint.multipartsimageview.MultiPartsImageView
+bounds: [0, 492, 1440, 2182]
+resource-id: id/painLocationImageView
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [534, 2209, 835, 2290]
+resource-id: id/text_view_next
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [503, 2308, 936, 2365]
+resource-id: id/text_view_next_sub
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

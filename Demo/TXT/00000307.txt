@@ -1,0 +1,30 @@
+L5
+class: android.widget.TextView
+bounds: [0, 108, 1440, 211]
+resource-id: id/headerTitle
+tag: Header
+
+L5
+class: android.widget.ImageButton
+bounds: [1273, 102, 1387, 216]
+resource-id: id/infoButton
+tag: Button
+
+L6
+class: android.widget.ImageView
+bounds: [161, 263, 1278, 855]
+resource-id: id/nursePic
+tag: Image
+
+L6
+class: com.greatcall.common.ui.GCTextView
+bounds: [0, 873, 1440, 1014]
+resource-id: id/text
+tag: Text
+
+L6
+class: com.greatcall.common.ui.GCButton
+bounds: [432, 1049, 1008, 1166]
+resource-id: id/callButton
+tag: Button
+

@@ -1,0 +1,108 @@
+L8
+class: org.mozilla.gecko.widget.themed.ThemedImageView
+bounds: [232, 84, 1440, 252]
+resource-id: id/edit_cancel
+tag: Image
+
+L5
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 252]
+resource-id: id/tabs_panel_header
+tag: Header
+
+L7
+class: org.mozilla.gecko.tabs.TabPanelBackButton
+bounds: [0, 84, 170, 252]
+resource-id: id/nav_back
+tag: Button
+
+L7
+class: android.widget.ImageButton
+bounds: [1104, 84, 1272, 252]
+resource-id: id/add_tab
+tag: Button
+
+L7
+class: android.widget.FrameLayout
+bounds: [1272, 84, 1440, 252]
+resource-id: id/menu
+tag: Image
+
+L11
+class: org.mozilla.gecko.widget.FadedSingleColorTextView
+bounds: [43, 839, 702, 914]
+resource-id: id/title
+tag: Text
+
+L11
+class: org.mozilla.gecko.widget.FadedSingleColorTextView
+bounds: [738, 839, 1397, 914]
+resource-id: id/title
+tag: Text
+
+L11
+class: org.mozilla.gecko.widget.FadedSingleColorTextView
+bounds: [43, 1350, 702, 1425]
+resource-id: id/title
+tag: Text
+
+L11
+class: org.mozilla.gecko.widget.FadedSingleColorTextView
+bounds: [738, 1350, 1397, 1425]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 252]
+resource-id: id/browser_chrome
+tag: Bar
+
+L8
+class: android.widget.ImageView
+bounds: [28, 112, 1068, 224]
+resource-id: id/url_bar_entry
+tag: Image
+
+L9
+class: org.mozilla.gecko.toolbar.ToolbarEditText
+bounds: [56, 84, 1244, 252]
+resource-id: id/url_edit_text
+tag: Text
+
+L9
+class: android.widget.ImageButton
+bounds: [1020, 84, 1132, 252]
+resource-id: id/qrcode
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [1132, 84, 1244, 252]
+resource-id: id/mic
+tag: Button
+
+L9
+class: android.widget.ImageButton
+bounds: [56, 84, 131, 252]
+resource-id: id/favicon
+tag: Button
+
+L9
+class: org.mozilla.gecko.widget.FadedMultiColorTextView
+bounds: [131, 84, 1054, 252]
+resource-id: id/url_bar_title
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

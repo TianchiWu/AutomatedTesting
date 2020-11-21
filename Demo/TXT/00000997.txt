@@ -1,0 +1,18 @@
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [112, 1297, 1328, 1465]
+resource-id: id/staff_teacher_button
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [112, 1577, 1328, 1745]
+resource-id: id/parent_button
+tag: Button
+

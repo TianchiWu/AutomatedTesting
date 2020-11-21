@@ -1,0 +1,24 @@
+L6
+class: android.widget.CheckedTextView
+bounds: [92, 759, 1348, 1777]
+resource-id: id/text1
+tag: Text
+
+L4
+class: android.widget.LinearLayout
+bounds: [64, 1777, 1376, 1975]
+resource-id: id/buttonPanel
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [92, 1779, 719, 1947]
+resource-id: id/button2
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [721, 1779, 1348, 1947]
+resource-id: id/button1
+tag: Button
+

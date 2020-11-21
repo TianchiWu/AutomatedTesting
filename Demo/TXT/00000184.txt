@@ -1,0 +1,66 @@
+L10
+class: android.widget.ImageView
+bounds: [134, 2237, 608, 2348]
+resource-id: id/iv_from_speech
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [836, 2237, 1310, 2348]
+resource-id: id/iv_to_speech
+tag: Image
+
+L8
+class: android.widget.RelativeLayout
+bounds: [21, 273, 170, 655]
+resource-id: id/rl_to_play
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [188, 273, 726, 411]
+resource-id: id/tv_from_chatcontent
+tag: Text
+
+L9
+class: android.widget.ProgressBar
+bounds: [67, 585, 123, 641]
+resource-id: id/pb_to_vioceplay
+tag: Bar
+
+L9
+class: android.widget.TextView
+bounds: [188, 429, 790, 567]
+resource-id: id/tv_to_chatcontent
+tag: Text
+
+L9
+class: android.widget.ProgressBar
+bounds: [405, 429, 573, 597]
+resource-id: id/pb_to_chatcontent
+tag: Bar
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L5
+class: android.widget.Spinner
+bounds: [169, 84, 727, 252]
+resource-id: id/action_bar_spinner
+tag: NavigationBar
+
+L7
+class: android.widget.TextView
+bounds: [239, 125, 615, 210]
+resource-id: id/item_txt
+tag: Text
+

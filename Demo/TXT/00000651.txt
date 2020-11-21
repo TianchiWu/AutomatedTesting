@@ -1,0 +1,18 @@
+L4
+class: android.widget.TextView
+bounds: [0, 84, 1440, 271]
+resource-id: id/textView_heading_settings
+tag: Text
+
+L4
+class: android.widget.Button
+bounds: [35, 324, 1405, 492]
+resource-id: id/btn_setNotifyTime
+tag: Button
+
+L4
+class: android.widget.Button
+bounds: [35, 527, 1405, 695]
+resource-id: id/btn_resetDays
+tag: Button
+

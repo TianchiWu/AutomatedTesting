@@ -1,0 +1,210 @@
+L11
+class: android.widget.ImageView
+bounds: [0, 84, 168, 252]
+resource-id: id/actionbar_app_icon
+tag: Image
+
+L9
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [252, 140, 932, 266]
+resource-id: id/company
+tag: Text
+
+L5
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [252, 1217, 1168, 1283]
+resource-id: id/numeric_indicator
+tag: Text
+
+L5
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [252, 1553, 1168, 1619]
+resource-id: id/numeric_indicator
+tag: Text
+
+L13
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [56, 294, 1205, 360]
+resource-id: id/sender
+tag: Text
+
+L12
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [56, 360, 629, 426]
+resource-id: id/subject
+tag: Text
+
+L11
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [1289, 305, 1387, 468]
+resource-id: id/time
+tag: Text
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 2220, 1440, 2392]
+resource-id: id/bottom_bar
+tag: Bar
+
+L8
+class: android.widget.ImageView
+bounds: [1211, 2248, 1323, 2360]
+resource-id: id/bottom_bar_chat
+tag: Image
+
+L8
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [1298, 2297, 1356, 2357]
+resource-id: id/chat_numeric_indicator
+tag: Text
+
+L4
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L10
+class: android.widget.LinearLayout
+bounds: [0, 84, 397, 252]
+resource-id: id/actionbar_back
+tag: Bar
+
+L11
+class: android.widget.LinearLayout
+bounds: [196, 128, 369, 208]
+resource-id: id/title_holder
+tag: Text
+
+L12
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [196, 190, 369, 208]
+resource-id: id/left_subtitle
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [1076, 84, 1440, 252]
+resource-id: id/left_header
+tag: Header
+
+L9
+class: android.widget.ImageView
+bounds: [56, 140, 168, 252]
+resource-id: id/server_icon
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [1056, 84, 1224, 252]
+resource-id: id/account_mark
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [56, 522, 168, 634]
+resource-id: id/drawer_icon
+tag: Image
+
+L5
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [252, 545, 1140, 611]
+resource-id: id/drawer_name
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [56, 690, 168, 802]
+resource-id: id/drawer_icon
+tag: Image
+
+L5
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [252, 713, 1140, 779]
+resource-id: id/drawer_name
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [56, 858, 168, 970]
+resource-id: id/drawer_icon
+tag: Image
+
+L5
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [252, 881, 1140, 947]
+resource-id: id/drawer_name
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [56, 1026, 168, 1138]
+resource-id: id/drawer_icon
+tag: Image
+
+L5
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [252, 1049, 1140, 1115]
+resource-id: id/drawer_name
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [56, 1194, 168, 1306]
+resource-id: id/drawer_icon
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [56, 1362, 168, 1474]
+resource-id: id/drawer_icon
+tag: Image
+
+L5
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [252, 1385, 1140, 1451]
+resource-id: id/drawer_name
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [56, 1530, 168, 1642]
+resource-id: id/drawer_icon
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [56, 1698, 168, 1810]
+resource-id: id/drawer_icon
+tag: Image
+
+L5
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [252, 1721, 1140, 1787]
+resource-id: id/drawer_name
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [56, 1866, 168, 1978]
+resource-id: id/drawer_icon
+tag: Image
+
+L5
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [252, 1889, 1140, 1955]
+resource-id: id/drawer_name
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [56, 2034, 168, 2146]
+resource-id: id/drawer_icon
+tag: Image
+
+L5
+class: net.metaquotes.common.ui.RobotoTextView
+bounds: [252, 2057, 1140, 2123]
+resource-id: id/drawer_name
+tag: Text
+

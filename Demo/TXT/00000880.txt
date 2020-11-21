@@ -1,0 +1,144 @@
+L11
+class: com.hungama.myplay.activity.ui.widgets.LanguageTextView
+bounds: [35, 1261, 1288, 1324]
+resource-id: id/textview_video_player_scale_length
+tag: Video
+
+L13
+class: com.hungama.myplay.activity.ui.widgets.LanguageTextView
+bounds: [172, 108, 1072, 256]
+resource-id: id/main_player_content_info_bar_text_additional_handle
+tag: Bar
+
+L13
+class: com.hungama.myplay.activity.ui.widgets.LanguageTextView
+bounds: [172, 142, 434, 222]
+resource-id: id/main_player_content_info_bar_text_played1
+tag: Bar
+
+L11
+class: com.hungama.myplay.activity.ui.widgets.LanguageTextView
+bounds: [7, 2201, 353, 2374]
+resource-id: id/video_player_content_actions_bar_text_cache_state
+tag: Video
+
+L7
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 403]
+resource-id: id/main_player_content_info_bar
+tag: Bar
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/rlHeader
+tag: Bar
+
+L10
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1090, 280]
+resource-id: id/main_player_content_info_bar_content
+tag: Bar
+
+L11
+class: android.widget.ImageView
+bounds: [0, 84, 154, 280]
+resource-id: id/ivBackArrow
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [493, 134, 682, 230]
+resource-id: id/main_player_content_info_bar_text_favorite
+tag: Bar
+
+L9
+class: android.widget.LinearLayout
+bounds: [18, 280, 1203, 403]
+resource-id: id/linearlayout_info_bar
+tag: Bar
+
+L10
+class: com.hungama.myplay.activity.ui.widgets.LanguageTextView
+bounds: [946, 301, 1185, 381]
+resource-id: id/video_auto_play
+tag: Video
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 403, 1440, 1363]
+resource-id: id/relativeLayout_videoview
+tag: Video
+
+L9
+class: android.widget.LinearLayout
+bounds: [0, 1240, 1440, 1363]
+resource-id: id/linearlayout_player_bar
+tag: Bar
+
+L10
+class: android.widget.LinearLayout
+bounds: [0, 1240, 1440, 1345]
+resource-id: id/linearlayout_video_seekbar
+tag: Video
+
+L11
+class: android.widget.ImageButton
+bounds: [1323, 1251, 1405, 1333]
+resource-id: id/button_video_player_fullscreen
+tag: Button
+
+L10
+class: android.widget.LinearLayout
+bounds: [7, 2201, 353, 2374]
+resource-id: id/video_player_content_actions_bar_rl_save_offline
+tag: Video
+
+L13
+class: android.widget.LinearLayout
+bounds: [138, 2222, 222, 2306]
+resource-id: id/llCacheState
+tag: Button
+
+L13
+class: android.widget.ImageView
+bounds: [117, 2201, 243, 2327]
+resource-id: id/iv_state_queued
+tag: Image
+
+L10
+class: android.widget.LinearLayout
+bounds: [367, 2201, 713, 2374]
+resource-id: id/video_player_content_actions_bar_button_related
+tag: Button
+
+L10
+class: android.widget.LinearLayout
+bounds: [727, 2201, 1073, 2374]
+resource-id: id/video_player_content_actions_bar_button_favorite
+tag: Button
+
+L11
+class: android.widget.ImageView
+bounds: [837, 2201, 963, 2327]
+resource-id: id/iv_media_fav
+tag: Image
+
+L10
+class: android.widget.LinearLayout
+bounds: [1087, 2201, 1433, 2374]
+resource-id: id/video_player_content_actions_bar_button_more
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

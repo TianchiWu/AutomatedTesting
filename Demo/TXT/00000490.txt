@@ -1,0 +1,432 @@
+L11
+class: android.widget.ImageView
+bounds: [1271, 2021, 1440, 2077]
+resource-id: id/chevron
+tag: Image
+
+L16
+class: android.widget.TextView
+bounds: [266, 1219, 923, 1285]
+resource-id: id/gutenberg_feed_category_text
+tag: Text
+
+L16
+class: android.widget.TextView
+bounds: [266, 2287, 923, 2353]
+resource-id: id/gutenberg_feed_category_text
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [35, 803, 1405, 1268]
+resource-id: id/main_page_gesture_tutorial_info
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [56, 1089, 229, 1155]
+resource-id: id/gutenberg_feed_no_expert_category_text
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [56, 2157, 229, 2223]
+resource-id: id/gutenberg_feed_no_expert_category_text
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [0, 1986, 567, 2113]
+resource-id: id/gutenberg_intro_category_title
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [0, 280, 1440, 2392]
+resource-id: id/contributions_page_empty_view
+tag: Text
+
+L4
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1230, 280]
+resource-id: id/behind_menu_header
+tag: Header
+
+L5
+class: com.answers.android.userinterface.LoadableImage
+bounds: [18, 105, 172, 259]
+resource-id: id/behind_menu_profile_picture
+tag: Image
+
+L5
+class: android.widget.ImageButton
+bounds: [1034, 84, 1230, 280]
+resource-id: id/behind_menu_home
+tag: Button
+
+L5
+class: com.answers.android.userinterface.AutoFitTextView
+bounds: [207, 105, 1016, 259]
+resource-id: id/behind_menu_name
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [0, 280, 1230, 388]
+resource-id: id/categorized_list_section_header_header
+tag: Header
+
+L7
+class: android.widget.ImageView
+bounds: [21, 416, 138, 533]
+resource-id: id/categorized_list_item_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [173, 436, 1209, 512]
+resource-id: id/categorized_list_item_name
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [21, 591, 138, 708]
+resource-id: id/categorized_list_item_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [173, 611, 1209, 687]
+resource-id: id/categorized_list_item_name
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [21, 766, 138, 883]
+resource-id: id/categorized_list_item_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [173, 786, 1209, 862]
+resource-id: id/categorized_list_item_name
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [21, 941, 138, 1058]
+resource-id: id/categorized_list_item_icon
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [21, 1116, 138, 1233]
+resource-id: id/categorized_list_item_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [173, 1136, 1209, 1212]
+resource-id: id/categorized_list_item_name
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [0, 1263, 1230, 1371]
+resource-id: id/categorized_list_section_header_header
+tag: Header
+
+L7
+class: android.widget.ImageView
+bounds: [21, 1399, 138, 1516]
+resource-id: id/categorized_list_item_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [173, 1419, 1209, 1495]
+resource-id: id/categorized_list_item_name
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [21, 1574, 138, 1691]
+resource-id: id/categorized_list_item_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [173, 1594, 1209, 1670]
+resource-id: id/categorized_list_item_name
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [21, 1749, 138, 1866]
+resource-id: id/categorized_list_item_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [173, 1769, 1209, 1845]
+resource-id: id/categorized_list_item_name
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [21, 1924, 138, 2041]
+resource-id: id/categorized_list_item_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [173, 1944, 1209, 2020]
+resource-id: id/categorized_list_item_name
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [21, 2099, 138, 2216]
+resource-id: id/categorized_list_item_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [173, 2119, 1209, 2195]
+resource-id: id/categorized_list_item_name
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [21, 2274, 138, 2391]
+resource-id: id/categorized_list_item_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [173, 2294, 1209, 2370]
+resource-id: id/categorized_list_item_name
+tag: Text
+
+L6
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/main_navigation_bar
+tag: Bar
+
+L7
+class: android.widget.ImageView
+bounds: [252, 134, 614, 213]
+resource-id: id/navigation_bar_logo
+tag: Image
+
+L7
+class: android.widget.ImageButton
+bounds: [0, 84, 196, 280]
+resource-id: id/navigation_bar_menu
+tag: Button
+
+L7
+class: android.widget.ImageButton
+bounds: [1244, 84, 1440, 280]
+resource-id: id/navigation_bar_search
+tag: Button
+
+L7
+class: android.widget.ImageButton
+bounds: [1048, 84, 1244, 280]
+resource-id: id/navigation_bar_notifications
+tag: Button
+
+L11
+class: android.widget.RelativeLayout
+bounds: [0, 280, 1440, 1155]
+resource-id: id/gutenberg_feed_article_cover_container
+tag: Image
+
+L12
+class: android.widget.ProgressBar
+bounds: [636, 633, 804, 801]
+resource-id: id/gutenberg_feed_article_progress_bar
+tag: Bar
+
+L12
+class: android.widget.TextView
+bounds: [0, 280, 1440, 1239]
+resource-id: id/gutenberg_feed_article_cover_title
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [0, 1155, 1440, 1333]
+resource-id: id/gutenberg_feed_body
+tag: Text
+
+L11
+class: android.widget.RelativeLayout
+bounds: [0, 1348, 1440, 2223]
+resource-id: id/gutenberg_feed_article_cover_container
+tag: Image
+
+L12
+class: android.widget.ProgressBar
+bounds: [636, 1701, 804, 1869]
+resource-id: id/gutenberg_feed_article_progress_bar
+tag: Bar
+
+L12
+class: android.widget.TextView
+bounds: [0, 1348, 1440, 2223]
+resource-id: id/gutenberg_feed_article_cover_title
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [0, 2223, 1440, 2392]
+resource-id: id/gutenberg_feed_body
+tag: Text
+
+L10
+class: android.widget.ImageView
+bounds: [0, 280, 1440, 1867]
+resource-id: id/gutenberg_intro_image
+tag: Image
+
+L13
+class: android.widget.ImageView
+bounds: [0, 1776, 210, 1986]
+resource-id: id/facebook_ad_custom_banner_icon
+tag: Image
+
+L13
+class: android.widget.TextView
+bounds: [210, 1838, 1100, 1923]
+resource-id: id/facebook_ad_custom_banner_title
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [210, 1843, 1100, 1919]
+resource-id: id/facebook_ad_custom_banner_body
+tag: Text
+
+L13
+class: android.widget.RelativeLayout
+bounds: [210, 1842, 1100, 1920]
+resource-id: id/facebook_ad_custom_banner_rating_bar_container
+tag: Bar
+
+L14
+class: android.widget.TextView
+bounds: [210, 1842, 943, 1920]
+resource-id: id/facebook_ad_custom_banner_social_context
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [1118, 1813, 1422, 1949]
+resource-id: id/facebook_ad_custom_banner_calltoaction_button
+tag: Button
+
+L11
+class: android.widget.TextView
+bounds: [0, 2113, 1440, 2392]
+resource-id: id/gutenberg_intro_title
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [28, 494, 1132, 588]
+resource-id: id/gutenberg_category_feed_follow_category_title
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1132, 298, 1412, 392]
+resource-id: id/gutenberg_category_feed_follow_category_indicator
+tag: Text
+
+L12
+class: android.widget.RelativeLayout
+bounds: [0, 410, 1440, 1285]
+resource-id: id/gutenberg_feed_article_cover_container
+tag: Image
+
+L13
+class: android.widget.ProgressBar
+bounds: [636, 763, 804, 931]
+resource-id: id/gutenberg_feed_article_progress_bar
+tag: Bar
+
+L13
+class: android.widget.TextView
+bounds: [0, 410, 1440, 1285]
+resource-id: id/gutenberg_feed_article_cover_title
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [266, 1126, 758, 1219]
+resource-id: id/gutenberg_feed_author_name
+tag: Text
+
+L14
+class: android.widget.ImageView
+bounds: [28, 1075, 238, 1285]
+resource-id: id/gutenberg_feed_author_profile_image
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [0, 1285, 1440, 1463]
+resource-id: id/gutenberg_feed_body
+tag: Text
+
+L12
+class: android.widget.RelativeLayout
+bounds: [0, 1478, 1440, 2353]
+resource-id: id/gutenberg_feed_article_cover_container
+tag: Image
+
+L13
+class: android.widget.ProgressBar
+bounds: [636, 1831, 804, 1999]
+resource-id: id/gutenberg_feed_article_progress_bar
+tag: Bar
+
+L13
+class: android.widget.TextView
+bounds: [0, 1478, 1440, 2353]
+resource-id: id/gutenberg_feed_article_cover_title
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [266, 2194, 758, 2287]
+resource-id: id/gutenberg_feed_author_name
+tag: Text
+
+L14
+class: android.widget.ImageView
+bounds: [28, 2143, 238, 2353]
+resource-id: id/gutenberg_feed_author_profile_image
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [0, 2353, 1440, 2392]
+resource-id: id/gutenberg_feed_body
+tag: Text
+
+L7
+class: com.answers.android.userinterface.AnimatorImage
+bounds: [864, 1066, 1261, 1673]
+resource-id: id/main_page_gesture_tutorial_gesture
+tag: Image
+
+L7
+class: android.widget.Button
+bounds: [454, 1252, 986, 1420]
+resource-id: id/main_page_login_prompt_button
+tag: Button
+

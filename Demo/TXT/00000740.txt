@@ -1,0 +1,24 @@
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [251, 1134, 1189, 1237]
+resource-id: id/welcome_text_view
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [232, 1599, 1207, 1767]
+resource-id: id/get_started_btn
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

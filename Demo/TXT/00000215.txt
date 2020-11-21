@@ -1,0 +1,72 @@
+L4
+class: android.widget.TextView
+bounds: [0, 380, 1440, 782]
+resource-id: id/gotomarket
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [53, 897, 855, 1066]
+resource-id: id/summary
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [53, 1211, 876, 1380]
+resource-id: id/summary
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [53, 1437, 444, 1606]
+resource-id: id/summary
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [53, 1663, 552, 1832]
+resource-id: id/summary
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [53, 1889, 1177, 2058]
+resource-id: id/summary
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [53, 2203, 679, 2372]
+resource-id: id/summary
+tag: Text
+
+L3
+class: android.widget.TextView
+bounds: [14, 86, 1426, 167]
+resource-id: id/title
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [401, 190, 1229, 380]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [0, 782, 1440, 868]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [0, 1096, 1440, 1182]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [0, 2088, 1440, 2174]
+resource-id: id/title
+tag: Text
+

@@ -1,0 +1,66 @@
+L12
+class: android.widget.TextView
+bounds: [292, 455, 1147, 717]
+resource-id: id/home_sleep_minute
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [216, 420, 1224, 812]
+resource-id: id/sleepdebttable_todayssleepbar
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [292, 455, 579, 605]
+resource-id: id/hiddenText
+tag: Text
+
+L10
+class: android.widget.LinearLayout
+bounds: [292, 717, 1147, 812]
+resource-id: id/home_progress
+tag: Bar
+
+L11
+class: android.widget.LinearLayout
+bounds: [292, 724, 1147, 731]
+resource-id: id/home_progress_empty
+tag: Bar
+
+L9
+class: android.widget.ImageView
+bounds: [692, 889, 748, 945]
+resource-id: id/space_holder
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [184, 945, 1255, 1334]
+resource-id: id/home_push_button
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [208, 1369, 484, 1631]
+resource-id: id/text_options_alarm
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [558, 1369, 848, 1631]
+resource-id: id/text_options_movement
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [922, 1369, 1232, 1631]
+resource-id: id/text_options_voice
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [519, 1499, 921, 1667]
+resource-id: id/tutorial_finish
+tag: Button
+

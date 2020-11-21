@@ -1,0 +1,78 @@
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [235, 384, 333, 510]
+resource-id: id/summary_workout_icon
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [162, 524, 405, 605]
+resource-id: id/summary_workout_name
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [546, 524, 894, 605]
+resource-id: id/summary_circuits_time
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1049, 524, 1262, 605]
+resource-id: id/summary_no_of_circuits
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [249, 908, 536, 1195]
+resource-id: id/image
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [218, 1195, 568, 1347]
+resource-id: id/text
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [903, 908, 1190, 1195]
+resource-id: id/image
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [872, 1195, 1222, 1347]
+resource-id: id/text
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [66, 1485, 659, 1649]
+resource-id: id/calories_title
+tag: Text
+
+L8
+class: android.support.v7.widget.CardView
+bounds: [28, 2138, 1412, 2392]
+resource-id: id/remove_ads_card
+tag: Button
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

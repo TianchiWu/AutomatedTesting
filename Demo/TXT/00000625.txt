@@ -1,0 +1,30 @@
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [226, 1726, 1213, 1928]
+resource-id: id/emptyViewCaption
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [155, 331, 565, 397]
+resource-id: id/tabName
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [850, 331, 1309, 397]
+resource-id: id/tabName
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

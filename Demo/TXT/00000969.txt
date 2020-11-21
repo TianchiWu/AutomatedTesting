@@ -1,0 +1,54 @@
+L7
+class: com.yidio.android.utils.RobotoTextView
+bounds: [460, 602, 1440, 1274]
+resource-id: id/send_feedback
+tag: Text
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 0, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L14
+class: android.widget.RelativeLayout
+bounds: [14, 726, 1426, 881]
+resource-id: id/header_wrapper
+tag: Header
+
+L16
+class: com.yidio.android.utils.RobotoTextView
+bounds: [56, 761, 541, 846]
+resource-id: id/toppicks_section_title
+tag: Text
+
+L14
+class: android.widget.RelativeLayout
+bounds: [14, 1765, 1426, 1920]
+resource-id: id/header_wrapper
+tag: Header
+
+L16
+class: com.yidio.android.utils.RobotoTextView
+bounds: [56, 1800, 926, 1885]
+resource-id: id/toppicks_section_title
+tag: Text
+
+L8
+class: com.google.samples.apps.iosched.ui.widget.SlidingTabLayout
+bounds: [0, 84, 602, 280]
+resource-id: id/sliding_toolbar_tabs
+tag: Bar
+
+L8
+class: com.yidio.android.view.RoundedImageView
+bounds: [544, 168, 1356, 518]
+resource-id: id/fb_rounded_view
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

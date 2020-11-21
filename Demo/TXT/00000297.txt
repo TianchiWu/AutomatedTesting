@@ -1,0 +1,138 @@
+L6
+class: android.widget.TextView
+bounds: [88, 312, 503, 775]
+resource-id: id/temp_min
+tag: Text
+
+L5
+class: android.widget.Button
+bounds: [1177, 154, 1247, 224]
+resource-id: id/bt_add
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [1335, 154, 1405, 224]
+resource-id: id/weather_set_btn
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [272, 682, 375, 775]
+resource-id: id/temp_max
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [1107, 421, 1352, 666]
+resource-id: id/main_weather_icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [160, 845, 617, 938]
+resource-id: id/city_name
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [160, 943, 720, 1048]
+resource-id: id/bt_navi_hour
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [720, 943, 1280, 1048]
+resource-id: id/bt_navi_day
+tag: Button
+
+L10
+class: android.widget.ImageView
+bounds: [223, 1708, 307, 1792]
+resource-id: id/iv_hour_icon_1
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [208, 1810, 322, 1876]
+resource-id: id/tv_hour_tv_1
+tag: Text
+
+L10
+class: android.widget.ImageView
+bounds: [442, 1708, 526, 1792]
+resource-id: id/iv_hour_icon_2
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [413, 1810, 555, 1876]
+resource-id: id/tv_hour_tv_2
+tag: Text
+
+L10
+class: android.widget.ImageView
+bounds: [680, 1708, 764, 1792]
+resource-id: id/iv_hour_icon_3
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [664, 1810, 779, 1876]
+resource-id: id/tv_hour_tv_3
+tag: Text
+
+L10
+class: android.widget.ImageView
+bounds: [918, 1708, 1002, 1792]
+resource-id: id/iv_hour_icon_4
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [902, 1810, 1017, 1876]
+resource-id: id/tv_hour_tv_4
+tag: Text
+
+L10
+class: android.widget.ImageView
+bounds: [1138, 1708, 1222, 1792]
+resource-id: id/iv_hour_icon_5
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [1122, 1810, 1237, 1876]
+resource-id: id/tv_hour_tv_5
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [370, 1973, 545, 2113]
+resource-id: id/iv_sunrise
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [619, 2000, 842, 2085]
+resource-id: id/tv_sunrise_title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [915, 2000, 1070, 2085]
+resource-id: id/tv_sunrise_content
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [636, 2252, 1300, 2392]
+resource-id: id/tv_refresh_time
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [1300, 2252, 1440, 2392]
+resource-id: id/iv_refresh
+tag: Image
+

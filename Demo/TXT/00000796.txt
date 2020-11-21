@@ -1,0 +1,6 @@
+L4
+class: com.modiface.libs.widget.BarMenu
+bounds: [0, 2165, 1440, 2392]
+resource-id: id/barMenu
+tag: Bar
+

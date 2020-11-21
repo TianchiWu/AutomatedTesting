@@ -1,0 +1,90 @@
+L7
+class: android.widget.TextView
+bounds: [84, 288, 1021, 439]
+resource-id: id/summary
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [84, 514, 831, 665]
+resource-id: id/summary
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [84, 1192, 818, 1343]
+resource-id: id/summary
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [84, 773, 411, 858]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [84, 999, 633, 1084]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [84, 1451, 620, 1536]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [84, 1677, 766, 1762]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [56, 1834, 1384, 1946]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [84, 2017, 741, 2102]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [84, 2243, 699, 2328]
+resource-id: id/title
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 398, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

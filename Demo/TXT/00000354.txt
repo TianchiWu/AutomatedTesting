@@ -1,0 +1,162 @@
+L7
+class: android.widget.TextView
+bounds: [182, 429, 1200, 605]
+resource-id: id/placeList0NormalItemAddress
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [182, 605, 1412, 681]
+resource-id: id/placeList0NormalItemDistance
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [182, 695, 1200, 871]
+resource-id: id/placeList0NormalItemAddress
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [182, 871, 1412, 947]
+resource-id: id/placeList0NormalItemDistance
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [182, 961, 1200, 1137]
+resource-id: id/placeList0NormalItemAddress
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [182, 1137, 1412, 1213]
+resource-id: id/placeList0NormalItemDistance
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [182, 1227, 1200, 1403]
+resource-id: id/placeList0NormalItemAddress
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [182, 1403, 1412, 1479]
+resource-id: id/placeList0NormalItemDistance
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [182, 1493, 1200, 1669]
+resource-id: id/placeList0NormalItemAddress
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [182, 1669, 1412, 1745]
+resource-id: id/placeList0NormalItemDistance
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [182, 1759, 1192, 1935]
+resource-id: id/placeList0NormalItemAddress
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [182, 1935, 1412, 2011]
+resource-id: id/placeList0NormalItemDistance
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [182, 2025, 1200, 2201]
+resource-id: id/placeList0NormalItemAddress
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [182, 2201, 1412, 2277]
+resource-id: id/placeList0NormalItemDistance
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [182, 2291, 1225, 2392]
+resource-id: id/placeList0NormalItemAddress
+tag: Text
+
+L4
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 242]
+resource-id: id/commonTitleContainer
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [1268, 107, 1401, 219]
+resource-id: id/commonTitleIconButton
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [39, 281, 141, 383]
+resource-id: id/commonOneboxDsrButton
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [169, 281, 1401, 383]
+resource-id: id/commonOneboxTextView
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [21, 450, 161, 590]
+resource-id: id/placeList0NormalItemNumberIndicator
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [21, 716, 161, 856]
+resource-id: id/placeList0NormalItemNumberIndicator
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [21, 982, 161, 1122]
+resource-id: id/placeList0NormalItemNumberIndicator
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [21, 1248, 161, 1388]
+resource-id: id/placeList0NormalItemNumberIndicator
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [21, 1514, 161, 1654]
+resource-id: id/placeList0NormalItemNumberIndicator
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [21, 1780, 161, 1920]
+resource-id: id/placeList0NormalItemNumberIndicator
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [21, 2046, 161, 2186]
+resource-id: id/placeList0NormalItemNumberIndicator
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [21, 2312, 161, 2392]
+resource-id: id/placeList0NormalItemNumberIndicator
+tag: Text
+

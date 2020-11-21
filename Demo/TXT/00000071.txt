@@ -1,0 +1,66 @@
+L7
+class: com.actualsoftware.view.AutoResizeTextView
+bounds: [28, 459, 1047, 1307]
+resource-id: id/price
+tag: Text
+
+L5
+class: android.widget.LinearLayout
+bounds: [0, 252, 1440, 459]
+resource-id: id/headers
+tag: Header
+
+L7
+class: android.widget.Button
+bounds: [1120, 459, 1412, 627]
+resource-id: id/buybutton
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [1120, 629, 1412, 797]
+resource-id: id/buybutton
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [1120, 799, 1412, 967]
+resource-id: id/buybutton
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [1120, 969, 1412, 1137]
+resource-id: id/buybutton
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [1120, 1139, 1412, 1307]
+resource-id: id/buybutton
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [0, 2224, 1440, 2392]
+resource-id: id/faxhistorybutton
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 485, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

@@ -1,0 +1,66 @@
+L3
+class: android.support.v7.widget.FitWindowsFrameLayout
+bounds: [0, 0, 1440, 2392]
+resource-id: id/action_bar_root
+tag: Video
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 2224, 720, 2392]
+resource-id: id/btn_sign_in
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [720, 2224, 1440, 2392]
+resource-id: id/btn_sign_up
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [614, 2084, 649, 2119]
+resource-id: id/radioPageOne
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [667, 2084, 702, 2119]
+resource-id: id/radioPageTwo
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [720, 2084, 755, 2119]
+resource-id: id/radioPageThree
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [773, 2084, 808, 2119]
+resource-id: id/radioPageFour
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 479, 1440, 1246]
+resource-id: id/center_image
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 0, 1440, 1726]
+resource-id: id/image
+tag: Image
+
+L10
+class: com.audioboom.ui.view.AudioBoomCustomTextView
+bounds: [140, 1796, 1300, 2084]
+resource-id: id/text
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

@@ -1,0 +1,12 @@
+L6
+class: com.oneatomdev.drivecamrecorder.view.control.TextViewFont
+bounds: [188, 167, 1252, 2098]
+resource-id: id/textView5
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [902, 2133, 1252, 2308]
+resource-id: id/DCRWhatsNew_OK_Button
+tag: Button
+

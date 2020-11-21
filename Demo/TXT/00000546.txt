@@ -1,0 +1,24 @@
+L5
+class: android.widget.TextView
+bounds: [0, 84, 1440, 308]
+resource-id: id/playlisttab
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [166, 344, 1440, 495]
+resource-id: id/line2
+tag: Text
+
+L4
+class: android.widget.TabWidget
+bounds: [0, 84, 1440, 308]
+resource-id: id/buttonbar
+tag: Button
+
+L6
+class: android.widget.ImageView
+bounds: [165, 308, 166, 532]
+resource-id: id/icon
+tag: Image
+

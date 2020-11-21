@@ -1,0 +1,186 @@
+L11
+class: com.vl.spicejet.components.CustomEditText
+bounds: [487, 761, 1397, 1029]
+resource-id: id/fieldvalue_et
+tag: Text
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar_actionbar
+tag: Bar
+
+L7
+class: com.vl.spicejet.components.CustomTextView
+bounds: [635, 140, 806, 224]
+resource-id: id/toolbar_title
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 800, 104, 851]
+resource-id: id/user_img
+tag: Image
+
+L12
+class: com.vl.spicejet.components.CustomTextView
+bounds: [122, 796, 347, 856]
+resource-id: id/fieldname_et
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 935, 104, 986]
+resource-id: id/user_img
+tag: Image
+
+L12
+class: com.vl.spicejet.components.CustomTextView
+bounds: [122, 931, 337, 991]
+resource-id: id/fieldname_et
+tag: Text
+
+L9
+class: com.vl.spicejet.components.CustomButton
+bounds: [136, 1106, 1304, 1288]
+resource-id: id/tv_sign_in
+tag: Button
+
+L9
+class: com.vl.spicejet.components.CustomTextView
+bounds: [0, 1358, 1440, 1422]
+resource-id: id/forgot_pwd
+tag: Text
+
+L9
+class: com.vl.spicejet.components.CustomTextView
+bounds: [376, 1552, 1064, 1616]
+resource-id: id/tv_sign_up
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [739, 2055, 1387, 2339]
+resource-id: id/spice_logo_iv
+tag: Image
+
+L9
+class: com.vl.spicejet.components.CustomTextView
+bounds: [36, 598, 1225, 682]
+resource-id: id/tv_profile_name
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [223, 333, 1020, 556]
+resource-id: id/img_profile
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 764, 170, 881]
+resource-id: id/img_left_nav
+tag: Image
+
+L9
+class: com.vl.spicejet.components.CustomTextView
+bounds: [240, 780, 427, 864]
+resource-id: id/tv_left_nav_title
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 991, 170, 1108]
+resource-id: id/img_left_nav
+tag: Image
+
+L9
+class: com.vl.spicejet.components.CustomTextView
+bounds: [240, 1007, 682, 1091]
+resource-id: id/tv_left_nav_title
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 1218, 170, 1335]
+resource-id: id/img_left_nav
+tag: Image
+
+L9
+class: com.vl.spicejet.components.CustomTextView
+bounds: [240, 1234, 520, 1318]
+resource-id: id/tv_left_nav_title
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 1445, 170, 1562]
+resource-id: id/img_left_nav
+tag: Image
+
+L9
+class: com.vl.spicejet.components.CustomTextView
+bounds: [240, 1461, 419, 1545]
+resource-id: id/tv_left_nav_title
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 1672, 170, 1789]
+resource-id: id/img_left_nav
+tag: Image
+
+L9
+class: com.vl.spicejet.components.CustomTextView
+bounds: [240, 1688, 619, 1772]
+resource-id: id/tv_left_nav_title
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 1899, 170, 2016]
+resource-id: id/img_left_nav
+tag: Image
+
+L9
+class: com.vl.spicejet.components.CustomTextView
+bounds: [240, 1915, 627, 1999]
+resource-id: id/tv_left_nav_title
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 2126, 170, 2243]
+resource-id: id/img_left_nav
+tag: Image
+
+L9
+class: com.vl.spicejet.components.CustomTextView
+bounds: [240, 2142, 765, 2226]
+resource-id: id/tv_left_nav_title
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 2353, 170, 2392]
+resource-id: id/img_left_nav
+tag: Image
+
+L9
+class: com.vl.spicejet.components.CustomTextView
+bounds: [240, 2369, 549, 2392]
+resource-id: id/tv_left_nav_title
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

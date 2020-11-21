@@ -1,0 +1,60 @@
+L6
+class: android.widget.TextView
+bounds: [0, 2221, 1440, 2385]
+resource-id: id/menu_item_mycard
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [28, 929, 1412, 1469]
+resource-id: id/empty_add_my_first_card
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [0, 116, 197, 221]
+resource-id: id/home
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [224, 421, 738, 487]
+resource-id: id/presslayout_summary
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [224, 684, 807, 750]
+resource-id: id/myqrlayout_summary
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [224, 947, 938, 1013]
+resource-id: id/roomlayout_summary
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [28, 280, 1412, 929]
+resource-id: id/empty_guide_imageview
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [622, 2182, 818, 2378]
+resource-id: id/menu_item_add_cards_capture
+tag: Image
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [211, 125, 482, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

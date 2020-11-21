@@ -1,0 +1,60 @@
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 612, 1440, 801]
+resource-id: id/tvSongReadout
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [237, 878, 482, 1123]
+resource-id: id/ivStrobePower
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [265, 1165, 454, 1275]
+resource-id: id/tvStrobe
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [957, 878, 1202, 1123]
+resource-id: id/ivTechnoPower
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [970, 1165, 1189, 1275]
+resource-id: id/tvTechno
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatSeekBar
+bounds: [42, 1345, 1398, 1408]
+resource-id: id/seekBar1
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 1450, 1440, 1639]
+resource-id: id/tvLCDReadout
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1986, 231, 2189]
+resource-id: id/iv_featured_app
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1209, 1986, 1412, 2189]
+resource-id: id/ivMenu
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

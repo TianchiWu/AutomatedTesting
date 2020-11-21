@@ -1,0 +1,30 @@
+L7
+class: android.widget.TextView
+bounds: [170, 273, 1419, 455]
+resource-id: id/row_text_bottom
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [21, 273, 149, 455]
+resource-id: id/row_icon
+tag: Image
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 478, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

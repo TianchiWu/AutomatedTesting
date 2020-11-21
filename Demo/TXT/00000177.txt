@@ -1,0 +1,96 @@
+L6
+class: android.widget.ImageView
+bounds: [720, 1986, 1440, 2217]
+resource-id: id/imageView3
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [0, 109, 1440, 212]
+resource-id: id/textView1
+tag: Text
+
+L7
+class: android.widget.RadioButton
+bounds: [0, 238, 535, 325]
+resource-id: id/option9
+tag: Button
+
+L7
+class: android.widget.RadioButton
+bounds: [0, 325, 354, 493]
+resource-id: id/option10
+tag: Button
+
+L7
+class: android.widget.RadioButton
+bounds: [0, 493, 449, 661]
+resource-id: id/option11
+tag: Button
+
+L7
+class: android.widget.RadioButton
+bounds: [0, 661, 646, 829]
+resource-id: id/option12
+tag: Button
+
+L7
+class: android.widget.RadioButton
+bounds: [0, 829, 549, 997]
+resource-id: id/option13
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [0, 997, 1440, 1090]
+resource-id: id/textView7
+tag: Text
+
+L7
+class: android.widget.RadioButton
+bounds: [0, 1090, 576, 1258]
+resource-id: id/option14
+tag: Button
+
+L7
+class: android.widget.RadioButton
+bounds: [0, 1258, 616, 1426]
+resource-id: id/option15
+tag: Button
+
+L7
+class: android.widget.RadioButton
+bounds: [0, 1426, 638, 1594]
+resource-id: id/option16
+tag: Button
+
+L7
+class: android.widget.RadioButton
+bounds: [0, 1594, 824, 1762]
+resource-id: id/option17
+tag: Button
+
+L7
+class: android.widget.RadioButton
+bounds: [0, 1762, 355, 1930]
+resource-id: id/option18
+tag: Button
+
+L7
+class: android.widget.RadioButton
+bounds: [0, 1930, 342, 1986]
+resource-id: id/option19
+tag: Button
+
+L6
+class: android.widget.ImageView
+bounds: [0, 1986, 360, 2217]
+resource-id: id/imageView1
+tag: Image
+
+L6
+class: android.widget.LinearLayout
+bounds: [360, 1986, 720, 2217]
+resource-id: id/linearLayout1
+tag: Button
+

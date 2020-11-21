@@ -1,0 +1,24 @@
+L7
+class: android.widget.TextView
+bounds: [29, 451, 1422, 2217]
+resource-id: id/storytitle
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [0, 84, 1440, 242]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [0, 242, 1440, 312]
+resource-id: id/shadowimage
+tag: Image
+
+L5
+class: android.widget.EditText
+bounds: [18, 312, 1422, 433]
+resource-id: id/search
+tag: Text
+

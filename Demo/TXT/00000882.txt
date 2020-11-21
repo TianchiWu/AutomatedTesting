@@ -1,0 +1,42 @@
+L10
+class: android.widget.ProgressBar
+bounds: [636, 1252, 804, 1420]
+resource-id: id/progress_bar
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [603, 1298, 837, 1374]
+resource-id: id/try_again_text
+tag: Text
+
+L6
+class: android.widget.RelativeLayout
+bounds: [350, 94, 1313, 269]
+resource-id: id/toolbar_title_layout
+tag: Bar
+
+L7
+class: android.widget.RelativeLayout
+bounds: [1313, 143, 1440, 220]
+resource-id: id/add_location_layer
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1313, 143, 1440, 220]
+resource-id: id/watch_live_icon
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

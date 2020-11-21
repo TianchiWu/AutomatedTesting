@@ -1,0 +1,108 @@
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [369, 963, 1391, 1189]
+resource-id: id/userVideoDateTextView
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [369, 1259, 1391, 1485]
+resource-id: id/userVideoDateTextView
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [369, 1555, 1391, 1781]
+resource-id: id/userVideoDateTextView
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [369, 1851, 1391, 2077]
+resource-id: id/userVideoDateTextView
+tag: Text
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar_actionbar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 280, 1440, 910]
+resource-id: id/imageViewHighlight
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 591, 1440, 910]
+resource-id: id/textViewHighlight
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 986, 369, 1166]
+resource-id: id/userVideoThumbImageView
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 1282, 369, 1462]
+resource-id: id/userVideoThumbImageView
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 1578, 369, 1758]
+resource-id: id/userVideoThumbImageView
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 1874, 369, 2054]
+resource-id: id/userVideoThumbImageView
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 2170, 369, 2217]
+resource-id: id/userVideoThumbImageView
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [369, 2147, 1391, 2217]
+resource-id: id/userVideoTitleTextView
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 0, 1064, 683]
+resource-id: id/imageView1
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 428, 1064, 683]
+resource-id: id/textView1
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 853, 1008, 965]
+resource-id: id/item_name
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1029, 1008, 1141]
+resource-id: id/item_name
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

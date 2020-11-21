@@ -1,0 +1,672 @@
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 623, 154, 1707]
+resource-id: id/hours_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [222, 647, 462, 778]
+resource-id: id/wind_speed_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [991, 647, 1201, 778]
+resource-id: id/wave_height_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [222, 829, 462, 960]
+resource-id: id/wind_speed_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [991, 829, 1201, 960]
+resource-id: id/wave_height_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [222, 1011, 462, 1142]
+resource-id: id/wind_speed_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [991, 1011, 1201, 1142]
+resource-id: id/wave_height_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [222, 1193, 462, 1324]
+resource-id: id/wind_speed_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [991, 1193, 1201, 1324]
+resource-id: id/wave_height_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [222, 1375, 462, 1506]
+resource-id: id/wind_speed_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [991, 1375, 1201, 1506]
+resource-id: id/wave_height_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [222, 1557, 462, 1688]
+resource-id: id/wind_speed_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [991, 1557, 1201, 1688]
+resource-id: id/wave_height_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [222, 1865, 462, 1996]
+resource-id: id/wind_speed_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [991, 1865, 1201, 1996]
+resource-id: id/wave_height_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [222, 2047, 462, 2178]
+resource-id: id/wind_speed_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [991, 2047, 1201, 2178]
+resource-id: id/wave_height_text_view
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 1847, 154, 2379]
+resource-id: id/hours_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [222, 2229, 462, 2360]
+resource-id: id/wind_speed_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [991, 2229, 1201, 2360]
+resource-id: id/wave_height_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [599, 2052, 685, 2173]
+resource-id: id/precipitation_image_view
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [599, 2234, 685, 2355]
+resource-id: id/precipitation_image_view
+tag: Image
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/windfinder_toolbar
+tag: Bar
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 455, 1440, 720]
+resource-id: id/cookieconsent_message
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 494, 112, 578]
+resource-id: id/wind_direction_image_view
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 578, 126, 635]
+resource-id: id/wind_direction_text_view
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [126, 494, 336, 597]
+resource-id: id/wind_speed_text_view
+tag: Text
+
+L14
+class: android.widget.LinearLayout
+bounds: [126, 597, 212, 667]
+resource-id: id/favorites_weather
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [212, 599, 331, 664]
+resource-id: id/temperature_text_view
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [392, 515, 484, 562]
+resource-id: id/data_source_text_view
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [392, 562, 1412, 647]
+resource-id: id/station_name_text_view
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 750, 112, 834]
+resource-id: id/wind_direction_image_view
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 834, 126, 891]
+resource-id: id/wind_direction_text_view
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [126, 750, 336, 853]
+resource-id: id/wind_speed_text_view
+tag: Text
+
+L14
+class: android.widget.LinearLayout
+bounds: [126, 853, 212, 923]
+resource-id: id/favorites_weather
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [212, 855, 331, 920]
+resource-id: id/temperature_text_view
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [392, 771, 484, 818]
+resource-id: id/data_source_text_view
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [392, 818, 1412, 903]
+resource-id: id/station_name_text_view
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1006, 112, 1090]
+resource-id: id/wind_direction_image_view
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 1090, 126, 1147]
+resource-id: id/wind_direction_text_view
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [126, 1006, 336, 1109]
+resource-id: id/wind_speed_text_view
+tag: Text
+
+L14
+class: android.widget.LinearLayout
+bounds: [126, 1109, 212, 1179]
+resource-id: id/favorites_weather
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [212, 1111, 331, 1176]
+resource-id: id/temperature_text_view
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [392, 1027, 484, 1074]
+resource-id: id/data_source_text_view
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [392, 1074, 1412, 1159]
+resource-id: id/station_name_text_view
+tag: Text
+
+L9
+class: android.widget.FrameLayout
+bounds: [0, 455, 1440, 2123]
+resource-id: id/favorites_progress_ref
+tag: Bar
+
+L13
+class: android.widget.LinearLayout
+bounds: [0, 623, 1440, 629]
+resource-id: id/list_item
+tag: Bar
+
+L14
+class: android.view.View
+bounds: [0, 623, 1440, 629]
+resource-id: id/forecast_wind_bar
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [222, 647, 306, 731]
+resource-id: id/wind_direction_image_view
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [795, 732, 916, 779]
+resource-id: id/air_pressure_text_view
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1233, 647, 1440, 778]
+resource-id: id/tide_height_text_view
+tag: Text
+
+L14
+class: android.view.View
+bounds: [0, 797, 1440, 811]
+resource-id: id/forecast_wind_bar
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [222, 829, 306, 913]
+resource-id: id/wind_direction_image_view
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [599, 860, 685, 930]
+resource-id: id/cloud_image_view
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [796, 829, 915, 914]
+resource-id: id/temperature_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [795, 914, 916, 961]
+resource-id: id/air_pressure_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [991, 829, 1075, 913]
+resource-id: id/wave_direction_image_view
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1233, 829, 1440, 960]
+resource-id: id/tide_height_text_view
+tag: Text
+
+L14
+class: android.view.View
+bounds: [0, 979, 1440, 993]
+resource-id: id/forecast_wind_bar
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [222, 1011, 306, 1095]
+resource-id: id/wind_direction_image_view
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [599, 1042, 685, 1112]
+resource-id: id/cloud_image_view
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [796, 1011, 915, 1096]
+resource-id: id/temperature_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [795, 1096, 916, 1143]
+resource-id: id/air_pressure_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [991, 1011, 1075, 1095]
+resource-id: id/wave_direction_image_view
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1233, 1011, 1440, 1142]
+resource-id: id/tide_height_text_view
+tag: Text
+
+L14
+class: android.view.View
+bounds: [0, 1161, 1440, 1175]
+resource-id: id/forecast_wind_bar
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [222, 1193, 306, 1277]
+resource-id: id/wind_direction_image_view
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [599, 1224, 685, 1294]
+resource-id: id/cloud_image_view
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [796, 1193, 915, 1278]
+resource-id: id/temperature_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [795, 1278, 916, 1325]
+resource-id: id/air_pressure_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [991, 1193, 1075, 1277]
+resource-id: id/wave_direction_image_view
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1233, 1193, 1440, 1324]
+resource-id: id/tide_height_text_view
+tag: Text
+
+L14
+class: android.view.View
+bounds: [0, 1343, 1440, 1357]
+resource-id: id/forecast_wind_bar
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [222, 1375, 306, 1459]
+resource-id: id/wind_direction_image_view
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [599, 1406, 685, 1476]
+resource-id: id/cloud_image_view
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [796, 1375, 915, 1460]
+resource-id: id/temperature_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [795, 1460, 916, 1507]
+resource-id: id/air_pressure_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [991, 1375, 1075, 1459]
+resource-id: id/wave_direction_image_view
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1233, 1375, 1440, 1506]
+resource-id: id/tide_height_text_view
+tag: Text
+
+L14
+class: android.view.View
+bounds: [0, 1525, 1440, 1539]
+resource-id: id/forecast_wind_bar
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [222, 1557, 306, 1641]
+resource-id: id/wind_direction_image_view
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [599, 1588, 685, 1658]
+resource-id: id/cloud_image_view
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [796, 1557, 915, 1642]
+resource-id: id/temperature_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [795, 1642, 916, 1689]
+resource-id: id/air_pressure_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [991, 1557, 1075, 1641]
+resource-id: id/wave_direction_image_view
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1233, 1557, 1440, 1688]
+resource-id: id/tide_height_text_view
+tag: Text
+
+L14
+class: android.view.View
+bounds: [0, 1707, 1440, 1721]
+resource-id: id/forecast_wind_bar
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 1721, 1440, 1847]
+resource-id: id/section_header_text_view
+tag: Header
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [222, 1865, 306, 1949]
+resource-id: id/wind_direction_image_view
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [599, 1896, 685, 1966]
+resource-id: id/cloud_image_view
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [796, 1865, 915, 1950]
+resource-id: id/temperature_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [795, 1950, 916, 1997]
+resource-id: id/air_pressure_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [991, 1865, 1075, 1949]
+resource-id: id/wave_direction_image_view
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1233, 1865, 1440, 1996]
+resource-id: id/tide_height_text_view
+tag: Text
+
+L14
+class: android.view.View
+bounds: [0, 2015, 1440, 2029]
+resource-id: id/forecast_wind_bar
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [222, 2047, 306, 2131]
+resource-id: id/wind_direction_image_view
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [796, 2047, 915, 2132]
+resource-id: id/temperature_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [795, 2132, 916, 2179]
+resource-id: id/air_pressure_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [991, 2047, 1075, 2131]
+resource-id: id/wave_direction_image_view
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1233, 2047, 1440, 2178]
+resource-id: id/tide_height_text_view
+tag: Text
+
+L14
+class: android.view.View
+bounds: [0, 2197, 1440, 2211]
+resource-id: id/forecast_wind_bar
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [222, 2229, 306, 2313]
+resource-id: id/wind_direction_image_view
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [796, 2229, 915, 2314]
+resource-id: id/temperature_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [795, 2314, 916, 2361]
+resource-id: id/air_pressure_text_view
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [991, 2229, 1075, 2313]
+resource-id: id/wave_direction_image_view
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1233, 2229, 1440, 2360]
+resource-id: id/tide_height_text_view
+tag: Text
+
+L14
+class: android.view.View
+bounds: [0, 2379, 1440, 2392]
+resource-id: id/forecast_wind_bar
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 623, 1440, 749]
+resource-id: id/section_header_text_view
+tag: Header
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 2335, 1440, 2392]
+resource-id: id/forecast_updatetime
+tag: Text
+
+L6
+class: android.support.v7.widget.AppCompatButton
+bounds: [1062, 2182, 1398, 2350]
+resource-id: id/showcase_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,12 @@
+L6
+class: android.widget.ImageView
+bounds: [123, 745, 175, 798]
+resource-id: id/imgDialogIcon
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

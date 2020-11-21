@@ -1,0 +1,42 @@
+L6
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 259]
+resource-id: id/header
+tag: Header
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [650, 101, 790, 241]
+resource-id: id/toolbar_image
+tag: Image
+
+L6
+class: android.widget.RelativeLayout
+bounds: [0, 259, 1440, 322]
+resource-id: id/status_bar
+tag: Bar
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [660, 259, 780, 316]
+resource-id: id/statusbar_label
+tag: Bar
+
+L7
+class: android.widget.ProgressBar
+bounds: [636, 1273, 804, 1441]
+resource-id: id/ratealerts_progressbar
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

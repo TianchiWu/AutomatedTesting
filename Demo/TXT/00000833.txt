@@ -1,0 +1,168 @@
+L6
+class: android.widget.ImageView
+bounds: [35, 173, 1408, 521]
+resource-id: id/icon_image
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [35, 692, 1408, 1040]
+resource-id: id/icon_image
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [35, 1211, 1408, 1559]
+resource-id: id/icon_image
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [35, 1730, 1408, 2078]
+resource-id: id/icon_image
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [306, 0, 1279, 138]
+resource-id: id/aname
+tag: Text
+
+L5
+class: android.widget.ImageButton
+bounds: [5, 0, 145, 138]
+resource-id: id/NewsButton
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [158, 0, 298, 138]
+resource-id: id/LangButton
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [1284, 0, 1435, 138]
+resource-id: id/HelpButton
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [66, 521, 264, 587]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [351, 521, 535, 587]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [629, 521, 814, 587]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [939, 521, 1060, 587]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [1224, 521, 1330, 587]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [118, 1040, 213, 1106]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [345, 1040, 541, 1106]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [646, 1040, 796, 1106]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [912, 1040, 1086, 1106]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [1202, 1040, 1352, 1106]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [111, 1559, 219, 1625]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [408, 1559, 478, 1625]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [662, 1559, 780, 1625]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [962, 1559, 1037, 1625]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [1199, 1559, 1356, 1625]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [135, 2078, 195, 2144]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [398, 2078, 489, 2144]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [647, 2078, 795, 2144]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [953, 2078, 1046, 2144]
+resource-id: id/icon_text
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [1238, 2078, 1316, 2144]
+resource-id: id/icon_text
+tag: Text
+

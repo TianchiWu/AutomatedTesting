@@ -1,0 +1,42 @@
+L7
+class: android.widget.EditText
+bounds: [221, 95, 1415, 452]
+resource-id: id/place_autocomplete_search_input
+tag: Text
+
+L7
+class: android.widget.ImageButton
+bounds: [25, 95, 221, 270]
+resource-id: id/place_autocomplete_search_button
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [1266, 1891, 1408, 2033]
+resource-id: id/imageButtonZoomIn
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [1266, 2033, 1408, 2175]
+resource-id: id/imageButtonZoomOut
+tag: Button
+
+L6
+class: com.google.android.gms.ads.AdView
+bounds: [0, 2217, 1440, 2392]
+resource-id: id/adsBanner
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 0, 1440, 84]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 0, 155, 56]
+resource-id: id/home
+tag: Image
+

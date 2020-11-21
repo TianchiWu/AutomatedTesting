@@ -1,0 +1,102 @@
+L8
+class: android.widget.TextView
+bounds: [0, 252, 1440, 2213]
+resource-id: id/alert
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [0, 117, 148, 219]
+resource-id: id/home
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [1405, 252, 1440, 288]
+resource-id: id/alert
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [1405, 471, 1440, 530]
+resource-id: id/alert
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1345, 390, 1415, 460]
+resource-id: id/star_icon
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1345, 632, 1415, 702]
+resource-id: id/star_icon
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1345, 945, 1415, 1015]
+resource-id: id/star_icon
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1345, 1187, 1415, 1257]
+resource-id: id/star_icon
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1345, 1500, 1415, 1570]
+resource-id: id/star_icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [1405, 1894, 1440, 1953]
+resource-id: id/alert
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1345, 1813, 1415, 1883]
+resource-id: id/star_icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [1405, 2136, 1440, 2195]
+resource-id: id/alert
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1345, 2055, 1415, 2125]
+resource-id: id/star_icon
+tag: Image
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 2213, 1240, 2392]
+resource-id: id/miniplayer_inner
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [1240, 2213, 1440, 2392]
+resource-id: id/pause_icon
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [162, 125, 630, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

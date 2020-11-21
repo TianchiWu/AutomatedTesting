@@ -1,0 +1,42 @@
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [168, 1844, 1272, 2162]
+resource-id: id/intro_subtitle
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [168, 1662, 1016, 1788]
+resource-id: id/intro_header
+tag: Header
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 140, 1384, 1606]
+resource-id: id/intro_image
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 2164, 444, 2392]
+resource-id: id/intro_skip
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 2164, 509, 2392]
+resource-id: id/negative_button
+tag: Button
+
+L7
+class: android.widget.FrameLayout
+bounds: [957, 2164, 1440, 2392]
+resource-id: id/intro_get_started_container
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [1044, 2194, 1352, 2362]
+resource-id: id/intro_actionable_button
+tag: Button
+

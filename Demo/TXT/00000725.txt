@@ -1,0 +1,198 @@
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [196, 514, 512, 1183]
+resource-id: id/leftNavItemTitle
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [196, 1630, 679, 2132]
+resource-id: id/leftNavItemTitle
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [295, 347, 1412, 476]
+resource-id: id/subtitle_text
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [295, 612, 1412, 741]
+resource-id: id/subtitle_text
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [295, 877, 1412, 1006]
+resource-id: id/subtitle_text
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [295, 1142, 1412, 1271]
+resource-id: id/subtitle_text
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [295, 1407, 1412, 1536]
+resource-id: id/subtitle_text
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [295, 1672, 1412, 1801]
+resource-id: id/subtitle_text
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [295, 1937, 1412, 2066]
+resource-id: id/subtitle_text
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [295, 2202, 1412, 2331]
+resource-id: id/subtitle_text
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 140, 701, 305]
+resource-id: id/left_nav_greeting_secondary
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [196, 1239, 676, 1574]
+resource-id: id/leftNavItemTitle
+tag: Text
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/left_nav_toolbar
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 308, 235, 515]
+resource-id: id/news_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 573, 235, 780]
+resource-id: id/news_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 838, 235, 1045]
+resource-id: id/news_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1103, 235, 1310]
+resource-id: id/news_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1368, 235, 1575]
+resource-id: id/news_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1633, 235, 1840]
+resource-id: id/news_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1898, 235, 2105]
+resource-id: id/news_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatButton
+bounds: [56, 347, 411, 459]
+resource-id: id/left_nav_action_button
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 556, 196, 640]
+resource-id: id/leftNavItemIcon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 723, 196, 807]
+resource-id: id/leftNavItemIcon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 890, 196, 974]
+resource-id: id/leftNavItemIcon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1057, 196, 1141]
+resource-id: id/leftNavItemIcon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1281, 196, 1365]
+resource-id: id/leftNavItemIcon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [997, 1456, 1120, 1523]
+resource-id: id/leftNavGroupIndicator
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1448, 196, 1532]
+resource-id: id/leftNavItemIcon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1672, 196, 1756]
+resource-id: id/leftNavItemIcon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1839, 196, 1923]
+resource-id: id/leftNavItemIcon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 2006, 196, 2090]
+resource-id: id/leftNavItemIcon
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

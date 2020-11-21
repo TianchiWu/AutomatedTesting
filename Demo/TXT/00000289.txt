@@ -1,0 +1,18 @@
+L4
+class: android.widget.ImageView
+bounds: [0, 84, 1440, 390]
+resource-id: id/topPanner
+tag: Image
+
+L4
+class: android.widget.TextView
+bounds: [4, 394, 1436, 530]
+resource-id: id/offPayTitle
+tag: Text
+
+L4
+class: android.widget.ImageView
+bounds: [0, 2320, 1440, 2392]
+resource-id: id/bottomPanner
+tag: Image
+

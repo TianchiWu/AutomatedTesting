@@ -1,0 +1,42 @@
+L6
+class: android.widget.TextView
+bounds: [32, 305, 1408, 2114]
+resource-id: id/eula
+tag: Text
+
+L4
+class: com.tionetworks.mobile.android.tioclient.ui.views.HeaderView
+bounds: [0, 84, 1440, 273]
+resource-id: id/section_header
+tag: Header
+
+L6
+class: android.widget.TextView
+bounds: [823, 136, 1405, 221]
+resource-id: id/title
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [35, 109, 177, 247]
+resource-id: id/logo_image
+tag: Image
+
+L4
+class: android.widget.LinearLayout
+bounds: [0, 2181, 1440, 2392]
+resource-id: id/form_button_layout
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [18, 2199, 702, 2374]
+resource-id: id/altActionButton
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [738, 2199, 1422, 2374]
+resource-id: id/submitButton
+tag: Button
+

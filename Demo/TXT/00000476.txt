@@ -1,0 +1,60 @@
+L8
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 420]
+resource-id: id/appbar
+tag: Bar
+
+L9
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar_frame
+tag: Bar
+
+L8
+class: com.doapps.android.mln.categoryviewer.SubcategoryViewPager
+bounds: [0, 420, 1440, 2217]
+resource-id: id/pager
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [421, 480, 1440, 645]
+resource-id: id/legend
+tag: Image
+
+L10
+class: android.support.design.widget.FloatingActionButton
+bounds: [63, 1916, 259, 2112]
+resource-id: id/action_button
+tag: Button
+
+L10
+class: android.support.design.widget.FloatingActionButton
+bounds: [1181, 1916, 1377, 2112]
+resource-id: id/layer_selection_button
+tag: Button
+
+L10
+class: android.support.design.widget.FloatingActionButton
+bounds: [1181, 1650, 1377, 1846]
+resource-id: id/location_selection_button
+tag: Button
+
+L10
+class: android.widget.ProgressBar
+bounds: [329, 2199, 1111, 2217]
+resource-id: id/progress_bar
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,132 @@
+L12
+class: com.zomato.ui.android.EditTexts.ZEditText
+bounds: [49, 883, 1391, 1508]
+resource-id: id/login_password
+tag: Text
+
+L11
+class: com.zomato.ui.android.Buttons.ZButton
+bounds: [49, 1781, 702, 1938]
+resource-id: id/layout_signup
+tag: Button
+
+L11
+class: com.zomato.ui.android.Buttons.ZButton
+bounds: [738, 1781, 1391, 1938]
+resource-id: id/layout_login
+tag: Button
+
+L11
+class: com.zomato.ui.android.TextViews.ZTextView
+bounds: [607, 2280, 832, 2346]
+resource-id: id/skipLoginText
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 1130, 137, 1218]
+resource-id: id/customview_customlabel_icon_left
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 1323, 137, 1411]
+resource-id: id/customview_customlabel_icon_left
+tag: Image
+
+L13
+class: android.widget.LinearLayout
+bounds: [186, 1302, 1377, 1425]
+resource-id: id/text_house
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [49, 1516, 137, 1604]
+resource-id: id/customview_customlabel_icon_left
+tag: Image
+
+L13
+class: android.widget.LinearLayout
+bounds: [186, 1495, 1377, 1618]
+resource-id: id/text_house
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 84, 1440, 859]
+resource-id: id/onboarding_image
+tag: Image
+
+L10
+class: com.makeramen.roundedimageview.RoundedImageView
+bounds: [576, 722, 864, 1010]
+resource-id: id/zomato_logo_image
+tag: Image
+
+L9
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 252]
+resource-id: id/page_header
+tag: Header
+
+L10
+class: com.zomato.ui.android.IconFonts.IconFont
+bounds: [0, 84, 162, 252]
+resource-id: id/page_header_close
+tag: Header
+
+L10
+class: com.zomato.ui.android.TextViews.ZTextView
+bounds: [616, 125, 824, 210]
+resource-id: id/page_header_text
+tag: Header
+
+L12
+class: com.zomato.ui.android.Buttons.ZButton
+bounds: [49, 301, 1391, 458]
+resource-id: id/login_page_layout_connect_using_facebook
+tag: Button
+
+L12
+class: com.zomato.ui.android.Buttons.ZButton
+bounds: [49, 493, 1391, 650]
+resource-id: id/login_page_layout_connect_using_google
+tag: Button
+
+L11
+class: com.zomato.ui.android.TextViews.ZTextView
+bounds: [0, 720, 630, 865]
+resource-id: id/help_string
+tag: Text
+
+L11
+class: com.zomato.ui.android.Buttons.ZButton
+bounds: [49, 1578, 1391, 1735]
+resource-id: id/submit_button
+tag: Button
+
+L11
+class: com.zomato.ui.android.TextViews.ZTextView
+bounds: [0, 1735, 1440, 1841]
+resource-id: id/login_page_already_have_an_account
+tag: Text
+
+L12
+class: com.zomato.ui.android.TextViews.ZTextView
+bounds: [49, 2248, 1391, 2343]
+resource-id: id/about_us_terms_conditions
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,174 @@
+L4
+class: android.widget.TextView
+bounds: [14, 86, 440, 157]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [5, 187, 133, 315]
+resource-id: id/symptomImage
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [133, 210, 1090, 291]
+resource-id: id/symptomName
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [5, 351, 133, 479]
+resource-id: id/symptomImage
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [133, 374, 1090, 455]
+resource-id: id/symptomName
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [5, 515, 133, 643]
+resource-id: id/symptomImage
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [133, 538, 1090, 619]
+resource-id: id/symptomName
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [5, 679, 133, 807]
+resource-id: id/symptomImage
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [133, 702, 1090, 783]
+resource-id: id/symptomName
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [5, 843, 133, 971]
+resource-id: id/symptomImage
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [133, 866, 1090, 947]
+resource-id: id/symptomName
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [5, 1007, 133, 1135]
+resource-id: id/symptomImage
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [133, 1030, 1090, 1111]
+resource-id: id/symptomName
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [5, 1171, 133, 1299]
+resource-id: id/symptomImage
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [133, 1194, 1090, 1275]
+resource-id: id/symptomName
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [5, 1335, 133, 1463]
+resource-id: id/symptomImage
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [133, 1358, 1090, 1439]
+resource-id: id/symptomName
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [5, 1499, 133, 1627]
+resource-id: id/symptomImage
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [133, 1522, 1090, 1603]
+resource-id: id/symptomName
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [5, 1663, 133, 1791]
+resource-id: id/symptomImage
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [133, 1686, 1090, 1767]
+resource-id: id/symptomName
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [5, 1827, 133, 1955]
+resource-id: id/symptomImage
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [133, 1850, 1090, 1931]
+resource-id: id/symptomName
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [5, 1991, 133, 2119]
+resource-id: id/symptomImage
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [133, 2014, 1090, 2095]
+resource-id: id/symptomName
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [5, 2155, 133, 2190]
+resource-id: id/symptomImage
+tag: Image
+
+L5
+class: android.widget.Button
+bounds: [18, 2208, 468, 2374]
+resource-id: id/symptomsSave
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [486, 2208, 936, 2374]
+resource-id: id/symptomsRemove
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [954, 2208, 1422, 2374]
+resource-id: id/symptomsClose
+tag: Button
+

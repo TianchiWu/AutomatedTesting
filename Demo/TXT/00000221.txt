@@ -1,0 +1,18 @@
+L4
+class: android.widget.TextView
+bounds: [0, 84, 1440, 177]
+resource-id: id/lblCountryListHeader
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [0, 195, 300, 312]
+resource-id: id/label
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [0, 350, 525, 467]
+resource-id: id/label
+tag: Text
+

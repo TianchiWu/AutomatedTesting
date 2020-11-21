@@ -1,0 +1,54 @@
+L6
+class: android.widget.TextView
+bounds: [600, 259, 1440, 2062]
+resource-id: id/textrow
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [0, 119, 154, 224]
+resource-id: id/total_app_logo
+tag: Image
+
+L5
+class: android.widget.AutoCompleteTextView
+bounds: [184, 94, 1349, 234]
+resource-id: id/total_app_searchtext
+tag: Text
+
+L5
+class: android.widget.Button
+bounds: [1335, 119, 1440, 224]
+resource-id: id/total_app_morebutton
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [1167, 102, 1307, 242]
+resource-id: id/total_app_language_indicator
+tag: Text
+
+L5
+class: android.widget.Button
+bounds: [1044, 119, 1149, 224]
+resource-id: id/total_app_searchbutton
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [932, 126, 1023, 214]
+resource-id: id/total_app_cleartextbutton
+tag: Button
+
+L7
+class: android.widget.LinearLayout
+bounds: [0, 2132, 1440, 2167]
+resource-id: id/adsview_webview
+tag: Button
+
+L7
+class: android.widget.ProgressBar
+bounds: [0, 259, 1440, 270]
+resource-id: id/offline_progressbar
+tag: Bar
+

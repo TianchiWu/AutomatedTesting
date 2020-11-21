@@ -1,0 +1,162 @@
+L2
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 2392]
+resource-id: id/content
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [82, 92, 205, 215]
+resource-id: id/ivTab_1
+tag: Image
+
+L7
+class: android.widget.Button
+bounds: [0, 84, 288, 252]
+resource-id: id/bTab_1
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [370, 92, 493, 215]
+resource-id: id/ivTab_2
+tag: Image
+
+L7
+class: android.widget.Button
+bounds: [288, 84, 576, 252]
+resource-id: id/bTab_2
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [658, 92, 781, 215]
+resource-id: id/ivTab_3
+tag: Image
+
+L7
+class: android.widget.Button
+bounds: [576, 84, 864, 252]
+resource-id: id/bTab_3
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [946, 92, 1069, 215]
+resource-id: id/ivTab_4
+tag: Image
+
+L7
+class: android.widget.Button
+bounds: [864, 84, 1152, 252]
+resource-id: id/bTab_4
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [1234, 92, 1357, 215]
+resource-id: id/ivTab_5
+tag: Image
+
+L7
+class: android.widget.Button
+bounds: [1152, 84, 1440, 252]
+resource-id: id/bTab_5
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [0, 2108, 1440, 2203]
+resource-id: id/tvRadarText
+tag: Text
+
+L5
+class: android.widget.ProgressBar
+bounds: [0, 2098, 1440, 2109]
+resource-id: id/pbRadarProgress
+tag: Bar
+
+L4
+class: android.widget.FrameLayout
+bounds: [0, 2203, 1440, 2392]
+resource-id: id/reloadScreen
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [370, 2236, 493, 2359]
+resource-id: id/ivRadarTab_2
+tag: Image
+
+L7
+class: android.widget.Button
+bounds: [288, 2203, 576, 2357]
+resource-id: id/bRadarTab_2
+tag: Button
+
+L6
+class: android.widget.FrameLayout
+bounds: [576, 2203, 864, 2392]
+resource-id: id/flRadarTab_3
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [658, 2236, 781, 2359]
+resource-id: id/ivRadarTab_3
+tag: Image
+
+L7
+class: android.widget.Button
+bounds: [576, 2203, 864, 2392]
+resource-id: id/bRadarTab_3
+tag: Button
+
+L6
+class: android.widget.FrameLayout
+bounds: [864, 2203, 1152, 2392]
+resource-id: id/flRadarTab_4
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [946, 2236, 1069, 2359]
+resource-id: id/ivRadarTab_4
+tag: Image
+
+L7
+class: android.widget.Button
+bounds: [864, 2203, 1152, 2392]
+resource-id: id/bRadarTab_4
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [1234, 2236, 1357, 2359]
+resource-id: id/ivRadarTab_5
+tag: Image
+
+L7
+class: android.widget.Button
+bounds: [1152, 2203, 1440, 2357]
+resource-id: id/bRadarTab_5
+tag: Button
+
+L5
+class: android.widget.ProgressBar
+bounds: [140, 1168, 1300, 1308]
+resource-id: id/progressInit
+tag: Bar
+
+L5
+class: android.widget.TextView
+bounds: [627, 1361, 812, 1464]
+resource-id: id/textInit
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [326, 1011, 1113, 1114]
+resource-id: id/testInitTop
+tag: Text
+

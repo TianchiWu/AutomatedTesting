@@ -1,0 +1,6 @@
+L4
+class: android.widget.ImageButton
+bounds: [296, 1665, 1143, 1941]
+resource-id: id/btnStart
+tag: Button
+

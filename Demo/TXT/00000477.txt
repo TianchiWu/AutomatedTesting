@@ -1,0 +1,36 @@
+L9
+class: com.facebook.resources.ui.EllipsizingTextView
+bounds: [56, 1109, 1384, 1436]
+resource-id: id/content
+tag: Text
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 2220, 1440, 2392]
+resource-id: id/buttons
+tag: Button
+
+L8
+class: com.facebook.resources.ui.FbButton
+bounds: [0, 2224, 718, 2392]
+resource-id: id/btn_secondary
+tag: Button
+
+L8
+class: com.facebook.resources.ui.FbButton
+bounds: [722, 2224, 1440, 2392]
+resource-id: id/btn_primary
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [1261, 84, 1440, 263]
+resource-id: id/btn_x_out
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

@@ -1,0 +1,168 @@
+L7
+class: android.widget.RelativeLayout
+bounds: [0, 280, 1216, 1757]
+resource-id: id/side_menu_header_view
+tag: Header
+
+L11
+class: com.talabat.TalabatTextView
+bounds: [298, 111, 513, 254]
+resource-id: id/side_menu_user_country_name
+tag: Text
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 0, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 87, 259, 276]
+resource-id: id/sidemenu_button
+tag: Button
+
+L11
+class: com.talabat.TalabatTextView
+bounds: [259, 135, 1412, 228]
+resource-id: id/brand_title
+tag: Text
+
+L11
+class: com.android.volley.toolbox.NetworkImageView
+bounds: [583, 452, 856, 725]
+resource-id: id/branding_rest_logo
+tag: Image
+
+L10
+class: com.talabat.TalabatTextView
+bounds: [0, 781, 1440, 857]
+resource-id: id/branding_cuisines_text
+tag: Text
+
+L10
+class: com.talabat.TalabatTextView
+bounds: [0, 927, 1440, 1102]
+resource-id: id/branding_restaurant_name
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 1275, 194, 1376]
+resource-id: id/branding_choose_city_image
+tag: Image
+
+L12
+class: com.talabat.TalabatTextView
+bounds: [222, 1270, 613, 1382]
+resource-id: id/branding_choose_city
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 1457, 194, 1558]
+resource-id: id/branding_choose_area_image
+tag: Image
+
+L12
+class: com.talabat.TalabatTextView
+bounds: [222, 1452, 633, 1564]
+resource-id: id/branding_choose_area
+tag: Text
+
+L10
+class: com.talabat.TalabatButton
+bounds: [56, 1620, 1384, 1760]
+resource-id: id/btnShowMenu
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 0, 1216, 84]
+resource-id: id/side_menu_padding_view
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [70, 103, 228, 261]
+resource-id: id/side_menu_user_avtar_icon
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [298, 201, 351, 254]
+resource-id: id/side_menu_user_country_icon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [70, 335, 154, 419]
+resource-id: id/side_menu_header_icon
+tag: Header
+
+L9
+class: com.talabat.TalabatTextView
+bounds: [224, 339, 375, 415]
+resource-id: id/side_menu_header_title
+tag: Header
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [70, 531, 154, 615]
+resource-id: id/side_menu_header_icon
+tag: Header
+
+L9
+class: com.talabat.TalabatTextView
+bounds: [224, 535, 483, 611]
+resource-id: id/side_menu_header_title
+tag: Header
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [70, 727, 154, 811]
+resource-id: id/side_menu_header_icon
+tag: Header
+
+L9
+class: com.talabat.TalabatTextView
+bounds: [224, 731, 381, 807]
+resource-id: id/side_menu_header_title
+tag: Header
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [70, 923, 154, 1007]
+resource-id: id/side_menu_header_icon
+tag: Header
+
+L9
+class: com.talabat.TalabatTextView
+bounds: [224, 927, 546, 1003]
+resource-id: id/side_menu_header_title
+tag: Header
+
+L9
+class: com.talabat.TalabatTextView
+bounds: [224, 1176, 457, 1252]
+resource-id: id/side_menu_header_title
+tag: Header
+
+L9
+class: com.talabat.TalabatTextView
+bounds: [70, 1425, 221, 1501]
+resource-id: id/side_menu_header_title
+tag: Header
+
+L9
+class: com.talabat.TalabatTextView
+bounds: [70, 1621, 328, 1697]
+resource-id: id/side_menu_header_title
+tag: Header
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

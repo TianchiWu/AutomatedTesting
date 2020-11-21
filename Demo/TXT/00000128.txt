@@ -1,0 +1,72 @@
+L12
+class: android.widget.LinearLayout
+bounds: [268, 84, 1440, 252]
+resource-id: id/titlebar_right_layout
+tag: Bar
+
+L8
+class: com.greatpersonalsmedia.android.layout.TitleBar
+bounds: [0, 84, 1440, 252]
+resource-id: id/titlebar
+tag: Bar
+
+L11
+class: android.widget.LinearLayout
+bounds: [0, 101, 215, 234]
+resource-id: id/titlebar_menu_button
+tag: Button
+
+L11
+class: android.widget.LinearLayout
+bounds: [268, 84, 1440, 252]
+resource-id: id/titlebar_center_layout
+tag: Bar
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 252, 1440, 2392]
+resource-id: id/contentParent
+tag: Image
+
+L13
+class: android.widget.ProgressBar
+bounds: [636, 1238, 804, 1406]
+resource-id: id/profileImageLoading
+tag: Bar
+
+L14
+class: android.widget.Button
+bounds: [105, 1363, 1335, 1526]
+resource-id: id/paymentButton
+tag: Button
+
+L12
+class: android.widget.TextView
+bounds: [35, 287, 469, 389]
+resource-id: id/topLocation
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1185, 287, 1405, 389]
+resource-id: id/topNumPhotos
+tag: Text
+
+L13
+class: android.widget.Button
+bounds: [352, 1937, 702, 2287]
+resource-id: id/voteNoButton
+tag: Button
+
+L13
+class: android.widget.Button
+bounds: [737, 1937, 1087, 2287]
+resource-id: id/voteYesButton
+tag: Button
+
+L12
+class: android.widget.Button
+bounds: [35, 2182, 210, 2357]
+resource-id: id/voteInfoButton
+tag: Button
+

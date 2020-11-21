@@ -1,0 +1,48 @@
+L9
+class: android.widget.ToggleButton
+bounds: [0, 259, 288, 399]
+resource-id: id/optionButton1
+tag: Button
+
+L9
+class: android.widget.ToggleButton
+bounds: [288, 259, 576, 399]
+resource-id: id/optionButton2
+tag: Button
+
+L9
+class: android.widget.ToggleButton
+bounds: [576, 259, 864, 399]
+resource-id: id/optionButton3
+tag: Button
+
+L9
+class: android.widget.ToggleButton
+bounds: [864, 259, 1152, 399]
+resource-id: id/optionButton4
+tag: Button
+
+L9
+class: android.widget.ToggleButton
+bounds: [1152, 259, 1440, 399]
+resource-id: id/optionButton5
+tag: Button
+
+L9
+class: android.support.design.widget.FloatingActionButton
+bounds: [1188, 1982, 1384, 2178]
+resource-id: id/addFab
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

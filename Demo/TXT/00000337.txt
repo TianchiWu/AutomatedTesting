@@ -1,0 +1,216 @@
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [105, 627, 1120, 1887]
+resource-id: id/subMenuTextView
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [105, 2066, 1120, 2392]
+resource-id: id/subMenuTextView
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 280, 1120, 627]
+resource-id: id/menuTextView
+tag: Text
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 476]
+resource-id: id/my_awesome_toolbar
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1075, 120, 1387, 243]
+resource-id: id/trafficImageView
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 2042, 477, 2217]
+resource-id: id/tabOne
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatButton
+bounds: [481, 2042, 958, 2217]
+resource-id: id/tabTwo
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatButton
+bounds: [962, 2042, 1440, 2217]
+resource-id: id/tabThree
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 280, 385, 311]
+resource-id: id/story_thumbnail
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 385, 385, 648]
+resource-id: id/story_thumbnail
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [420, 420, 1440, 613]
+resource-id: id/storyHeadlineTextView
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 722, 385, 985]
+resource-id: id/story_thumbnail
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [279, 757, 367, 845]
+resource-id: id/play_image
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [420, 757, 1440, 950]
+resource-id: id/storyHeadlineTextView
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 1059, 385, 1322]
+resource-id: id/story_thumbnail
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [279, 1094, 367, 1182]
+resource-id: id/play_image
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [420, 1130, 1440, 1250]
+resource-id: id/storyHeadlineTextView
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 1396, 385, 1659]
+resource-id: id/story_thumbnail
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [279, 1431, 367, 1519]
+resource-id: id/play_image
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [420, 1431, 1440, 1624]
+resource-id: id/storyHeadlineTextView
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 1698, 1440, 1839]
+resource-id: id/headerTextView
+tag: Header
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 1733, 385, 1996]
+resource-id: id/story_thumbnail
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [279, 1768, 367, 1856]
+resource-id: id/play_image
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [420, 1731, 1440, 1997]
+resource-id: id/storyHeadlineTextView
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1898, 1120, 2066]
+resource-id: id/menuTextView
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [77, 316, 702, 439]
+resource-id: id/button
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [738, 316, 1363, 439]
+resource-id: id/button2
+tag: Button
+
+L7
+class: android.widget.RelativeLayout
+bounds: [196, 120, 1440, 243]
+resource-id: id/action_bar
+tag: NavigationBar
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [805, 138, 889, 222]
+resource-id: id/weatherImageView
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [907, 120, 1022, 222]
+resource-id: id/temperatureTextView
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1057, 138, 1141, 222]
+resource-id: id/shareImageView
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [371, 139, 1265, 224]
+resource-id: id/title_text_view
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [193, 161, 281, 231]
+resource-id: id/homeImageView
+tag: Image
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [175, 84, 595, 288]
+resource-id: id/inAppLogo
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

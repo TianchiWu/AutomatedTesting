@@ -1,0 +1,42 @@
+L6
+class: android.widget.NumberPicker$CustomEditText
+bounds: [356, 651, 916, 736]
+resource-id: id/numberpicker_input
+tag: Picker
+
+L6
+class: android.widget.ImageView
+bounds: [0, 112, 180, 249]
+resource-id: id/home
+tag: Image
+
+L4
+class: android.widget.TextView
+bounds: [18, 295, 1422, 361]
+resource-id: id/textView1
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [934, 628, 1065, 759]
+resource-id: id/weightUnits
+tag: Text
+
+L4
+class: android.widget.TextView
+bounds: [18, 1027, 1422, 1093]
+resource-id: id/textView3
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 277]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [194, 152, 470, 209]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

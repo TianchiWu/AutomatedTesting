@@ -1,0 +1,48 @@
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [25, 307, 137, 1948]
+resource-id: id/nav_menu_list_item_icon
+tag: Image
+
+L11
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [137, 293, 694, 1962]
+resource-id: id/nav_menu_list_item_name
+tag: Text
+
+L7
+class: com.yinzcam.common.android.ui.menu.YinzToolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/yinz_menu_activity_titlebar
+tag: Bar
+
+L7
+class: android.widget.RelativeLayout
+bounds: [0, 280, 1440, 2392]
+resource-id: id/yinz_menu_activity_frame_size_root
+tag: Image
+
+L12
+class: android.widget.LinearLayout
+bounds: [195, 1804, 1245, 2374]
+resource-id: id/tickets_activity_button_frame
+tag: Button
+
+L14
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [368, 2120, 1071, 2179]
+resource-id: id/button_full_text
+tag: Button
+
+L9
+class: com.yinzcam.common.android.ui.ProgressSpinner
+bounds: [580, 1196, 860, 1476]
+resource-id: id/yinz_menu_activity_spinner
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [113, 84, 796, 294]
+resource-id: id/nav_side_menu_image
+tag: Image
+

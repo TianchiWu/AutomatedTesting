@@ -1,0 +1,60 @@
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 983, 1405, 1767]
+resource-id: id/durationUnit
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 1574, 1343, 1964]
+resource-id: id/caloriesValue
+tag: Text
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 562, 124, 795]
+resource-id: id/caloriesReflect
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 971, 1440, 983]
+resource-id: id/shadow
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1304, 1771, 1405, 1964]
+resource-id: id/caloriesUnit
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatButton
+bounds: [23, 2031, 1098, 2199]
+resource-id: id/saveAndSend
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatButton
+bounds: [1120, 2031, 1428, 2199]
+resource-id: id/clear
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,90 @@
+L6
+class: android.widget.ImageView
+bounds: [0, 308, 229, 2168]
+resource-id: id/icon
+tag: Image
+
+L5
+class: android.widget.TextView
+bounds: [0, 84, 1440, 308]
+resource-id: id/playlisttab
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [229, 333, 1440, 506]
+resource-id: id/line2
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [229, 559, 1440, 732]
+resource-id: id/line2
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [229, 785, 1440, 958]
+resource-id: id/line2
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [229, 1003, 1440, 1176]
+resource-id: id/line2
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [229, 1237, 1440, 1410]
+resource-id: id/line2
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [229, 1463, 1440, 1636]
+resource-id: id/line2
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [229, 1689, 1440, 1862]
+resource-id: id/line2
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [229, 1915, 1440, 2088]
+resource-id: id/line2
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [70, 2195, 1218, 2368]
+resource-id: id/artist
+tag: Text
+
+L4
+class: android.widget.TabWidget
+bounds: [0, 84, 1440, 308]
+resource-id: id/buttonbar
+tag: Button
+
+L6
+class: android.widget.ImageView
+bounds: [1335, 1129, 1398, 1192]
+resource-id: id/play_indicator
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [229, 2141, 1387, 2168]
+resource-id: id/line1
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [1274, 2226, 1386, 2338]
+resource-id: id/icon
+tag: Image
+

@@ -1,0 +1,42 @@
+L9
+class: android.widget.TextView
+bounds: [84, 326, 275, 402]
+resource-id: id/title
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [84, 494, 525, 570]
+resource-id: id/title
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [84, 998, 692, 1074]
+resource-id: id/title
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [84, 1166, 204, 1242]
+resource-id: id/title
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

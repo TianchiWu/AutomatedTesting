@@ -1,0 +1,36 @@
+L4
+class: android.widget.Button
+bounds: [0, 84, 288, 273]
+resource-id: id/btnHome
+tag: Button
+
+L4
+class: android.widget.ImageView
+bounds: [370, 84, 1070, 273]
+resource-id: id/TitleImage
+tag: Image
+
+L5
+class: android.widget.Button
+bounds: [64, 318, 408, 576]
+resource-id: id/btnDeleteName
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [408, 318, 720, 576]
+resource-id: id/btnCommentName
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [720, 318, 1032, 576]
+resource-id: id/btnConvertName
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [1032, 318, 1376, 576]
+resource-id: id/btnManageName
+tag: Button
+

@@ -1,0 +1,54 @@
+L13
+class: android.widget.TextView
+bounds: [38, 827, 1402, 930]
+resource-id: id/textView_total_logs
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [38, 970, 1402, 1073]
+resource-id: id/textView_lastLog
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [38, 1113, 1402, 1216]
+resource-id: id/textView_daysSince
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [38, 1256, 1402, 1359]
+resource-id: id/textView_averageSeverity
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [38, 1399, 1402, 1502]
+resource-id: id/textView_averageDuration
+tag: Text
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/my_awesome_toolbar
+tag: Bar
+
+L12
+class: android.widget.Button
+bounds: [525, 1520, 915, 1688]
+resource-id: id/button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

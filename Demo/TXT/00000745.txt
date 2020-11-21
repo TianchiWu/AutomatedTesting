@@ -1,0 +1,84 @@
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [380, 1682, 678, 1819]
+resource-id: id/textViewRatingsTmdbLabel
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [762, 1682, 1060, 1819]
+resource-id: id/textViewRatingsTraktLabel
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [487, 336, 1246, 486]
+resource-id: id/textViewMovieDate
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [84, 1935, 389, 2081]
+resource-id: id/textViewMovieGenres
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 2244, 649, 2386]
+resource-id: id/textViewPersonDescription
+tag: Text
+
+L9
+class: android.widget.ProgressBar
+bounds: [636, 1112, 804, 1280]
+resource-id: id/progressBar
+tag: Bar
+
+L11
+class: android.widget.FrameLayout
+bounds: [84, 308, 431, 833]
+resource-id: id/frameLayoutMoviePoster
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatButton
+bounds: [56, 861, 720, 1085]
+resource-id: id/buttonMovieWatchlisted
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatButton
+bounds: [720, 861, 1384, 1085]
+resource-id: id/buttonMovieCollected
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [84, 1145, 1356, 1566]
+resource-id: id/textViewMovieDescription
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [84, 2137, 184, 2203]
+resource-id: id/labelCast
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 2245, 196, 2385]
+resource-id: id/imageViewPerson
+tag: Image
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/sgToolbar
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

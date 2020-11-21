@@ -1,0 +1,24 @@
+L8
+class: android.widget.ImageView
+bounds: [223, 953, 323, 1124]
+resource-id: id/clock_mode_pm
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [358, 853, 730, 1225]
+resource-id: id/time_hour_right
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [845, 853, 1217, 1225]
+resource-id: id/time_min_right
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [253, 1902, 1186, 2112]
+resource-id: id/wakeup
+tag: Button
+

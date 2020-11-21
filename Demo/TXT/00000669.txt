@@ -1,0 +1,228 @@
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [14, 289, 1425, 471]
+resource-id: id/xtxtvwVideos
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [14, 126, 156, 238]
+resource-id: id/ximgvwShare
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [420, 142, 1019, 221]
+resource-id: id/ximgvwTitle
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1284, 126, 1426, 238]
+resource-id: id/ximgvwInfo
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [90, 505, 629, 995]
+resource-id: id/ximgvwGridItem
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [94, 1002, 625, 1172]
+resource-id: id/xtxtvwGridItem
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [810, 505, 1349, 995]
+resource-id: id/ximgvwGridItem
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [814, 1002, 1345, 1172]
+resource-id: id/xtxtvwGridItem
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [90, 1208, 629, 1698]
+resource-id: id/ximgvwGridItem
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [94, 1705, 625, 1875]
+resource-id: id/xtxtvwGridItem
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [810, 1208, 1349, 1698]
+resource-id: id/ximgvwGridItem
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [814, 1705, 1345, 1875]
+resource-id: id/xtxtvwGridItem
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 2217, 1440, 2392]
+resource-id: id/ximgvwGridItem
+tag: Image
+
+L11
+class: android.widget.LinearLayout
+bounds: [810, 1911, 1349, 2217]
+resource-id: id/xlinlayGridItem
+tag: Image
+
+L12
+class: android.widget.RelativeLayout
+bounds: [45, 505, 675, 1030]
+resource-id: id/xfrmlaymain
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [319, 727, 400, 808]
+resource-id: id/ximgvwPlay
+tag: Image
+
+L14
+class: com.todddavies.components.progressbar.ProgressWheel
+bounds: [272, 659, 447, 834]
+resource-id: id/progress_wheel
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [49, 1037, 671, 1207]
+resource-id: id/xtxtvwName
+tag: Text
+
+L12
+class: android.widget.RelativeLayout
+bounds: [765, 505, 1395, 1030]
+resource-id: id/xfrmlaymain
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1039, 727, 1120, 808]
+resource-id: id/ximgvwPlay
+tag: Image
+
+L14
+class: com.todddavies.components.progressbar.ProgressWheel
+bounds: [992, 659, 1167, 834]
+resource-id: id/progress_wheel
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [769, 1037, 1391, 1207]
+resource-id: id/xtxtvwName
+tag: Text
+
+L12
+class: android.widget.RelativeLayout
+bounds: [45, 1243, 675, 1768]
+resource-id: id/xfrmlaymain
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [319, 1465, 400, 1546]
+resource-id: id/ximgvwPlay
+tag: Image
+
+L14
+class: com.todddavies.components.progressbar.ProgressWheel
+bounds: [272, 1397, 447, 1572]
+resource-id: id/progress_wheel
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [49, 1775, 671, 1945]
+resource-id: id/xtxtvwName
+tag: Text
+
+L12
+class: android.widget.RelativeLayout
+bounds: [765, 1243, 1395, 1768]
+resource-id: id/xfrmlaymain
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1039, 1465, 1120, 1546]
+resource-id: id/ximgvwPlay
+tag: Image
+
+L14
+class: com.todddavies.components.progressbar.ProgressWheel
+bounds: [992, 1397, 1167, 1572]
+resource-id: id/progress_wheel
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [769, 1775, 1391, 1945]
+resource-id: id/xtxtvwName
+tag: Text
+
+L11
+class: android.widget.LinearLayout
+bounds: [45, 1981, 675, 2217]
+resource-id: id/xlinlayGridItem
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [319, 2203, 400, 2217]
+resource-id: id/ximgvwPlay
+tag: Image
+
+L14
+class: com.todddavies.components.progressbar.ProgressWheel
+bounds: [272, 2135, 447, 2217]
+resource-id: id/progress_wheel
+tag: Bar
+
+L11
+class: android.widget.LinearLayout
+bounds: [765, 1981, 1395, 2217]
+resource-id: id/xlinlayGridItem
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1039, 2203, 1120, 2217]
+resource-id: id/ximgvwPlay
+tag: Image
+
+L14
+class: com.todddavies.components.progressbar.ProgressWheel
+bounds: [992, 2135, 1167, 2217]
+resource-id: id/progress_wheel
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

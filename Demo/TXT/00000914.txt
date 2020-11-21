@@ -1,0 +1,48 @@
+L4
+class: android.widget.TextView
+bounds: [0, 84, 1440, 266]
+resource-id: id/settings_header
+tag: Header
+
+L4
+class: android.widget.Button
+bounds: [1230, 112, 1412, 224]
+resource-id: id/settings_button_done
+tag: Button
+
+L4
+class: android.widget.TextView
+bounds: [28, 305, 255, 371]
+resource-id: id/settings_subheader_gasgrade
+tag: Header
+
+L5
+class: android.widget.RadioButton
+bounds: [28, 385, 363, 557]
+resource-id: id/settings_button_regular
+tag: Button
+
+L5
+class: android.widget.RadioButton
+bounds: [377, 385, 712, 557]
+resource-id: id/settings_button_midgrade
+tag: Button
+
+L5
+class: android.widget.RadioButton
+bounds: [726, 385, 1062, 557]
+resource-id: id/settings_button_premium
+tag: Button
+
+L5
+class: android.widget.RadioButton
+bounds: [1076, 385, 1412, 557]
+resource-id: id/settings_button_diesel
+tag: Button
+
+L4
+class: android.widget.Button
+bounds: [28, 606, 1412, 774]
+resource-id: id/settings_button_about
+tag: Button
+

@@ -1,0 +1,12 @@
+L6
+class: android.widget.CheckedTextView
+bounds: [215, 332, 1232, 2327]
+resource-id: id/text1
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [215, 328, 1232, 332]
+resource-id: id/titleDivider
+tag: Image
+

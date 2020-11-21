@@ -1,0 +1,36 @@
+L11
+class: android.widget.ImageView
+bounds: [144, 383, 249, 895]
+resource-id: id/imgViewNavigation
+tag: Image
+
+L3
+class: android.support.v7.internal.widget.FitWindowsFrameLayout
+bounds: [144, 372, 1296, 2103]
+resource-id: id/action_bar_root
+tag: NavigationBar
+
+L11
+class: com.c0smosis.dailyfantasyshared.CustomFontTextView
+bounds: [249, 383, 1296, 468]
+resource-id: id/tvPrimary
+tag: Text
+
+L12
+class: com.c0smosis.dailyfantasyshared.CustomFontTextView
+bounds: [267, 494, 1278, 626]
+resource-id: id/tvPrimary
+tag: Text
+
+L11
+class: com.c0smosis.dailyfantasyshared.CustomFontTextView
+bounds: [249, 652, 1296, 737]
+resource-id: id/tvPrimary
+tag: Text
+
+L12
+class: com.c0smosis.dailyfantasyshared.CustomFontTextView
+bounds: [267, 763, 1278, 895]
+resource-id: id/tvPrimary
+tag: Text
+

@@ -1,0 +1,96 @@
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 280, 1440, 2392]
+resource-id: id/main_backgroundImage
+tag: Header
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [191, 340, 528, 922]
+resource-id: id/s01_preview
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 922, 685, 998]
+resource-id: id/s01_preview_text
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [911, 340, 1248, 922]
+resource-id: id/s02_preview
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [755, 922, 1405, 998]
+resource-id: id/s02_preview_text
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [191, 1033, 528, 1615]
+resource-id: id/s03_preview
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 1615, 685, 1691]
+resource-id: id/s03_preview_text
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [911, 1033, 1248, 1615]
+resource-id: id/s04_preview
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [755, 1615, 1405, 1691]
+resource-id: id/s04_preview_text
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [191, 1726, 528, 2308]
+resource-id: id/s05_preview
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 2308, 685, 2384]
+resource-id: id/s05_preview_text
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [911, 1726, 1248, 2308]
+resource-id: id/s06_preview
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [755, 2308, 1405, 2384]
+resource-id: id/s06_preview_text
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

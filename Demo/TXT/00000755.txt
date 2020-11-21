@@ -1,0 +1,66 @@
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [239, 1696, 1200, 1990]
+resource-id: id/termsPrivacy_textView
+tag: Text
+
+L7
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/appBar
+tag: Bar
+
+L10
+class: android.support.v7.widget.SearchView
+bounds: [1272, 98, 1440, 266]
+resource-id: id/action_search
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [449, 433, 744, 545]
+resource-id: id/imperial_radioButton
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [744, 433, 990, 545]
+resource-id: id/metric_radionButton
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatButton
+bounds: [56, 661, 1384, 836]
+resource-id: id/rateApp_button
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatButton
+bounds: [56, 1030, 1384, 1205]
+resource-id: id/share_button
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatButton
+bounds: [56, 1209, 1384, 1384]
+resource-id: id/feedback_button
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatButton
+bounds: [56, 1388, 1384, 1563]
+resource-id: id/contact_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

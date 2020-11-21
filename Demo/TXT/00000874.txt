@@ -1,0 +1,90 @@
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 306, 367, 515]
+resource-id: id/retailer_logo
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [448, 368, 696, 453]
+resource-id: id/retailer_name
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 656, 367, 865]
+resource-id: id/retailer_logo
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [448, 718, 754, 803]
+resource-id: id/retailer_name
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 1006, 367, 1215]
+resource-id: id/retailer_logo
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [448, 1068, 846, 1153]
+resource-id: id/retailer_name
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 1356, 367, 1565]
+resource-id: id/retailer_logo
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [448, 1418, 845, 1503]
+resource-id: id/retailer_name
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 1706, 367, 1915]
+resource-id: id/retailer_logo
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [448, 1768, 815, 1853]
+resource-id: id/retailer_name
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [53, 2056, 367, 2265]
+resource-id: id/retailer_logo
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [448, 2118, 868, 2203]
+resource-id: id/retailer_name
+tag: Text
+
+L8
+class: android.widget.ProgressBar
+bounds: [587, 1203, 853, 1469]
+resource-id: id/loyalty_cards_progress_bar
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

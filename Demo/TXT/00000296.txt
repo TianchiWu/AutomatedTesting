@@ -1,0 +1,144 @@
+L10
+class: android.widget.ImageView
+bounds: [29, 501, 232, 2392]
+resource-id: id/album_art
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [1353, 497, 1415, 2392]
+resource-id: id/arrow
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [28, 272, 1377, 468]
+resource-id: id/header_info
+tag: Header
+
+L11
+class: android.widget.TextView
+bounds: [236, 531, 1353, 664]
+resource-id: id/artist_entry
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [236, 759, 1353, 892]
+resource-id: id/artist_entry
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [236, 987, 1353, 1120]
+resource-id: id/artist_entry
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [236, 1215, 1353, 1348]
+resource-id: id/artist_entry
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [236, 1443, 1353, 1576]
+resource-id: id/artist_entry
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [236, 1671, 1353, 1804]
+resource-id: id/artist_entry
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [236, 1899, 1353, 2032]
+resource-id: id/artist_entry
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [236, 2127, 1353, 2260]
+resource-id: id/artist_entry
+tag: Text
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 247, 1440, 475]
+resource-id: id/header_layout_root
+tag: Header
+
+L10
+class: android.widget.LinearLayout
+bounds: [236, 2355, 1353, 2392]
+resource-id: id/text_layout
+tag: Text
+
+L6
+class: android.widget.ToggleButton
+bounds: [916, 84, 1404, 246]
+resource-id: id/musicSwitcher
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [916, 84, 1160, 246]
+resource-id: id/b_emusic
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [1160, 84, 1404, 246]
+resource-id: id/b_my_music
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [0, 110, 380, 221]
+resource-id: id/emusic_header_icon
+tag: Header
+
+L6
+class: android.widget.ImageButton
+bounds: [0, 2219, 167, 2392]
+resource-id: id/back_button
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [167, 2219, 352, 2392]
+resource-id: id/play_button
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [352, 2219, 516, 2392]
+resource-id: id/forward_button
+tag: Button
+
+L6
+class: android.widget.ProgressBar
+bounds: [516, 2277, 572, 2333]
+resource-id: id/global_progress
+tag: Bar
+
+L7
+class: android.widget.ImageButton
+bounds: [1326, 2219, 1433, 2392]
+resource-id: id/eject_button
+tag: Button
+
+L7
+class: android.widget.ImageButton
+bounds: [1201, 2252, 1308, 2359]
+resource-id: id/download_button
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [1075, 2277, 1183, 2334]
+resource-id: id/price
+tag: Text
+

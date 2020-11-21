@@ -1,0 +1,180 @@
+L6
+class: android.widget.ImageView
+bounds: [0, 112, 159, 224]
+resource-id: id/home
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [70, 321, 131, 421]
+resource-id: id/decoration
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [149, 303, 370, 438]
+resource-id: id/sectiontext
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [77, 468, 175, 566]
+resource-id: id/list_item_position_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [217, 467, 1363, 567]
+resource-id: id/list_item_position_name
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [77, 621, 175, 719]
+resource-id: id/list_item_position_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [217, 620, 1363, 720]
+resource-id: id/list_item_position_name
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [77, 774, 175, 872]
+resource-id: id/list_item_position_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [217, 773, 1363, 873]
+resource-id: id/list_item_position_name
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [77, 927, 175, 1025]
+resource-id: id/list_item_position_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [217, 926, 1363, 1026]
+resource-id: id/list_item_position_name
+tag: Text
+
+L10
+class: android.widget.ImageView
+bounds: [70, 1248, 131, 1348]
+resource-id: id/decoration
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [149, 1230, 444, 1365]
+resource-id: id/sectiontext
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [1284, 1397, 1363, 1489]
+resource-id: id/list_item_position_percentage
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [77, 1395, 175, 1493]
+resource-id: id/list_item_position_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [217, 1394, 1284, 1494]
+resource-id: id/list_item_position_name
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [1284, 1550, 1363, 1642]
+resource-id: id/list_item_position_percentage
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [77, 1548, 175, 1646]
+resource-id: id/list_item_position_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [217, 1547, 1284, 1647]
+resource-id: id/list_item_position_name
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [1284, 1703, 1363, 1795]
+resource-id: id/list_item_position_percentage
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [77, 1701, 175, 1799]
+resource-id: id/list_item_position_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [217, 1700, 1284, 1800]
+resource-id: id/list_item_position_name
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [1284, 1856, 1363, 1948]
+resource-id: id/list_item_position_percentage
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [77, 1854, 175, 1952]
+resource-id: id/list_item_position_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [217, 1853, 1284, 1953]
+resource-id: id/list_item_position_name
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [1284, 2009, 1363, 2101]
+resource-id: id/list_item_position_percentage
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [77, 2007, 175, 2105]
+resource-id: id/list_item_position_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [217, 2006, 1284, 2106]
+resource-id: id/list_item_position_name
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [173, 125, 325, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

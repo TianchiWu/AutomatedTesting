@@ -1,0 +1,24 @@
+L4
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 298]
+resource-id: id/fixed_titlebar_container
+tag: Bar
+
+L7
+class: com.android.browser.NavigationBarPhone
+bounds: [0, 84, 1440, 266]
+resource-id: id/taburlbar
+tag: Bar
+
+L10
+class: android.widget.ImageView
+bounds: [54, 119, 166, 231]
+resource-id: id/favicon
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [33, 119, 187, 231]
+resource-id: id/stop
+tag: Image
+

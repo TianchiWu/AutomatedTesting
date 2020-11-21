@@ -1,0 +1,69 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>00000090</filename>
+  <size>
+    <width>1440</width>
+    <height>2560</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Picker</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>247</xmin>
+      <ymin> 543</ymin>
+      <xmax> 1192</xmax>
+      <ymax> 1008</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Picker</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>247</xmin>
+      <ymin> 543</ymin>
+      <xmax> 1192</xmax>
+      <ymax> 1131</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Header</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>247</xmin>
+      <ymin> 382</ymin>
+      <xmax> 1192</xmax>
+      <ymax> 487</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Picker</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>247</xmin>
+      <ymin> 487</ymin>
+      <xmax> 1192</xmax>
+      <ymax> 1187</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>247</xmin>
+      <ymin> 1926</ymin>
+      <xmax> 1192</xmax>
+      <ymax> 2094</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,36 @@
+L9
+class: com.dailyyoga.view.CustomRobotoLightTextView
+bounds: [53, 716, 358, 1224]
+resource-id: id/advanced_tv
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [467, 84, 973, 252]
+resource-id: id/chooselevel_main_title_name
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [1269, 84, 1440, 252]
+resource-id: id/skip_ll
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [56, 429, 1440, 541]
+resource-id: id/chooselevel_sub_tv
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [1289, 768, 1352, 831]
+resource-id: id/beginner_iv
+tag: Image
+
+L7
+class: android.widget.Button
+bounds: [53, 1294, 1387, 1434]
+resource-id: id/chooselevel_bn
+tag: Button
+

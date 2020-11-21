@@ -1,0 +1,24 @@
+L5
+class: android.widget.ImageView
+bounds: [0, 2212, 173, 2357]
+resource-id: id/arrow_left
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [1267, 2212, 1440, 2357]
+resource-id: id/arrow_right
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

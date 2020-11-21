@@ -1,0 +1,78 @@
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [262, 1347, 1150, 1503]
+resource-id: id/tv_top_poi_header_viator_line2
+tag: Header
+
+L7
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 0, 1440, 1592]
+resource-id: id/abl_top_poi
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 84, 1440, 952]
+resource-id: id/top_poi_header_image
+tag: Header
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 635, 1384, 952]
+resource-id: id/top_poi_header_city
+tag: Header
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 802, 1384, 952]
+resource-id: id/top_poi_header_country
+tag: Header
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [38, 1077, 262, 1161]
+resource-id: id/top_poi_header_tickets_image
+tag: Header
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [262, 1041, 729, 1131]
+resource-id: id/top_poi_header_tickets
+tag: Header
+
+L11
+class: android.support.v7.widget.CardView
+bounds: [28, 1286, 1412, 1564]
+resource-id: id/cv_top_poi_header_viator_app_ad
+tag: Header
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [38, 1383, 262, 1467]
+resource-id: id/iv_top_poi_header_viator_app_ad_icon
+tag: Header
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1265, 1383, 1349, 1467]
+resource-id: id/iv_top_poi_header_viator_download_icon
+tag: Header
+
+L9
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar_top_poi
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

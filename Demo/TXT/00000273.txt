@@ -1,0 +1,18 @@
+L5
+class: android.widget.ImageView
+bounds: [282, 462, 1157, 1510]
+resource-id: id/logo
+tag: Image
+
+L5
+class: android.widget.Button
+bounds: [35, 1972, 1405, 2112]
+resource-id: id/try_btn
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [35, 2182, 1405, 2322]
+resource-id: id/login_btn
+tag: Button
+

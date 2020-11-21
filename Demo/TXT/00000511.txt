@@ -1,0 +1,210 @@
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 333, 1387, 409]
+resource-id: id/valueText
+tag: Text
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L7
+class: android.widget.FrameLayout
+bounds: [0, 280, 1440, 2392]
+resource-id: id/contentLayout
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [85, 328, 429, 503]
+resource-id: id/chooseYearText
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [499, 328, 1242, 503]
+resource-id: id/text1
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1312, 398, 1356, 437]
+resource-id: id/yearPickerImage
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatEditText
+bounds: [50, 569, 1391, 744]
+resource-id: id/searchText
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatEditText
+bounds: [0, 280, 1258, 455]
+resource-id: id/fullSearchText
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1258, 280, 1440, 455]
+resource-id: id/clearTextButton
+tag: Button
+
+L10
+class: android.widget.ProgressBar
+bounds: [636, 1341, 804, 1509]
+resource-id: id/listProgress
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [471, 1374, 968, 1477]
+resource-id: id/emptyText
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 512, 1387, 578]
+resource-id: id/titleText
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 683, 1387, 749]
+resource-id: id/titleText
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 854, 1387, 920]
+resource-id: id/titleText
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1025, 1387, 1091]
+resource-id: id/titleText
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1196, 1387, 1262]
+resource-id: id/titleText
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1367, 1387, 1433]
+resource-id: id/titleText
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1538, 1387, 1604]
+resource-id: id/titleText
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1709, 1387, 1775]
+resource-id: id/titleText
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1880, 1387, 1946]
+resource-id: id/titleText
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 2051, 1387, 2117]
+resource-id: id/titleText
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 2222, 1387, 2288]
+resource-id: id/titleText
+tag: Text
+
+L11
+class: android.widget.LinearLayout
+bounds: [1132, 280, 1440, 462]
+resource-id: id/actionsLayout
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 516, 1387, 592]
+resource-id: id/titleText
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 699, 1387, 775]
+resource-id: id/titleText
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 882, 1387, 958]
+resource-id: id/titleText
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1065, 1387, 1141]
+resource-id: id/titleText
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1248, 1387, 1324]
+resource-id: id/titleText
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1431, 1387, 1507]
+resource-id: id/titleText
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1614, 1387, 1690]
+resource-id: id/titleText
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1797, 1387, 1873]
+resource-id: id/titleText
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1980, 1387, 2056]
+resource-id: id/titleText
+tag: Text
+
+L9
+class: android.widget.FrameLayout
+bounds: [0, 2224, 1440, 2392]
+resource-id: id/filterButtonView
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

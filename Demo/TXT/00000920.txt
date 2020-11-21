@@ -1,0 +1,162 @@
+L7
+class: android.widget.ImageView
+bounds: [35, 329, 245, 1874]
+resource-id: id/imageView_play_pause
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [18, 2060, 1422, 2199]
+resource-id: id/imageView_rate
+tag: Image
+
+L4
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 294]
+resource-id: id/rl_header
+tag: Header
+
+L5
+class: android.widget.ImageView
+bounds: [35, 105, 203, 273]
+resource-id: id/imageView_app_icon
+tag: Image
+
+L5
+class: android.widget.TextView
+bounds: [238, 162, 1254, 216]
+resource-id: id/textView_app_name
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [1254, 105, 1422, 273]
+resource-id: id/imageView_options
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [263, 403, 1219, 465]
+resource-id: id/textView_song_name
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1219, 350, 1387, 518]
+resource-id: id/imageView_set_as
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [263, 647, 1219, 709]
+resource-id: id/textView_song_name
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1219, 594, 1387, 762]
+resource-id: id/imageView_set_as
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [263, 891, 1219, 953]
+resource-id: id/textView_song_name
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1219, 838, 1387, 1006]
+resource-id: id/imageView_set_as
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [263, 1135, 1219, 1197]
+resource-id: id/textView_song_name
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1219, 1082, 1387, 1250]
+resource-id: id/imageView_set_as
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [263, 1379, 1219, 1441]
+resource-id: id/textView_song_name
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1219, 1326, 1387, 1494]
+resource-id: id/imageView_set_as
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [263, 1623, 1219, 1685]
+resource-id: id/textView_song_name
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1219, 1570, 1387, 1738]
+resource-id: id/imageView_set_as
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [263, 1867, 1219, 1874]
+resource-id: id/textView_song_name
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1219, 1814, 1387, 1874]
+resource-id: id/imageView_set_as
+tag: Image
+
+L4
+class: android.widget.RelativeLayout
+bounds: [0, 1874, 1440, 2042]
+resource-id: id/relativi_lay_seekbar_repeat
+tag: Bar
+
+L5
+class: android.widget.ImageView
+bounds: [1237, 1874, 1405, 2042]
+resource-id: id/imageView_repeat
+tag: Image
+
+L5
+class: android.widget.SeekBar
+bounds: [125, 1930, 1129, 1986]
+resource-id: id/seekBar_play_progress
+tag: Bar
+
+L5
+class: android.widget.TextView
+bounds: [1147, 1931, 1237, 1985]
+resource-id: id/textView_total_time
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [35, 1931, 125, 1985]
+resource-id: id/textView_current_time
+tag: Text
+
+L4
+class: android.widget.LinearLayout
+bounds: [0, 2042, 1440, 2392]
+resource-id: id/ll_bottom_with_ads
+tag: Button
+
+L5
+class: android.widget.LinearLayout
+bounds: [0, 2217, 1440, 2392]
+resource-id: id/llbottom_for_ads
+tag: Button
+

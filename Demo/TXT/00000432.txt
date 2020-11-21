@@ -1,0 +1,18 @@
+L10
+class: jp.united.app.kanahei.weightapp.view.CustomTextView
+bounds: [559, 496, 880, 567]
+resource-id: id/title
+tag: Text
+
+L12
+class: jp.united.app.kanahei.weightapp.view.CustomTextView
+bounds: [230, 637, 1210, 744]
+resource-id: id/description
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [221, 779, 1219, 1896]
+resource-id: id/image
+tag: Image
+

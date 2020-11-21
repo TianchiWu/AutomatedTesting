@@ -1,0 +1,54 @@
+L4
+class: android.widget.TextView
+bounds: [234, 424, 1206, 631]
+resource-id: id/lbl_website_url
+tag: Text
+
+L4
+class: android.widget.ImageView
+bounds: [293, 238, 1147, 371]
+resource-id: id/img_new_user_title
+tag: Image
+
+L4
+class: android.widget.ImageView
+bounds: [0, 666, 1440, 1361]
+resource-id: id/img_border_new_user_instructions
+tag: Image
+
+L4
+class: android.widget.TextView
+bounds: [218, 719, 1221, 809]
+resource-id: id/lbl_visit_timestation
+tag: Text
+
+L4
+class: android.widget.TextView
+bounds: [323, 865, 1141, 1225]
+resource-id: id/lbl_visit_timestation_details
+tag: Text
+
+L4
+class: android.widget.TextView
+bounds: [0, 1431, 1440, 1791]
+resource-id: id/lbl_after_visit_timestation
+tag: Text
+
+L4
+class: android.widget.ImageButton
+bounds: [475, 1844, 965, 1991]
+resource-id: id/ib_login_wide
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 0, 1440, 168]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L5
+class: android.widget.ImageView
+bounds: [364, 42, 1075, 126]
+resource-id: id/img_view_ab_logo
+tag: Image
+

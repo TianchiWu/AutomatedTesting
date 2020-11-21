@@ -1,0 +1,114 @@
+L12
+class: android.support.v7.widget.o
+bounds: [252, 84, 509, 280]
+resource-id: id/toolbarTitleArrow
+tag: Bar
+
+L14
+class: org.iggymedia.periodtracker.views.AutofitTypefaceTextView
+bounds: [241, 908, 1024, 1055]
+resource-id: id/firstPartLabel
+tag: Text
+
+L14
+class: org.iggymedia.periodtracker.views.AutofitTypefaceTextView
+bounds: [122, 1000, 1293, 1575]
+resource-id: id/thirdPartLabel
+tag: Text
+
+L8
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/appBarLayout
+tag: Bar
+
+L11
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [1174, 84, 1440, 280]
+resource-id: id/toolbarActionButton
+tag: Bar
+
+L14
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [241, 1492, 1024, 1672]
+resource-id: id/additionalStatusLabel
+tag: Text
+
+L16
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [979, 2112, 1069, 2168]
+resource-id: id/eventCategoryName
+tag: Text
+
+L9
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [580, 2275, 972, 2341]
+resource-id: id/mainBottomButtonTitle
+tag: Text
+
+L7
+class: org.iggymedia.periodtracker.views.FloatingActionButton
+bounds: [1188, 2112, 1384, 2308]
+resource-id: id/floatingActionButton
+tag: Button
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 84, 980, 112]
+resource-id: id/navigation_header_container
+tag: Header
+
+L9
+class: org.iggymedia.periodtracker.views.CircleImageView
+bounds: [56, 140, 280, 364]
+resource-id: id/menuUserAvatar
+tag: Image
+
+L9
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [56, 570, 924, 636]
+resource-id: id/menuGraphsTitle
+tag: Text
+
+L10
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [252, 761, 826, 827]
+resource-id: id/menuTitle
+tag: Text
+
+L9
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [252, 929, 826, 995]
+resource-id: id/menuTitle
+tag: Text
+
+L9
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [252, 1097, 826, 1163]
+resource-id: id/menuTitle
+tag: Text
+
+L9
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [252, 1265, 826, 1331]
+resource-id: id/menuTitle
+tag: Text
+
+L9
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [252, 1433, 826, 1499]
+resource-id: id/menuTitle
+tag: Text
+
+L9
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [252, 1601, 826, 1667]
+resource-id: id/menuTitle
+tag: Text
+
+L9
+class: org.iggymedia.periodtracker.views.TypefaceTextView
+bounds: [252, 1769, 826, 1835]
+resource-id: id/menuTitle
+tag: Text
+

@@ -1,0 +1,90 @@
+L12
+class: android.widget.TextView
+bounds: [252, 354, 1384, 430]
+resource-id: id/summary
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [252, 430, 1384, 496]
+resource-id: id/widget_text2
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [252, 430, 1384, 496]
+resource-id: id/widget_text2
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [56, 847, 790, 989]
+resource-id: id/summary
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [56, 1105, 336, 1247]
+resource-id: id/summary
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [56, 1363, 577, 1505]
+resource-id: id/summary
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [56, 1621, 374, 1763]
+resource-id: id/summary
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [56, 1879, 447, 2021]
+resource-id: id/summary
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [56, 2137, 835, 2279]
+resource-id: id/summary
+tag: Text
+
+L11
+class: android.widget.LinearLayout
+bounds: [56, 570, 1384, 752]
+resource-id: id/control_buttons_panel
+tag: Button
+
+L12
+class: android.widget.Button
+bounds: [56, 584, 671, 752]
+resource-id: id/left_button
+tag: Button
+
+L12
+class: android.widget.Button
+bounds: [768, 584, 1383, 752]
+resource-id: id/right_button
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

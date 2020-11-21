@@ -1,0 +1,48 @@
+L9
+class: android.widget.TextView
+bounds: [0, 459, 1440, 953]
+resource-id: id/text
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [0, 210, 1440, 638]
+resource-id: id/text
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [0, 890, 1440, 1688]
+resource-id: id/text
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [0, 1206, 1440, 1700]
+resource-id: id/text
+tag: Text
+
+L6
+class: android.widget.RelativeLayout
+bounds: [0, 0, 1440, 210]
+resource-id: id/custom_action_bar
+tag: NavigationBar
+
+L7
+class: android.widget.RelativeLayout
+bounds: [0, 0, 158, 210]
+resource-id: id/back
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [560, 0, 880, 210]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.ProgressBar
+bounds: [636, 1217, 804, 1385]
+resource-id: id/progress_bar
+tag: Bar
+

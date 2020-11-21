@@ -1,0 +1,48 @@
+L9
+class: android.widget.TextView
+bounds: [0, 280, 1440, 1982]
+resource-id: id/paragraph
+tag: Text
+
+L4
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L5
+class: android.widget.ImageView
+bounds: [14, 98, 182, 266]
+resource-id: id/toolbar_back
+tag: Image
+
+L5
+class: android.widget.FrameLayout
+bounds: [182, 84, 1426, 280]
+resource-id: id/toolbar_content
+tag: Bar
+
+L7
+class: android.widget.ImageView
+bounds: [1266, 93, 1412, 270]
+resource-id: id/bookmark
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [0, 2174, 1440, 2217]
+resource-id: id/paragraph
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

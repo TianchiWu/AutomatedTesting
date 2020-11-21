@@ -1,0 +1,66 @@
+L11
+class: android.support.v7.widget.AppCompatEditText
+bounds: [82, 929, 1358, 1167]
+resource-id: id/regEtProfilefor
+tag: Text
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L8
+class: com.bharatmatrimony.common.TypefacedTextView
+bounds: [196, 147, 614, 217]
+resource-id: id/toolbar_title
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [348, 479, 1092, 691]
+resource-id: id/regEtFbSignup
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatEditText
+bounds: [82, 1292, 1358, 1449]
+resource-id: id/regEtName
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [82, 1587, 633, 1769]
+resource-id: id/regGenderMale
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [753, 1587, 1358, 1769]
+resource-id: id/regGenderFemale
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatEditText
+bounds: [82, 1894, 1358, 2053]
+resource-id: id/regEtDob
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatEditText
+bounds: [82, 2178, 1358, 2337]
+resource-id: id/regEtReligion
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

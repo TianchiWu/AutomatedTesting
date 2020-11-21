@@ -1,0 +1,24 @@
+L6
+class: android.widget.ImageView
+bounds: [0, 0, 877, 512]
+resource-id: id/ImageViewMainQuizYes
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [1067, 36, 1422, 178]
+resource-id: id/TextViewMainHighscoreCurrent
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [1174, 249, 1440, 512]
+resource-id: id/ImageViewMainQuizNo
+tag: Image
+
+L4
+class: android.widget.TextView
+bounds: [0, 2229, 1440, 2392]
+resource-id: id/TextViewMainTalk
+tag: Text
+

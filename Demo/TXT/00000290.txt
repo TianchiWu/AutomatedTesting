@@ -1,0 +1,84 @@
+L7
+class: android.widget.ImageView
+bounds: [7, 287, 175, 2392]
+resource-id: id/ImageView01
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [217, 315, 1440, 427]
+resource-id: id/Label
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [217, 501, 1440, 613]
+resource-id: id/Label
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [217, 687, 1440, 799]
+resource-id: id/Label
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [217, 873, 1440, 985]
+resource-id: id/Label
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [217, 1059, 1440, 1171]
+resource-id: id/Label
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [217, 1245, 1440, 1357]
+resource-id: id/Label
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [217, 1431, 1440, 1543]
+resource-id: id/Label
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [217, 1617, 1440, 1729]
+resource-id: id/Label
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [217, 1803, 1440, 1915]
+resource-id: id/Label
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [217, 1989, 1440, 2101]
+resource-id: id/Label
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [217, 2175, 1440, 2287]
+resource-id: id/Label
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [217, 2361, 1440, 2392]
+resource-id: id/Label
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+

@@ -1,0 +1,54 @@
+L9
+class: com.visualit.zuti.ZutiRouteTextLineView
+bounds: [7, 280, 150, 1205]
+resource-id: id/lineDrawable
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [150, 280, 1440, 1205]
+resource-id: id/text1
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [7, 1205, 1440, 2045]
+resource-id: id/routeDescription
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 2045, 480, 2213]
+resource-id: id/btnRouteTextEdit
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [480, 2045, 960, 2213]
+resource-id: id/btnChangeRouteTextView
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [960, 2045, 1440, 2213]
+resource-id: id/btnRouteTextShowMap
+tag: Button
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

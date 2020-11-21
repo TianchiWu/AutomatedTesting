@@ -1,0 +1,12 @@
+L7
+class: android.widget.TextView
+bounds: [0, 84, 1440, 542]
+resource-id: id/tv_first_title
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [120, 1981, 1320, 2234]
+resource-id: id/tv_first_content
+tag: Text
+

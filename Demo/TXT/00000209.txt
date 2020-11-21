@@ -1,0 +1,12 @@
+L4
+class: com.android.internal.widget.ButtonBarLayout
+bounds: [92, 2140, 1348, 2336]
+resource-id: id/buttonPanel
+tag: Button
+
+L5
+class: android.support.v7.widget.q
+bounds: [1082, 2154, 1306, 2322]
+resource-id: id/button1
+tag: Button
+

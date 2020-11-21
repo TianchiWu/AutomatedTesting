@@ -1,0 +1,114 @@
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [105, 522, 368, 2112]
+resource-id: id/character_icon
+tag: Image
+
+L3
+class: android.support.v7.widget.FitWindowsLinearLayout
+bounds: [0, 84, 1440, 2392]
+resource-id: id/action_bar_root
+tag: Image
+
+L6
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 522]
+resource-id: id/header
+tag: Header
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [290, 227, 1149, 379]
+resource-id: id/imageView2
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [565, 260, 874, 345]
+resource-id: id/headerText
+tag: Header
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [403, 540, 486, 611]
+resource-id: id/character_name
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [473, 629, 1265, 732]
+resource-id: id/setBuyButton
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [403, 807, 871, 878]
+resource-id: id/character_name
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [473, 896, 1265, 999]
+resource-id: id/setBuyButton
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [403, 1074, 570, 1145]
+resource-id: id/character_name
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [473, 1163, 1265, 1266]
+resource-id: id/setBuyButton
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [403, 1341, 660, 1412]
+resource-id: id/character_name
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [473, 1430, 1265, 1533]
+resource-id: id/setBuyButton
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [403, 1608, 648, 1679]
+resource-id: id/character_name
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [473, 1697, 1265, 1800]
+resource-id: id/setBuyButton
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [403, 1875, 624, 1946]
+resource-id: id/character_name
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [473, 1964, 1265, 2067]
+resource-id: id/setBuyButton
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

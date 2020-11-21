@@ -1,0 +1,24 @@
+L5
+class: android.widget.TextView
+bounds: [436, 0, 1003, 147]
+resource-id: id/tvTitle
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [0, 147, 1440, 968]
+resource-id: id/ivFrame
+tag: Image
+
+L6
+class: com.appssquare.firephotostickers.SquareImageView
+bounds: [610, 379, 829, 598]
+resource-id: id/imgTap
+tag: Image
+
+L4
+class: android.widget.TextView
+bounds: [0, 1038, 686, 1114]
+resource-id: id/tv_developer
+tag: Text
+

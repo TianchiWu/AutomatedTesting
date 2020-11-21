@@ -1,0 +1,162 @@
+L12
+class: com.zoho.vtouch.views.VTextView
+bounds: [56, 438, 605, 570]
+resource-id: id/user_mail
+tag: Text
+
+L10
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbarLayout
+tag: Bar
+
+L13
+class: com.zoho.vtouch.views.VTextView
+bounds: [280, 84, 449, 280]
+resource-id: id/module_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1314, 140, 1398, 224]
+resource-id: id/notif_icon
+tag: Image
+
+L11
+class: android.support.design.widget.FloatingActionButton
+bounds: [1188, 2140, 1384, 2336]
+resource-id: id/fab_add_status
+tag: Button
+
+L10
+class: com.zoho.crm.module.CustomVImageView
+bounds: [0, 0, 1216, 602]
+resource-id: id/user_image_bg
+tag: Image
+
+L11
+class: com.zoho.crm.module.RoundedImageView
+bounds: [56, 140, 280, 364]
+resource-id: id/user_image_view
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 672, 168, 756]
+resource-id: id/moduleIcon
+tag: Image
+
+L9
+class: com.zoho.vtouch.views.VTextView
+bounds: [252, 681, 384, 747]
+resource-id: id/moduleText
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 840, 172, 924]
+resource-id: id/moduleIcon
+tag: Image
+
+L9
+class: com.zoho.vtouch.views.VTextView
+bounds: [252, 849, 384, 915]
+resource-id: id/moduleText
+tag: Text
+
+L9
+class: com.zoho.vtouch.views.VTextView
+bounds: [0, 997, 1216, 1165]
+resource-id: id/modules_section_header
+tag: Header
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 1207, 168, 1291]
+resource-id: id/moduleIcon
+tag: Image
+
+L9
+class: com.zoho.vtouch.views.VTextView
+bounds: [252, 1216, 385, 1282]
+resource-id: id/moduleText
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 1375, 168, 1459]
+resource-id: id/moduleIcon
+tag: Image
+
+L9
+class: com.zoho.vtouch.views.VTextView
+bounds: [252, 1384, 459, 1450]
+resource-id: id/moduleText
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 1543, 168, 1627]
+resource-id: id/moduleIcon
+tag: Image
+
+L9
+class: com.zoho.vtouch.views.VTextView
+bounds: [252, 1552, 450, 1618]
+resource-id: id/moduleText
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 1711, 168, 1795]
+resource-id: id/moduleIcon
+tag: Image
+
+L9
+class: com.zoho.vtouch.views.VTextView
+bounds: [252, 1720, 376, 1786]
+resource-id: id/moduleText
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 1879, 168, 1963]
+resource-id: id/moduleIcon
+tag: Image
+
+L9
+class: com.zoho.vtouch.views.VTextView
+bounds: [252, 1888, 382, 1954]
+resource-id: id/moduleText
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 2047, 168, 2131]
+resource-id: id/moduleIcon
+tag: Image
+
+L9
+class: com.zoho.vtouch.views.VTextView
+bounds: [252, 2056, 399, 2122]
+resource-id: id/moduleText
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [84, 2215, 168, 2299]
+resource-id: id/moduleIcon
+tag: Image
+
+L9
+class: com.zoho.vtouch.views.VTextView
+bounds: [252, 2224, 361, 2290]
+resource-id: id/moduleText
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

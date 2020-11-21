@@ -1,0 +1,36 @@
+L5
+class: android.widget.ImageView
+bounds: [0, 1268, 1232, 1933]
+resource-id: id/cloud_left_down2
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [0, 1366, 1146, 1933]
+resource-id: id/cloud_right_up
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [0, 1343, 1440, 1933]
+resource-id: id/cloud__middle
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [0, 1123, 1148, 1933]
+resource-id: id/cloud_right_down
+tag: Image
+
+L5
+class: android.widget.TextView
+bounds: [130, 1978, 1373, 2101]
+resource-id: id/text_introduction
+tag: Text
+
+L4
+class: android.widget.Button
+bounds: [53, 2157, 1387, 2304]
+resource-id: id/button_recommend
+tag: Button
+

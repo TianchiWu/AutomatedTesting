@@ -1,0 +1,84 @@
+L5
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L6
+class: android.widget.ImageView
+bounds: [14, 98, 182, 266]
+resource-id: id/toolbar_back
+tag: Image
+
+L6
+class: android.widget.FrameLayout
+bounds: [182, 84, 1426, 280]
+resource-id: id/toolbar_content
+tag: Bar
+
+L8
+class: android.widget.TextView
+bounds: [238, 144, 1412, 220]
+resource-id: id/toolbar_title
+tag: Bar
+
+L10
+class: android.widget.TextView
+bounds: [53, 554, 1204, 630]
+resource-id: id/switch_text
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [0, 697, 1440, 900]
+resource-id: id/alerts_message
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [53, 967, 1204, 1043]
+resource-id: id/switch_text
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [53, 1177, 1204, 1253]
+resource-id: id/switch_text
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [53, 1387, 1204, 1463]
+resource-id: id/switch_text
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [53, 1597, 1204, 1673]
+resource-id: id/switch_text
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [53, 1807, 1204, 1883]
+resource-id: id/switch_text
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [53, 2017, 1204, 2093]
+resource-id: id/switch_text
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

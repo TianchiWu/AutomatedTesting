@@ -1,0 +1,162 @@
+L3
+class: android.widget.ImageView
+bounds: [0, 84, 1440, 2392]
+resource-id: id/iv_background
+tag: Image
+
+L3
+class: android.widget.ImageView
+bounds: [950, 598, 1440, 1914]
+resource-id: id/iv_shadow
+tag: Image
+
+L4
+class: android.widget.FrameLayout
+bounds: [1080, 682, 1440, 1836]
+resource-id: id/content
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1098, 698, 1168, 754]
+resource-id: id/side_menu_ignator
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1229, 715, 1440, 738]
+resource-id: id/imageView1
+tag: Image
+
+L11
+class: android.widget.EditText
+bounds: [1098, 785, 1440, 858]
+resource-id: id/txt_main_search
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1109, 804, 1179, 839]
+resource-id: id/txt_ccode
+tag: Text
+
+L11
+class: android.widget.ProgressBar
+bounds: [1089, 781, 1145, 837]
+resource-id: id/translatePro
+tag: Bar
+
+L10
+class: android.widget.TextView
+bounds: [1089, 862, 1440, 895]
+resource-id: id/txt_progress_status
+tag: Bar
+
+L11
+class: android.widget.TextView
+bounds: [1228, 913, 1440, 954]
+resource-id: id/text
+tag: Text
+
+L11
+class: android.widget.RelativeLayout
+bounds: [1105, 1204, 1440, 1222]
+resource-id: id/wbcustads_container
+tag: Button
+
+L6
+class: android.widget.ImageView
+bounds: [35, 489, 161, 615]
+resource-id: id/iv_icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [196, 514, 622, 590]
+resource-id: id/tv_title
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [35, 685, 161, 811]
+resource-id: id/iv_icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [196, 710, 622, 786]
+resource-id: id/tv_title
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [35, 881, 161, 1007]
+resource-id: id/iv_icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [196, 906, 622, 982]
+resource-id: id/tv_title
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [35, 1077, 161, 1203]
+resource-id: id/iv_icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [196, 1102, 622, 1178]
+resource-id: id/tv_title
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [35, 1273, 161, 1399]
+resource-id: id/iv_icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [196, 1298, 622, 1374]
+resource-id: id/tv_title
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [35, 1469, 161, 1595]
+resource-id: id/iv_icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [196, 1494, 622, 1570]
+resource-id: id/tv_title
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [35, 1665, 161, 1791]
+resource-id: id/iv_icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [196, 1690, 622, 1766]
+resource-id: id/tv_title
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [35, 1861, 161, 1987]
+resource-id: id/iv_icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [196, 1886, 622, 1962]
+resource-id: id/tv_title
+tag: Text
+

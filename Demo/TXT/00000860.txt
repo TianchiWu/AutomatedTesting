@@ -1,0 +1,36 @@
+L5
+class: android.widget.FrameLayout
+bounds: [0, 746, 1440, 1646]
+resource-id: id/video_frame
+tag: Video
+
+L8
+class: android.widget.TextView
+bounds: [0, 757, 1422, 850]
+resource-id: id/video_title
+tag: Video
+
+L7
+class: android.widget.ImageButton
+bounds: [603, 1079, 836, 1312]
+resource-id: id/pause
+tag: Button
+
+L8
+class: android.widget.SeekBar
+bounds: [53, 1534, 1279, 1637]
+resource-id: id/mediacontroller_progress
+tag: Bar
+
+L8
+class: android.widget.ImageButton
+bounds: [1314, 1534, 1426, 1646]
+resource-id: id/fullscreen
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [0, 1441, 1440, 1646]
+resource-id: id/subtitles
+tag: Text
+

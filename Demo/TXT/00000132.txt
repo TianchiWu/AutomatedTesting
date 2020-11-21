@@ -1,0 +1,60 @@
+L4
+class: android.widget.TextView
+bounds: [0, 84, 1440, 102]
+resource-id: id/topLine
+tag: Text
+
+L9
+class: android.widget.NumberPicker$CustomEditText
+bounds: [329, 1125, 553, 1182]
+resource-id: id/numberpicker_input
+tag: Picker
+
+L8
+class: android.widget.TextView
+bounds: [574, 1121, 586, 1187]
+resource-id: id/divider
+tag: Text
+
+L9
+class: android.widget.NumberPicker$CustomEditText
+bounds: [607, 1125, 831, 1182]
+resource-id: id/numberpicker_input
+tag: Picker
+
+L8
+class: android.widget.NumberPicker$CustomEditText
+bounds: [887, 1125, 1111, 1182]
+resource-id: id/numberpicker_input
+tag: Picker
+
+L5
+class: android.widget.ToggleButton
+bounds: [566, 1542, 874, 1710]
+resource-id: id/toggleButton
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [35, 2189, 713, 2357]
+resource-id: id/buttonSave
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [727, 2189, 1405, 2357]
+resource-id: id/buttonCancel
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

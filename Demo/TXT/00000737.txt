@@ -1,0 +1,36 @@
+L8
+class: android.support.v7.widget.AppCompatEditText
+bounds: [32, 710, 1408, 1037]
+resource-id: id/login_screen_editTextPassword
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [123, 1142, 1317, 1288]
+resource-id: id/login_screen_ButonLogin
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [370, 1673, 1070, 1809]
+resource-id: id/forgot_pass_et
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [370, 1862, 1070, 1998]
+resource-id: id/sign_up_tv
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

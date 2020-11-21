@@ -1,0 +1,132 @@
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 0, 1440, 196]
+resource-id: id/toolbar_pics
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [252, 42, 364, 154]
+resource-id: id/sortIcon
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [537, 42, 727, 154]
+resource-id: id/refreshToolbarButton
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [727, 0, 1297, 196]
+resource-id: id/searchTermToolbarTextView
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1297, 42, 1440, 154]
+resource-id: id/searchToolbarButton
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [192, 238, 528, 574]
+resource-id: id/image
+tag: Image
+
+L9
+class: com.stuckpixelinc.funnypics.font.RobotoTextView
+bounds: [45, 574, 675, 738]
+resource-id: id/headerLoggedOnUsernameCaption
+tag: Header
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 825, 252, 993]
+resource-id: id/icon
+tag: Image
+
+L11
+class: com.stuckpixelinc.funnypics.font.RobotoTextView
+bounds: [252, 848, 720, 970]
+resource-id: id/title
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 1048, 252, 1216]
+resource-id: id/icon
+tag: Image
+
+L11
+class: com.stuckpixelinc.funnypics.font.RobotoTextView
+bounds: [252, 1071, 720, 1193]
+resource-id: id/title
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 1271, 252, 1439]
+resource-id: id/icon
+tag: Image
+
+L11
+class: com.stuckpixelinc.funnypics.font.RobotoTextView
+bounds: [252, 1294, 720, 1416]
+resource-id: id/title
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 1494, 252, 1662]
+resource-id: id/icon
+tag: Image
+
+L11
+class: com.stuckpixelinc.funnypics.font.RobotoTextView
+bounds: [252, 1517, 720, 1639]
+resource-id: id/title
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 1717, 252, 1885]
+resource-id: id/icon
+tag: Image
+
+L11
+class: com.stuckpixelinc.funnypics.font.RobotoTextView
+bounds: [252, 1740, 720, 1862]
+resource-id: id/title
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 1940, 252, 2108]
+resource-id: id/icon
+tag: Image
+
+L11
+class: com.stuckpixelinc.funnypics.font.RobotoTextView
+bounds: [252, 1963, 720, 2085]
+resource-id: id/title
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 2163, 252, 2331]
+resource-id: id/icon
+tag: Image
+
+L11
+class: com.stuckpixelinc.funnypics.font.RobotoTextView
+bounds: [252, 2186, 720, 2308]
+resource-id: id/title
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

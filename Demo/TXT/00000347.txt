@@ -1,0 +1,30 @@
+L9
+class: android.widget.ImageView
+bounds: [25, 693, 200, 2392]
+resource-id: id/img_drawer_setting
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [0, 28, 875, 693]
+resource-id: id/home
+tag: Image
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 0, 1440, 168]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [0, 56, 56, 112]
+resource-id: id/up
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [183, 41, 341, 126]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

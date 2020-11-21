@@ -1,0 +1,12 @@
+L5
+class: android.widget.ImageView
+bounds: [1212, 18, 1317, 123]
+resource-id: id/arraw
+tag: Image
+
+L4
+class: com.dokdoapps.widget.SlideExitButton
+bounds: [1317, 18, 1422, 123]
+resource-id: id/btnExit
+tag: Button
+

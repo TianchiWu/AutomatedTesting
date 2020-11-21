@@ -1,0 +1,24 @@
+L6
+class: android.widget.TextView
+bounds: [88, 198, 1352, 390]
+resource-id: id/al_share_recommend_subtitle
+tag: Text
+
+L5
+class: android.widget.Button
+bounds: [212, 2129, 1227, 2304]
+resource-id: id/al_share_recommend_btn
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [88, 722, 1352, 874]
+resource-id: id/al_share_description
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [480, 920, 960, 1823]
+resource-id: id/al_share_recommend_image
+tag: Image
+

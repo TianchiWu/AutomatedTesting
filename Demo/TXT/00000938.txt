@@ -1,0 +1,42 @@
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [587, 224, 853, 490]
+resource-id: id/imageView
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [105, 560, 1335, 723]
+resource-id: id/textView_header
+tag: Header
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [105, 793, 1335, 1170]
+resource-id: id/textView_text_body
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [35, 2203, 343, 2371]
+resource-id: id/button_skipIntro
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [1097, 2203, 1405, 2371]
+resource-id: id/button_next
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

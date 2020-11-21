@@ -1,0 +1,156 @@
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [112, 1752, 196, 1878]
+resource-id: id/iv_distance
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1150, 1746, 1201, 1847]
+resource-id: id/main_encounters_bottom_photos_public_text
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1271, 1746, 1328, 1847]
+resource-id: id/main_encounters_bottom_photos_private_text
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [405, 2028, 1035, 2364]
+resource-id: id/main_encounters_like_btn
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [142, 1740, 377, 1887]
+resource-id: id/main_encounters_bottom_traveler_badge
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [189, 1742, 345, 1885]
+resource-id: id/main_encounters_bottom_distance_text
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [127, 1721, 407, 1867]
+resource-id: id/main_encounters_bottom_distance_text
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [112, 1700, 333, 1850]
+resource-id: id/main_encounters_bottom_distance_text
+tag: Text
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/main_activity_tabbar_fragment
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [102, 140, 186, 224]
+resource-id: id/tab_icon_profile
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [390, 140, 474, 224]
+resource-id: id/tab_icon_premium
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [451, 121, 493, 176]
+resource-id: id/main_tabbar_premium_notification
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [655, 117, 785, 247]
+resource-id: id/tab_icon_swipe
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [966, 140, 1050, 224]
+resource-id: id/tab_icon_notification
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1010, 121, 1072, 176]
+resource-id: id/main_tabbar_notifications_notification
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1254, 140, 1338, 224]
+resource-id: id/tab_icon_conversation
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1313, 121, 1355, 176]
+resource-id: id/main_tabbar_conversations_notification
+tag: Bar
+
+L10
+class: android.widget.RelativeLayout
+bounds: [0, 2000, 1440, 2392]
+resource-id: id/main_encounters_buttons_root
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [209, 2014, 384, 2189]
+resource-id: id/main_encounters_filters_btn
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1056, 2014, 1231, 2189]
+resource-id: id/main_encounters_powerlike_btn
+tag: Image
+
+L14
+class: com.lavendrapp.lavendr.view.SquareImageView
+bounds: [117, 507, 1323, 1714]
+resource-id: id/main_encounters_card_photo
+tag: Image
+
+L14
+class: com.lavendrapp.lavendr.view.SquareImageView
+bounds: [117, 509, 1323, 1715]
+resource-id: id/main_encounters_card_photo
+tag: Image
+
+L14
+class: com.lavendrapp.lavendr.view.SquareImageView
+bounds: [101, 455, 1339, 1694]
+resource-id: id/main_encounters_card_photo
+tag: Image
+
+L14
+class: com.lavendrapp.lavendr.view.SquareImageView
+bounds: [85, 402, 1355, 1672]
+resource-id: id/main_encounters_card_photo
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

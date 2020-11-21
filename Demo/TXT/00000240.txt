@@ -1,0 +1,198 @@
+L11
+class: android.widget.ImageView
+bounds: [0, 858, 18, 1669]
+resource-id: id/indicatorBar
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [35, 584, 1405, 822]
+resource-id: id/contentTextView
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [53, 893, 1314, 1025]
+resource-id: id/dateTextView
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [53, 1096, 1314, 1228]
+resource-id: id/dateTextView
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [53, 1299, 1314, 1431]
+resource-id: id/dateTextView
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [53, 1502, 1314, 1634]
+resource-id: id/dateTextView
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [490, 1796, 1405, 1942]
+resource-id: id/dateTextView
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [234, 291, 556, 415]
+resource-id: id/tvNext881
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [741, 291, 1063, 415]
+resource-id: id/tvNext903
+tag: Text
+
+L4
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 259]
+resource-id: id/top_bar
+tag: Bar
+
+L5
+class: android.widget.Button
+bounds: [615, 115, 825, 227]
+resource-id: id/btnTopbar903
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [370, 115, 580, 227]
+resource-id: id/btnTopbar881
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [1090, 138, 1188, 204]
+resource-id: id/topBarTitle
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [0, 259, 455, 459]
+resource-id: id/dummyTtPopup
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [0, 461, 332, 548]
+resource-id: id/header
+tag: Header
+
+L11
+class: android.widget.ImageView
+bounds: [1349, 931, 1405, 987]
+resource-id: id/imageView2
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [1349, 1134, 1405, 1190]
+resource-id: id/imageView2
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [1349, 1337, 1405, 1393]
+resource-id: id/imageView2
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [1349, 1540, 1405, 1596]
+resource-id: id/imageView2
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [0, 1671, 332, 1758]
+resource-id: id/header
+tag: Header
+
+L11
+class: android.widget.FrameLayout
+bounds: [35, 1794, 455, 1942]
+resource-id: id/thumbFrame
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [118, 235, 573, 445]
+resource-id: id/mainTt881Popup
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [625, 235, 1080, 445]
+resource-id: id/mainTt903Popup
+tag: Image
+
+L5
+class: android.widget.TextView
+bounds: [258, 305, 580, 358]
+resource-id: id/tvError881
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [765, 305, 1087, 358]
+resource-id: id/tvError903
+tag: Text
+
+L5
+class: android.widget.ProgressBar
+bounds: [363, 323, 419, 379]
+resource-id: id/ttProgressBar881
+tag: Bar
+
+L6
+class: android.widget.TextView
+bounds: [0, 84, 4, 88]
+resource-id: id/centerTv
+tag: Text
+
+L7
+class: android.widget.RelativeLayout
+bounds: [754, 84, 1440, 675]
+resource-id: id/buttonsPanel
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [850, 84, 1440, 579]
+resource-id: id/menuPath
+tag: Image
+
+L8
+class: android.widget.Button
+bounds: [881, 295, 1126, 540]
+resource-id: id/btn_menu_home
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [756, 84, 1001, 185]
+resource-id: id/btn_menu_program
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [1236, 420, 1440, 665]
+resource-id: id/btn_menu_setting
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [1188, 91, 1405, 308]
+resource-id: id/topBarMenuBtn
+tag: Button
+

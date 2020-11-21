@@ -1,0 +1,84 @@
+L12
+class: com.vl.spicejet.components.CustomEditText
+bounds: [88, 351, 1352, 512]
+resource-id: id/Edittext_confirmtaion_pnr_number
+tag: Text
+
+L12
+class: com.vl.spicejet.components.CustomEditText
+bounds: [88, 1368, 1352, 1529]
+resource-id: id/Edittext_option2_first_name
+tag: Text
+
+L12
+class: com.vl.spicejet.components.CustomEditText
+bounds: [88, 1618, 1352, 1779]
+resource-id: id/Edittext_option2_last_name
+tag: Text
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar_actionbar
+tag: Bar
+
+L7
+class: com.vl.spicejet.components.CustomTextView
+bounds: [458, 140, 983, 224]
+resource-id: id/toolbar_title
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [35, 583, 345, 729]
+resource-id: id/retrieveBookingOption1RB
+tag: Button
+
+L12
+class: com.vl.spicejet.components.CustomTextView
+bounds: [88, 800, 246, 885]
+resource-id: id/emailHintText
+tag: Text
+
+L12
+class: com.vl.spicejet.components.CustomEditText
+bounds: [88, 885, 1352, 961]
+resource-id: id/Edittext_option1_email
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [35, 1151, 345, 1297]
+resource-id: id/retrieveBookingOption2RB
+tag: Button
+
+L12
+class: com.vl.spicejet.components.CustomTextView
+bounds: [88, 1868, 335, 1953]
+resource-id: id/originCityHintText
+tag: Text
+
+L12
+class: com.vl.spicejet.components.CustomTextView
+bounds: [88, 1953, 1352, 2029]
+resource-id: id/Edittext_option2_origin_city
+tag: Text
+
+L9
+class: com.vl.spicejet.components.CustomButton
+bounds: [53, 2155, 1387, 2339]
+resource-id: id/Button_retriveBooking
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

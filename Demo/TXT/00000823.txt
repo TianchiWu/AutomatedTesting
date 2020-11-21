@@ -1,0 +1,102 @@
+L11
+class: com.goeuro.rosie.ui.view.TextInputLayout
+bounds: [0, 364, 1440, 1101]
+resource-id: id/last_name_layout
+tag: Text
+
+L14
+class: android.widget.FrameLayout
+bounds: [0, 956, 1440, 1325]
+resource-id: id/cvv_layout
+tag: Text
+
+L16
+class: com.goeuro.rosie.ui.cardform.view.CvvEditText
+bounds: [0, 1180, 1440, 1325]
+resource-id: id/bt_card_form_cvv
+tag: Text
+
+L9
+class: com.goeuro.rosie.ui.view.OystrActionBar
+bounds: [0, 84, 1440, 280]
+resource-id: id/actionbar
+tag: NavigationBar
+
+L10
+class: com.goeuro.rosie.ui.view.CustomTextView
+bounds: [0, 84, 154, 280]
+resource-id: id/oystr_action_bar_back_button
+tag: NavigationBar
+
+L11
+class: com.goeuro.rosie.ui.view.CustomTextView
+bounds: [431, 144, 1009, 219]
+resource-id: id/oystr_action_bar_title
+tag: NavigationBar
+
+L10
+class: android.widget.FrameLayout
+bounds: [1286, 84, 1440, 280]
+resource-id: id/action_bar_icons
+tag: NavigationBar
+
+L10
+class: android.support.v7.widget.AppCompatButton
+bounds: [1132, 84, 1440, 280]
+resource-id: id/oystr_action_bar_done
+tag: NavigationBar
+
+L9
+class: com.goeuro.rosie.ui.view.progressview.MaterialProgressBar
+bounds: [0, 256, 1440, 312]
+resource-id: id/indeterminate_horizontal_progress_library
+tag: Bar
+
+L12
+class: com.goeuro.rosie.ui.cardform.view.ErrorEditText
+bounds: [0, 753, 1440, 838]
+resource-id: id/first_name
+tag: Text
+
+L12
+class: com.goeuro.rosie.ui.cardform.view.ErrorEditText
+bounds: [0, 977, 1440, 1062]
+resource-id: id/last_name
+tag: Text
+
+L14
+class: com.goeuro.rosie.ui.cardform.view.FloatingLabelEditText
+bounds: [0, 732, 1440, 877]
+resource-id: id/bt_card_holder_name
+tag: Text
+
+L15
+class: com.goeuro.rosie.ui.view.TextInputLayout
+bounds: [0, 1101, 718, 1325]
+resource-id: id/card_form_month_year_layout
+tag: Text
+
+L12
+class: com.goeuro.rosie.ui.view.SigninGenericButton
+bounds: [195, 1388, 1245, 1556]
+resource-id: id/yellow_button
+tag: Button
+
+L13
+class: com.goeuro.rosie.ui.view.CustomTextView
+bounds: [70, 1917, 1370, 1992]
+resource-id: id/txt_payment_security
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,102 @@
+L9
+class: android.widget.TextView
+bounds: [98, 539, 678, 700]
+resource-id: id/lower_text
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [762, 539, 1342, 700]
+resource-id: id/lower_text
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [98, 1029, 678, 1190]
+resource-id: id/lower_text
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [762, 1029, 1342, 1190]
+resource-id: id/lower_text
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [98, 1519, 678, 1680]
+resource-id: id/lower_text
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [762, 1519, 1342, 1680]
+resource-id: id/lower_text
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [0, 84, 1440, 105]
+resource-id: id/strip
+tag: Image
+
+L5
+class: android.widget.RelativeLayout
+bounds: [0, 105, 1440, 273]
+resource-id: id/header
+tag: Header
+
+L6
+class: android.widget.Button
+bounds: [70, 122, 949, 255]
+resource-id: id/home
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [1300, 105, 1440, 273]
+resource-id: id/options
+tag: Button
+
+L8
+class: com.avg.family.ui.AppLandingButton
+bounds: [56, 287, 720, 749]
+resource-id: id/btnAirplaneMode
+tag: Button
+
+L8
+class: com.avg.family.ui.AppLandingButton
+bounds: [720, 287, 1384, 749]
+resource-id: id/btnTimeLimit
+tag: Button
+
+L8
+class: com.avg.family.ui.AppLandingButton
+bounds: [56, 777, 720, 1239]
+resource-id: id/btnSetPassword
+tag: Button
+
+L8
+class: com.avg.family.ui.AppLandingButton
+bounds: [720, 777, 1384, 1239]
+resource-id: id/btnIncomingCalls
+tag: Button
+
+L8
+class: com.avg.family.ui.AppLandingButton
+bounds: [56, 1267, 720, 1729]
+resource-id: id/btnChooseApps
+tag: Button
+
+L8
+class: com.avg.family.ui.AppLandingButton
+bounds: [720, 1267, 1384, 1729]
+resource-id: id/btnChooseVideos
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [112, 2182, 1328, 2371]
+resource-id: id/btnExit
+tag: Button
+

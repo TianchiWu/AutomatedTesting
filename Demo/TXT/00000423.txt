@@ -1,0 +1,126 @@
+L7
+class: com.yinzcam.common.android.ui.menu.YinzToolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/yinz_menu_activity_titlebar
+tag: Bar
+
+L15
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [0, 280, 350, 375]
+resource-id: id/table_header_row_text
+tag: Header
+
+L16
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [35, 429, 1061, 488]
+resource-id: id/setting_label
+tag: Text
+
+L16
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [35, 597, 1061, 656]
+resource-id: id/setting_label
+tag: Text
+
+L15
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [0, 711, 268, 806]
+resource-id: id/table_header_row_text
+tag: Header
+
+L15
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [35, 852, 1069, 911]
+resource-id: id/setting_label
+tag: Text
+
+L15
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [1069, 826, 1405, 938]
+resource-id: id/button
+tag: Button
+
+L15
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [0, 958, 398, 1053]
+resource-id: id/table_header_row_text
+tag: Header
+
+L16
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [35, 1077, 1049, 1136]
+resource-id: id/setting_label
+tag: Text
+
+L16
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [35, 1245, 1049, 1304]
+resource-id: id/setting_label
+tag: Text
+
+L16
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [35, 1413, 1049, 1472]
+resource-id: id/setting_label
+tag: Text
+
+L16
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [35, 1581, 1049, 1640]
+resource-id: id/setting_label
+tag: Text
+
+L16
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [35, 1749, 1049, 1808]
+resource-id: id/setting_label
+tag: Text
+
+L13
+class: android.widget.LinearLayout
+bounds: [0, 1900, 1440, 2058]
+resource-id: id/button_group
+tag: Button
+
+L14
+class: android.widget.RelativeLayout
+bounds: [0, 1900, 706, 2058]
+resource-id: id/settings_button_left
+tag: Button
+
+L15
+class: com.yinzcam.common.android.ui.fonts.FontButton
+bounds: [171, 1949, 535, 2008]
+resource-id: id/button_item_box_text
+tag: Button
+
+L14
+class: android.widget.RelativeLayout
+bounds: [734, 1900, 1440, 2058]
+resource-id: id/settings_button_right
+tag: Button
+
+L15
+class: com.yinzcam.common.android.ui.fonts.FontButton
+bounds: [889, 1949, 1284, 2008]
+resource-id: id/button_item_box_text
+tag: Button
+
+L13
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [539, 2058, 901, 2187]
+resource-id: id/app_version
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

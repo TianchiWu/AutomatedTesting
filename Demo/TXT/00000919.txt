@@ -1,0 +1,30 @@
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1282, 132, 1405, 232]
+resource-id: id/imgLike
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 280, 1440, 401]
+resource-id: id/txtTitle
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [160, 436, 1280, 1136]
+resource-id: id/imgSong
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

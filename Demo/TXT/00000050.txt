@@ -1,0 +1,156 @@
+L13
+class: android.widget.TextView
+bounds: [247, 952, 1137, 1999]
+resource-id: id/id_16626
+tag: Text
+
+L13
+class: android.widget.EditText
+bounds: [205, 539, 1238, 1537]
+resource-id: id/id_16619
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [205, 448, 1238, 1719]
+resource-id: id/id_14618
+tag: Text
+
+L13
+class: android.widget.EditText
+bounds: [205, 539, 1238, 1386]
+resource-id: id/id_16616
+tag: Text
+
+L13
+class: android.widget.EditText
+bounds: [247, 602, 1137, 735]
+resource-id: id/id_16605
+tag: Text
+
+L4
+class: android.widget.ImageView
+bounds: [18, 126, 130, 238]
+resource-id: id/titleIcon
+tag: Image
+
+L4
+class: android.widget.TextView
+bounds: [130, 131, 684, 235]
+resource-id: id/titleText
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [102, 354, 257, 420]
+resource-id: id/title
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [494, 354, 585, 420]
+resource-id: id/title
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [845, 354, 955, 420]
+resource-id: id/title
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1200, 354, 1320, 420]
+resource-id: id/title
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [303, 584, 492, 710]
+resource-id: id/id_14604
+tag: Text
+
+L13
+class: android.widget.SeekBar
+bounds: [443, 595, 1150, 704]
+resource-id: id/id_14605
+tag: Bar
+
+L13
+class: android.widget.SeekBar
+bounds: [443, 966, 1150, 1075]
+resource-id: id/id_14612
+tag: Bar
+
+L13
+class: android.widget.Button
+bounds: [247, 1190, 1189, 1348]
+resource-id: id/id_14616
+tag: Button
+
+L13
+class: android.widget.Button
+bounds: [961, 1540, 1196, 1698]
+resource-id: id/id_14621
+tag: Button
+
+L13
+class: com.nchsoftware.library.LJRadioButton
+bounds: [247, 602, 1189, 735]
+resource-id: id/id_15603
+tag: Button
+
+L13
+class: com.nchsoftware.library.LJRadioButton
+bounds: [247, 753, 1189, 886]
+resource-id: id/id_15604
+tag: Button
+
+L13
+class: com.nchsoftware.library.LJRadioButton
+bounds: [247, 903, 1189, 1036]
+resource-id: id/id_15605
+tag: Button
+
+L13
+class: android.widget.TextView
+bounds: [205, 889, 1238, 2160]
+resource-id: id/id_16607
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [701, 1708, 957, 1864]
+resource-id: id/textViewSpinnerItem
+tag: Text
+
+L13
+class: android.widget.EditText
+bounds: [664, 1866, 1137, 1999]
+resource-id: id/id_16627
+tag: Text
+
+L13
+class: android.widget.Button
+bounds: [247, 2135, 1129, 2160]
+resource-id: id/id_16631
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [1230, 2208, 1405, 2366]
+resource-id: id/idOK
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [985, 2208, 1212, 2366]
+resource-id: id/idCANCEL
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [704, 2208, 967, 2366]
+resource-id: id/idHELP
+tag: Button
+

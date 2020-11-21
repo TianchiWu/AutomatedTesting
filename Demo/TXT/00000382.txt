@@ -1,0 +1,54 @@
+L6
+class: android.widget.ImageView
+bounds: [0, 140, 56, 196]
+resource-id: id/home
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [53, 641, 1387, 1026]
+resource-id: id/inviteFriendsImage
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [53, 1114, 1387, 1266]
+resource-id: id/invite_friends_description
+tag: Text
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 1603, 1440, 2392]
+resource-id: id/buttonContainer
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [53, 1603, 1387, 1813]
+resource-id: id/invite_friends_screen_google_button
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [53, 1866, 1387, 2076]
+resource-id: id/invite_friends_screen_email_button
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [53, 2129, 1387, 2339]
+resource-id: id/invite_friends_screen_sms_button
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [58, 125, 420, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

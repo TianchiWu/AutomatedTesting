@@ -1,0 +1,48 @@
+L6
+class: android.support.v7.widget.AppCompatTextView
+bounds: [281, 1415, 1159, 1664]
+resource-id: id/achievement_desc
+tag: Text
+
+L5
+class: android.support.v7.widget.AppCompatImageView
+bounds: [160, 567, 363, 742]
+resource-id: id/banner_left
+tag: Image
+
+L5
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1077, 567, 1280, 742]
+resource-id: id/banner_right
+tag: Image
+
+L5
+class: android.support.v7.widget.AppCompatTextView
+bounds: [160, 591, 1280, 742]
+resource-id: id/ach_dialog_title
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [382, 739, 1058, 1415]
+resource-id: id/achievement_image
+tag: Image
+
+L5
+class: android.widget.RelativeLayout
+bounds: [225, 1699, 1215, 1909]
+resource-id: id/dialog_buttons
+tag: Button
+
+L6
+class: android.support.v7.widget.AppCompatButton
+bounds: [225, 1699, 537, 1909]
+resource-id: id/button_share
+tag: Button
+
+L6
+class: android.support.v7.widget.AppCompatButton
+bounds: [911, 1699, 1215, 1909]
+resource-id: id/button_ok
+tag: Button
+

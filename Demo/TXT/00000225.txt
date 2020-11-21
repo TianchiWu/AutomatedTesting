@@ -1,0 +1,78 @@
+L9
+class: com.excelatlife.generallibrary.views.DarkTextView
+bounds: [0, 412, 1440, 680]
+resource-id: id/bottomLine
+tag: Text
+
+L9
+class: com.excelatlife.generallibrary.views.DarkTextView
+bounds: [0, 725, 1440, 1198]
+resource-id: id/middleLine
+tag: Text
+
+L9
+class: com.excelatlife.generallibrary.views.DarkTextView
+bounds: [0, 1268, 1440, 1536]
+resource-id: id/bottomLine
+tag: Text
+
+L9
+class: com.excelatlife.generallibrary.views.DarkTextView
+bounds: [0, 1581, 1440, 2054]
+resource-id: id/middleLine
+tag: Text
+
+L9
+class: com.excelatlife.generallibrary.views.DarkTextView
+bounds: [0, 2124, 1440, 2392]
+resource-id: id/bottomLine
+tag: Text
+
+L5
+class: android.widget.LinearLayout
+bounds: [0, 84, 284, 242]
+resource-id: id/buttonlayout1
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [0, 84, 158, 242]
+resource-id: id/btnBack
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [158, 100, 284, 226]
+resource-id: id/btnHomeBar
+tag: Button
+
+L5
+class: android.widget.LinearLayout
+bounds: [284, 84, 1440, 242]
+resource-id: id/buttonlayout2
+tag: Button
+
+L7
+class: com.excelatlife.generallibrary.views.DarkTextView
+bounds: [576, 84, 832, 242]
+resource-id: id/listTitle
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [1124, 84, 1282, 242]
+resource-id: id/btnWeb
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [1282, 84, 1424, 150]
+resource-id: id/spinnertext
+tag: Text
+
+L9
+class: com.excelatlife.generallibrary.views.DarkTextView
+bounds: [0, 308, 1440, 342]
+resource-id: id/middleLine
+tag: Text
+

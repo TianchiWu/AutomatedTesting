@@ -1,0 +1,66 @@
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 406, 257, 463]
+resource-id: id/header_first_name
+tag: Header
+
+L9
+class: au.org.nps.medicinelistplus.ui.view.ClearableEditText
+bounds: [56, 477, 1384, 615]
+resource-id: id/txt_first_name
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 755, 227, 812]
+resource-id: id/header_surname
+tag: Header
+
+L9
+class: au.org.nps.medicinelistplus.ui.view.ClearableEditText
+bounds: [56, 826, 1384, 964]
+resource-id: id/txt_surname
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1104, 664, 1161]
+resource-id: id/header_dob
+tag: Header
+
+L10
+class: au.org.nps.medicinelistplus.ui.view.DatePickerButton
+bounds: [56, 1161, 664, 1331]
+resource-id: id/btn_dob
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [776, 1104, 1384, 1161]
+resource-id: id/header_gender
+tag: Header
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [813, 1200, 1204, 1276]
+resource-id: id/text1
+tag: Text
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

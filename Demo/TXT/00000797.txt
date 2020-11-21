@@ -1,0 +1,96 @@
+L12
+class: com.ubercab.ui.TextView
+bounds: [140, 854, 1300, 1139]
+resource-id: id/ub__storefront_store_tagline
+tag: Text
+
+L8
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 0, 1440, 1638]
+resource-id: id/ub__app_bar_layout
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 0, 1440, 770]
+resource-id: id/ub__storefront_store_image
+tag: Image
+
+L13
+class: com.ubercab.ui.TextView
+bounds: [593, 1167, 846, 1218]
+resource-id: id/ub__storefront_eta
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [467, 1526, 523, 1582]
+resource-id: id/ub__storefront_section_clock_icon
+tag: Image
+
+L12
+class: com.ubercab.ui.TextView
+bounds: [551, 1528, 972, 1579]
+resource-id: id/ub__storefront_section_subtitle
+tag: Text
+
+L12
+class: com.ubercab.ui.TextView
+bounds: [538, 1722, 902, 1790]
+resource-id: id/ub__storefront_section_menu_text_view
+tag: Text
+
+L15
+class: com.ubercab.ui.TextView
+bounds: [56, 1928, 556, 1987]
+resource-id: id/ub__subsection_list_item_title
+tag: Text
+
+L15
+class: com.ubercab.ui.TextView
+bounds: [56, 2036, 936, 2150]
+resource-id: id/ub__subsection_list_item_description
+tag: Text
+
+L15
+class: com.ubercab.ui.TextView
+bounds: [56, 2192, 175, 2243]
+resource-id: id/ub__subsection_list_item_price
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1020, 1932, 1384, 2296]
+resource-id: id/ub__subsection_list_item_image
+tag: Image
+
+L8
+class: android.widget.ProgressBar
+bounds: [636, 1916, 804, 2084]
+resource-id: id/ub__storefront_loading_indicator
+tag: Bar
+
+L8
+class: android.widget.LinearLayout
+bounds: [250, 2173, 1161, 2280]
+resource-id: id/ub__jump_nav_toolbar_tip
+tag: Bar
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 84, 196, 280]
+resource-id: id/ub__storefront_up_arrow
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1244, 84, 1440, 280]
+resource-id: id/ub__storefront_share_restaurant
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

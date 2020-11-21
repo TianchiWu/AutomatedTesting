@@ -1,0 +1,72 @@
+L14
+class: com.espncricinfo.app.transitions.ESTextView
+bounds: [193, 480, 1387, 535]
+resource-id: id/posted_time
+tag: Text
+
+L14
+class: com.espncricinfo.app.transitions.ESTextView
+bounds: [193, 931, 1387, 986]
+resource-id: id/posted_time
+tag: Text
+
+L14
+class: com.espncricinfo.app.transitions.ESTextView
+bounds: [193, 1943, 1387, 1998]
+resource-id: id/posted_time
+tag: Text
+
+L13
+class: com.espncricinfo.app.transitions.ESTextView
+bounds: [0, 2076, 1387, 2392]
+resource-id: id/comment_text
+tag: Text
+
+L11
+class: com.espncricinfo.app.ESLinearLayout
+bounds: [0, 2252, 1440, 2392]
+resource-id: id/bottom_control_bar
+tag: Button
+
+L13
+class: com.espncricinfo.app.quiz.ESCommonButton
+bounds: [1153, 2252, 1440, 2392]
+resource-id: id/submit_comment
+tag: Button
+
+L14
+class: com.espncricinfo.app.share.twitter.ESCircularImageView
+bounds: [53, 455, 158, 560]
+resource-id: id/image
+tag: Image
+
+L13
+class: com.espncricinfo.app.transitions.ESTextView
+bounds: [53, 613, 1387, 765]
+resource-id: id/comment_text
+tag: Text
+
+L14
+class: com.espncricinfo.app.share.twitter.ESCircularImageView
+bounds: [53, 906, 158, 1011]
+resource-id: id/image
+tag: Image
+
+L13
+class: com.espncricinfo.app.transitions.ESTextView
+bounds: [53, 1064, 1387, 1777]
+resource-id: id/comment_text
+tag: Text
+
+L14
+class: com.espncricinfo.app.share.twitter.ESCircularImageView
+bounds: [53, 1918, 158, 2023]
+resource-id: id/image
+tag: Image
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+

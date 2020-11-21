@@ -1,0 +1,30 @@
+L9
+class: android.widget.TextView
+bounds: [84, 539, 359, 690]
+resource-id: id/summary
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [0, 112, 541, 249]
+resource-id: id/home
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [84, 313, 636, 398]
+resource-id: id/title
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [84, 398, 170, 464]
+resource-id: id/summary
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 277]
+resource-id: id/action_bar_container
+tag: NavigationBar
+

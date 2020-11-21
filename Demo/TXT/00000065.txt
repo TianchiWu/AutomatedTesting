@@ -1,0 +1,42 @@
+L6
+class: android.widget.ImageView
+bounds: [21, 1999, 1440, 2203]
+resource-id: id/imvIconBackGround
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [21, 28, 1440, 287]
+resource-id: id/imvIconDoneName
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [0, 14, 210, 392]
+resource-id: id/imvTeamLogo
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [1230, 14, 1440, 392]
+resource-id: id/imvLeagueLogo
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [0, 182, 84, 287]
+resource-id: id/imvTeamLogoCrossVisibility
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [94, 570, 1345, 1821]
+resource-id: id/imvJersey
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [1037, 2304, 1440, 2392]
+resource-id: id/imvWaterMark
+tag: Image
+

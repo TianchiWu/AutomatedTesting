@@ -1,0 +1,132 @@
+L15
+class: android.widget.TextView
+bounds: [291, 859, 749, 1064]
+resource-id: id/phone_number
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [291, 1170, 665, 1375]
+resource-id: id/phone_number
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [291, 1481, 669, 1686]
+resource-id: id/phone_number
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 280, 173, 448]
+resource-id: id/button_search_back
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatEditText
+bounds: [173, 280, 1267, 448]
+resource-id: id/search_edit
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1267, 280, 1440, 448]
+resource-id: id/button_search_clear
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [14, 466, 1426, 532]
+resource-id: id/incstructions
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [14, 564, 334, 715]
+resource-id: id/rb1
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [334, 564, 675, 715]
+resource-id: id/rb2
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [675, 564, 1001, 715]
+resource-id: id/rb3
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [14, 747, 1426, 813]
+resource-id: id/detail_incstructions
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatButton
+bounds: [63, 551, 501, 712]
+resource-id: id/btn_link
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatButton
+bounds: [557, 551, 995, 712]
+resource-id: id/btn_unlink
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1270, 315, 1419, 464]
+resource-id: id/help_gdrive
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [105, 1089, 447, 1240]
+resource-id: id/rbc1
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [105, 1240, 569, 1391]
+resource-id: id/rbc2
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [63, 1619, 547, 1770]
+resource-id: id/rbs2
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatRadioButton
+bounds: [63, 1770, 759, 1921]
+resource-id: id/rbs3
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [622, 1603, 818, 1799]
+resource-id: id/lock_img_premium_gdrive
+tag: Image
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

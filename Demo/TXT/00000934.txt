@@ -1,0 +1,66 @@
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 280, 233, 448]
+resource-id: id/text_view
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 490, 140, 574]
+resource-id: id/icon_image_view
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [196, 489, 1384, 574]
+resource-id: id/title_text_view
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 658, 140, 742]
+resource-id: id/icon_image_view
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [196, 657, 1384, 742]
+resource-id: id/title_text_view
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 784, 293, 952]
+resource-id: id/text_view
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 994, 140, 1078]
+resource-id: id/icon_image_view
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [196, 993, 1384, 1078]
+resource-id: id/title_text_view
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,108 @@
+L14
+class: android.widget.TextView
+bounds: [11, 198, 295, 216]
+resource-id: id/grid_text
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [0, 27, 359, 75]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [4, 553, 102, 629]
+resource-id: id/setting
+tag: Image
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 24, 411, 78]
+resource-id: id/titlebar_frame
+tag: Bar
+
+L10
+class: android.widget.ImageView
+bounds: [363, 29, 407, 73]
+resource-id: id/img_cart
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [8, 79, 403, 80]
+resource-id: id/titleDivider
+tag: Image
+
+L12
+class: android.widget.EditText
+bounds: [4, 94, 405, 127]
+resource-id: id/search_src_text
+tag: Text
+
+L16
+class: android.widget.ImageView
+bounds: [32, 143, 80, 191]
+resource-id: id/grid_image
+tag: Image
+
+L16
+class: android.widget.ImageView
+bounds: [130, 143, 178, 191]
+resource-id: id/grid_image
+tag: Image
+
+L16
+class: android.widget.ImageView
+bounds: [228, 143, 276, 191]
+resource-id: id/grid_image
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [0, 24, 56, 80]
+resource-id: id/skyscapecloud
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [108, 288, 238, 418]
+resource-id: id/galaxy_fab
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [149, 219, 197, 267]
+resource-id: id/flash_drive
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [54, 274, 102, 322]
+resource-id: id/text_2_app
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [54, 384, 102, 432]
+resource-id: id/n_track
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [149, 439, 197, 487]
+resource-id: id/snap_word
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [244, 384, 292, 432]
+resource-id: id/skills_hub
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [82, 631, 130, 679]
+resource-id: id/setting_about
+tag: Image
+

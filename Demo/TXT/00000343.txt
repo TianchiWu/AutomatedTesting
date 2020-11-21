@@ -1,0 +1,102 @@
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 1107, 1440, 1518]
+resource-id: id/article_date
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1160, 1599, 1405, 1687]
+resource-id: id/feature_save_icon
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [193, 1757, 739, 1907]
+resource-id: id/author_title
+tag: Text
+
+L6
+class: com.hearstdd.android.app.appbar.HTVContentAppbar
+bounds: [0, 84, 1440, 294]
+resource-id: id/appbar
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 84, 231, 294]
+resource-id: id/appbar_back_arrow
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1265, 115, 1412, 262]
+resource-id: id/share_icon
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [479, 147, 1017, 231]
+resource-id: id/appbar_title
+tag: Bar
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 294, 1440, 1942]
+resource-id: id/article_detail_header
+tag: Header
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [619, 599, 821, 801]
+resource-id: id/top_image_overlay
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 1599, 123, 1687]
+resource-id: id/feature_share_icon
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 1942, 1440, 2247]
+resource-id: id/graf_text
+tag: Text
+
+L7
+class: android.widget.FrameLayout
+bounds: [0, 294, 1440, 1103]
+resource-id: id/video_hover
+tag: Video
+
+L9
+class: android.widget.ProgressBar
+bounds: [636, 1212, 804, 1380]
+resource-id: id/progressBar
+tag: Bar
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [335, 1488, 684, 1656]
+resource-id: id/button_no
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [740, 1488, 1104, 1656]
+resource-id: id/button_ok
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

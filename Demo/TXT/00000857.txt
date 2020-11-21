@@ -1,0 +1,96 @@
+L12
+class: com.raycom.wtvm.common.CategoryTextView
+bounds: [35, 500, 543, 585]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.wtvm.common.CategoryTextView
+bounds: [35, 624, 441, 709]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.wtvm.common.CategoryTextView
+bounds: [35, 748, 543, 833]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.wtvm.common.CategoryTextView
+bounds: [35, 872, 781, 957]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.wtvm.common.CategoryTextView
+bounds: [35, 996, 591, 1081]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.wtvm.common.CategoryTextView
+bounds: [35, 1120, 529, 1205]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.wtvm.common.CategoryTextView
+bounds: [35, 1244, 746, 1329]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.wtvm.common.CategoryTextView
+bounds: [35, 1368, 704, 1453]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.wtvm.common.CategoryTextView
+bounds: [35, 1492, 519, 1577]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.wtvm.common.CategoryTextView
+bounds: [35, 1616, 725, 1701]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.wtvm.common.CategoryTextView
+bounds: [35, 1740, 534, 1825]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.wtvm.common.CategoryTextView
+bounds: [35, 1864, 477, 1949]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.wtvm.common.CategoryTextView
+bounds: [35, 1988, 506, 2073]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L7
+class: android.widget.RelativeLayout
+bounds: [956, 318, 1440, 2392]
+resource-id: id/news_placeholder
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

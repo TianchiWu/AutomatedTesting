@@ -1,0 +1,126 @@
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1001, 1141, 1291, 1199]
+resource-id: id/text_view_fifth_bubble
+tag: Image
+
+L10
+class: android.widget.RelativeLayout
+bounds: [70, 735, 1370, 921]
+resource-id: id/layout_address_distance
+tag: Text
+
+L14
+class: com.lafourchette.lafourchette.customview.textview.TextViewRalewayXThin
+bounds: [312, 1106, 528, 1228]
+resource-id: id/text_view_rate_lf_scale
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 2172, 1384, 2392]
+resource-id: id/text_view_meal_name_1
+tag: Text
+
+L7
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 0, 1440, 700]
+resource-id: id/appbar
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 562, 130, 647]
+resource-id: id/text_view_nb_picture
+tag: Text
+
+L9
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L9
+class: android.widget.LinearLayout
+bounds: [0, 700, 1440, 1371]
+resource-id: id/fragment_header_restaurant
+tag: Header
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [189, 1114, 294, 1219]
+resource-id: id/image_view_fork_icon
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [189, 1228, 495, 1275]
+resource-id: id/text_view_review_lafourchette
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [904, 1232, 1257, 1273]
+resource-id: id/text_view_review_trip
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [112, 1501, 287, 1676]
+resource-id: id/image_view_offer
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [343, 1487, 1328, 1691]
+resource-id: id/text_view_offer_title
+tag: Text
+
+L12
+class: android.widget.RelativeLayout
+bounds: [56, 1751, 1384, 1864]
+resource-id: id/layout_offer_bottom
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 1751, 1384, 1835]
+resource-id: id/image_view_see_more
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1751, 1384, 1864]
+resource-id: id/text_view_offer_content
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 2088, 1384, 2159]
+resource-id: id/text_view_chef_name
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1300, 2321, 1384, 2387]
+resource-id: id/text_view_price_1
+tag: Text
+
+L7
+class: android.support.design.widget.FloatingActionButton
+bounds: [1174, 602, 1370, 798]
+resource-id: id/action_button_fav
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 2189, 1412, 2364]
+resource-id: id/text_view_book_a_table
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

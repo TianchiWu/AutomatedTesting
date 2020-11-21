@@ -1,0 +1,144 @@
+L12
+class: android.support.v7.widget.CardView
+bounds: [0, 280, 1422, 354]
+resource-id: id/launchpad_curated_list_item_view_card
+tag: Image
+
+L12
+class: android.support.v7.widget.CardView
+bounds: [18, 515, 1226, 907]
+resource-id: id/launchpad_updated_item_add_more_view_card
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [231, 1192, 668, 1310]
+resource-id: id/user_attribution_updated_at
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 2076, 1370, 2392]
+resource-id: id/post_summary_view_subtitle
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 280, 192, 336]
+resource-id: id/launchpad_curated_list_item_name
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [228, 280, 602, 336]
+resource-id: id/launchpad_curated_list_item_name
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [638, 280, 1012, 336]
+resource-id: id/launchpad_curated_list_item_name
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1048, 280, 1422, 336]
+resource-id: id/launchpad_curated_list_item_name
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 354, 410, 497]
+resource-id: id/heading_view_title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1138, 354, 1440, 497]
+resource-id: id/heading_view_link
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [228, 550, 403, 725]
+resource-id: id/launchpad_updated_item_view_image
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [206, 743, 425, 805]
+resource-id: id/launchpad_updated_item_view_title
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [841, 550, 1016, 725]
+resource-id: id/launchpad_updated_item_add_more_view_image
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [691, 743, 1165, 805]
+resource-id: id/launchpad_updated_item_add_more_view_title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 907, 492, 1050]
+resource-id: id/heading_view_title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1045, 907, 1440, 1050]
+resource-id: id/heading_view_link
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 1068, 659, 1180]
+resource-id: id/post_suggestion_reason_view_recommended
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [70, 1187, 203, 1320]
+resource-id: id/user_attribution_image
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [275, 1192, 669, 1249]
+resource-id: id/post_preview_attribution_view_collection_name
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [231, 1253, 687, 1310]
+resource-id: id/post_preview_attribution_view_collection_updated_at
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1348, 1440, 2048]
+resource-id: id/post_summary_view_image
+tag: Image
+
+L7
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/home3_appbar
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

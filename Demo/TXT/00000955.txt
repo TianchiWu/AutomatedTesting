@@ -1,0 +1,78 @@
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 349, 1440, 420]
+resource-id: id/exhibitorTitle
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 559, 1440, 630]
+resource-id: id/exhibitorTitle
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 769, 1440, 840]
+resource-id: id/exhibitorTitle
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 979, 1440, 1050]
+resource-id: id/exhibitorTitle
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1189, 1440, 1260]
+resource-id: id/exhibitorTitle
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1399, 1440, 1470]
+resource-id: id/exhibitorTitle
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1609, 1440, 1680]
+resource-id: id/exhibitorTitle
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1819, 1440, 1890]
+resource-id: id/exhibitorTitle
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 2029, 1440, 2100]
+resource-id: id/exhibitorTitle
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 2239, 1440, 2310]
+resource-id: id/exhibitorTitle
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

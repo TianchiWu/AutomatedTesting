@@ -1,0 +1,60 @@
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [25, 305, 1415, 2192]
+resource-id: id/img_mence
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [1250, 1005, 1390, 1250]
+resource-id: id/img_men2_next
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [50, 1005, 190, 1250]
+resource-id: id/img_men2_prev
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [25, 2052, 720, 2192]
+resource-id: id/btn_men2_set
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [720, 2052, 1415, 2192]
+resource-id: id/btn_men2_save
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [61, 341, 702, 481]
+resource-id: id/img_men2_mtap
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [738, 341, 1379, 481]
+resource-id: id/btn_men2_more
+tag: Button
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,90 @@
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 280, 480, 1458]
+resource-id: id/extra_name
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [109, 2246, 179, 2316]
+resource-id: id/tab_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [42, 2323, 246, 2369]
+resource-id: id/tab_text
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [397, 2246, 467, 2316]
+resource-id: id/tab_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [330, 2323, 534, 2369]
+resource-id: id/tab_text
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [685, 2246, 755, 2316]
+resource-id: id/tab_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [618, 2323, 822, 2369]
+resource-id: id/tab_text
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [973, 2246, 1043, 2316]
+resource-id: id/tab_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [906, 2323, 1110, 2369]
+resource-id: id/tab_text
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1261, 2246, 1331, 2316]
+resource-id: id/tab_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1194, 2323, 1398, 2369]
+resource-id: id/tab_text
+tag: Text
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 143, 1384, 220]
+resource-id: id/title
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

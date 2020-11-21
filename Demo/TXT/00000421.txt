@@ -1,0 +1,66 @@
+L5
+class: ch.bitspin.timely.view.RobotoLightTextView
+bounds: [907, 417, 1129, 487]
+resource-id: id/balance_text
+tag: Text
+
+L5
+class: ch.bitspin.timely.view.RobotoLightTextView
+bounds: [244, 403, 438, 571]
+resource-id: id/title_text
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [1143, 417, 1196, 487]
+resource-id: id/balance_share_icon
+tag: Image
+
+L10
+class: ch.bitspin.timely.view.RobotoLightTextView
+bounds: [355, 726, 594, 998]
+resource-id: id/appName
+tag: Text
+
+L10
+class: ch.bitspin.timely.view.RobotoLightTextView
+bounds: [847, 726, 1082, 998]
+resource-id: id/appName
+tag: Text
+
+L10
+class: ch.bitspin.timely.view.RobotoLightTextView
+bounds: [340, 1216, 609, 1488]
+resource-id: id/appName
+tag: Text
+
+L10
+class: ch.bitspin.timely.view.RobotoLightTextView
+bounds: [791, 1216, 1138, 1488]
+resource-id: id/appName
+tag: Text
+
+L10
+class: ch.bitspin.timely.view.RobotoLightTextView
+bounds: [244, 1715, 706, 1968]
+resource-id: id/appName
+tag: Text
+
+L5
+class: android.widget.LinearLayout
+bounds: [188, 1967, 1252, 2101]
+resource-id: id/expand_button_container
+tag: Button
+
+L6
+class: android.widget.ImageView
+bounds: [447, 1967, 992, 2000]
+resource-id: id/expand_button_image
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [663, 2007, 777, 2073]
+resource-id: id/more_items_text
+tag: Text
+

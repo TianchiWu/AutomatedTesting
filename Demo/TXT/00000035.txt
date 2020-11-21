@@ -1,0 +1,48 @@
+L7
+class: android.widget.Button
+bounds: [35, 315, 343, 483]
+resource-id: id/account_back_choose_folder
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [343, 361, 1405, 437]
+resource-id: id/account_back_chosen_folder
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [35, 504, 1405, 938]
+resource-id: id/account_back_restore_text
+tag: Text
+
+L5
+class: android.widget.Button
+bounds: [35, 2189, 713, 2357]
+resource-id: id/account_back_restore_backup
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [727, 2189, 1405, 2357]
+resource-id: id/account_back_restore_restore
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

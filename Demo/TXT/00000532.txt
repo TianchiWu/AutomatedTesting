@@ -1,0 +1,222 @@
+L8
+class: android.widget.TextView
+bounds: [203, 1174, 601, 2392]
+resource-id: id/feedback
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1384, 1174, 1412, 2045]
+resource-id: id/arrow_marker
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [0, 84, 175, 2243]
+resource-id: id/category_image
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [0, 2049, 175, 2252]
+resource-id: id/menu_category_entry_right_arrow
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [203, 84, 556, 259]
+resource-id: id/name
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1311, 158, 1440, 186]
+resource-id: id/arrow_marker
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [244, 258, 1371, 1000]
+resource-id: id/logged_in_no_cards
+tag: Image
+
+L9
+class: android.widget.RelativeLayout
+bounds: [790, 370, 1315, 556]
+resource-id: id/add_a_taco_bell_card_button
+tag: Button
+
+L10
+class: com.cardfree.blimpandroid.fonts.FranchiseBoldTextView
+bounds: [832, 405, 1185, 521]
+resource-id: id/button_text
+tag: Button
+
+L10
+class: android.widget.ImageView
+bounds: [1213, 419, 1301, 507]
+resource-id: id/button_image
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [203, 1000, 735, 1175]
+resource-id: id/name
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1311, 2118, 1440, 2146]
+resource-id: id/arrow_marker
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1384, 2217, 1412, 2392]
+resource-id: id/arrow_marker
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [0, 254, 175, 451]
+resource-id: id/category_name
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [0, 794, 175, 991]
+resource-id: id/category_name
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [119, 84, 147, 193]
+resource-id: id/menu_category_entry_right_arrow
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [0, 84, 91, 155]
+resource-id: id/displayName
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [119, 276, 147, 451]
+resource-id: id/menu_category_entry_right_arrow
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [0, 314, 91, 413]
+resource-id: id/displayName
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [119, 534, 147, 709]
+resource-id: id/menu_category_entry_right_arrow
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [0, 572, 91, 671]
+resource-id: id/displayName
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [119, 837, 147, 1012]
+resource-id: id/menu_category_entry_right_arrow
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [0, 830, 91, 1019]
+resource-id: id/displayName
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [119, 1140, 147, 1315]
+resource-id: id/menu_category_entry_right_arrow
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [0, 1178, 91, 1277]
+resource-id: id/displayName
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [119, 1443, 147, 1618]
+resource-id: id/menu_category_entry_right_arrow
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [0, 1436, 91, 1625]
+resource-id: id/displayName
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [119, 1746, 147, 1921]
+resource-id: id/menu_category_entry_right_arrow
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [0, 1784, 91, 1883]
+resource-id: id/displayName
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [0, 2042, 91, 2231]
+resource-id: id/displayName
+tag: Text
+
+L6
+class: android.widget.RelativeLayout
+bounds: [0, 2252, 175, 2392]
+resource-id: id/footer_bar
+tag: Bar
+
+L7
+class: android.widget.ImageView
+bounds: [35, 2252, 140, 2392]
+resource-id: id/footer_button
+tag: Button
+
+L7
+class: android.widget.RelativeLayout
+bounds: [0, 2108, 175, 2248]
+resource-id: id/main_bar
+tag: Bar
+
+L8
+class: android.widget.ImageView
+bounds: [35, 2129, 140, 2227]
+resource-id: id/footer_button
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [0, 2248, 119, 2252]
+resource-id: id/divider
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [34, 2294, 119, 2349]
+resource-id: id/item_price_text
+tag: Text
+
+L4
+class: android.widget.ImageView
+bounds: [18, 136, 123, 241]
+resource-id: id/error_image
+tag: Image
+

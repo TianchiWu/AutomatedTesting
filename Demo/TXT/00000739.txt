@@ -1,0 +1,18 @@
+L4
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 259]
+resource-id: id/headerLayout
+tag: Header
+
+L6
+class: android.widget.Button
+bounds: [1282, 102, 1422, 241]
+resource-id: id/closeBtn
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [538, 115, 902, 227]
+resource-id: id/titleTxt
+tag: Text
+

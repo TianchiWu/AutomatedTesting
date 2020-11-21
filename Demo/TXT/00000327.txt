@@ -1,0 +1,54 @@
+L5
+class: android.widget.ImageButton
+bounds: [0, 0, 168, 168]
+resource-id: id/pick_timer
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [1272, 0, 1440, 168]
+resource-id: id/rate_button1
+tag: Button
+
+L5
+class: android.widget.SeekBar
+bounds: [180, 1912, 1260, 1966]
+resource-id: id/seekingBar_volume
+tag: Bar
+
+L4
+class: android.widget.LinearLayout
+bounds: [0, 1993, 1440, 2217]
+resource-id: id/button_holder
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [160, 1993, 384, 2217]
+resource-id: id/button_backward
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [384, 1993, 608, 2217]
+resource-id: id/button_open
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [608, 1993, 832, 2217]
+resource-id: id/button_play
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [832, 1993, 1056, 2217]
+resource-id: id/button_shuffle
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [1056, 1993, 1280, 2217]
+resource-id: id/button_forward
+tag: Button
+

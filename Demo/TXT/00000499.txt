@@ -1,0 +1,84 @@
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 84, 1440, 280]
+resource-id: id/tv_done
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [181, 2179, 504, 2291]
+resource-id: id/tv_bottom_price
+tag: Text
+
+L6
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/app_bar
+tag: Bar
+
+L8
+class: android.widget.RelativeLayout
+bounds: [56, 84, 1440, 280]
+resource-id: id/ll_header
+tag: Header
+
+L10
+class: ctrip.english.hotel.widget.HotelDetailBottomBar
+bounds: [0, 2143, 1440, 2392]
+resource-id: id/hotel_detail_bottom_bar
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [986, 2179, 1405, 2334]
+resource-id: id/tv_bottom_select
+tag: Text
+
+L14
+class: android.widget.LinearLayout
+bounds: [35, 2179, 951, 2357]
+resource-id: id/view_bottom_bar_price_container
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [234, 400, 586, 485]
+resource-id: id/view_hotel_detail_policies_check_in_from
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [838, 382, 1220, 467]
+resource-id: id/view_hotel_detail_policies_check_out_until
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [105, 802, 1335, 887]
+resource-id: id/activity_hotel_policies_pets_text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [105, 1495, 1335, 1580]
+resource-id: id/activity_hotel_policies_credit_card_accepted_other_text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [105, 1821, 1335, 2143]
+resource-id: id/activity_hotel_policies_hotel_notes_text
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

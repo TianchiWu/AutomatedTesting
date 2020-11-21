@@ -1,0 +1,228 @@
+L8
+class: com.narvii.widget.PromotionalImageView
+bounds: [42, 1825, 1440, 2245]
+resource-id: id/image
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [500, 2245, 1440, 2382]
+resource-id: id/text
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [88, 357, 1419, 634]
+resource-id: id/title
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [14, 1902, 271, 2007]
+resource-id: id/feed_toolbar_vote_count
+tag: Bar
+
+L14
+class: android.widget.LinearLayout
+bounds: [0, 1902, 551, 2007]
+resource-id: id/feed_toolbar_comment
+tag: Bar
+
+L12
+class: android.widget.FrameLayout
+bounds: [0, 2039, 1440, 2315]
+resource-id: id/feed_column_right
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [28, 2245, 616, 2351]
+resource-id: id/text
+tag: Text
+
+L8
+class: com.narvii.widget.SpinningView
+bounds: [576, 1140, 863, 1427]
+resource-id: id/progress
+tag: Bar
+
+L10
+class: com.narvii.feed.PopularFeedListItem
+bounds: [0, 636, 1440, 2032]
+resource-id: id/feed_item_base
+tag: Image
+
+L13
+class: android.widget.TextView
+bounds: [0, 1721, 1440, 1838]
+resource-id: id/text
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [0, 1838, 222, 1885]
+resource-id: id/read_more
+tag: Text
+
+L13
+class: com.narvii.feed.FeedToolbarLayout
+bounds: [0, 1885, 1440, 2025]
+resource-id: id/feed_toolbar
+tag: Bar
+
+L15
+class: android.widget.ImageView
+bounds: [299, 1902, 404, 2007]
+resource-id: id/feed_toolbar_comment_icon
+tag: Image
+
+L15
+class: android.widget.TextView
+bounds: [404, 1912, 537, 1997]
+resource-id: id/feed_toolbar_comment_count
+tag: Bar
+
+L9
+class: android.widget.TextView
+bounds: [334, 1103, 1106, 1254]
+resource-id: id/empty_content
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [27, 274, 90, 337]
+resource-id: id/tab_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [90, 252, 337, 359]
+resource-id: id/tab_title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [393, 274, 456, 337]
+resource-id: id/tab_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [456, 252, 718, 359]
+resource-id: id/tab_title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [774, 274, 837, 337]
+resource-id: id/tab_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [837, 252, 1133, 359]
+resource-id: id/tab_title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [1189, 274, 1252, 337]
+resource-id: id/tab_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [1252, 252, 1412, 359]
+resource-id: id/tab_title
+tag: Text
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 2315, 1440, 2392]
+resource-id: id/online_status_bar
+tag: Bar
+
+L3
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L5
+class: com.narvii.util.actionbar.ActionBarLayout
+bounds: [0, 84, 1321, 252]
+resource-id: id/actionbar
+tag: NavigationBar
+
+L6
+class: android.widget.FrameLayout
+bounds: [0, 84, 161, 252]
+resource-id: id/actionbar_left
+tag: Bar
+
+L8
+class: com.narvii.widget.ThumbImageView
+bounds: [28, 112, 140, 224]
+resource-id: id/avatar
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [576, 115, 864, 221]
+resource-id: id/actionbar_title
+tag: Bar
+
+L3
+class: android.widget.FrameLayout
+bounds: [1244, 2119, 1398, 2273]
+resource-id: id/post_entry_frame
+tag: Button
+
+L4
+class: android.widget.ImageView
+bounds: [0, 1650, 1440, 2392]
+resource-id: id/blur_bg
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [1286, 1678, 1391, 1783]
+resource-id: id/hide_button
+tag: Button
+
+L8
+class: com.narvii.widget.ThumbImageView
+bounds: [28, 1825, 168, 1965]
+resource-id: id/icon
+tag: Image
+
+L8
+class: com.narvii.widget.ThumbImageView
+bounds: [329, 1825, 469, 1965]
+resource-id: id/icon
+tag: Image
+
+L8
+class: com.narvii.widget.ThumbImageView
+bounds: [630, 1825, 770, 1965]
+resource-id: id/icon
+tag: Image
+
+L8
+class: com.narvii.widget.ThumbImageView
+bounds: [931, 1825, 1071, 1965]
+resource-id: id/icon
+tag: Image
+
+L8
+class: com.narvii.widget.ThumbImageView
+bounds: [1232, 1825, 1372, 1965]
+resource-id: id/icon
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

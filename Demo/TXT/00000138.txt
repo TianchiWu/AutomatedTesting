@@ -1,0 +1,60 @@
+L7
+class: android.widget.TextView
+bounds: [92, 2135, 1348, 2364]
+resource-id: id/tvAreaItemA
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [92, 431, 1348, 689]
+resource-id: id/tvAreaItemAll
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [92, 644, 1348, 902]
+resource-id: id/tvAreaItemAll
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [92, 857, 1348, 1115]
+resource-id: id/tvAreaItemAll
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [92, 1070, 1348, 1328]
+resource-id: id/tvAreaItemAll
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [92, 1283, 1348, 1541]
+resource-id: id/tvAreaItemAll
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [92, 1496, 1348, 1754]
+resource-id: id/tvAreaItemAll
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [92, 1709, 1348, 1967]
+resource-id: id/tvAreaItemAll
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [92, 1922, 1348, 2180]
+resource-id: id/tvAreaItemAll
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [92, 343, 1348, 476]
+resource-id: id/tvAreaItemAll
+tag: Text
+

@@ -1,0 +1,36 @@
+L4
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 252]
+resource-id: id/actionbar_main
+tag: Bar
+
+L7
+class: android.widget.TextView
+bounds: [0, 121, 431, 214]
+resource-id: id/title
+tag: Text
+
+L6
+class: com.tdameritrade.mobile3.actionbar.ActionMenuView
+bounds: [1240, 84, 1440, 252]
+resource-id: id/actionbar_top
+tag: Bar
+
+L7
+class: com.tdameritrade.mobile3.actionbar.ActionMenuItemView
+bounds: [1244, 84, 1440, 252]
+resource-id: id/action_cancel
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [0, 252, 1440, 370]
+resource-id: id/info_whats_new_version
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [616, 608, 824, 674]
+resource-id: id/loading_text
+tag: Text
+

@@ -1,0 +1,252 @@
+L13
+class: android.widget.TextView
+bounds: [269, 598, 1402, 795]
+resource-id: id/daySummery
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [80, 868, 361, 1020]
+resource-id: id/currentWind2
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [941, 1076, 1360, 1233]
+resource-id: id/currentSunset
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [269, 1456, 1402, 1666]
+resource-id: id/daySummery
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [269, 1720, 1402, 1930]
+resource-id: id/daySummery
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [269, 1984, 1402, 2194]
+resource-id: id/daySummery
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [303, 868, 486, 1020]
+resource-id: id/currentWindGusts
+tag: Text
+
+L10
+class: android.widget.ProgressBar
+bounds: [436, 1275, 580, 1331]
+resource-id: id/lProgressView
+tag: Bar
+
+L5
+class: com.nstudio.weatherhere.util.DrawerLayout
+bounds: [0, 256, 1440, 2217]
+resource-id: id/sidebarDrawerLayout
+tag: Bar
+
+L13
+class: android.widget.TextView
+bounds: [1000, 705, 1201, 795]
+resource-id: id/currentWindLabel
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [995, 705, 1368, 800]
+resource-id: id/currentFeelsLikeLabel
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [607, 868, 832, 1020]
+resource-id: id/currentHumidity
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [80, 1076, 341, 1228]
+resource-id: id/currentBarometer
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [941, 868, 1176, 1020]
+resource-id: id/currentDewpoint
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [614, 1076, 825, 1228]
+resource-id: id/currentVisibility
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [80, 1284, 978, 1360]
+resource-id: id/currentUpdate
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [0, 84, 284, 252]
+resource-id: id/appIcon
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [284, 84, 463, 252]
+resource-id: id/appIcon2
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [395, 177, 843, 234]
+resource-id: id/updateView
+tag: Text
+
+L6
+class: android.widget.ImageButton
+bounds: [955, 84, 1123, 252]
+resource-id: id/locateButton
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [1123, 84, 1291, 252]
+resource-id: id/updateButton
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [1291, 84, 1440, 252]
+resource-id: id/overflowButton
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [0, 256, 476, 389]
+resource-id: id/forecastButton
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [483, 256, 958, 389]
+resource-id: id/hourlyButton
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [965, 256, 1440, 389]
+resource-id: id/radarButton
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [586, 1274, 944, 1331]
+resource-id: id/lStatusView
+tag: Text
+
+L12
+class: android.widget.LinearLayout
+bounds: [21, 414, 1419, 560]
+resource-id: id/hazardLayout
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [38, 598, 248, 808]
+resource-id: id/dayIcon
+tag: Image
+
+L13
+class: android.widget.ImageView
+bounds: [38, 1456, 248, 1666]
+resource-id: id/dayIcon
+tag: Image
+
+L13
+class: android.widget.ImageView
+bounds: [38, 1720, 248, 1930]
+resource-id: id/dayIcon
+tag: Image
+
+L13
+class: android.widget.ImageView
+bounds: [38, 1984, 248, 2194]
+resource-id: id/dayIcon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [527, 1274, 1003, 1331]
+resource-id: id/lStatusView
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [0, 2076, 420, 2161]
+resource-id: id/hourlyCurrentDay
+tag: Text
+
+L12
+class: android.widget.SeekBar
+bounds: [420, 2063, 1244, 2175]
+resource-id: id/hourlyDaySeekBar
+tag: Bar
+
+L12
+class: android.widget.ImageButton
+bounds: [1244, 2021, 1440, 2217]
+resource-id: id/hourlyButtonSwitch
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [615, 1274, 916, 1331]
+resource-id: id/lStatusView
+tag: Text
+
+L10
+class: com.sonyericsson.zoom.ImageZoomView
+bounds: [0, 393, 1440, 2069]
+resource-id: id/radarView
+tag: Image
+
+L11
+class: android.widget.ImageButton
+bounds: [14, 1873, 210, 2069]
+resource-id: id/backControl
+tag: Button
+
+L11
+class: android.widget.ImageButton
+bounds: [1230, 1873, 1426, 2069]
+resource-id: id/loopControl
+tag: Button
+
+L11
+class: android.widget.ImageButton
+bounds: [238, 1873, 434, 2069]
+resource-id: id/forwardControl
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [0, 2077, 720, 2204]
+resource-id: id/statusView
+tag: Text
+
+L10
+class: android.widget.ProgressBar
+bounds: [720, 2077, 1440, 2217]
+resource-id: id/progressView
+tag: Bar
+

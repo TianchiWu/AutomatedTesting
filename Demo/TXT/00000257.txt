@@ -1,0 +1,174 @@
+L9
+class: android.support.v7.widget.CardView
+bounds: [7, 1078, 1433, 2112]
+resource-id: id/card_view
+tag: Image
+
+L9
+class: android.support.v7.widget.CardView
+bounds: [7, 2014, 1433, 2392]
+resource-id: id/card_view
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [7, 1877, 130, 2000]
+resource-id: id/itemNoiseSpeakButton
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [130, 1879, 591, 1998]
+resource-id: id/iTitle
+tag: Text
+
+L14
+class: com.coolsharp.view.MaterialFavoriteButtonEx
+bounds: [591, 1877, 713, 1999]
+resource-id: id/itemNoiseFavoriteButton
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [727, 1989, 850, 2112]
+resource-id: id/itemNoiseSpeakButton
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [850, 1991, 1311, 2110]
+resource-id: id/iTitle
+tag: Text
+
+L14
+class: com.coolsharp.view.MaterialFavoriteButtonEx
+bounds: [1311, 1989, 1433, 2111]
+resource-id: id/itemNoiseFavoriteButton
+tag: Button
+
+L7
+class: android.support.design.widget.FloatingActionButton
+bounds: [1156, 2108, 1352, 2304]
+resource-id: id/fab
+tag: Button
+
+L7
+class: com.bowyer.app.fabtoolbar.FabToolbar
+bounds: [0, 2196, 1440, 2392]
+resource-id: id/fabtoolbar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 2196, 288, 2392]
+resource-id: id/fab_timer
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [288, 2196, 576, 2392]
+resource-id: id/fab_speak
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [576, 2196, 864, 2392]
+resource-id: id/fab_layout
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [864, 2196, 1152, 2392]
+resource-id: id/fab_star
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1152, 2196, 1440, 2392]
+resource-id: id/fab_share
+tag: Button
+
+L7
+class: me.henrytao.smoothappbarlayout.SmoothAppBarLayout
+bounds: [0, 84, 1440, 1064]
+resource-id: id/smooth_app_bar_layout
+tag: Bar
+
+L10
+class: com.github.lzyzsd.circleprogress.ArcProgress
+bounds: [370, 224, 1070, 924]
+resource-id: id/arc_progress
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [405, 259, 1034, 888]
+resource-id: id/player_disc
+tag: Image
+
+L11
+class: de.hdodenhof.circleimageview.CircleImageView
+bounds: [597, 451, 842, 696]
+resource-id: id/player_disc_image
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [920, 293, 1384, 820]
+resource-id: id/player_needle
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [4, 260, 127, 383]
+resource-id: id/side_button_timer
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [4, 387, 127, 510]
+resource-id: id/side_button_speak
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [4, 514, 127, 637]
+resource-id: id/side_button_layout
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [4, 641, 127, 764]
+resource-id: id/side_button_star
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [4, 768, 127, 891]
+resource-id: id/side_button_share
+tag: Button
+
+L9
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 252]
+resource-id: id/toolbar
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [166, 434, 1273, 765]
+resource-id: id/ivLogo
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

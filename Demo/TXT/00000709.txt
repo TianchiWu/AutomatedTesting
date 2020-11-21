@@ -1,0 +1,36 @@
+L6
+class: android.widget.ImageView
+bounds: [510, 392, 930, 812]
+resource-id: id/icon_image1
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [63, 868, 1384, 990]
+resource-id: id/header_text
+tag: Header
+
+L7
+class: android.widget.TextView
+bounds: [56, 1015, 1384, 1148]
+resource-id: id/message_text
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [402, 1260, 1037, 1411]
+resource-id: id/start_messaging_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

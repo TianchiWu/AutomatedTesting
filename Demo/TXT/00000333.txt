@@ -1,0 +1,132 @@
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [67, 1209, 375, 1342]
+resource-id: id/album_song_count
+tag: Text
+
+L15
+class: com.naman14.timber.widgets.SquareImageView
+bounds: [11, 459, 1429, 1157]
+resource-id: id/artistImage
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [787, 1209, 1250, 1342]
+resource-id: id/album_song_count
+tag: Text
+
+L15
+class: com.naman14.timber.widgets.SquareImageView
+bounds: [11, 1417, 1429, 2115]
+resource-id: id/artistImage
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [73, 1657, 409, 1780]
+resource-id: id/album_details
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [246, 1919, 1054, 2063]
+resource-id: id/song_album
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [235, 2227, 533, 2360]
+resource-id: id/artist
+tag: Text
+
+L9
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 448]
+resource-id: id/appbar
+tag: Bar
+
+L10
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [67, 2167, 355, 2199]
+resource-id: id/artist_name
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [787, 2167, 1154, 2199]
+resource-id: id/artist_name
+tag: Text
+
+L9
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 1239]
+resource-id: id/app_bar
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [45, 1287, 409, 1651]
+resource-id: id/album_art
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [18, 1901, 193, 2076]
+resource-id: id/albumArt
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1292, 1928, 1412, 2048]
+resource-id: id/popup_menu
+tag: Image
+
+L7
+class: android.widget.FrameLayout
+bounds: [0, 2199, 1440, 2392]
+resource-id: id/quickcontrols_container
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [596, 2389, 844, 2392]
+resource-id: id/song_title
+tag: Text
+
+L10
+class: com.naman14.timber.widgets.SquareImageView
+bounds: [0, 2199, 193, 2392]
+resource-id: id/album_art_nowplayingcard
+tag: Image
+
+L11
+class: android.widget.ProgressBar
+bounds: [193, 2199, 1440, 2227]
+resource-id: id/song_progress_normal
+tag: Bar
+
+L11
+class: com.naman14.timber.widgets.PlayPauseButton
+bounds: [1294, 2255, 1375, 2336]
+resource-id: id/play_pause
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

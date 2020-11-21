@@ -1,0 +1,24 @@
+L4
+class: android.support.v7.widget.AppCompatTextView
+bounds: [216, 654, 1224, 855]
+resource-id: id/title
+tag: Text
+
+L5
+class: com.wawa.android.app.ui.NumberPicker$CustomEditText
+bounds: [297, 1213, 1143, 1288]
+resource-id: id/np__numberpicker_input
+tag: Picker
+
+L5
+class: android.support.v7.widget.AppCompatButton
+bounds: [216, 1647, 716, 1822]
+resource-id: id/cancelButton
+tag: Button
+
+L5
+class: android.support.v7.widget.AppCompatButton
+bounds: [720, 1647, 1224, 1822]
+resource-id: id/setButton
+tag: Button
+

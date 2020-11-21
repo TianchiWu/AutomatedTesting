@@ -1,0 +1,102 @@
+L9
+class: android.support.v7.view.menu.ActionMenuItemView
+bounds: [775, 98, 1279, 266]
+resource-id: id/toolbar_mailview_action_archive
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [144, 333, 1279, 503]
+resource-id: id/mailbox_mailmessage_content_date
+tag: Text
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 698]
+resource-id: id/header
+tag: Header
+
+L10
+class: ru.mail.uikit.view.CheckableImageView
+bounds: [21, 315, 133, 427]
+resource-id: id/mailbox_mailmessage_content_readed
+tag: Image
+
+L10
+class: ru.mail.uikit.view.CheckableImageView
+bounds: [1286, 294, 1426, 448]
+resource-id: id/mailbox_mailmessage_content_flagged
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 565, 181, 622]
+resource-id: id/label
+tag: Text
+
+L11
+class: android.widget.LinearLayout
+bounds: [1206, 548, 1426, 645]
+resource-id: id/toggle_btn_container
+tag: Button
+
+L12
+class: ru.mail.fragments.view.RoundedImageView
+bounds: [209, 545, 307, 643]
+resource-id: id/left_icon
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [307, 565, 661, 626]
+resource-id: id/text
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [0, 696, 1440, 698]
+resource-id: id/content_under_expandable_header
+tag: Header
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 291]
+resource-id: id/toolbar_layout
+tag: Bar
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L7
+class: android.view.View
+bounds: [0, 280, 1440, 291]
+resource-id: id/action_bar_shadow
+tag: NavigationBar
+
+L6
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1328, 1182, 1440, 1294]
+resource-id: id/tutorial_right
+tag: Image
+
+L9
+class: ru.mail.fragments.mailbox.ReplyMenuFragment$d
+bounds: [1160, 2112, 1412, 2364]
+resource-id: id/fab_expand_menu_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

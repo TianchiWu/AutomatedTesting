@@ -1,0 +1,162 @@
+L15
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [63, 381, 1377, 491]
+resource-id: id/schedule_item_right_team
+tag: Text
+
+L17
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [1274, 491, 1377, 770]
+resource-id: id/schedule_item_right_time
+tag: Text
+
+L15
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [63, 905, 1377, 1015]
+resource-id: id/schedule_item_right_team
+tag: Text
+
+L17
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [1274, 1015, 1377, 1294]
+resource-id: id/schedule_item_right_time
+tag: Text
+
+L15
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [63, 1429, 1377, 1539]
+resource-id: id/schedule_item_right_team
+tag: Text
+
+L17
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [1274, 1539, 1377, 1818]
+resource-id: id/schedule_item_right_time
+tag: Text
+
+L15
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [63, 1953, 1377, 2063]
+resource-id: id/schedule_item_right_team
+tag: Text
+
+L17
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [1274, 2063, 1377, 2342]
+resource-id: id/schedule_item_right_time
+tag: Text
+
+L7
+class: com.yinzcam.common.android.ui.menu.YinzToolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/yinz_menu_activity_titlebar
+tag: Bar
+
+L14
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [28, 280, 1412, 382]
+resource-id: id/header_in_page_text
+tag: Header
+
+L17
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [63, 491, 134, 641]
+resource-id: id/schedule_item_left_team_score
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [492, 511, 660, 679]
+resource-id: id/schedule_item_logo_left
+tag: Image
+
+L17
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [660, 529, 778, 662]
+resource-id: id/schedule_item_logo_divider
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [778, 511, 946, 679]
+resource-id: id/schedule_item_logo_right
+tag: Image
+
+L17
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [63, 1015, 137, 1165]
+resource-id: id/schedule_item_left_team_score
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [492, 1035, 660, 1203]
+resource-id: id/schedule_item_logo_left
+tag: Image
+
+L17
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [660, 1053, 778, 1186]
+resource-id: id/schedule_item_logo_divider
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [778, 1035, 946, 1203]
+resource-id: id/schedule_item_logo_right
+tag: Image
+
+L17
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [63, 1539, 144, 1689]
+resource-id: id/schedule_item_left_team_score
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [492, 1559, 660, 1727]
+resource-id: id/schedule_item_logo_left
+tag: Image
+
+L17
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [660, 1577, 778, 1710]
+resource-id: id/schedule_item_logo_divider
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [778, 1559, 946, 1727]
+resource-id: id/schedule_item_logo_right
+tag: Image
+
+L17
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [63, 2063, 150, 2213]
+resource-id: id/schedule_item_left_team_score
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [492, 2083, 660, 2251]
+resource-id: id/schedule_item_logo_left
+tag: Image
+
+L17
+class: com.yinzcam.common.android.ui.fonts.FontTextView
+bounds: [660, 2101, 778, 2234]
+resource-id: id/schedule_item_logo_divider
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [778, 2083, 946, 2251]
+resource-id: id/schedule_item_logo_right
+tag: Image
+
+L9
+class: com.yinzcam.common.android.ui.ProgressSpinner
+bounds: [580, 1196, 860, 1476]
+resource-id: id/yinz_menu_activity_spinner
+tag: Bar
+

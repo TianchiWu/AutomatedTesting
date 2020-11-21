@@ -1,0 +1,180 @@
+L6
+class: android.support.v4.view.ViewPager
+bounds: [0, 84, 1440, 2392]
+resource-id: id/pager
+tag: Bar
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 112, 1440, 308]
+resource-id: id/toolbar
+tag: Bar
+
+L9
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 477, 1440, 645]
+resource-id: id/tudo
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 680, 1090, 848]
+resource-id: id/titulo
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [1090, 680, 1405, 848]
+resource-id: id/mais
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 879, 138, 1006]
+resource-id: id/position
+tag: Text
+
+L16
+class: de.hdodenhof.circleimageview.CircleImageView
+bounds: [105, 932, 385, 1212]
+resource-id: id/icon
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 1212, 462, 1415]
+resource-id: id/titulo
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [518, 879, 628, 1006]
+resource-id: id/position
+tag: Text
+
+L16
+class: de.hdodenhof.circleimageview.CircleImageView
+bounds: [595, 932, 875, 1212]
+resource-id: id/icon
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [518, 1212, 952, 1353]
+resource-id: id/titulo
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1008, 879, 1118, 1006]
+resource-id: id/position
+tag: Text
+
+L16
+class: de.hdodenhof.circleimageview.CircleImageView
+bounds: [1085, 932, 1365, 1212]
+resource-id: id/icon
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1008, 1212, 1440, 1415]
+resource-id: id/titulo
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 1498, 1090, 1666]
+resource-id: id/titulo
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [1090, 1498, 1405, 1666]
+resource-id: id/mais
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 1697, 84, 1824]
+resource-id: id/position
+tag: Text
+
+L16
+class: de.hdodenhof.circleimageview.CircleImageView
+bounds: [105, 1750, 385, 2030]
+resource-id: id/icon
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 2030, 462, 2171]
+resource-id: id/titulo
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [518, 1697, 574, 1824]
+resource-id: id/position
+tag: Text
+
+L16
+class: de.hdodenhof.circleimageview.CircleImageView
+bounds: [595, 1750, 875, 2030]
+resource-id: id/icon
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [518, 2030, 952, 2171]
+resource-id: id/titulo
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1008, 1697, 1064, 1824]
+resource-id: id/position
+tag: Text
+
+L16
+class: de.hdodenhof.circleimageview.CircleImageView
+bounds: [1085, 1750, 1365, 2030]
+resource-id: id/icon
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1008, 2030, 1440, 2233]
+resource-id: id/titulo
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 2316, 1090, 2392]
+resource-id: id/titulo
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [1090, 2316, 1405, 2392]
+resource-id: id/mais
+tag: Button
+
+L6
+class: android.support.design.widget.FloatingActionButton
+bounds: [1188, 2140, 1384, 2336]
+resource-id: id/fab
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

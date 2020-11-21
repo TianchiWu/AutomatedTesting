@@ -1,0 +1,60 @@
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 140, 529, 290]
+resource-id: id/tvCountLike
+tag: Text
+
+L7
+class: com.chatvoinguoila.android.view.SecretTextView
+bounds: [56, 1237, 1384, 2336]
+resource-id: id/tvReviewShare
+tag: Text
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [483, 1196, 567, 1280]
+resource-id: id/ivSetting
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [567, 1197, 957, 1278]
+resource-id: id/tvChooseTheme
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatEditText
+bounds: [0, 2231, 1096, 2380]
+resource-id: id/etMsg
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1140, 2264, 1224, 2348]
+resource-id: id/ivEmoji
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1312, 2264, 1396, 2348]
+resource-id: id/ivSend
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

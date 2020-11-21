@@ -1,0 +1,156 @@
+L8
+class: android.widget.SeekBar
+bounds: [320, 993, 1200, 1987]
+resource-id: id/seekBarVolume
+tag: Bar
+
+L6
+class: android.widget.TextView
+bounds: [333, 238, 1072, 285]
+resource-id: id/LbTimeDelayValue
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [21, 126, 1054, 285]
+resource-id: id/LbToneSweep
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [21, 1581, 166, 1840]
+resource-id: id/lbVolumeRight
+tag: Text
+
+L6
+class: android.widget.ProgressBar
+bounds: [1054, 126, 1264, 238]
+resource-id: id/pbTime
+tag: Bar
+
+L5
+class: android.widget.TextView
+bounds: [21, 306, 1419, 377]
+resource-id: id/tvWiki
+tag: Text
+
+L9
+class: android.widget.RadioButton
+bounds: [161, 860, 388, 972]
+resource-id: id/radioSine
+tag: Button
+
+L9
+class: android.widget.RadioButton
+bounds: [388, 860, 690, 972]
+resource-id: id/radioSquare
+tag: Button
+
+L9
+class: android.widget.RadioButton
+bounds: [690, 860, 936, 972]
+resource-id: id/radioSaw
+tag: Button
+
+L9
+class: android.widget.RadioButton
+bounds: [936, 860, 1257, 972]
+resource-id: id/radioTriangle
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [21, 993, 285, 1078]
+resource-id: id/lbFaseRight
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [1247, 993, 1398, 1078]
+resource-id: id/lbFaseRightValue
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [21, 1140, 285, 1225]
+resource-id: id/lbFdifRight
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [1235, 1140, 1398, 1225]
+resource-id: id/lbFdifRightValue
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [1235, 1287, 1398, 1372]
+resource-id: id/lbAMFrequencyValue
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [1276, 1434, 1398, 1519]
+resource-id: id/lbAMSensibilityValue
+tag: Text
+
+L9
+class: android.widget.ImageButton
+bounds: [152, 1581, 264, 1693]
+resource-id: id/btVolumeLeftMute
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [1236, 1581, 1398, 1666]
+resource-id: id/lbVolumeLeftValue
+tag: Text
+
+L9
+class: android.widget.ImageButton
+bounds: [187, 1728, 299, 1840]
+resource-id: id/btVolumeRightMute
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [1236, 1728, 1398, 1813]
+resource-id: id/lbVolumeRightValue
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [21, 1875, 285, 1960]
+resource-id: id/lbMasterVolume
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [1240, 1875, 1398, 1960]
+resource-id: id/lbMasterVolumeValue
+tag: Text
+
+L6
+class: android.widget.ImageButton
+bounds: [21, 2238, 300, 2371]
+resource-id: id/btDecrement
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [300, 2238, 719, 2371]
+resource-id: id/btPlay
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [719, 2238, 1139, 2371]
+resource-id: id/BtStop
+tag: Button
+
+L6
+class: android.widget.ImageButton
+bounds: [1139, 2238, 1419, 2371]
+resource-id: id/btIncrement
+tag: Button
+

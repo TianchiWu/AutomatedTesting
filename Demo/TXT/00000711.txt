@@ -1,0 +1,114 @@
+L10
+class: android.widget.TextView
+bounds: [232, 581, 1408, 732]
+resource-id: id/dashboard_subtitle
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [232, 865, 1408, 1016]
+resource-id: id/dashboard_subtitle
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [232, 1149, 1408, 1300]
+resource-id: id/dashboard_subtitle
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [232, 1433, 1408, 1584]
+resource-id: id/dashboard_subtitle
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [232, 1717, 1408, 1868]
+resource-id: id/dashboard_subtitle
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [32, 276, 207, 470]
+resource-id: id/dashboard_thumbnail
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [232, 330, 1408, 415]
+resource-id: id/dashboard_title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [32, 560, 207, 754]
+resource-id: id/dashboard_thumbnail
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [32, 844, 207, 1038]
+resource-id: id/dashboard_thumbnail
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [32, 1128, 207, 1322]
+resource-id: id/dashboard_thumbnail
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [32, 1412, 207, 1606]
+resource-id: id/dashboard_thumbnail
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [32, 1696, 207, 1890]
+resource-id: id/dashboard_thumbnail
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [32, 1980, 207, 2174]
+resource-id: id/dashboard_thumbnail
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [232, 2034, 1408, 2119]
+resource-id: id/dashboard_title
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 969, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+
+L6
+class: com.actionbarsherlock.internal.widget.IcsLinearLayout
+bounds: [1048, 84, 1244, 252]
+resource-id: id/abs__activity_chooser_view_content
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [1048, 105, 1244, 231]
+resource-id: id/abs__image
+tag: Image
+

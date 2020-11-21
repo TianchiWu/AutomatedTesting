@@ -1,0 +1,72 @@
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [596, 848, 830, 936]
+resource-id: id/share_text
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [246, 298, 673, 438]
+resource-id: id/story_author_name
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [88, 491, 1352, 747]
+resource-id: id/hero_article_title
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 807, 141, 977]
+resource-id: id/story_article_time
+tag: Text
+
+L12
+class: com.hearstdd.android.app.compoundcontrols.ShareControl
+bounds: [596, 848, 844, 936]
+resource-id: id/share_button_container
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1234, 804, 1405, 980]
+resource-id: id/feature_save_icon
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [246, 1936, 587, 2076]
+resource-id: id/story_author_name
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [88, 2129, 1352, 2217]
+resource-id: id/story_title
+tag: Text
+
+L10
+class: android.widget.ProgressBar
+bounds: [636, 1002, 804, 1415]
+resource-id: id/progressBar
+tag: Bar
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1370, 2217, 1440, 2270]
+resource-id: id/ad_label
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

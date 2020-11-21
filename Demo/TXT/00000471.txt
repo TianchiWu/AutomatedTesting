@@ -1,0 +1,102 @@
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1192, 956, 1394, 1068]
+resource-id: id/wishlist_imageview
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [35, 1194, 1405, 1451]
+resource-id: id/product_info_title2
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [29, 1696, 1411, 1762]
+resource-id: id/stock_msg_text
+tag: Text
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/base_header
+tag: Header
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1195, 105, 1237, 171]
+resource-id: id/cart_count
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1391, 105, 1433, 171]
+resource-id: id/wishlist_count
+tag: Text
+
+L10
+class: fi.android.takealot.helper.ControllableAppBarLayout
+bounds: [0, 280, 1440, 1490]
+resource-id: id/product_information_appbar
+tag: Bar
+
+L13
+class: android.widget.RelativeLayout
+bounds: [636, 613, 804, 781]
+resource-id: id/product_progress
+tag: Bar
+
+L15
+class: android.support.v4.view.ViewPager
+bounds: [28, 322, 1412, 938]
+resource-id: id/image_pager
+tag: Image
+
+L15
+class: android.widget.LinearLayout
+bounds: [1174, 938, 1412, 1086]
+resource-id: id/button_add_to_wishlist
+tag: Button
+
+L11
+class: android.support.design.widget.CollapsingToolbarLayout
+bounds: [0, 1155, 1440, 1490]
+resource-id: id/collapsing_tab
+tag: Header
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [29, 1490, 162, 1612]
+resource-id: id/product_info_price_text
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [29, 1612, 154, 1678]
+resource-id: id/product_info_ebucks_price_text
+tag: Text
+
+L17
+class: fi.android.takealot.custom.widget.TouchableButton
+bounds: [983, 1885, 1411, 1970]
+resource-id: id/rating_text
+tag: Button
+
+L10
+class: android.support.design.widget.FloatingActionButton
+bounds: [1188, 1392, 1384, 1588]
+resource-id: id/product_add_to_cart_fab
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

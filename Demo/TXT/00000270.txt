@@ -1,0 +1,72 @@
+L10
+class: android.widget.EditText
+bounds: [295, 1267, 1144, 1431]
+resource-id: id/numberpicker_input
+tag: Picker
+
+L6
+class: android.widget.TextView
+bounds: [0, 950, 1440, 1043]
+resource-id: id/question_title
+tag: Text
+
+L10
+class: android.widget.ImageButton
+bounds: [295, 1113, 568, 1267]
+resource-id: id/increment
+tag: Button
+
+L10
+class: android.widget.ImageButton
+bounds: [295, 1431, 568, 1585]
+resource-id: id/decrement
+tag: Button
+
+L10
+class: android.widget.ImageButton
+bounds: [576, 1113, 849, 1267]
+resource-id: id/increment
+tag: Button
+
+L10
+class: android.widget.ImageButton
+bounds: [576, 1431, 849, 1585]
+resource-id: id/decrement
+tag: Button
+
+L10
+class: android.widget.ImageButton
+bounds: [857, 1113, 1144, 1267]
+resource-id: id/increment
+tag: Button
+
+L10
+class: android.widget.ImageButton
+bounds: [857, 1431, 1144, 1585]
+resource-id: id/decrement
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [625, 1638, 815, 1806]
+resource-id: id/save
+tag: Button
+
+L4
+class: com.cyclebeads.components.RelativeLayoutButton
+bounds: [0, 2237, 1440, 2322]
+resource-id: id/dont_know_button
+tag: Button
+
+L5
+class: android.widget.ImageView
+bounds: [1055, 2253, 1405, 2306]
+resource-id: id/circle_button_image
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [606, 2237, 1037, 2322]
+resource-id: id/circle_button_text
+tag: Button
+

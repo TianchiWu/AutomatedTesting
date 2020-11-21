@@ -1,0 +1,150 @@
+L9
+class: android.widget.TextView
+bounds: [0, 1027, 1440, 2077]
+resource-id: id/verInfo_btn
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [58, 288, 1077, 418]
+resource-id: id/textViewSetupBackPlayOnSubscript
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [0, 502, 1440, 852]
+resource-id: id/data_3g_btn
+tag: Text
+
+L4
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 288]
+resource-id: id/fragmentActionBar
+tag: Bar
+
+L7
+class: android.widget.ImageButton
+bounds: [0, 84, 204, 288]
+resource-id: id/buttonBack
+tag: Button
+
+L7
+class: android.widget.ImageButton
+bounds: [1236, 84, 1440, 288]
+resource-id: id/buttonSetup
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [204, 119, 1236, 253]
+resource-id: id/imageViewChannelTitleImg
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [204, 84, 1236, 288]
+resource-id: id/textViewTitle
+tag: Text
+
+L7
+class: android.widget.ImageButton
+bounds: [36, 2132, 241, 2337]
+resource-id: id/buttonShowChannelList
+tag: Button
+
+L7
+class: kr.co.kbs.kong.comm.CheckableImageButton
+bounds: [277, 2132, 482, 2337]
+resource-id: id/buttonPlay
+tag: Button
+
+L9
+class: android.widget.ImageView
+bounds: [525, 2128, 601, 2157]
+resource-id: id/playType
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [619, 2114, 1181, 2171]
+resource-id: id/textViewChannelInfo
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [525, 2171, 1181, 2228]
+resource-id: id/textViewEpisodeTitle
+tag: Text
+
+L8
+class: android.widget.SeekBar
+bounds: [500, 2228, 1181, 2298]
+resource-id: id/progressBarEpisode
+tag: Bar
+
+L9
+class: android.widget.TextView
+bounds: [525, 2298, 631, 2355]
+resource-id: id/textViewEpisodeStart
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [1050, 2298, 1156, 2355]
+resource-id: id/textViewEpisodeEnd
+tag: Text
+
+L7
+class: android.widget.ImageButton
+bounds: [1199, 2132, 1404, 2337]
+resource-id: id/buttonShowPlayList
+tag: Button
+
+L10
+class: android.widget.ProgressBar
+bounds: [667, 640, 772, 745]
+resource-id: id/progressMediaControl
+tag: Bar
+
+L10
+class: android.widget.ImageButton
+bounds: [70, 356, 184, 470]
+resource-id: id/btnShowCoachMark
+tag: Button
+
+L10
+class: android.widget.TextView
+bounds: [520, 630, 919, 755]
+resource-id: id/tv_vertical_full
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [116, 1928, 1370, 2051]
+resource-id: id/textViewSimpleModeDescription
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [63, 487, 1100, 573]
+resource-id: id/textViewDescription
+tag: Text
+
+L8
+class: kr.co.kbs.kong.comm.CheckableImageButton
+bounds: [1170, 473, 1386, 587]
+resource-id: id/btnEdit
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [0, 614, 1440, 789]
+resource-id: id/empty_text
+tag: Text
+
+L4
+class: android.widget.ImageView
+bounds: [370, 1692, 1070, 2392]
+resource-id: id/imageViewSlideAd
+tag: Image
+

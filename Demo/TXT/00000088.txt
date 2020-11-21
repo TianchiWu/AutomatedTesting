@@ -1,0 +1,48 @@
+L5
+class: android.widget.TextView
+bounds: [658, 223, 1356, 308]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [658, 393, 1356, 478]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [658, 563, 1356, 648]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [658, 733, 1356, 818]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [658, 903, 1356, 988]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [658, 1073, 1356, 1158]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [658, 1243, 1244, 1328]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [658, 1413, 1356, 1498]
+resource-id: id/title
+tag: Text
+

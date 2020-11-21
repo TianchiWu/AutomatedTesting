@@ -1,0 +1,36 @@
+L6
+class: android.widget.TextView
+bounds: [540, 140, 1046, 240]
+resource-id: id/TextVersion
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [308, 1510, 641, 1843]
+resource-id: id/SettingsButton
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [798, 1510, 1131, 1843]
+resource-id: id/SearchButton
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [553, 1293, 886, 1626]
+resource-id: id/MapButton
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [553, 1713, 886, 2046]
+resource-id: id/FavoritesButton
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [0, 2077, 1440, 2217]
+resource-id: id/imageViewLike
+tag: Image
+

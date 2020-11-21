@@ -1,0 +1,12 @@
+L4
+class: android.widget.LinearLayout
+bounds: [64, 1729, 1376, 1927]
+resource-id: id/buttonPanel
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [92, 1731, 1348, 1899]
+resource-id: id/button1
+tag: Button
+

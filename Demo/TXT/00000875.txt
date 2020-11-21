@@ -1,0 +1,336 @@
+L9
+class: android.widget.RelativeLayout
+bounds: [1224, 167, 1440, 302]
+resource-id: id/header_arrow_layout
+tag: Header
+
+L8
+class: android.widget.FrameLayout
+bounds: [937, 182, 1206, 322]
+resource-id: id/hd_refresh_container
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [0, 428, 1440, 643]
+resource-id: id/live_date
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [900, 726, 1341, 881]
+resource-id: id/live_time
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [900, 1104, 1341, 1259]
+resource-id: id/live_time
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [900, 1389, 1341, 1544]
+resource-id: id/live_time
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [900, 1767, 1341, 1922]
+resource-id: id/live_time
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [900, 2052, 1341, 2207]
+resource-id: id/live_time
+tag: Text
+
+L4
+class: ptv.apps.foxsoccer2go.ui.customcontrols.CommonHeader
+bounds: [0, 84, 1440, 550]
+resource-id: id/header
+tag: Header
+
+L6
+class: android.widget.TextView
+bounds: [0, 84, 1440, 164]
+resource-id: id/hd_tour_tv
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [18, 201, 612, 302]
+resource-id: id/hd_fox_logo
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [1252, 167, 1331, 302]
+resource-id: id/home
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [110, 358, 250, 428]
+resource-id: id/tab1
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [107, 428, 252, 532]
+resource-id: id/hd_live
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [488, 358, 591, 428]
+resource-id: id/tab2
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [833, 358, 966, 428]
+resource-id: id/tab3
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [790, 428, 1010, 532]
+resource-id: id/hd_videos
+tag: Video
+
+L8
+class: android.widget.ImageView
+bounds: [1214, 358, 1305, 428]
+resource-id: id/tab4
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [1141, 428, 1379, 532]
+resource-id: id/hd_score
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [1037, 2316, 1371, 2392]
+resource-id: id/ft_score_tkr
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [1371, 2326, 1440, 2382]
+resource-id: id/ft_score_state
+tag: Image
+
+L12
+class: android.widget.ImageView
+bounds: [20, 663, 125, 768]
+resource-id: id/team_icon_home
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [134, 680, 361, 751]
+resource-id: id/live_team_name_home
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [20, 804, 125, 909]
+resource-id: id/team_icon_away
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [134, 821, 409, 892]
+resource-id: id/live_team_name_away
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [820, 643, 1440, 708]
+resource-id: id/live_competition
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1341, 708, 1440, 929]
+resource-id: id/live_arrow
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [0, 928, 1440, 1021]
+resource-id: id/live_date
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [20, 1041, 125, 1146]
+resource-id: id/team_icon_home
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [134, 1058, 315, 1129]
+resource-id: id/live_team_name_home
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [20, 1182, 125, 1287]
+resource-id: id/team_icon_away
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [134, 1199, 315, 1270]
+resource-id: id/live_team_name_away
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [820, 1021, 1440, 1086]
+resource-id: id/live_competition
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1341, 1086, 1440, 1307]
+resource-id: id/live_arrow
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [20, 1326, 125, 1431]
+resource-id: id/team_icon_home
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [134, 1343, 286, 1414]
+resource-id: id/live_team_name_home
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [20, 1467, 125, 1572]
+resource-id: id/team_icon_away
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [134, 1484, 351, 1555]
+resource-id: id/live_team_name_away
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [820, 1306, 1440, 1371]
+resource-id: id/live_competition
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1341, 1371, 1440, 1592]
+resource-id: id/live_arrow
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [0, 1591, 1440, 1684]
+resource-id: id/live_date
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [20, 1704, 125, 1809]
+resource-id: id/team_icon_home
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [134, 1721, 319, 1792]
+resource-id: id/live_team_name_home
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [20, 1845, 125, 1950]
+resource-id: id/team_icon_away
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [134, 1862, 377, 1933]
+resource-id: id/live_team_name_away
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [820, 1684, 1440, 1749]
+resource-id: id/live_competition
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1341, 1749, 1440, 1970]
+resource-id: id/live_arrow
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [20, 1989, 125, 2094]
+resource-id: id/team_icon_home
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [134, 2006, 482, 2077]
+resource-id: id/live_team_name_home
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [20, 2130, 125, 2235]
+resource-id: id/team_icon_away
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [134, 2147, 423, 2218]
+resource-id: id/live_team_name_away
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [820, 1969, 1440, 2034]
+resource-id: id/live_competition
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1341, 2034, 1440, 2255]
+resource-id: id/live_arrow
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [20, 2274, 125, 2316]
+resource-id: id/team_icon_home
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [134, 2291, 321, 2316]
+resource-id: id/live_team_name_home
+tag: Text
+
+L9
+class: android.widget.LinearLayout
+bounds: [820, 2254, 1440, 2316]
+resource-id: id/league_time_layout
+tag: Text
+

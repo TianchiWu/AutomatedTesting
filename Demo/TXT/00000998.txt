@@ -1,0 +1,30 @@
+L5
+class: android.widget.TextView
+bounds: [760, 144, 1370, 220]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [760, 312, 1370, 388]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [760, 480, 1370, 556]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [760, 648, 1370, 724]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [760, 816, 1370, 892]
+resource-id: id/title
+tag: Text
+

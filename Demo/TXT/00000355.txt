@@ -1,0 +1,24 @@
+L3
+class: android.support.v7.widget.FitWindowsFrameLayout
+bounds: [92, 309, 1348, 2167]
+resource-id: id/action_bar_root
+tag: NavigationBar
+
+L6
+class: android.support.v7.widget.ButtonBarLayout
+bounds: [92, 1971, 1348, 2167]
+resource-id: id/buttonPanel
+tag: Button
+
+L7
+class: android.support.v7.widget.i
+bounds: [628, 1985, 933, 2153]
+resource-id: id/button2
+tag: Button
+
+L7
+class: android.support.v7.widget.i
+bounds: [933, 1985, 1306, 2153]
+resource-id: id/button1
+tag: Button
+

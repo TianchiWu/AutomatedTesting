@@ -1,0 +1,66 @@
+L12
+class: android.widget.TextView
+bounds: [2, 631, 1440, 702]
+resource-id: id/weekDay7Title
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [0, 172, 1440, 347]
+resource-id: id/tabsLayout
+tag: Image
+
+L4
+class: android.widget.TextView
+bounds: [14, 86, 440, 157]
+resource-id: id/title
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [0, 172, 1440, 522]
+resource-id: id/calendar_flowers
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [208, 386, 370, 439]
+resource-id: id/pregnancyStart
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [470, 347, 992, 418]
+resource-id: id/pregnancyWeekTitle
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1092, 386, 1232, 439]
+resource-id: id/pregnancyEnd
+tag: Text
+
+L11
+class: android.widget.LinearLayout
+bounds: [0, 489, 1440, 608]
+resource-id: id/header
+tag: Header
+
+L12
+class: android.widget.Button
+bounds: [0, 489, 507, 608]
+resource-id: id/prevMonth
+tag: Button
+
+L12
+class: android.widget.TextView
+bounds: [509, 493, 933, 586]
+resource-id: id/monthYear
+tag: Text
+
+L12
+class: android.widget.Button
+bounds: [933, 489, 1440, 608]
+resource-id: id/nextMonth
+tag: Button
+

@@ -1,0 +1,102 @@
+L9
+class: android.widget.ImageView
+bounds: [81, 2195, 207, 2321]
+resource-id: id/contacts_image
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [369, 2195, 495, 2321]
+resource-id: id/messages_image
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [657, 2195, 783, 2321]
+resource-id: id/keypad_image
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [685, 2321, 755, 2378]
+resource-id: id/tab_keypad_text
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [945, 2195, 1071, 2321]
+resource-id: id/find_image
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1233, 2195, 1359, 2321]
+resource-id: id/more_image
+tag: Image
+
+L9
+class: android.widget.Button
+bounds: [1369, 2213, 1422, 2266]
+resource-id: id/more_new_badge
+tag: Button
+
+L9
+class: android.widget.ImageView
+bounds: [1264, 112, 1422, 231]
+resource-id: id/messages_first_compose_imageview
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [0, 129, 398, 214]
+resource-id: id/messages_first_title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [158, 259, 1285, 399]
+resource-id: id/message_notify_setup_password_layout_text
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [1331, 302, 1384, 355]
+resource-id: id/message_notify_setup_password_clear
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [95, 694, 270, 869]
+resource-id: id/phone_imageview
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [305, 739, 1037, 824]
+resource-id: id/phone_textView
+tag: Text
+
+L10
+class: android.widget.ImageView
+bounds: [95, 1062, 270, 1237]
+resource-id: id/group_imageview
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [305, 1107, 939, 1192]
+resource-id: id/group_textView
+tag: Text
+
+L10
+class: android.widget.ImageView
+bounds: [95, 1430, 270, 1605]
+resource-id: id/user_imageview
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [305, 1475, 843, 1560]
+resource-id: id/user_textView
+tag: Text
+

@@ -1,0 +1,204 @@
+L10
+class: android.widget.ImageView
+bounds: [0, 434, 1440, 2079]
+resource-id: id/thumb_icon
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [0, 419, 201, 1026]
+resource-id: id/image_menu_icon
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [0, 1473, 201, 1877]
+resource-id: id/image_menu_icon
+tag: Image
+
+L6
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 434]
+resource-id: id/tool_bar_area
+tag: Bar
+
+L10
+class: android.widget.ImageView
+bounds: [0, 1554, 960, 2079]
+resource-id: id/thumb_icon
+tag: Image
+
+L6
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1152, 298]
+resource-id: id/menu_header
+tag: Header
+
+L7
+class: android.widget.FrameLayout
+bounds: [903, 114, 1134, 268]
+resource-id: id/button_menu_power
+tag: Button
+
+L7
+class: android.widget.TextView
+bounds: [18, 153, 867, 229]
+resource-id: id/text_menu_function_friendly_name
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [0, 334, 175, 381]
+resource-id: id/text_menu_name
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [201, 694, 492, 751]
+resource-id: id/text_menu_name
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [0, 1149, 201, 1350]
+resource-id: id/image_menu_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [201, 1221, 467, 1278]
+resource-id: id/text_menu_name
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [201, 1748, 507, 1805]
+resource-id: id/text_menu_name
+tag: Text
+
+L9
+class: android.widget.ImageButton
+bounds: [18, 102, 249, 256]
+resource-id: id/button_menu
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [747, 119, 852, 224]
+resource-id: id/tips_info_button
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [887, 119, 992, 224]
+resource-id: id/image_tv_access_status
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [0, 425, 1440, 434]
+resource-id: id/src_line_tab
+tag: Image
+
+L8
+class: android.widget.FrameLayout
+bounds: [18, 277, 249, 416]
+resource-id: id/multi_select_button_area
+tag: Button
+
+L7
+class: com.panasonic.pavc.viera.vieraremote2.view.ColorKeyBarView
+bounds: [0, 259, 1440, 434]
+resource-id: id/colorkey_bar
+tag: Bar
+
+L8
+class: com.panasonic.pavc.viera.vieraremote2.view.ColorkeyHeader
+bounds: [0, 259, 992, 434]
+resource-id: id/colorkey_header
+tag: Header
+
+L10
+class: com.panasonic.pavc.viera.vieraremote2.view.EffectImageButton
+bounds: [11, 291, 254, 401]
+resource-id: id/btn_r
+tag: Button
+
+L10
+class: com.panasonic.pavc.viera.vieraremote2.view.EffectImageButton
+bounds: [254, 291, 497, 401]
+resource-id: id/btn_g
+tag: Button
+
+L10
+class: com.panasonic.pavc.viera.vieraremote2.view.EffectImageButton
+bounds: [497, 291, 739, 401]
+resource-id: id/btn_b
+tag: Button
+
+L10
+class: com.panasonic.pavc.viera.vieraremote2.view.EffectImageButton
+bounds: [739, 291, 981, 401]
+resource-id: id/btn_y
+tag: Button
+
+L7
+class: com.panasonic.pavc.viera.vieraremote2.view.EffectImageButton
+bounds: [1090, 259, 1342, 434]
+resource-id: id/button_keyboard_send
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [1134, 532, 1274, 672]
+resource-id: id/balloon_close_btn
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [79, 690, 1221, 813]
+resource-id: id/balloon_text
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [992, 84, 1440, 455]
+resource-id: id/swipeshare_icon_base
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [116, 634, 1324, 753]
+resource-id: id/tips_title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [116, 753, 1324, 933]
+resource-id: id/tips_guide
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [418, 1225, 1021, 1564]
+resource-id: id/sas_play_movie_image
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [358, 1187, 1082, 1603]
+resource-id: id/sas_play_movie_event_view
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [461, 1187, 979, 1603]
+resource-id: id/sas_play_movie_btn
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [483, 1603, 956, 1842]
+resource-id: id/close_tips_Info_btn
+tag: Text
+

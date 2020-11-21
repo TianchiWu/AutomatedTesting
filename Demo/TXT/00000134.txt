@@ -1,0 +1,48 @@
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 640, 1384, 979]
+resource-id: id/
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 421, 188, 524]
+resource-id: id/
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [392, 435, 729, 505]
+resource-id: id/
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [1045, 98, 1412, 266]
+resource-id: id/
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 336, 721, 393]
+resource-id: id/
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatButton
+bounds: [308, 1084, 1131, 1252]
+resource-id: id/
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

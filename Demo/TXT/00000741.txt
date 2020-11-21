@@ -1,0 +1,162 @@
+L10
+class: android.widget.TextView
+bounds: [37, 1072, 1316, 1336]
+resource-id: id/druginfo_ending_value
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [37, 319, 1316, 385]
+resource-id: id/labelled_text_value
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [37, 522, 1316, 588]
+resource-id: id/labelled_text_value
+tag: Text
+
+L7
+class: com.montunosoftware.pillpopper.android.view.LabelledTextView
+bounds: [0, 455, 1440, 828]
+resource-id: id/edit_units_per_dose
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [37, 725, 1316, 791]
+resource-id: id/labelled_text_value
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [37, 906, 1316, 972]
+resource-id: id/labelled_text_value
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [37, 1436, 1316, 1502]
+resource-id: id/labelled_text_value
+tag: Text
+
+L6
+class: com.montunosoftware.pillpopper.android.view.LabelledTextView
+bounds: [0, 1369, 1440, 1775]
+resource-id: id/edit_drug_notes
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [37, 1639, 1316, 1705]
+resource-id: id/labelled_text_value
+tag: Text
+
+L5
+class: android.widget.ImageButton
+bounds: [0, 84, 149, 252]
+resource-id: id/edit_up_button
+tag: Button
+
+L5
+class: android.widget.TextView
+bounds: [149, 130, 379, 206]
+resource-id: id/edit_title_txt
+tag: Text
+
+L5
+class: android.widget.ImageButton
+bounds: [1233, 84, 1415, 252]
+resource-id: id/edit_done_button
+tag: Button
+
+L6
+class: com.montunosoftware.pillpopper.android.view.LabelledTextView
+bounds: [0, 252, 1440, 455]
+resource-id: id/edit_drug_name
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1334, 326, 1385, 377]
+resource-id: id/labelled_text_image
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1334, 529, 1385, 580]
+resource-id: id/labelled_text_image
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1334, 732, 1385, 783]
+resource-id: id/labelled_text_image
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [273, 846, 1167, 851]
+resource-id: id/edit_supplemental_data_0_separator
+tag: Image
+
+L7
+class: com.montunosoftware.pillpopper.android.view.LabelledTextView
+bounds: [37, 869, 1403, 1009]
+resource-id: id/edit_supplemental_data_0
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [1334, 913, 1385, 964]
+resource-id: id/labelled_text_image
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1334, 1178, 1385, 1229]
+resource-id: id/edit_schedule_summary_edit
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1334, 1443, 1385, 1494]
+resource-id: id/labelled_text_image
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1334, 1646, 1385, 1697]
+resource-id: id/labelled_text_image
+tag: Image
+
+L8
+class: com.montunosoftware.pillpopper.android.view.DrugImageView
+bounds: [545, 1805, 895, 2155]
+resource-id: id/edit_drug_image
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [559, 1819, 881, 2141]
+resource-id: id/drugimage_text
+tag: Text
+
+L9
+class: android.widget.Button
+bounds: [44, 2162, 713, 2196]
+resource-id: id/edit_drug_image_select_button
+tag: Button
+
+L9
+class: android.widget.Button
+bounds: [727, 2162, 1396, 2196]
+resource-id: id/edit_drug_image_clear_button
+tag: Button
+
+L4
+class: android.widget.Button
+bounds: [35, 2210, 1405, 2378]
+resource-id: id/edit_archive_button
+tag: Button
+

@@ -1,0 +1,168 @@
+L11
+class: android.widget.ImageView
+bounds: [14, 392, 1426, 2392]
+resource-id: id/hl_itemImage
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [49, 515, 720, 763]
+resource-id: id/hl_itemSubText
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [49, 1333, 720, 1518]
+resource-id: id/hl_itemSubText
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [49, 2088, 720, 2273]
+resource-id: id/hl_itemSubText
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [0, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L5
+class: com.boxed.gui.widget.UnreadBadgeImageView
+bounds: [1048, 84, 1440, 252]
+resource-id: id/ab_action_cart
+tag: Image
+
+L14
+class: android.widget.TextView
+bounds: [0, 252, 1440, 388]
+resource-id: id/banner_text
+tag: Text
+
+L9
+class: org.holoeverywhere.widget.ProgressBar
+bounds: [636, 1238, 804, 1406]
+resource-id: id/empty
+tag: Bar
+
+L6
+class: com.boxed.gui.widget.BXAutoResizeTextView
+bounds: [0, 252, 1440, 364]
+resource-id: id/message_box
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [42, 298, 784, 374]
+resource-id: id/tv_item_group_title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [840, 280, 952, 392]
+resource-id: id/iv_item_group_indicator
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [42, 466, 784, 542]
+resource-id: id/tv_item_group_title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [840, 448, 952, 560]
+resource-id: id/iv_item_group_indicator
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [42, 699, 980, 756]
+resource-id: id/tv_item_header_title
+tag: Header
+
+L8
+class: android.widget.TextView
+bounds: [42, 802, 784, 878]
+resource-id: id/tv_item_group_title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [42, 970, 784, 1046]
+resource-id: id/tv_item_group_title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [42, 1138, 784, 1214]
+resource-id: id/tv_item_group_title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [42, 1306, 784, 1382]
+resource-id: id/tv_item_group_title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [42, 1474, 784, 1550]
+resource-id: id/tv_item_group_title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [42, 1642, 784, 1718]
+resource-id: id/tv_item_group_title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [42, 1810, 784, 1886]
+resource-id: id/tv_item_group_title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [42, 1978, 784, 2054]
+resource-id: id/tv_item_group_title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [42, 2146, 784, 2222]
+resource-id: id/tv_item_group_title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [42, 2314, 784, 2390]
+resource-id: id/tv_item_group_title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [840, 2296, 952, 2392]
+resource-id: id/iv_item_group_indicator
+tag: Image
+
+L6
+class: android.widget.LinearLayout
+bounds: [406, 1238, 574, 1406]
+resource-id: id/empty
+tag: Bar
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L5
+class: android.widget.ImageView
+bounds: [656, 84, 852, 252]
+resource-id: id/no_id_cart_image
+tag: Image
+

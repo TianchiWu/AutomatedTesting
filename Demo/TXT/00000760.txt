@@ -1,0 +1,48 @@
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [851, 125, 1017, 238]
+resource-id: id/tv_header_weather
+tag: Header
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/header
+tag: Header
+
+L8
+class: android.widget.LinearLayout
+bounds: [653, 84, 1215, 280]
+resource-id: id/layout_header_weather
+tag: Header
+
+L12
+class: android.widget.LinearLayout
+bounds: [0, 280, 1440, 1455]
+resource-id: id/progress_layout
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1490, 1387, 1645]
+resource-id: id/tv_home_carousel_title
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1815, 1440, 2392]
+resource-id: id/iv_latest_entities_list_item
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,24 @@
+L4
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/rl_header
+tag: Header
+
+L5
+class: com.meritnation.school.modules.challenge.controller.widgets.CustomTextView
+bounds: [28, 112, 168, 252]
+resource-id: id/txt_time_remaining
+tag: Text
+
+L5
+class: com.meritnation.school.modules.challenge.controller.widgets.CustomTextView
+bounds: [689, 112, 750, 252]
+resource-id: id/txt_score
+tag: Text
+
+L7
+class: android.widget.ProgressBar
+bounds: [0, 287, 1440, 322]
+resource-id: id/pb_question_timer
+tag: Bar
+

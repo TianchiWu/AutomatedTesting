@@ -1,0 +1,156 @@
+L13
+class: android.widget.TextView
+bounds: [991, 859, 1440, 1110]
+resource-id: id/textNewsDate
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [1009, 1187, 1440, 1386]
+resource-id: id/textNewsDate
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [1009, 1505, 1440, 1704]
+resource-id: id/textNewsDate
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [1009, 1823, 1440, 2022]
+resource-id: id/textNewsDate
+tag: Text
+
+L11
+class: com.raycom.kait.v2.flexibleui.cssviews.CssRelativeLayout
+bounds: [0, 84, 168, 252]
+resource-id: id/button_menu_view
+tag: Button
+
+L12
+class: com.raycom.kait.common.CapitalizedTextView
+bounds: [168, 125, 956, 210]
+resource-id: id/side_menu_top_title_text
+tag: Text
+
+L13
+class: com.raycom.kait.v2.flexibleui.cssviews.CssImageButton
+bounds: [788, 84, 956, 252]
+resource-id: id/button_search
+tag: Button
+
+L11
+class: com.raycom.kait.v2.flexibleui.cssviews.CssImageView
+bounds: [251, 276, 307, 332]
+resource-id: id/side_menu_sub_title_icon
+tag: Image
+
+L11
+class: com.raycom.kait.common.CapitalizedTextView
+bounds: [307, 271, 740, 337]
+resource-id: id/side_menu_sub_title_text
+tag: Text
+
+L12
+class: com.raycom.kait.common.CategoryTextView
+bounds: [35, 376, 675, 461]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.kait.common.CategoryTextView
+bounds: [35, 500, 712, 585]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.kait.common.CategoryTextView
+bounds: [35, 624, 678, 709]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.kait.common.CategoryTextView
+bounds: [35, 748, 729, 833]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.kait.common.CategoryTextView
+bounds: [35, 872, 529, 957]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.kait.common.CategoryTextView
+bounds: [35, 996, 386, 1081]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L12
+class: com.raycom.kait.common.CategoryTextView
+bounds: [35, 1120, 337, 1205]
+resource-id: id/side_menu_item_title
+tag: Text
+
+L8
+class: android.widget.FrameLayout
+bounds: [788, 2245, 956, 2392]
+resource-id: id/button_settings_selector
+tag: Button
+
+L8
+class: com.raycom.kait.animation.AnimRelativeLayout
+bounds: [956, 84, 1440, 252]
+resource-id: id/topbar
+tag: Bar
+
+L10
+class: android.widget.FrameLayout
+bounds: [956, 84, 1124, 252]
+resource-id: id/button_menu_selector
+tag: Button
+
+L11
+class: android.widget.ImageView
+bounds: [1005, 135, 1070, 200]
+resource-id: id/search_icon
+tag: Image
+
+L11
+class: android.widget.EditText
+bounds: [1103, 96, 1440, 240]
+resource-id: id/search_text
+tag: Text
+
+L7
+class: android.widget.RelativeLayout
+bounds: [956, 318, 1440, 2217]
+resource-id: id/news_placeholder
+tag: Bar
+
+L12
+class: android.widget.ImageView
+bounds: [956, 318, 1440, 1128]
+resource-id: id/imgIcon
+tag: Image
+
+L14
+class: android.widget.TextView
+bounds: [1009, 2141, 1440, 2217]
+resource-id: id/textNews
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

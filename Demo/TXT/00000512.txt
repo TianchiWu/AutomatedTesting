@@ -1,0 +1,120 @@
+L8
+class: joelosteen.android.phone.JOMApp.NavButton
+bounds: [0, 238, 1216, 408]
+resource-id: id/navFeaturedBtn
+tag: Button
+
+L8
+class: joelosteen.android.phone.JOMApp.NavButton
+bounds: [0, 408, 1216, 578]
+resource-id: id/navMessagesBtn
+tag: Button
+
+L8
+class: joelosteen.android.phone.JOMApp.NavButton
+bounds: [0, 575, 1216, 745]
+resource-id: id/navDevotionalsBtn
+tag: Button
+
+L8
+class: joelosteen.android.phone.JOMApp.NavButton
+bounds: [0, 745, 1216, 915]
+resource-id: id/navSupportBtn
+tag: Button
+
+L8
+class: joelosteen.android.phone.JOMApp.NavButton
+bounds: [0, 912, 1216, 1082]
+resource-id: id/navBroadcastsBtn
+tag: Button
+
+L8
+class: joelosteen.android.phone.JOMApp.NavButton
+bounds: [0, 1082, 1216, 1252]
+resource-id: id/navEventsBtn
+tag: Button
+
+L8
+class: joelosteen.android.phone.JOMApp.NavButton
+bounds: [0, 1252, 1216, 1422]
+resource-id: id/navFindChurchBtn
+tag: Button
+
+L8
+class: joelosteen.android.phone.JOMApp.NavButton
+bounds: [0, 1422, 1216, 1592]
+resource-id: id/navYoutubeClipsBtn
+tag: Button
+
+L8
+class: joelosteen.android.phone.JOMApp.NavButton
+bounds: [0, 1592, 1216, 1762]
+resource-id: id/navSettingsBtn
+tag: Button
+
+L9
+class: android.widget.ImageView
+bounds: [209, 1930, 329, 2070]
+resource-id: id/navFacebookBtn
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [413, 1930, 553, 2070]
+resource-id: id/navTwitterBtn
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [637, 1930, 777, 2070]
+resource-id: id/navYoutubeBtn
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [861, 1930, 1001, 2070]
+resource-id: id/navInstagramBtn
+tag: Image
+
+L9
+class: android.widget.Button
+bounds: [1255, 105, 1404, 207]
+resource-id: id/mainNavBtn
+tag: Button
+
+L14
+class: joelosteen.android.phone.JOMApp.SearchEditText
+bounds: [1280, 259, 1440, 367]
+resource-id: id/broadcastSearchBox
+tag: Text
+
+L11
+class: android.widget.FrameLayout
+bounds: [1255, 395, 1440, 2101]
+resource-id: id/broadcastMiddleFrame
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [1255, 395, 1440, 502]
+resource-id: id/broadcastSorryImgView
+tag: Image
+
+L15
+class: android.widget.TextView
+bounds: [1332, 458, 1440, 574]
+resource-id: id/broadcastStartWeekTxtView
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [1332, 658, 1440, 711]
+resource-id: id/broadcastListingsHeaderLocalTxtView
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [1332, 809, 1440, 862]
+resource-id: id/broadcastListingsHeaderNationalTxtView
+tag: Text
+

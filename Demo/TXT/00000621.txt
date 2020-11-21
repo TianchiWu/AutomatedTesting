@@ -1,0 +1,66 @@
+L10
+class: android.widget.TextView
+bounds: [0, 1325, 1440, 2164]
+resource-id: id/teamhome_settings
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [0, 490, 1440, 1154]
+resource-id: id/teamhome_news
+tag: Text
+
+L17
+class: android.widget.ImageView
+bounds: [0, 280, 1440, 426]
+resource-id: id/GameActionView_contentTickets
+tag: Image
+
+L5
+class: android.widget.LinearLayout
+bounds: [0, 280, 1440, 403]
+resource-id: id/teamheader_layout
+tag: Header
+
+L6
+class: android.widget.ImageView
+bounds: [665, 301, 746, 382]
+resource-id: id/teamhdr_image
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [0, 1158, 1440, 1321]
+resource-id: id/teamhome_video
+tag: Video
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [196, 139, 619, 224]
+resource-id: id/NavigationListItemView_title
+tag: Text
+
+L5
+class: com.android.internal.view.menu.ActionMenuItemView
+bounds: [1272, 98, 1440, 266]
+resource-id: id/ActionBarMenuItem_video
+tag: Video
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

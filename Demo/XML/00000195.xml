@@ -1,0 +1,21 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>00000195</filename>
+  <size>
+    <width>1440</width>
+    <height>2560</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Text</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>401</xmin>
+      <ymin> 2101</ymin>
+      <xmax> 1038</xmax>
+      <ymax> 2273</ymax>
+    </bndbox>
+  </object>
+</annotation>

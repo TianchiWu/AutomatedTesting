@@ -1,0 +1,18 @@
+L6
+class: com.here.components.widget.TopBarView
+bounds: [0, 84, 1440, 308]
+resource-id: id/topBarView
+tag: Bar
+
+L8
+class: android.widget.ImageView
+bounds: [56, 84, 154, 304]
+resource-id: id/backAction
+tag: Image
+
+L7
+class: android.widget.FrameLayout
+bounds: [196, 84, 1384, 304]
+resource-id: id/centerContent
+tag: Text
+

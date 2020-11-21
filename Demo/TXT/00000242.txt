@@ -1,0 +1,6 @@
+L4
+class: android.widget.ImageView
+bounds: [0, 0, 1440, 1595]
+resource-id: id/ImageViewStart
+tag: Image
+

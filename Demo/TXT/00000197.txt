@@ -1,0 +1,78 @@
+L9
+class: android.widget.TextView
+bounds: [299, 117, 419, 174]
+resource-id: id/title
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [990, 117, 1170, 174]
+resource-id: id/title
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [14, 207, 172, 382]
+resource-id: id/tb_cs_btn
+tag: Image
+
+L13
+class: android.widget.TextView
+bounds: [207, 254, 1233, 339]
+resource-id: id/tl_url
+tag: Text
+
+L12
+class: android.widget.ImageView
+bounds: [1286, 221, 1426, 368]
+resource-id: id/tb_stop
+tag: Image
+
+L12
+class: android.widget.ImageView
+bounds: [1268, 207, 1426, 382]
+resource-id: id/tb_rt_btn
+tag: Image
+
+L7
+class: android.widget.ProgressBar
+bounds: [0, 2251, 1440, 2269]
+resource-id: id/progress_bar
+tag: Bar
+
+L10
+class: android.widget.ImageButton
+bounds: [0, 2269, 240, 2392]
+resource-id: id/cus_btn0
+tag: Button
+
+L10
+class: android.widget.ImageButton
+bounds: [240, 2269, 480, 2392]
+resource-id: id/cus_btn1
+tag: Button
+
+L10
+class: android.widget.ImageButton
+bounds: [480, 2269, 720, 2392]
+resource-id: id/cus_btn2
+tag: Button
+
+L10
+class: android.widget.ImageButton
+bounds: [720, 2269, 960, 2392]
+resource-id: id/cus_btn3
+tag: Button
+
+L10
+class: android.widget.ImageButton
+bounds: [960, 2269, 1200, 2392]
+resource-id: id/cus_btn4
+tag: Button
+
+L10
+class: android.widget.ImageButton
+bounds: [1200, 2269, 1440, 2392]
+resource-id: id/cus_btn5
+tag: Button
+

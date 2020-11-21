@@ -1,0 +1,96 @@
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbarrel
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [218, 127, 1277, 267]
+resource-id: id/logo
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1277, 127, 1365, 267]
+resource-id: id/mic
+tag: Image
+
+L13
+class: com.balysv.materialmenu.ps.MaterialMenuView
+bounds: [57, 127, 197, 267]
+resource-id: id/material_menu_button
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [85, 155, 169, 239]
+resource-id: id/drawer_logo
+tag: Image
+
+L10
+class: com.gc.materialdesign.views.ProgressBarCircularIndeterminate
+bounds: [636, 1252, 804, 1420]
+resource-id: id/progressBarCircularIndetermininatehome
+tag: Bar
+
+L13
+class: android.widget.RelativeLayout
+bounds: [0, 280, 1440, 1190]
+resource-id: id/relslider
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 979, 1440, 1050]
+resource-id: id/textView1
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatButton
+bounds: [28, 1218, 713, 1386]
+resource-id: id/topbutton1
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatButton
+bounds: [727, 1218, 1412, 1386]
+resource-id: id/topbutton2
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatButton
+bounds: [28, 1400, 713, 1568]
+resource-id: id/topbutton3
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatButton
+bounds: [727, 1400, 1412, 1568]
+resource-id: id/topbutton4
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1596, 1440, 2217]
+resource-id: id/image
+tag: Image
+
+L11
+class: com.getbase.floatingactionbutton.FloatingActionButton
+bounds: [1175, 1923, 1378, 2126]
+resource-id: id/action_one
+tag: Button
+
+L11
+class: com.getbase.floatingactionbutton.FloatingActionsMenu$1
+bounds: [1147, 1923, 1405, 2182]
+resource-id: id/fab_expand_menu_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

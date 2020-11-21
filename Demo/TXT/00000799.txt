@@ -1,0 +1,126 @@
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 259, 1440, 340]
+resource-id: id/psts_tab_title
+tag: Text
+
+L17
+class: mobi.infolife.card.view.style.AmberTextView
+bounds: [70, 1020, 393, 1436]
+resource-id: id/text_now_condition
+tag: Text
+
+L18
+class: mobi.infolife.card.view.style.AmberTextView
+bounds: [261, 1471, 563, 1546]
+resource-id: id/text_now_feels_temp
+tag: Text
+
+L3
+class: android.support.v7.internal.widget.FitWindowsLinearLayout
+bounds: [0, 0, 1440, 2392]
+resource-id: id/action_bar_root
+tag: Image
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 259]
+resource-id: id/toolbar
+tag: Bar
+
+L9
+class: android.support.v7.widget.AppCompatSpinner
+bounds: [196, 84, 420, 259]
+resource-id: id/spinner_toolbar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [196, 128, 252, 213]
+resource-id: id/name
+tag: Text
+
+L9
+class: android.support.v4.view.ViewPager
+bounds: [0, 347, 1440, 2392]
+resource-id: id/view_pager_weather
+tag: Image
+
+L18
+class: mobi.infolife.card.view.style.AmberTextView
+bounds: [114, 1471, 189, 1546]
+resource-id: id/text_now_low_temp
+tag: Text
+
+L18
+class: mobi.infolife.card.view.style.AmberTextView
+bounds: [160, 1770, 316, 1839]
+resource-id: id/text_now_detail_wind
+tag: Text
+
+L18
+class: mobi.infolife.card.view.style.AmberTextView
+bounds: [687, 1770, 752, 1839]
+resource-id: id/text_now_detail_humidity
+tag: Text
+
+L18
+class: mobi.infolife.card.view.style.AmberTextView
+bounds: [1160, 1770, 1242, 1839]
+resource-id: id/text_now_detail_visibility
+tag: Text
+
+L18
+class: mobi.infolife.card.view.style.AmberTextView
+bounds: [155, 2014, 322, 2083]
+resource-id: id/text_now_detail_pressure
+tag: Text
+
+L18
+class: mobi.infolife.card.view.style.AmberTextView
+bounds: [685, 2014, 754, 2083]
+resource-id: id/text_now_detail_uv
+tag: Text
+
+L18
+class: mobi.infolife.card.view.style.AmberTextView
+bounds: [1092, 2014, 1310, 2083]
+resource-id: id/text_now_detail_sun
+tag: Text
+
+L18
+class: mobi.infolife.card.view.style.AmberTextView
+bounds: [1054, 1900, 1348, 1966]
+resource-id: id/text_now_detail_sun_desc
+tag: Text
+
+L18
+class: android.widget.ImageView
+bounds: [560, 2295, 787, 2392]
+resource-id: id/img_wind_card_direction
+tag: Image
+
+L17
+class: mobi.infolife.card.view.style.AmberTextView
+bounds: [992, 2362, 1237, 2392]
+resource-id: id/text_wind_card_wind
+tag: Text
+
+L9
+class: android.widget.ProgressBar
+bounds: [583, 1101, 856, 1374]
+resource-id: id/screenloadingbar
+tag: Bar
+
+L13
+class: android.widget.ImageView
+bounds: [0, 347, 1440, 2392]
+resource-id: id/city_listview_toggle
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

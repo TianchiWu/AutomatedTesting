@@ -1,0 +1,24 @@
+L6
+class: android.widget.ImageView
+bounds: [580, 117, 860, 212]
+resource-id: id/logoCielo
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [70, 316, 1300, 467]
+resource-id: id/texto
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [70, 603, 1300, 754]
+resource-id: id/texto
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [70, 890, 1300, 1041]
+resource-id: id/texto
+tag: Text
+

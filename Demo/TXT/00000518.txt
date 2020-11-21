@@ -1,0 +1,36 @@
+L5
+class: android.widget.ImageButton
+bounds: [18, 18, 263, 149]
+resource-id: id/menuBtnId1
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [1177, 18, 1422, 149]
+resource-id: id/noteBtnId2
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [597, 9, 842, 140]
+resource-id: id/downloadBtnId3
+tag: Button
+
+L4
+class: android.widget.ImageView
+bounds: [0, 149, 1440, 1589]
+resource-id: id/image
+tag: Image
+
+L5
+class: android.widget.ImageButton
+bounds: [87, 198, 262, 373]
+resource-id: id/settingBtnId
+tag: Button
+
+L5
+class: android.widget.ImageButton
+bounds: [91, 422, 259, 590]
+resource-id: id/resetBtnId
+tag: Button
+

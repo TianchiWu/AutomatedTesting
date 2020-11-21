@@ -1,0 +1,90 @@
+L7
+class: android.widget.TextView
+bounds: [372, 182, 839, 315]
+resource-id: id/account_name
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [176, 182, 316, 322]
+resource-id: id/account_profile_picture
+tag: Image
+
+L7
+class: android.widget.LinearLayout
+bounds: [176, 448, 1264, 575]
+resource-id: id/header_fragment_layout
+tag: Header
+
+L9
+class: android.widget.TextView
+bounds: [176, 448, 1264, 533]
+resource-id: id/app_name
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [176, 617, 260, 701]
+resource-id: id/scope_icon
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [1180, 617, 1264, 701]
+resource-id: id/scope_details_icon
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [176, 785, 260, 869]
+resource-id: id/scope_icon
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [1180, 785, 1264, 869]
+resource-id: id/scope_details_icon
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [302, 785, 1009, 851]
+resource-id: id/scope_description_label
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [176, 953, 260, 1037]
+resource-id: id/scope_icon
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [1180, 953, 1264, 1037]
+resource-id: id/scope_details_icon
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [302, 953, 886, 1019]
+resource-id: id/scope_description_label
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [176, 1079, 1264, 1276]
+resource-id: id/footnote
+tag: Text
+
+L7
+class: android.widget.Button
+bounds: [676, 2168, 984, 2294]
+resource-id: id/cancel_button
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [984, 2168, 1292, 2294]
+resource-id: id/accept_button
+tag: Button
+

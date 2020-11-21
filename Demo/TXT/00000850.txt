@@ -1,0 +1,114 @@
+L13
+class: android.widget.RelativeLayout
+bounds: [0, 392, 1440, 897]
+resource-id: id/location_header
+tag: Header
+
+L4
+class: com.inrix.lib.view.AppBar
+bounds: [0, 84, 1440, 252]
+resource-id: id/app_bar
+tag: Bar
+
+L6
+class: android.widget.LinearLayout
+bounds: [217, 84, 1440, 248]
+resource-id: id/app_bar_header_search
+tag: Header
+
+L8
+class: com.inrix.lib.view.RobotoEditText
+bounds: [217, 107, 1398, 228]
+resource-id: id/search_text
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [245, 131, 319, 205]
+resource-id: id/spyglass
+tag: Image
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 2199, 1440, 2392]
+resource-id: id/action_buttons_container
+tag: Button
+
+L9
+class: android.widget.LinearLayout
+bounds: [0, 2199, 716, 2392]
+resource-id: id/save_button
+tag: Button
+
+L9
+class: android.widget.LinearLayout
+bounds: [723, 2199, 1440, 2392]
+resource-id: id/navigate_to_button
+tag: Button
+
+L10
+class: android.widget.RelativeLayout
+bounds: [0, 252, 1440, 392]
+resource-id: id/saved_places_header
+tag: Header
+
+L11
+class: com.inrix.lib.view.RobotoTextView
+bounds: [1241, 252, 1440, 392]
+resource-id: id/edit_places
+tag: Text
+
+L16
+class: android.widget.ImageView
+bounds: [42, 441, 126, 525]
+resource-id: id/icon
+tag: Image
+
+L16
+class: com.inrix.lib.view.RobotoTextView
+bounds: [168, 427, 391, 540]
+resource-id: id/name
+tag: Text
+
+L15
+class: com.inrix.lib.view.RobotoTextView
+bounds: [42, 540, 461, 606]
+resource-id: id/address
+tag: Text
+
+L16
+class: android.widget.ImageView
+bounds: [42, 697, 126, 781]
+resource-id: id/icon
+tag: Image
+
+L16
+class: com.inrix.lib.view.RobotoTextView
+bounds: [168, 683, 363, 796]
+resource-id: id/name
+tag: Text
+
+L15
+class: com.inrix.lib.view.RobotoTextView
+bounds: [42, 796, 442, 862]
+resource-id: id/address
+tag: Text
+
+L10
+class: android.widget.RelativeLayout
+bounds: [0, 904, 1440, 1044]
+resource-id: id/recent_places_header
+tag: Header
+
+L11
+class: android.widget.RelativeLayout
+bounds: [1272, 904, 1440, 1044]
+resource-id: id/clear_button
+tag: Button
+
+L10
+class: com.inrix.lib.view.RobotoTextView
+bounds: [42, 1086, 517, 1171]
+resource-id: id/list_empty_view
+tag: Text
+

@@ -1,0 +1,30 @@
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1249, 784, 1412, 947]
+resource-id: id/imgSeeThrough
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 1019, 144, 1457]
+resource-id: id/btnPrevious
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1296, 1019, 1384, 1457]
+resource-id: id/btnNext
+tag: Image
+
+L10
+class: com.familywall.widget.TextView
+bounds: [224, 999, 1216, 1376]
+resource-id: id/txtBody
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

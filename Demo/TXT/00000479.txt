@@ -1,0 +1,180 @@
+L13
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [56, 1874, 463, 2072]
+resource-id: id/home_record
+tag: Text
+
+L13
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [56, 2158, 377, 2356]
+resource-id: id/home_record
+tag: Text
+
+L13
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [56, 597, 324, 795]
+resource-id: id/home_name
+tag: Text
+
+L13
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [879, 604, 984, 788]
+resource-id: id/home_score
+tag: Text
+
+L13
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [56, 881, 289, 1079]
+resource-id: id/home_name
+tag: Text
+
+L13
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [879, 888, 984, 1072]
+resource-id: id/home_score
+tag: Text
+
+L13
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [56, 1165, 314, 1363]
+resource-id: id/home_name
+tag: Text
+
+L13
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [879, 1172, 984, 1356]
+resource-id: id/home_score
+tag: Text
+
+L13
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [56, 1449, 296, 1647]
+resource-id: id/home_name
+tag: Text
+
+L13
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [879, 1456, 984, 1640]
+resource-id: id/home_score
+tag: Text
+
+L13
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [879, 1881, 984, 2065]
+resource-id: id/home_score
+tag: Text
+
+L13
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [879, 2165, 984, 2349]
+resource-id: id/home_score
+tag: Text
+
+L7
+class: com.sports.schedules.library.ui.views.TitleBarView
+bounds: [0, 84, 1440, 238]
+resource-id: id/titlebar
+tag: Bar
+
+L8
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [0, 84, 154, 238]
+resource-id: id/title_menu
+tag: Text
+
+L8
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [1286, 84, 1440, 238]
+resource-id: id/title_settings
+tag: Text
+
+L9
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [266, 115, 1174, 215]
+resource-id: id/title_text
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [970, 732, 984, 759]
+resource-id: id/home_triangle
+tag: Image
+
+L12
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [1020, 596, 1229, 706]
+resource-id: id/time
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [970, 917, 984, 944]
+resource-id: id/away_triangle
+tag: Image
+
+L12
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [1020, 880, 1229, 990]
+resource-id: id/time
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [970, 1300, 984, 1327]
+resource-id: id/home_triangle
+tag: Image
+
+L12
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [1020, 1164, 1229, 1274]
+resource-id: id/time
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [970, 1584, 984, 1611]
+resource-id: id/home_triangle
+tag: Image
+
+L12
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [1020, 1448, 1204, 1558]
+resource-id: id/time
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [970, 1910, 984, 1937]
+resource-id: id/away_triangle
+tag: Image
+
+L12
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [1020, 1873, 1227, 1983]
+resource-id: id/time
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [970, 2194, 984, 2221]
+resource-id: id/away_triangle
+tag: Image
+
+L12
+class: com.sports.schedules.library.ui.views.TextViewFont
+bounds: [1020, 2157, 1227, 2267]
+resource-id: id/time
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

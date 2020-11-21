@@ -1,0 +1,12 @@
+L2
+class: android.widget.FrameLayout
+bounds: [0, 0, 1440, 2392]
+resource-id: id/content
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [1356, 0, 1440, 84]
+resource-id: id/img_close
+tag: Image
+

@@ -1,0 +1,60 @@
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [450, 315, 990, 659]
+resource-id: id/iv_pkg_logo
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatButton
+bounds: [412, 733, 720, 901]
+resource-id: id/pkg_bird_list
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatButton
+bounds: [720, 733, 1028, 901]
+resource-id: id/pkg_btn_install
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 993, 1387, 1230]
+resource-id: id/tv_pkg_detail_description
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1266, 1277, 1421]
+resource-id: id/tv_pkg_detail_credit
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [74, 1617, 146, 1674]
+resource-id: id/tv_pkg_details_num_birds
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [671, 1617, 816, 1674]
+resource-id: id/tv_pkg_details_download_size
+tag: Text
+
+L4
+class: android.support.v7.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [481, 135, 959, 228]
+resource-id: id/tv_title
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 84, 123, 280]
+resource-id: id/btn_drawer_menu
+tag: Image
+

@@ -1,0 +1,90 @@
+L10
+class: com.frankly.news.widget.CustomTextView
+bounds: [70, 1256, 1370, 1976]
+resource-id: id/frn_published_date
+tag: Text
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/frn_toolbar
+tag: Bar
+
+L7
+class: android.support.v7.widget.AppCompatImageView
+bounds: [496, 98, 916, 266]
+resource-id: id/frn_image_logo
+tag: Image
+
+L10
+class: com.frankly.news.widget.SlideshowView
+bounds: [0, 280, 1440, 1090]
+resource-id: id/frn_view_image_slide_show
+tag: Video
+
+L9
+class: android.widget.RelativeLayout
+bounds: [0, 280, 1440, 1090]
+resource-id: id/frn_video_container
+tag: Video
+
+L14
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [346, 796, 595, 978]
+resource-id: id/rew
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [595, 796, 844, 978]
+resource-id: id/pause
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [844, 796, 1093, 978]
+resource-id: id/ffwd
+tag: Button
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 978, 28, 1058]
+resource-id: id/time_current
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatSeekBar
+bounds: [28, 978, 1412, 1090]
+resource-id: id/mediacontroller_progress
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1261, 786, 1436, 961]
+resource-id: id/frn_caption_button
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [28, 824, 151, 947]
+resource-id: id/frn_fullscreen_button
+tag: Button
+
+L10
+class: android.widget.ProgressBar
+bounds: [636, 601, 804, 769]
+resource-id: id/frn_loading_view
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

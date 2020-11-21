@@ -1,0 +1,168 @@
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1121, 84, 1440, 280]
+resource-id: id/shortlistOnActionBar
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [73, 1331, 389, 1397]
+resource-id: id/propertyTypeText
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [73, 2383, 784, 2392]
+resource-id: id/propertyTypeText
+tag: Text
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 84, 224, 280]
+resource-id: id/navigationMenuBurgerImageView
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [242, 137, 597, 222]
+resource-id: id/localitySelectedTextView
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1195, 136, 1244, 185]
+resource-id: id/notificationOnActionBarTextView
+tag: Text
+
+L9
+class: com.commonfloor.ui.CustomTextView
+bounds: [60, 319, 337, 390]
+resource-id: id/resultTV
+tag: Text
+
+L9
+class: com.commonfloor.ui.CustomTextView
+bounds: [1154, 316, 1384, 392]
+resource-id: id/listViewTV
+tag: Text
+
+L15
+class: android.widget.FrameLayout
+bounds: [38, 474, 1402, 1221]
+resource-id: id/propertyListingImageView
+tag: Image
+
+L16
+class: android.widget.ProgressBar
+bounds: [636, 763, 804, 931]
+resource-id: id/progressBarInSRP
+tag: Bar
+
+L18
+class: android.support.v7.widget.AppCompatTextView
+bounds: [74, 998, 487, 1096]
+resource-id: id/priceRangeText
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [38, 1096, 487, 1100]
+resource-id: id/separater2
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [38, 1100, 487, 1185]
+resource-id: id/areaRangeText
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [73, 1221, 496, 1320]
+resource-id: id/projectNameText
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [134, 1405, 458, 1471]
+resource-id: id/projectHolderName
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [545, 1405, 762, 1471]
+resource-id: id/projectLocationName
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1160, 1114, 1370, 1324]
+resource-id: id/callImageView
+tag: Image
+
+L15
+class: android.widget.FrameLayout
+bounds: [38, 1526, 1402, 2273]
+resource-id: id/propertyListingImageView
+tag: Image
+
+L16
+class: android.widget.ProgressBar
+bounds: [636, 1815, 804, 1983]
+resource-id: id/progressBarInSRP
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1052, 1561, 1192, 1701]
+resource-id: id/projectThreeDImageView
+tag: Image
+
+L18
+class: android.support.v7.widget.AppCompatTextView
+bounds: [74, 2050, 492, 2148]
+resource-id: id/priceRangeText
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [38, 2148, 492, 2152]
+resource-id: id/separater2
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [38, 2152, 492, 2237]
+resource-id: id/areaRangeText
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [73, 2273, 787, 2372]
+resource-id: id/projectNameText
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1160, 2166, 1370, 2376]
+resource-id: id/callImageView
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

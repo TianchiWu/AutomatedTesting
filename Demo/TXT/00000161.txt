@@ -1,0 +1,24 @@
+L8
+class: android.widget.ImageView
+bounds: [374, 1140, 1440, 1632]
+resource-id: id/ImageViewStartSticker
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [0, 1639, 1440, 1709]
+resource-id: id/ImageViewStartBarOtherApps
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [0, 0, 1440, 1140]
+resource-id: id/ImageViewStartLogo
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [0, 1140, 374, 1632]
+resource-id: id/ImageViewFacebook
+tag: Image
+

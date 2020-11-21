@@ -1,0 +1,18 @@
+L4
+class: android.widget.TextView
+bounds: [0, 102, 1440, 377]
+resource-id: id/appVersionText
+tag: Text
+
+L4
+class: android.widget.ImageView
+bounds: [490, 447, 950, 907]
+resource-id: id/logoImage
+tag: Image
+
+L4
+class: android.widget.ImageButton
+bounds: [228, 977, 1212, 2322]
+resource-id: id/getstarted
+tag: Button
+

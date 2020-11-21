@@ -1,0 +1,198 @@
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1064, 2392]
+resource-id: id/layout_root
+tag: Text
+
+L9
+class: com.lazada.customviews.FontTextView
+bounds: [0, 96, 1064, 2392]
+resource-id: id/txt_name
+tag: Text
+
+L18
+class: com.lazada.customviews.FontTextView
+bounds: [56, 1995, 374, 2118]
+resource-id: id/product_discount
+tag: Text
+
+L18
+class: com.lazada.customviews.FontTextView
+bounds: [574, 1995, 892, 2118]
+resource-id: id/product_discount
+tag: Text
+
+L18
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1435, 1440, 1995]
+resource-id: id/product_photo
+tag: Image
+
+L18
+class: com.lazada.customviews.FontTextView
+bounds: [1092, 1995, 1410, 2118]
+resource-id: id/product_discount
+tag: Text
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 658, 1440, 1057]
+resource-id: id/im_background
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 1104, 154, 1230]
+resource-id: id/ivHeaderImage
+tag: Image
+
+L16
+class: com.lazada.customviews.FontTextView
+bounds: [196, 1086, 1440, 1249]
+resource-id: id/tvHeaderTitle
+tag: Text
+
+L14
+class: com.lazada.customviews.FontTextView
+bounds: [0, 1258, 1440, 1435]
+resource-id: id/tvTimeRemaining
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [42, 2252, 154, 2378]
+resource-id: id/ivHeaderImage
+tag: Image
+
+L16
+class: com.lazada.customviews.FontTextView
+bounds: [196, 2234, 1440, 2392]
+resource-id: id/tvHeaderTitle
+tag: Text
+
+L7
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 462]
+resource-id: id/appbar_layout
+tag: Bar
+
+L10
+class: com.lazada.customviews.FontTextView
+bounds: [56, 280, 1186, 448]
+resource-id: id/txt_search
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1188, 280, 1384, 448]
+resource-id: id/camera_search
+tag: Image
+
+L9
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L12
+class: com.lazada.customviews.FontTextView
+bounds: [1188, 112, 1258, 182]
+resource-id: id/txt_goods_count
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 162, 1064, 194]
+resource-id: id/img_logo
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 326, 1064, 358]
+resource-id: id/img_logo
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 490, 1064, 522]
+resource-id: id/img_logo
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 654, 1064, 686]
+resource-id: id/img_logo
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 818, 1064, 850]
+resource-id: id/img_logo
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 982, 1064, 1014]
+resource-id: id/img_logo
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 1146, 1064, 1178]
+resource-id: id/img_logo
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 1310, 1064, 1342]
+resource-id: id/img_logo
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 1474, 1064, 1506]
+resource-id: id/img_logo
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 1638, 1064, 1670]
+resource-id: id/img_logo
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 1802, 1064, 1834]
+resource-id: id/img_logo
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 1966, 1064, 1998]
+resource-id: id/img_logo
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 2130, 1064, 2162]
+resource-id: id/img_logo
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [924, 2294, 1064, 2326]
+resource-id: id/img_logo
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

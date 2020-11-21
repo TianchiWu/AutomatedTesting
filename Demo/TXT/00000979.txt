@@ -1,0 +1,84 @@
+L7
+class: android.widget.TextView
+bounds: [0, 84, 1125, 259]
+resource-id: id/messages_compose_all_tv
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [0, 84, 206, 259]
+resource-id: id/messages_compose_done
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [1195, 84, 1422, 259]
+resource-id: id/messages_compose_cancel
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [0, 259, 1440, 357]
+resource-id: id/tv_compose_tip
+tag: Text
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 357, 1440, 532]
+resource-id: id/search_bar
+tag: Bar
+
+L10
+class: android.widget.TextView
+bounds: [35, 406, 111, 482]
+resource-id: id/contact_pick_input_to_tv
+tag: Text
+
+L9
+class: me.dingtone.app.im.view.contactpicker.ContactPickerView
+bounds: [111, 357, 1440, 532]
+resource-id: id/view_contact_picker
+tag: Picker
+
+L15
+class: me.dingtone.app.im.view.contactpicker.MaxEditText
+bounds: [149, 411, 499, 477]
+resource-id: id/et_text
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [146, 406, 1070, 482]
+resource-id: id/tv_hint
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [0, 534, 1440, 641]
+resource-id: id/contact_header_text
+tag: Header
+
+L11
+class: android.widget.FrameLayout
+bounds: [35, 676, 175, 816]
+resource-id: id/photo_layout
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [210, 708, 489, 784]
+resource-id: id/compose_all_item_name
+tag: Text
+
+L11
+class: android.widget.FrameLayout
+bounds: [35, 888, 175, 1028]
+resource-id: id/photo_layout
+tag: Image
+
+L12
+class: android.widget.TextView
+bounds: [210, 920, 592, 996]
+resource-id: id/compose_all_item_name
+tag: Text
+

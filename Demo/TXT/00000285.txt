@@ -1,0 +1,96 @@
+L9
+class: com.pinterest.ui.actionbar.ActionBar
+bounds: [0, 84, 1440, 336]
+resource-id: id/actionbar
+tag: NavigationBar
+
+L10
+class: com.pinterest.design.brio.widget.Toolbar
+bounds: [0, 84, 1440, 308]
+resource-id: id/actionbar_internal
+tag: Bar
+
+L11
+class: com.pinterest.design.brio.widget.IconView
+bounds: [7, 98, 203, 294]
+resource-id: id/bar_home
+tag: Bar
+
+L11
+class: android.widget.LinearLayout
+bounds: [893, 98, 1425, 294]
+resource-id: id/bar_icons
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1134, 154, 1211, 238]
+resource-id: id/notification_icon_empty
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1306, 154, 1376, 238]
+resource-id: id/profile_icon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [964, 1234, 1164, 1434]
+resource-id: id/education_pulsar_inner
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [917, 1187, 1211, 1481]
+resource-id: id/education_pulsar_outer
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [273, 1292, 473, 1492]
+resource-id: id/education_pulsar_inner
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [226, 1245, 520, 1539]
+resource-id: id/education_pulsar_outer
+tag: Image
+
+L8
+class: com.pinterest.education.view.EducationPulsarView
+bounds: [0, 84, 420, 504]
+resource-id: id/education_pulsar_view
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [91, 175, 329, 413]
+resource-id: id/education_pulsar_inner
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 84, 420, 504]
+resource-id: id/education_pulsar_outer
+tag: Image
+
+L10
+class: com.pinterest.design.brio.widget.BrioTextView
+bounds: [56, 2156, 1383, 2336]
+resource-id: id/education_prompt_title
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

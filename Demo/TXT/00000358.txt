@@ -1,0 +1,96 @@
+L11
+class: android.widget.ImageView
+bounds: [0, 299, 143, 404]
+resource-id: id/draghandle
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [0, 451, 143, 556]
+resource-id: id/draghandle
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [0, 603, 143, 708]
+resource-id: id/draghandle
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [0, 1971, 143, 2076]
+resource-id: id/draghandle
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [0, 2123, 143, 2228]
+resource-id: id/draghandle
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [0, 2275, 143, 2380]
+resource-id: id/draghandle
+tag: Image
+
+L14
+class: android.widget.ImageView
+bounds: [7, 263, 357, 606]
+resource-id: id/row_icon
+tag: Image
+
+L12
+class: android.widget.ImageView
+bounds: [14, 2213, 189, 2388]
+resource-id: id/widget_mediaImage
+tag: Image
+
+L13
+class: android.widget.ImageView
+bounds: [193, 2228, 759, 2374]
+resource-id: id/widgetInfoDisplay
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [0, 2182, 1440, 2340]
+resource-id: id/ui_top_cover
+tag: Image
+
+L4
+class: android.support.v7.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 256]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L5
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar
+tag: NavigationBar
+
+L7
+class: android.widget.ImageView
+bounds: [56, 132, 126, 202]
+resource-id: id/imagBackIndicator
+tag: Image
+
+L7
+class: android.widget.ImageButton
+bounds: [106, 126, 190, 209]
+resource-id: id/logo
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

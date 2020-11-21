@@ -1,0 +1,354 @@
+L13
+class: com.talabat.TalabatTextView
+bounds: [312, 469, 918, 623]
+resource-id: id/rating_count
+tag: Text
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [1028, 641, 1174, 755]
+resource-id: id/del_fees
+tag: Text
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [1028, 997, 1174, 1111]
+resource-id: id/del_fees
+tag: Text
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [1028, 1353, 1174, 1467]
+resource-id: id/del_fees
+tag: Text
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [312, 1537, 1064, 1691]
+resource-id: id/rating_count
+tag: Text
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [1028, 1709, 1174, 1823]
+resource-id: id/del_fees
+tag: Text
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [312, 1893, 932, 2047]
+resource-id: id/rating_count
+tag: Text
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [1028, 2065, 1174, 2179]
+resource-id: id/del_fees
+tag: Text
+
+L7
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/talabat_toolbar
+tag: Bar
+
+L9
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 84, 252, 280]
+resource-id: id/back
+tag: Button
+
+L9
+class: com.talabat.TalabatTextView
+bounds: [252, 135, 1440, 228]
+resource-id: id/title
+tag: Text
+
+L10
+class: com.talabat.TalabatTextView
+bounds: [226, 327, 378, 393]
+resource-id: id/filterview_filter_text
+tag: Text
+
+L10
+class: com.talabat.TalabatTextView
+bounds: [672, 327, 887, 393]
+resource-id: id/filterview_cuisine_text
+tag: Text
+
+L13
+class: android.widget.ProgressBar
+bounds: [138, 568, 191, 621]
+resource-id: id/progressBar
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [71, 501, 259, 689]
+resource-id: id/rest_logo
+tag: Image
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [1273, 477, 1387, 543]
+resource-id: id/status_text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatRatingBar
+bounds: [312, 566, 592, 622]
+resource-id: id/ratingbar
+tag: Bar
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [312, 698, 508, 755]
+resource-id: id/min_orderamt
+tag: Text
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [670, 698, 820, 755]
+resource-id: id/del_time
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1317, 667, 1440, 790]
+resource-id: id/offers
+tag: Image
+
+L13
+class: android.widget.ProgressBar
+bounds: [138, 924, 191, 977]
+resource-id: id/progressBar
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [71, 857, 259, 1045]
+resource-id: id/rest_logo
+tag: Image
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [312, 825, 624, 901]
+resource-id: id/rest_name
+tag: Text
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [1273, 833, 1387, 899]
+resource-id: id/status_text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatRatingBar
+bounds: [312, 922, 592, 978]
+resource-id: id/ratingbar
+tag: Bar
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [610, 922, 810, 979]
+resource-id: id/rating_count
+tag: Text
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [312, 1054, 508, 1111]
+resource-id: id/min_orderamt
+tag: Text
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [670, 1054, 820, 1111]
+resource-id: id/del_time
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1317, 1023, 1440, 1146]
+resource-id: id/offers
+tag: Image
+
+L13
+class: android.widget.ProgressBar
+bounds: [138, 1280, 191, 1333]
+resource-id: id/progressBar
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [71, 1213, 259, 1401]
+resource-id: id/rest_logo
+tag: Image
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [312, 1181, 619, 1257]
+resource-id: id/rest_name
+tag: Text
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [1273, 1189, 1387, 1255]
+resource-id: id/status_text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatRatingBar
+bounds: [312, 1278, 592, 1334]
+resource-id: id/ratingbar
+tag: Bar
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [610, 1278, 810, 1335]
+resource-id: id/rating_count
+tag: Text
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [312, 1410, 508, 1467]
+resource-id: id/min_orderamt
+tag: Text
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [670, 1410, 820, 1467]
+resource-id: id/del_time
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1317, 1379, 1440, 1502]
+resource-id: id/offers
+tag: Image
+
+L13
+class: android.widget.ProgressBar
+bounds: [138, 1636, 191, 1689]
+resource-id: id/progressBar
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [71, 1569, 259, 1757]
+resource-id: id/rest_logo
+tag: Image
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [1273, 1545, 1387, 1611]
+resource-id: id/status_text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatRatingBar
+bounds: [312, 1634, 592, 1690]
+resource-id: id/ratingbar
+tag: Bar
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [312, 1766, 508, 1823]
+resource-id: id/min_orderamt
+tag: Text
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [670, 1766, 820, 1823]
+resource-id: id/del_time
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1317, 1735, 1440, 1858]
+resource-id: id/offers
+tag: Image
+
+L13
+class: android.widget.ProgressBar
+bounds: [138, 1992, 191, 2045]
+resource-id: id/progressBar
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [71, 1925, 259, 2113]
+resource-id: id/rest_logo
+tag: Image
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [1273, 1901, 1387, 1967]
+resource-id: id/status_text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatRatingBar
+bounds: [312, 1990, 592, 2046]
+resource-id: id/ratingbar
+tag: Bar
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [312, 2122, 508, 2179]
+resource-id: id/min_orderamt
+tag: Text
+
+L14
+class: com.talabat.TalabatTextView
+bounds: [670, 2122, 820, 2179]
+resource-id: id/del_time
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1317, 2091, 1440, 2214]
+resource-id: id/offers
+tag: Image
+
+L13
+class: android.widget.ProgressBar
+bounds: [138, 2348, 191, 2392]
+resource-id: id/progressBar
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [71, 2281, 259, 2392]
+resource-id: id/rest_logo
+tag: Image
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [312, 2249, 639, 2325]
+resource-id: id/rest_name
+tag: Text
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [1273, 2257, 1387, 2323]
+resource-id: id/status_text
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatRatingBar
+bounds: [312, 2346, 592, 2392]
+resource-id: id/ratingbar
+tag: Bar
+
+L13
+class: com.talabat.TalabatTextView
+bounds: [610, 2346, 826, 2392]
+resource-id: id/rating_count
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

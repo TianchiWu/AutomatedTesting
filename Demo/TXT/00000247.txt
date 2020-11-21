@@ -1,0 +1,30 @@
+L4
+class: android.widget.TextView
+bounds: [56, 84, 281, 186]
+resource-id: id/title
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [370, 263, 1070, 552]
+resource-id: id/buttonAmount
+tag: Button
+
+L7
+class: android.widget.ImageView
+bounds: [144, 692, 459, 1007]
+resource-id: id/imageGooglePlay
+tag: Image
+
+L8
+class: android.widget.Button
+bounds: [512, 829, 1296, 994]
+resource-id: id/buttonDonatePlayStore
+tag: Button
+
+L4
+class: android.widget.ImageView
+bounds: [1055, 2247, 1405, 2357]
+resource-id: id/logo
+tag: Image
+

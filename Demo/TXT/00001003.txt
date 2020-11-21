@@ -1,0 +1,132 @@
+L9
+class: com.ue.projects.framework.ueviews.text.TextViewCustomFont
+bounds: [0, 322, 1440, 1492]
+resource-id: id/menu_item_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1300, 369, 1412, 593]
+resource-id: id/sleep
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [448, 2196, 840, 2392]
+resource-id: id/menu_favoritos
+tag: Image
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L9
+class: android.widget.ToggleButton
+bounds: [28, 336, 252, 560]
+resource-id: id/play
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [569, 1353, 870, 1654]
+resource-id: id/empty_main_imagen
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1283, 1440, 1584]
+resource-id: id/ue_cms_list_loading_image
+tag: Image
+
+L10
+class: com.ue.projects.framework.ueviews.text.TextViewCustomFont
+bounds: [0, 1584, 1440, 1724]
+resource-id: id/ue_cms_list_progress_text
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 1257, 1440, 1558]
+resource-id: id/ue_cms_list_error_image
+tag: Image
+
+L10
+class: com.ue.projects.framework.ueviews.text.TextViewCustomFont
+bounds: [0, 1558, 1440, 1751]
+resource-id: id/ue_cms_item_error_text_2
+tag: Text
+
+L9
+class: android.support.design.widget.FloatingActionButton
+bounds: [622, 2140, 818, 2336]
+resource-id: id/alarmas_add_button
+tag: Button
+
+L6
+class: android.support.design.widget.NavigationView
+bounds: [0, 0, 840, 2392]
+resource-id: id/navigation_drawer_container
+tag: Text
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 84, 840, 112]
+resource-id: id/navigation_header_container
+tag: Header
+
+L7
+class: android.widget.RelativeLayout
+bounds: [0, 0, 840, 2392]
+resource-id: id/navigation_drawer
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 0, 840, 312]
+resource-id: id/menu_header_material
+tag: Header
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 164, 587, 270]
+resource-id: id/menu_header_logo
+tag: Header
+
+L9
+class: com.ue.projects.framework.ueviews.text.TextViewCustomFont
+bounds: [0, 316, 840, 457]
+resource-id: id/menu_item_text
+tag: Text
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 2196, 840, 2392]
+resource-id: id/menu_bottom_bar
+tag: Bar
+
+L9
+class: com.ue.projects.framework.ueviews.text.TextViewCustomFont
+bounds: [0, 2251, 324, 2336]
+resource-id: id/menu_suscribete
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 0, 840, 2392]
+resource-id: id/menu_empty_view
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [197, 1153, 642, 1238]
+resource-id: id/menu_progress_text
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

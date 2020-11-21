@@ -1,0 +1,60 @@
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 449, 1440, 1800]
+resource-id: id/details_textview_description
+tag: Text
+
+L6
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 449]
+resource-id: id/header
+tag: Header
+
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L10
+class: android.support.v7.widget.ActivityChooserView$InnerLayout
+bounds: [1076, 84, 1272, 280]
+resource-id: id/activity_chooser_view_content
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1118, 126, 1230, 238]
+resource-id: id/image
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [7, 449, 1433, 720]
+resource-id: id/details_imageview
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 1968, 1440, 2136]
+resource-id: id/details_button_download
+tag: Button
+
+L10
+class: android.support.v7.widget.AppCompatButton
+bounds: [0, 1800, 1440, 1968]
+resource-id: id/app_install
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

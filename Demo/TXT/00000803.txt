@@ -1,0 +1,48 @@
+L7
+class: android.widget.TextView
+bounds: [21, 687, 606, 862]
+resource-id: id/grid_item_text
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [21, 1426, 606, 1601]
+resource-id: id/grid_item_text
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [277, 312, 1163, 662]
+resource-id: id/iv_picture
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [615, 1972, 825, 2182]
+resource-id: id/speaker
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [1188, 1972, 1440, 2161]
+resource-id: id/next
+tag: Image
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 259]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 189, 231]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [203, 115, 590, 227]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

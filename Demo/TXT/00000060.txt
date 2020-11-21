@@ -1,0 +1,42 @@
+L5
+class: android.widget.TextView
+bounds: [56, 1817, 1440, 1967]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [138, 2023, 306, 2191]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [104, 2230, 339, 2336]
+resource-id: id/text1
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [470, 2023, 638, 2191]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [474, 2230, 633, 2336]
+resource-id: id/text1
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [802, 2023, 970, 2191]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [795, 2230, 977, 2336]
+resource-id: id/text1
+tag: Text
+

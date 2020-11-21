@@ -1,0 +1,78 @@
+L7
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/app_bar
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1104, 140, 1188, 224]
+resource-id: id/icon
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1300, 140, 1384, 224]
+resource-id: id/icon
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1352, 112, 1412, 172]
+resource-id: id/badge
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 280, 1440, 1088]
+resource-id: id/cover_image
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1179, 989, 1440, 1088]
+resource-id: id/count
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 976, 469, 1060]
+resource-id: id/date
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [531, 1355, 909, 1597]
+resource-id: id/image
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [372, 1625, 1067, 1809]
+resource-id: id/text
+tag: Text
+
+L8
+class: com.github.clans.fab.FloatingActionButton
+bounds: [1152, 1598, 1384, 1844]
+resource-id: id/fab_upload_gallery
+tag: Button
+
+L8
+class: com.github.clans.fab.FloatingActionButton
+bounds: [1152, 1844, 1384, 2090]
+resource-id: id/fab_upload_camera
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

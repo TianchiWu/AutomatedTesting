@@ -1,0 +1,36 @@
+L5
+class: android.widget.Button
+bounds: [301, 2086, 1139, 2188]
+resource-id: id/tv_welcome_terms
+tag: Button
+
+L5
+class: android.widget.Button
+bounds: [566, 2206, 874, 2374]
+resource-id: id/bt_approve
+tag: Button
+
+L6
+class: android.widget.TextView
+bounds: [0, 84, 1440, 913]
+resource-id: id/tv_welcome_title
+tag: Text
+
+L6
+class: android.widget.TextView
+bounds: [70, 1407, 1370, 1473]
+resource-id: id/textView
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,48 @@
+L3
+class: android.support.v7.widget.FitWindowsFrameLayout
+bounds: [56, 530, 1384, 1946]
+resource-id: id/action_bar_root
+tag: NavigationBar
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [580, 734, 860, 1014]
+resource-id: id/brand_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [140, 1098, 1010, 1201]
+resource-id: id/dialog_text
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [140, 1257, 619, 1323]
+resource-id: id/toc_link
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [140, 1379, 444, 1445]
+resource-id: id/privacy_link
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [140, 1501, 1300, 1694]
+resource-id: id/dialog_terms_text
+tag: Text
+
+L6
+class: android.support.v7.widget.ButtonBarLayout
+bounds: [56, 1750, 1384, 1946]
+resource-id: id/buttonPanel
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [1079, 1764, 1342, 1932]
+resource-id: id/button1
+tag: Button
+

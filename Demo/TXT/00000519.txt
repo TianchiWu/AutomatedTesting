@@ -1,0 +1,114 @@
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [308, 592, 1328, 734]
+resource-id: id/text_price
+tag: Text
+
+L17
+class: com.kouzoh.mercari.ui.CachedImageView
+bounds: [0, 537, 252, 1042]
+resource-id: id/image_photo
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [308, 845, 1328, 987]
+resource-id: id/text_price
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 829, 959, 1051]
+resource-id: id/text_content
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [261, 280, 458, 532]
+resource-id: id/title
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [974, 280, 1186, 532]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.widget.ImageView
+bounds: [1146, 2098, 1440, 2392]
+resource-id: id/btnCamera
+tag: Image
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar_actionbar
+tag: Bar
+
+L11
+class: com.kouzoh.mercari.ui.RoundedImageView
+bounds: [56, 161, 224, 329]
+resource-id: id/profile_icon
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [224, 209, 1015, 280]
+resource-id: id/profile_text
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 406, 1015, 589]
+resource-id: id/slide_menu_top_invite
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 647, 959, 718]
+resource-id: id/text_name
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 1158, 959, 1229]
+resource-id: id/text_name
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 1340, 959, 1411]
+resource-id: id/text_name
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 1522, 959, 1593]
+resource-id: id/text_name
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 1704, 959, 1775]
+resource-id: id/text_name
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [252, 1886, 959, 1957]
+resource-id: id/text_name
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

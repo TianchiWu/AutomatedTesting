@@ -1,0 +1,138 @@
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 455, 1440, 2182]
+resource-id: id/image_view
+tag: Image
+
+L18
+class: android.support.v7.widget.AppCompatTextView
+bounds: [42, 364, 1398, 413]
+resource-id: id/right_txt
+tag: Text
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 294]
+resource-id: id/home_toolbar
+tag: Bar
+
+L7
+class: android.widget.LinearLayout
+bounds: [300, 152, 1140, 226]
+resource-id: id/toolbar_title_layout
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [300, 152, 688, 226]
+resource-id: id/toolbar_title
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [744, 154, 814, 224]
+resource-id: id/home_expand_button
+tag: Button
+
+L18
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 803, 1370, 894]
+resource-id: id/name
+tag: Text
+
+L19
+class: android.support.v7.widget.AppCompatTextView
+bounds: [471, 894, 690, 950]
+resource-id: id/est_delivery_time_text_view
+tag: Text
+
+L19
+class: android.support.v7.widget.AppCompatTextView
+bounds: [775, 894, 969, 950]
+resource-id: id/category_text_view
+tag: Text
+
+L18
+class: android.support.v7.widget.AppCompatTextView
+bounds: [70, 1591, 1370, 1682]
+resource-id: id/name
+tag: Text
+
+L19
+class: android.support.v7.widget.AppCompatTextView
+bounds: [827, 1682, 917, 1738]
+resource-id: id/category_text_view
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1168, 2224, 1231, 2287]
+resource-id: id/custom_tab_img
+tag: Image
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1163, 2315, 1237, 2350]
+resource-id: id/custom_tab_txt
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 346, 854, 409]
+resource-id: id/drawer_item_text_view
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 513, 854, 583]
+resource-id: id/drawer_item_text_view
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 683, 854, 753]
+resource-id: id/drawer_item_text_view
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 853, 854, 923]
+resource-id: id/drawer_item_text_view
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1023, 854, 1093]
+resource-id: id/drawer_item_text_view
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1193, 854, 1263]
+resource-id: id/drawer_item_text_view
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1363, 854, 1433]
+resource-id: id/drawer_item_text_view
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1533, 854, 1603]
+resource-id: id/drawer_item_text_view
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

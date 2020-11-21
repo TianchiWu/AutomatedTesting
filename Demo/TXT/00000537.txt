@@ -1,0 +1,60 @@
+L7
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 539]
+resource-id: id/ar_toolbar
+tag: Bar
+
+L12
+class: android.widget.NumberPicker$CustomEditText
+bounds: [74, 774, 430, 831]
+resource-id: id/numberpicker_input
+tag: Picker
+
+L12
+class: android.widget.NumberPicker$CustomEditText
+bounds: [542, 774, 898, 831]
+resource-id: id/numberpicker_input
+tag: Picker
+
+L12
+class: android.widget.NumberPicker$CustomEditText
+bounds: [1010, 774, 1366, 831]
+resource-id: id/numberpicker_input
+tag: Picker
+
+L10
+class: android.widget.EditText
+bounds: [74, 1118, 1366, 1308]
+resource-id: id/ar_editText_comment
+tag: Text
+
+L10
+class: android.widget.LinearLayout
+bounds: [74, 1425, 1366, 1593]
+resource-id: id/ar_buttons_bar
+tag: Button
+
+L11
+class: android.widget.Button
+bounds: [74, 1425, 617, 1593]
+resource-id: id/ar_button_time
+tag: Button
+
+L11
+class: android.widget.Button
+bounds: [617, 1425, 1366, 1593]
+resource-id: id/ar_button_date
+tag: Button
+
+L10
+class: android.widget.Button
+bounds: [18, 1593, 1422, 1789]
+resource-id: id/ar_button_add
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

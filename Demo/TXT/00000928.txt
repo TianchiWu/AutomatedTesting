@@ -1,0 +1,66 @@
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 563, 1370, 705]
+resource-id: id/a_p_details_text_view_drug_name_brand
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 775, 247, 917]
+resource-id: id/a_p_details_text_view_drug_form
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 987, 240, 1129]
+resource-id: id/a_p_details_text_view_drug_dosage
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1199, 235, 1341]
+resource-id: id/a_p_details_text_view_drug_quantity
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1411, 466, 1553]
+resource-id: id/a_p_details_text_view_location
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [53, 1623, 234, 1765]
+resource-id: id/a_p_details_text_view_radius
+tag: Text
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/a_p_details_toolbar
+tag: Bar
+
+L6
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 280, 1440, 528]
+resource-id: id/a_p_details_text_view_title
+tag: Text
+
+L6
+class: android.support.v7.widget.AppCompatButton
+bounds: [35, 2217, 1405, 2357]
+resource-id: id/a_p_details_button_find
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

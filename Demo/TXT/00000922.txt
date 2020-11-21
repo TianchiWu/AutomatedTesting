@@ -1,0 +1,66 @@
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [610, 605, 1147, 1157]
+resource-id: id/value
+tag: Text
+
+L6
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/appbar
+tag: Bar
+
+L8
+class: net.ugik.tta.core.utils.views.CircleImageView
+bounds: [610, 350, 830, 570]
+resource-id: id/profileImage
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 631, 525, 716]
+resource-id: id/valueName
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 769, 525, 854]
+resource-id: id/valueName
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 907, 525, 992]
+resource-id: id/valueName
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 1045, 525, 1130]
+resource-id: id/valueName
+tag: Text
+
+L6
+class: android.support.v7.widget.AppCompatTextView
+bounds: [568, 2088, 872, 2154]
+resource-id: id/privacy_button
+tag: Button
+
+L6
+class: android.support.v7.widget.AppCompatButton
+bounds: [35, 2189, 1405, 2357]
+resource-id: id/save
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

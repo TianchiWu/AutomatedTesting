@@ -1,0 +1,186 @@
+L14
+class: mobi.ifunny.view.SquaredLayout
+bounds: [28, 1254, 1412, 1697]
+resource-id: id/thirdPostItem
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 964, 409, 1170]
+resource-id: id/profile_subscribers_count
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 2131, 446, 2337]
+resource-id: id/profile_subscribers_count
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [182, 531, 602, 620]
+resource-id: id/counter
+tag: Text
+
+L11
+class: mobi.ifunny.view.progress.ProgressBar
+bounds: [650, 1168, 790, 1308]
+resource-id: id/progressLayout
+tag: Bar
+
+L14
+class: mobi.ifunny.view.TextViewShadowDips
+bounds: [77, 2247, 147, 2313]
+resource-id: id/gallery_smile_counter
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1045, 2238, 1131, 2322]
+resource-id: id/gallery_comments_image
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [524, 1042, 916, 1434]
+resource-id: id/overlay_animation
+tag: Image
+
+L13
+class: android.widget.FrameLayout
+bounds: [0, 782, 1440, 1725]
+resource-id: id/profile_blur_layout
+tag: Image
+
+L14
+class: com.makeramen.roundedimageview.RoundedImageView
+bounds: [63, 649, 329, 915]
+resource-id: id/bordered_avatar_background
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [252, 838, 336, 922]
+resource-id: id/profile_avatar_is_verified
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatButton
+bounds: [1028, 838, 1384, 936]
+resource-id: id/subscribeButton
+tag: Button
+
+L13
+class: android.widget.FrameLayout
+bounds: [0, 1949, 1440, 2392]
+resource-id: id/profile_blur_layout
+tag: Image
+
+L14
+class: com.makeramen.roundedimageview.RoundedImageView
+bounds: [63, 1816, 329, 2082]
+resource-id: id/bordered_avatar_background
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [252, 2005, 336, 2089]
+resource-id: id/profile_avatar_is_verified
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatButton
+bounds: [1056, 2005, 1384, 2103]
+resource-id: id/subscribeButton
+tag: Button
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [84, 350, 1195, 435]
+resource-id: id/collective_tutorial_text
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1251, 340, 1356, 445]
+resource-id: id/tutorial_circle
+tag: Image
+
+L7
+class: bricks.extras.glider.Glider
+bounds: [0, 84, 1440, 280]
+resource-id: id/glider
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 324, 147, 436]
+resource-id: id/image
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [182, 339, 417, 420]
+resource-id: id/text
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 524, 147, 636]
+resource-id: id/image
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 724, 147, 836]
+resource-id: id/image
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [182, 739, 549, 820]
+resource-id: id/text
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [462, 731, 602, 794]
+resource-id: id/counter
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 924, 147, 1036]
+resource-id: id/image
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [182, 939, 380, 1020]
+resource-id: id/text
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 1124, 147, 1236]
+resource-id: id/image
+tag: Image
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [182, 1139, 353, 1220]
+resource-id: id/text
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

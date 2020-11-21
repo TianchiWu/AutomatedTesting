@@ -1,0 +1,276 @@
+L15
+class: android.widget.ImageView
+bounds: [1160, 306, 1426, 376]
+resource-id: id/image_con5
+tag: Image
+
+L14
+class: android.widget.TextView
+bounds: [0, 1370, 1440, 1510]
+resource-id: id/empty_list_view2
+tag: Text
+
+L13
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 385]
+resource-id: id/layout_subheader
+tag: Header
+
+L14
+class: android.widget.TextView
+bounds: [119, 259, 488, 382]
+resource-id: id/text_direction
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [0, 1399, 1440, 1539]
+resource-id: id/empty_list_view2
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [1102, 259, 1440, 383]
+resource-id: id/text_last_update
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [14, 259, 231, 382]
+resource-id: id/text_direction
+tag: Text
+
+L14
+class: android.widget.TextView
+bounds: [0, 1398, 1440, 1538]
+resource-id: id/empty_list_view2
+tag: Text
+
+L14
+class: android.widget.ImageView
+bounds: [1356, 136, 1426, 206]
+resource-id: id/button_refresh
+tag: Button
+
+L14
+class: android.widget.ImageView
+bounds: [1202, 136, 1272, 206]
+resource-id: id/button_show_addgroup
+tag: Button
+
+L14
+class: android.widget.Button
+bounds: [1022, 131, 1118, 212]
+resource-id: id/button_show_pace
+tag: Button
+
+L14
+class: android.widget.TextView
+bounds: [98, 138, 302, 204]
+resource-id: id/label_fav
+tag: Text
+
+L14
+class: android.widget.ImageView
+bounds: [14, 136, 84, 206]
+resource-id: id/button_togglelistgroups
+tag: Button
+
+L14
+class: android.widget.ImageView
+bounds: [594, 1118, 846, 1370]
+resource-id: id/image_fav
+tag: Image
+
+L14
+class: android.widget.ImageButton
+bounds: [14, 136, 119, 206]
+resource-id: id/button_back
+tag: Button
+
+L14
+class: android.widget.ImageButton
+bounds: [1356, 136, 1426, 206]
+resource-id: id/button_switch
+tag: Button
+
+L14
+class: android.widget.ImageButton
+bounds: [1202, 136, 1272, 206]
+resource-id: id/button_refresh
+tag: Button
+
+L14
+class: android.widget.Button
+bounds: [1007, 131, 1118, 212]
+resource-id: id/buttonAllRoutes
+tag: Button
+
+L14
+class: android.widget.Button
+bounds: [846, 131, 951, 212]
+resource-id: id/buttonCurrentRoute
+tag: Button
+
+L14
+class: android.widget.ImageButton
+bounds: [692, 136, 762, 206]
+resource-id: id/button_fav
+tag: Button
+
+L14
+class: android.widget.ImageView
+bounds: [573, 129, 608, 213]
+resource-id: id/button_alert
+tag: Button
+
+L14
+class: android.widget.ImageView
+bounds: [14, 273, 91, 371]
+resource-id: id/button_map
+tag: Button
+
+L14
+class: android.widget.ImageView
+bounds: [611, 1215, 828, 1399]
+resource-id: id/image_fav
+tag: Image
+
+L14
+class: android.widget.Button
+bounds: [1047, 131, 1272, 212]
+resource-id: id/buttonAllRoutes
+tag: Button
+
+L14
+class: android.widget.ImageButton
+bounds: [865, 136, 935, 206]
+resource-id: id/button_fav
+tag: Button
+
+L15
+class: android.widget.ImageView
+bounds: [1384, 306, 1426, 348]
+resource-id: id/image_con1
+tag: Image
+
+L14
+class: android.widget.TextView
+bounds: [14, 138, 339, 204]
+resource-id: id/label_header
+tag: Header
+
+L14
+class: android.widget.Button
+bounds: [1057, 131, 1272, 212]
+resource-id: id/button_showview
+tag: Button
+
+L14
+class: android.widget.TextView
+bounds: [133, 138, 246, 204]
+resource-id: id/text_header
+tag: Header
+
+L14
+class: android.widget.Button
+bounds: [1126, 131, 1272, 212]
+resource-id: id/button_arrival
+tag: Button
+
+L14
+class: android.widget.Button
+bounds: [879, 131, 1098, 212]
+resource-id: id/button_departure
+tag: Button
+
+L14
+class: android.widget.ImageButton
+bounds: [725, 136, 795, 206]
+resource-id: id/button_fav
+tag: Button
+
+L13
+class: android.widget.RelativeLayout
+bounds: [0, 259, 1440, 383]
+resource-id: id/layout_subheader
+tag: Header
+
+L14
+class: android.widget.TextView
+bounds: [14, 259, 365, 325]
+resource-id: id/text_title
+tag: Text
+
+L14
+class: android.widget.ImageView
+bounds: [611, 1214, 828, 1398]
+resource-id: id/image_fav
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [105, 2248, 175, 2318]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [18, 2321, 263, 2387]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [386, 2248, 456, 2318]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [299, 2321, 544, 2387]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [667, 2248, 737, 2318]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [580, 2321, 825, 2387]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [948, 2248, 1018, 2318]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [861, 2321, 1106, 2387]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [1229, 2248, 1299, 2318]
+resource-id: id/icon
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [1142, 2321, 1387, 2387]
+resource-id: id/title
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [1423, 2321, 1440, 2387]
+resource-id: id/title
+tag: Text
+

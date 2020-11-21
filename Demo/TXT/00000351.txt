@@ -1,0 +1,258 @@
+L9
+class: android.widget.TextView
+bounds: [35, 478, 1405, 563]
+resource-id: id/tv_search_car
+tag: Text
+
+L8
+class: com.bookit.views.FTTCompoundItemPicker
+bounds: [35, 1553, 1405, 1834]
+resource-id: id/search_children_picker
+tag: Picker
+
+L10
+class: android.widget.TextView
+bounds: [70, 1167, 1288, 1252]
+resource-id: id/BITextField_txt_right
+tag: Text
+
+L7
+class: com.bookit.views.FTTDateTimePickerEditText
+bounds: [35, 1114, 1405, 1500]
+resource-id: id/search_to_date
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [70, 1360, 1288, 1445]
+resource-id: id/BITextField_txt_right
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [115, 1553, 409, 1646]
+resource-id: id/BIPlusMinus_txt_title_value
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [580, 1553, 854, 1646]
+resource-id: id/BIPlusMinus_txt_title_value
+tag: Text
+
+L11
+class: android.widget.TextView
+bounds: [1009, 1553, 1340, 1646]
+resource-id: id/BIPlusMinus_txt_title_value
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [0, 2157, 720, 2315]
+resource-id: id/imageButton2
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [35, 305, 1405, 390]
+resource-id: id/tv_search_type_text
+tag: Text
+
+L9
+class: android.widget.ToggleButton
+bounds: [189, 588, 336, 693]
+resource-id: id/search_hotel_toggle
+tag: Button
+
+L9
+class: android.widget.ToggleButton
+bounds: [646, 588, 793, 693]
+resource-id: id/search_flight_toggle
+tag: Button
+
+L9
+class: android.widget.ToggleButton
+bounds: [1103, 588, 1250, 693]
+resource-id: id/search_car_toggle
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [1279, 781, 1405, 921]
+resource-id: id/iv_search_from_location
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [1279, 974, 1405, 1114]
+resource-id: id/iv_search_to_location
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [1306, 1167, 1370, 1242]
+resource-id: id/BITextField_image
+tag: Image
+
+L9
+class: android.widget.Button
+bounds: [70, 1167, 1370, 1307]
+resource-id: id/BITextField_bt_touch_area
+tag: Button
+
+L11
+class: android.widget.ImageView
+bounds: [35, 1307, 259, 1531]
+resource-id: id/previous
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [259, 1307, 959, 1392]
+resource-id: id/title
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [1181, 1307, 1405, 1531]
+resource-id: id/next
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [1306, 1360, 1370, 1435]
+resource-id: id/BITextField_image
+tag: Image
+
+L9
+class: android.widget.Button
+bounds: [70, 1360, 1370, 1500]
+resource-id: id/BITextField_bt_touch_area
+tag: Button
+
+L7
+class: android.widget.LinearLayout
+bounds: [35, 1553, 1405, 1845]
+resource-id: id/ll_search_item_pickers
+tag: Picker
+
+L11
+class: android.widget.ImageButton
+bounds: [99, 1671, 262, 1834]
+resource-id: id/BIPlusMinus_bt_minus
+tag: Button
+
+L11
+class: android.widget.ImageButton
+bounds: [262, 1671, 425, 1834]
+resource-id: id/BIPlusMinus_bt_plus
+tag: Button
+
+L11
+class: android.widget.ImageButton
+bounds: [554, 1671, 717, 1834]
+resource-id: id/BIPlusMinus_bt_minus
+tag: Button
+
+L11
+class: android.widget.ImageButton
+bounds: [717, 1671, 880, 1834]
+resource-id: id/BIPlusMinus_bt_plus
+tag: Button
+
+L11
+class: android.widget.ImageButton
+bounds: [1011, 1671, 1174, 1834]
+resource-id: id/BIPlusMinus_bt_minus
+tag: Button
+
+L11
+class: android.widget.ImageButton
+bounds: [1174, 1671, 1337, 1834]
+resource-id: id/BIPlusMinus_bt_plus
+tag: Button
+
+L7
+class: android.widget.Button
+bounds: [35, 1915, 1405, 2083]
+resource-id: id/button
+tag: Button
+
+L5
+class: com.bookit.views.FTTiOSBar
+bounds: [0, 2146, 1440, 2392]
+resource-id: id/view
+tag: Bar
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 2157, 360, 2381]
+resource-id: id/ios_search_button
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [0, 2315, 360, 2381]
+resource-id: id/textView
+tag: Text
+
+L8
+class: android.widget.LinearLayout
+bounds: [360, 2157, 720, 2381]
+resource-id: id/ios_members_button
+tag: Button
+
+L9
+class: android.widget.TextView
+bounds: [436, 2315, 643, 2381]
+resource-id: id/textView2
+tag: Text
+
+L8
+class: android.widget.LinearLayout
+bounds: [720, 2157, 1080, 2381]
+resource-id: id/ios_phone_button
+tag: Button
+
+L9
+class: android.widget.ImageView
+bounds: [821, 2157, 979, 2315]
+resource-id: id/imageButton3
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [858, 2315, 941, 2381]
+resource-id: id/textView3
+tag: Text
+
+L8
+class: android.widget.LinearLayout
+bounds: [1080, 2157, 1440, 2381]
+resource-id: id/ios_more_button
+tag: Button
+
+L9
+class: android.widget.ImageView
+bounds: [1181, 2157, 1339, 2315]
+resource-id: id/imageButton4
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [1203, 2315, 1317, 2381]
+resource-id: id/textView4
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L5
+class: android.widget.ImageButton
+bounds: [502, 84, 938, 252]
+resource-id: id/BINavBar_bt_bookit
+tag: Button
+

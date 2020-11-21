@@ -1,0 +1,42 @@
+L6
+class: android.widget.ImageView
+bounds: [0, 2217, 350, 2392]
+resource-id: id/nationalPauseButton
+tag: Image
+
+L5
+class: android.widget.TextView
+bounds: [14, 14, 434, 108]
+resource-id: id/ageBlock
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [706, 1972, 734, 2028]
+resource-id: id/textView14
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [677, 2217, 965, 2392]
+resource-id: id/nationalWidgetsButton
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [965, 2217, 1265, 2392]
+resource-id: id/nationalForecastButton
+tag: Button
+
+L6
+class: android.widget.ImageView
+bounds: [1265, 2217, 1440, 2392]
+resource-id: id/nationalDotsButton
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [90, 2133, 1350, 2207]
+resource-id: id/nationalKey
+tag: Image
+

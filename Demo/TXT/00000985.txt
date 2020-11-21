@@ -1,0 +1,30 @@
+L6
+class: com.waze.view.text.WazeTextView
+bounds: [53, 84, 1387, 2153]
+resource-id: id/termsOfUse
+tag: Text
+
+L8
+class: com.waze.view.text.WazeTextView
+bounds: [288, 2236, 449, 2302]
+resource-id: id/DeclineButtonTextText
+tag: Text
+
+L8
+class: com.waze.view.text.WazeTextView
+bounds: [976, 2236, 1129, 2302]
+resource-id: id/AcceptButtonText
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

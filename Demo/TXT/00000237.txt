@@ -1,0 +1,24 @@
+L6
+class: android.widget.TextView
+bounds: [64, 343, 1376, 2022]
+resource-id: id/msg_text_end
+tag: Text
+
+L2
+class: android.widget.TextView
+bounds: [64, 112, 1376, 336]
+resource-id: id/title
+tag: Text
+
+L6
+class: com.google.android.gms.plus.PlusOneButton
+bounds: [82, 2040, 950, 2124]
+resource-id: id/plus_one_button
+tag: Button
+
+L6
+class: android.widget.Button
+bounds: [933, 2160, 1358, 2328]
+resource-id: id/rate_button
+tag: Button
+

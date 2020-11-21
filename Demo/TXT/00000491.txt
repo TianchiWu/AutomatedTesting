@@ -1,0 +1,72 @@
+L5
+class: android.widget.TextView
+bounds: [0, 119, 1230, 224]
+resource-id: id/header_title
+tag: Header
+
+L8
+class: android.widget.TextView
+bounds: [674, 1264, 766, 1439]
+resource-id: id/year
+tag: Text
+
+L4
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 263]
+resource-id: id/header_div
+tag: Header
+
+L5
+class: android.widget.TextView
+bounds: [1230, 84, 1440, 259]
+resource-id: id/done
+tag: Text
+
+L6
+class: android.widget.EditText
+bounds: [112, 319, 1328, 473]
+resource-id: id/name
+tag: Text
+
+L6
+class: me.keepy.ui.views.ProfileImageView
+bounds: [527, 638, 912, 1023]
+resource-id: id/add_photo
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [598, 1041, 842, 1100]
+resource-id: id/add_photo_text
+tag: Text
+
+L6
+class: android.widget.FrameLayout
+bounds: [615, 1247, 825, 1457]
+resource-id: id/add_birthdate
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [615, 1247, 825, 1457]
+resource-id: id/add_birthdate_image
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [602, 1475, 837, 1534]
+resource-id: id/add_birthdate_text
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [422, 1646, 667, 1933]
+resource-id: id/boy
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [773, 1646, 1018, 1933]
+resource-id: id/girl
+tag: Text
+

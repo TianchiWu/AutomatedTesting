@@ -1,0 +1,24 @@
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [11, 291, 1428, 2381]
+resource-id: id/image
+tag: Image
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L10
+class: android.support.v7.widget.SearchView
+bounds: [1132, 98, 1300, 266]
+resource-id: id/action_search
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

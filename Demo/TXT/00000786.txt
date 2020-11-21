@@ -1,0 +1,90 @@
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 574, 1412, 730]
+resource-id: id/deal_title
+tag: Text
+
+L18
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 744, 607, 815]
+resource-id: id/deal_distance
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1142, 744, 1412, 837]
+resource-id: id/deal_price
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 1852, 1412, 2008]
+resource-id: id/deal_title
+tag: Text
+
+L17
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1142, 2022, 1412, 2115]
+resource-id: id/deal_price
+tag: Text
+
+L9
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [196, 139, 594, 224]
+resource-id: id/toolbar_title
+tag: Bar
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 448, 1440, 560]
+resource-id: id/deal_image
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 886, 1440, 1838]
+resource-id: id/deal_image
+tag: Image
+
+L18
+class: android.support.v7.widget.AppCompatTextView
+bounds: [28, 2022, 507, 2093]
+resource-id: id/deal_location
+tag: Text
+
+L18
+class: android.support.v7.widget.AppCompatTextView
+bounds: [349, 2022, 564, 2093]
+resource-id: id/deal_distance
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 2164, 1440, 2392]
+resource-id: id/deal_image
+tag: Image
+
+L12
+class: android.widget.ProgressBar
+bounds: [586, 1202, 852, 1468]
+resource-id: id/progress_bar
+tag: Bar
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [496, 1496, 943, 1581]
+resource-id: id/status_message
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

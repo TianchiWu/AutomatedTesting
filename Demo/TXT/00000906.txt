@@ -1,0 +1,90 @@
+L9
+class: android.support.v7.widget.AppCompatCheckedTextView
+bounds: [92, 243, 1348, 1631]
+resource-id: id/text1
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatCheckedTextView
+bounds: [92, 1957, 1348, 2140]
+resource-id: id/text1
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [92, 140, 1348, 239]
+resource-id: id/textview
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [92, 1086, 162, 1135]
+resource-id: id/iv_layer_type
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [92, 1202, 162, 1251]
+resource-id: id/iv_layer_type
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [92, 1318, 162, 1367]
+resource-id: id/iv_layer_type
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [92, 1434, 162, 1483]
+resource-id: id/iv_layer_type
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [92, 1550, 162, 1599]
+resource-id: id/iv_layer_type
+tag: Image
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [92, 1635, 1348, 1734]
+resource-id: id/textview
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatCheckedTextView
+bounds: [92, 1738, 1348, 1850]
+resource-id: id/text1
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [92, 1854, 1348, 1953]
+resource-id: id/textview
+tag: Text
+
+L4
+class: com.android.internal.widget.ButtonBarLayout
+bounds: [92, 2140, 1348, 2336]
+resource-id: id/buttonPanel
+tag: Button
+
+L5
+class: android.support.v7.widget.AppCompatButton
+bounds: [134, 2154, 423, 2322]
+resource-id: id/button3
+tag: Button
+
+L5
+class: android.support.v7.widget.AppCompatButton
+bounds: [719, 2154, 952, 2322]
+resource-id: id/button2
+tag: Button
+
+L5
+class: android.support.v7.widget.AppCompatButton
+bounds: [952, 2154, 1306, 2322]
+resource-id: id/button1
+tag: Button
+

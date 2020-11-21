@@ -1,0 +1,48 @@
+L4
+class: com.facebook.ui.titlebar.search.Fb4aFadingTitleBar
+bounds: [0, 0, 1440, 252]
+resource-id: id/titlebar
+tag: Bar
+
+L5
+class: com.facebook.fbui.widget.glyph.GlyphView
+bounds: [0, 84, 196, 252]
+resource-id: id/fb_logo_up_button
+tag: Button
+
+L5
+class: android.widget.FrameLayout
+bounds: [196, 84, 1384, 252]
+resource-id: id/info_container
+tag: Text
+
+L6
+class: com.facebook.resources.ui.FbTextView
+bounds: [196, 84, 1188, 252]
+resource-id: id/title
+tag: Text
+
+L6
+class: com.facebook.search.common.searchbox.SearchBox
+bounds: [196, 84, 1384, 252]
+resource-id: id/search_box
+tag: Text
+
+L5
+class: android.widget.LinearLayout
+bounds: [1384, 84, 1440, 252]
+resource-id: id/action_buttons_wrapper
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

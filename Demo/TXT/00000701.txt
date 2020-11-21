@@ -1,0 +1,324 @@
+L18
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 918, 266, 2124]
+resource-id: id/distance_icon
+tag: Image
+
+L18
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1028, 918, 1266, 2124]
+resource-id: id/mvp_icon
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 280, 1440, 685]
+resource-id: id/tp_sponsor_banner
+tag: Image
+
+L14
+class: com.mapmyfitness.android.activity.trainingplan.dynamic.view.TrainingPlanFlowContainerLayout
+bounds: [0, 685, 1440, 2392]
+resource-id: id/tp_entry_point_header_container
+tag: Header
+
+L15
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [0, 685, 1440, 918]
+resource-id: id/training_plan_flow_header
+tag: Header
+
+L19
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [322, 1003, 485, 1070]
+resource-id: id/header
+tag: Header
+
+L18
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1322, 995, 1384, 1079]
+resource-id: id/action_arrow
+tag: Image
+
+L19
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [322, 1245, 513, 1312]
+resource-id: id/header
+tag: Header
+
+L18
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1322, 1237, 1384, 1321]
+resource-id: id/action_arrow
+tag: Image
+
+L19
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [322, 1487, 628, 1554]
+resource-id: id/header
+tag: Header
+
+L18
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1322, 1479, 1384, 1563]
+resource-id: id/action_arrow
+tag: Image
+
+L19
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [322, 1729, 531, 1796]
+resource-id: id/header
+tag: Header
+
+L18
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1322, 1721, 1384, 1805]
+resource-id: id/action_arrow
+tag: Image
+
+L19
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [322, 1971, 681, 2038]
+resource-id: id/header
+tag: Header
+
+L18
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1322, 1963, 1384, 2047]
+resource-id: id/action_arrow
+tag: Image
+
+L18
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 2237, 266, 2392]
+resource-id: id/distance_icon
+tag: Image
+
+L19
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [322, 2297, 766, 2364]
+resource-id: id/header
+tag: Header
+
+L19
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [322, 2364, 818, 2392]
+resource-id: id/description
+tag: Text
+
+L18
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1322, 2314, 1384, 2392]
+resource-id: id/action_arrow
+tag: Image
+
+L9
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/appbar
+tag: Bar
+
+L10
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1433, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L11
+class: android.widget.ImageView
+bounds: [252, 145, 823, 219]
+resource-id: id/toolbarMainLogo
+tag: Image
+
+L11
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [252, 138, 649, 226]
+resource-id: id/toolbarMainTitle
+tag: Bar
+
+L9
+class: android.support.design.widget.FloatingActionButton
+bounds: [1188, 2140, 1384, 2336]
+resource-id: id/fab
+tag: Button
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 0, 161, 8]
+resource-id: id/nav_icon
+tag: Image
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 71, 161, 176]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 95, 447, 153]
+resource-id: id/nav_menu_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 239, 161, 344]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 263, 508, 321]
+resource-id: id/nav_menu_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 407, 161, 512]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 431, 477, 489]
+resource-id: id/nav_menu_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 575, 161, 680]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 599, 531, 657]
+resource-id: id/nav_menu_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 743, 161, 848]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 767, 409, 825]
+resource-id: id/nav_menu_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 911, 161, 1016]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 935, 398, 993]
+resource-id: id/nav_menu_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 1079, 161, 1184]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 1103, 376, 1161]
+resource-id: id/nav_menu_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 1247, 161, 1352]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 1271, 712, 1329]
+resource-id: id/nav_menu_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 1415, 161, 1520]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 1439, 504, 1497]
+resource-id: id/nav_menu_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 1583, 161, 1688]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 1607, 437, 1665]
+resource-id: id/nav_menu_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 1751, 161, 1856]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 1775, 514, 1833]
+resource-id: id/nav_menu_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 1919, 161, 2024]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 1943, 594, 2001]
+resource-id: id/nav_menu_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 2087, 161, 2192]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 2111, 424, 2169]
+resource-id: id/nav_menu_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 2255, 161, 2360]
+resource-id: id/nav_icon
+tag: Image
+
+L10
+class: com.mapmyfitness.android.ui.widget.TextView
+bounds: [273, 2279, 359, 2337]
+resource-id: id/nav_menu_text
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

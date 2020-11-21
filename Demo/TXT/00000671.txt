@@ -1,0 +1,18 @@
+L12
+class: com.github.clans.fab.FloatingActionButton
+bounds: [1173, 1936, 1405, 2182]
+resource-id: id/fab_share
+tag: Button
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/app_bar
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

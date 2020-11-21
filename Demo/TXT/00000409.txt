@@ -1,0 +1,24 @@
+L6
+class: android.support.v7.widget.AppCompatEditText
+bounds: [148, 702, 1291, 1439]
+resource-id: id/email
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatTextView
+bounds: [525, 1586, 877, 1652]
+resource-id: id/user_agreement
+tag: Text
+
+L4
+class: com.afollestad.materialdialogs.internal.MDButton
+bounds: [782, 1715, 1053, 1883]
+resource-id: id/md_buttonDefaultNegative
+tag: Button
+
+L4
+class: com.afollestad.materialdialogs.internal.MDButton
+bounds: [1053, 1715, 1305, 1883]
+resource-id: id/md_buttonDefaultPositive
+tag: Button
+

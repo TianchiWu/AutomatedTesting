@@ -1,0 +1,102 @@
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 280, 1057, 448]
+resource-id: id/textViewTabStripItem
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatCheckedTextView
+bounds: [56, 532, 924, 1204]
+resource-id: id/design_menu_item_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatCheckedTextView
+bounds: [56, 1264, 924, 1768]
+resource-id: id/design_menu_item_text
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 330, 924, 476]
+resource-id: id/textViewDrawerItemAccount
+tag: Text
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/sgToolbar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [1216, 476, 1412, 672]
+resource-id: id/buttonFirstRunDismiss
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [84, 532, 1356, 644]
+resource-id: id/textViewFirstRunTitle
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [84, 644, 759, 776]
+resource-id: id/language_message
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatTextView
+bounds: [84, 799, 332, 892]
+resource-id: id/text1
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [1049, 958, 1384, 1126]
+resource-id: id/buttonFirstRunAddShow
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [908, 1126, 1384, 1294]
+resource-id: id/buttonFirstRunTrakt
+tag: Button
+
+L12
+class: android.support.v7.widget.AppCompatButton
+bounds: [887, 1294, 1384, 1462]
+resource-id: id/buttonFirstRunRestore
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [28, 1476, 1412, 1480]
+resource-id: id/dividerFirstRun
+tag: Image
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [84, 1480, 682, 1602]
+resource-id: id/textViewFirstRunPrivacyLink
+tag: Text
+
+L7
+class: android.support.design.widget.FloatingActionButton
+bounds: [1188, 2140, 1384, 2336]
+resource-id: id/buttonShowsAdd
+tag: Button
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 0, 980, 532]
+resource-id: id/navigation_header_container
+tag: Header
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

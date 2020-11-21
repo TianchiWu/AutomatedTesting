@@ -1,0 +1,258 @@
+L11
+class: android.widget.TextView
+bounds: [0, 1449, 1440, 1703]
+resource-id: id/emptyListViewAction
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [680, 1272, 760, 1431]
+resource-id: id/dialpad_key_letters
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1098, 1271, 1173, 1432]
+resource-id: id/dialpad_key_letters
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [269, 1497, 339, 1655]
+resource-id: id/dialpad_key_letters
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [684, 1496, 756, 1656]
+resource-id: id/dialpad_key_letters
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1088, 1495, 1184, 1656]
+resource-id: id/dialpad_key_letters
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [250, 1721, 357, 1879]
+resource-id: id/dialpad_key_letters
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [680, 1719, 759, 1880]
+resource-id: id/dialpad_key_letters
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [1079, 1720, 1192, 1880]
+resource-id: id/dialpad_key_letters
+tag: Text
+
+L12
+class: android.widget.TextView
+bounds: [692, 1947, 748, 2101]
+resource-id: id/dialpad_key_letters
+tag: Text
+
+L8
+class: com.android.contacts.common.list.ViewPagerTabs
+bounds: [0, 308, 1440, 459]
+resource-id: id/lists_pager_header
+tag: Header
+
+L11
+class: android.widget.ImageView
+bounds: [0, 1008, 1440, 1449]
+resource-id: id/emptyListViewImage
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [248, 151, 1328, 227]
+resource-id: id/cliv_name_textview
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [248, 375, 1328, 451]
+resource-id: id/cliv_name_textview
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [248, 599, 1328, 675]
+resource-id: id/cliv_name_textview
+tag: Text
+
+L9
+class: android.widget.ImageButton
+bounds: [28, 1005, 175, 1159]
+resource-id: id/dialpad_overflow
+tag: Button
+
+L9
+class: com.android.phone.common.dialpad.DigitsEditText
+bounds: [203, 977, 1243, 1187]
+resource-id: id/digits
+tag: Text
+
+L9
+class: android.widget.ImageButton
+bounds: [1243, 977, 1440, 1187]
+resource-id: id/deleteButton
+tag: Button
+
+L10
+class: com.android.phone.common.dialpad.DialpadKeyButton
+bounds: [96, 1240, 512, 1464]
+resource-id: id/one
+tag: Button
+
+L12
+class: com.android.phone.common.dialpad.DialpadTextView
+bounds: [287, 1273, 320, 1363]
+resource-id: id/dialpad_key_number
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [274, 1385, 333, 1419]
+resource-id: id/dialpad_key_voicemail
+tag: Image
+
+L10
+class: com.android.phone.common.dialpad.DialpadKeyButton
+bounds: [512, 1240, 928, 1464]
+resource-id: id/two
+tag: Button
+
+L10
+class: com.android.phone.common.dialpad.DialpadKeyButton
+bounds: [928, 1240, 1344, 1464]
+resource-id: id/three
+tag: Button
+
+L10
+class: com.android.phone.common.dialpad.DialpadKeyButton
+bounds: [96, 1464, 512, 1688]
+resource-id: id/four
+tag: Button
+
+L10
+class: com.android.phone.common.dialpad.DialpadKeyButton
+bounds: [512, 1464, 928, 1688]
+resource-id: id/five
+tag: Button
+
+L10
+class: com.android.phone.common.dialpad.DialpadKeyButton
+bounds: [928, 1464, 1344, 1688]
+resource-id: id/six
+tag: Button
+
+L10
+class: com.android.phone.common.dialpad.DialpadKeyButton
+bounds: [96, 1688, 512, 1912]
+resource-id: id/seven
+tag: Button
+
+L10
+class: com.android.phone.common.dialpad.DialpadKeyButton
+bounds: [512, 1688, 928, 1912]
+resource-id: id/eight
+tag: Button
+
+L10
+class: com.android.phone.common.dialpad.DialpadKeyButton
+bounds: [928, 1688, 1344, 1912]
+resource-id: id/nine
+tag: Button
+
+L10
+class: com.android.phone.common.dialpad.DialpadKeyButton
+bounds: [96, 1912, 512, 2136]
+resource-id: id/star
+tag: Button
+
+L12
+class: com.android.phone.common.dialpad.DialpadTextView
+bounds: [278, 1975, 329, 2026]
+resource-id: id/dialpad_key_number
+tag: Text
+
+L10
+class: com.android.phone.common.dialpad.DialpadKeyButton
+bounds: [512, 1912, 928, 2136]
+resource-id: id/zero
+tag: Button
+
+L10
+class: com.android.phone.common.dialpad.DialpadKeyButton
+bounds: [928, 1912, 1344, 2136]
+resource-id: id/pound
+tag: Button
+
+L12
+class: com.android.phone.common.dialpad.DialpadTextView
+bounds: [1113, 1972, 1158, 2030]
+resource-id: id/dialpad_key_number
+tag: Text
+
+L6
+class: android.widget.Space
+bounds: [0, 2336, 1440, 2392]
+resource-id: id/dialpad_floating_action_button_margin_bottom
+tag: Button
+
+L6
+class: android.widget.FrameLayout
+bounds: [622, 2140, 818, 2336]
+resource-id: id/dialpad_floating_action_button_container
+tag: Button
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 0, 1440, 84]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L4
+class: com.android.dialer.widget.SearchEditTextLayout
+bounds: [28, 0, 1412, 56]
+resource-id: id/search_view_container
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [70, 0, 168, 21]
+resource-id: id/search_magnifying_glass
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [259, 0, 1258, 5]
+resource-id: id/search_box_start_search
+tag: Text
+
+L6
+class: android.widget.ImageButton
+bounds: [1272, 0, 1370, 21]
+resource-id: id/dialtacts_options_menu_button
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

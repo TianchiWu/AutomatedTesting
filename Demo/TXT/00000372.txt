@@ -1,0 +1,54 @@
+L10
+class: com.transferwise.android.view.FontableTextView
+bounds: [252, 700, 1440, 1540]
+resource-id: id/recipient_name
+tag: Text
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar_main
+tag: Bar
+
+L10
+class: com.transferwise.android.view.FontableTextView
+bounds: [56, 308, 1384, 448]
+resource-id: id/big_title
+tag: Text
+
+L10
+class: com.transferwise.android.view.FontableTextView
+bounds: [56, 596, 622, 658]
+resource-id: id/recipients_title
+tag: Text
+
+L12
+class: com.transferwise.android.view.FontableTextView
+bounds: [98, 809, 153, 870]
+resource-id: id/initials
+tag: Text
+
+L10
+class: com.transferwise.android.viewgroup.CircularIconContainer
+bounds: [56, 1050, 196, 1190]
+resource-id: id/recipient_icon_container
+tag: Image
+
+L10
+class: com.transferwise.android.viewgroup.CircularIconContainer
+bounds: [56, 1330, 196, 1470]
+resource-id: id/recipient_icon_container
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

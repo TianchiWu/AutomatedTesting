@@ -1,0 +1,72 @@
+L5
+class: com.vervewireless.com.droid.foxwaga.v2.flexibleui.cssviews.CssRelativeLayout
+bounds: [0, 84, 1440, 252]
+resource-id: id/topbar
+tag: Bar
+
+L6
+class: com.vervewireless.com.droid.foxwaga.v2.flexibleui.cssviews.CssImageView
+bounds: [510, 91, 930, 245]
+resource-id: id/masthead_logo
+tag: Image
+
+L6
+class: android.widget.FrameLayout
+bounds: [0, 84, 168, 252]
+resource-id: id/button_back_selector
+tag: Button
+
+L6
+class: android.widget.FrameLayout
+bounds: [169, 84, 337, 252]
+resource-id: id/liveStreamPlaceholder
+tag: Button
+
+L6
+class: com.vervewireless.com.droid.foxwaga.common.CategoryTextView
+bounds: [650, 252, 790, 318]
+resource-id: id/textLeft
+tag: Text
+
+L6
+class: com.vervewireless.com.droid.foxwaga.v2.flexibleui.cssviews.CssTextView
+bounds: [1193, 256, 1429, 313]
+resource-id: id/textRight
+tag: Text
+
+L4
+class: android.support.v4.view.ViewPager
+bounds: [0, 318, 1440, 2217]
+resource-id: id/details_gallery_pager
+tag: Bar
+
+L10
+class: com.vervewireless.com.droid.foxwaga.v2.flexibleui.cssviews.CssFrameLayout
+bounds: [0, 318, 1440, 1128]
+resource-id: id/mediaPagerItemRoot
+tag: Image
+
+L11
+class: android.widget.ProgressBar
+bounds: [587, 590, 853, 856]
+resource-id: id/progressBar
+tag: Bar
+
+L9
+class: android.widget.FrameLayout
+bounds: [1272, 1128, 1440, 1331]
+resource-id: id/saveView
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

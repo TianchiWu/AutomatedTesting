@@ -1,0 +1,42 @@
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 87, 259, 276]
+resource-id: id/sidemenu_button
+tag: Button
+
+L11
+class: android.support.v7.widget.AppCompatImageButton
+bounds: [0, 84, 252, 280]
+resource-id: id/chat_back
+tag: Button
+
+L11
+class: com.talabat.TalabatTextView
+bounds: [259, 135, 1412, 228]
+resource-id: id/title
+tag: Text
+
+L10
+class: android.widget.LinearLayout
+bounds: [532, 1247, 907, 1425]
+resource-id: id/progress_container
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

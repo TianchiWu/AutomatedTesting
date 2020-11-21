@@ -1,0 +1,84 @@
+L10
+class: com.loopj.android.image.SmartImageView
+bounds: [25, 776, 947, 2218]
+resource-id: id/ImageViewCameraImageId
+tag: Image
+
+L10
+class: com.loopj.android.image.SmartImageView
+bounds: [25, 776, 1415, 2374]
+resource-id: id/ImageViewCameraImageId
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [25, 1022, 1415, 1126]
+resource-id: id/TextViewIdCameraItemTitle
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [25, 1386, 1415, 1490]
+resource-id: id/TextViewIdCameraItemTitle
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [25, 1750, 1415, 1854]
+resource-id: id/TextViewIdCameraItemTitle
+tag: Text
+
+L10
+class: android.widget.TextView
+bounds: [25, 2114, 1415, 2218]
+resource-id: id/TextViewIdCameraItemTitle
+tag: Text
+
+L7
+class: android.widget.LinearLayout
+bounds: [0, 435, 1440, 751]
+resource-id: id/LinearLayoutSearchToolbarMain
+tag: Bar
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 435, 1440, 690]
+resource-id: id/LinearLayoutSearchToolbar
+tag: Bar
+
+L9
+class: android.widget.EditText
+bounds: [18, 453, 1260, 672]
+resource-id: id/EditTextSearchFilter
+tag: Text
+
+L9
+class: android.widget.ImageButton
+bounds: [1260, 453, 1422, 672]
+resource-id: id/ButtonCancelSearchFilter
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [0, 690, 1440, 747]
+resource-id: id/TextViewSearchFilterSubtitle
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 911, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

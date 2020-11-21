@@ -1,0 +1,126 @@
+L22
+class: com.gannett.android.common.ui.view.CustomFontTextView
+bounds: [0, 572, 1050, 2196]
+resource-id: id/publications_item_name
+tag: Text
+
+L10
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/app_bar_layout
+tag: Button
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [35, 140, 154, 224]
+resource-id: id/nav_icon
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [154, 129, 504, 234]
+resource-id: id/toolbar_logo
+tag: Image
+
+L14
+class: android.widget.FrameLayout
+bounds: [0, 280, 1440, 1360]
+resource-id: id/image_container
+tag: Image
+
+L15
+class: com.gannett.android.news.ui.view.FrontArticleHeadlineTextView
+bounds: [70, 1402, 1330, 1618]
+resource-id: id/main_text
+tag: Text
+
+L15
+class: com.gannett.android.news.ui.view.ElipsizingTextView2
+bounds: [70, 1664, 1370, 1844]
+resource-id: id/chatter
+tag: Text
+
+L18
+class: android.widget.TextView
+bounds: [189, 1939, 974, 2005]
+resource-id: id/hero_spike_element_title
+tag: Text
+
+L18
+class: android.widget.ImageView
+bounds: [70, 2087, 189, 2185]
+resource-id: id/hero_spike_element_icon
+tag: Image
+
+L18
+class: android.widget.TextView
+bounds: [189, 2103, 678, 2169]
+resource-id: id/hero_spike_element_title
+tag: Text
+
+L14
+class: android.widget.FrameLayout
+bounds: [1020, 2319, 1370, 2392]
+resource-id: id/image_container
+tag: Image
+
+L14
+class: android.widget.LinearLayout
+bounds: [70, 2319, 978, 2392]
+resource-id: id/section_title_wrapper
+tag: Text
+
+L12
+class: android.widget.FrameLayout
+bounds: [0, 280, 1440, 448]
+resource-id: id/front_section_header_first_item
+tag: Header
+
+L13
+class: com.gannett.android.common.ui.view.CustomFontTextView
+bounds: [0, 325, 1440, 403]
+resource-id: id/header_section_title
+tag: Header
+
+L12
+class: com.gannett.android.common.ui.view.CustomFontTextView
+bounds: [482, 1158, 957, 1297]
+resource-id: id/title_view
+tag: Text
+
+L14
+class: android.widget.Button
+bounds: [412, 1568, 1027, 1708]
+resource-id: id/choose_publication
+tag: Button
+
+L20
+class: android.support.v7.widget.SearchView
+bounds: [70, 333, 1370, 508]
+resource-id: id/publication_search_view
+tag: Bar
+
+L23
+class: android.support.v7.widget.AppCompatImageView
+bounds: [126, 378, 238, 462]
+resource-id: id/search_mag_icon
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1160, 2200, 1440, 2388]
+resource-id: id/next
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

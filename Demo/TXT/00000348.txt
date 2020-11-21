@@ -1,0 +1,138 @@
+L9
+class: android.widget.ImageView
+bounds: [1088, 112, 1422, 231]
+resource-id: id/messages_first_list_favorite
+tag: Image
+
+L15
+class: android.widget.TextView
+bounds: [210, 294, 1405, 438]
+resource-id: id/messages_first_listitem_text
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [210, 510, 1405, 716]
+resource-id: id/messages_first_listitem_text
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [210, 788, 1405, 994]
+resource-id: id/messages_first_listitem_text
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [81, 2195, 207, 2321]
+resource-id: id/contacts_image
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [369, 2195, 495, 2321]
+resource-id: id/messages_image
+tag: Image
+
+L9
+class: android.widget.Button
+bounds: [505, 2202, 558, 2255]
+resource-id: id/messages_miss_num
+tag: Button
+
+L9
+class: android.widget.ImageView
+bounds: [657, 2191, 783, 2317]
+resource-id: id/keypad_image
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [679, 2317, 760, 2383]
+resource-id: id/tab_keypad_text
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [945, 2195, 1071, 2321]
+resource-id: id/find_image
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1233, 2195, 1359, 2321]
+resource-id: id/more_image
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [0, 129, 398, 214]
+resource-id: id/messages_first_title
+tag: Text
+
+L10
+class: android.widget.ImageView
+bounds: [95, 554, 270, 729]
+resource-id: id/phone_imageview
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [305, 599, 1037, 684]
+resource-id: id/phone_textView
+tag: Text
+
+L10
+class: android.widget.ImageView
+bounds: [95, 922, 270, 1097]
+resource-id: id/group_imageview
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [305, 967, 939, 1052]
+resource-id: id/group_textView
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [0, 129, 1070, 214]
+resource-id: id/messages_first_list_title
+tag: Text
+
+L14
+class: android.widget.ImageView
+bounds: [35, 296, 175, 436]
+resource-id: id/messages_first_listitem_headphoto
+tag: Image
+
+L16
+class: android.widget.TextView
+bounds: [210, 294, 660, 367]
+resource-id: id/messages_first_listitem_name
+tag: Text
+
+L14
+class: android.widget.ImageView
+bounds: [35, 543, 175, 683]
+resource-id: id/messages_first_listitem_headphoto
+tag: Image
+
+L16
+class: android.widget.TextView
+bounds: [210, 510, 586, 583]
+resource-id: id/messages_first_listitem_name
+tag: Text
+
+L14
+class: android.widget.ImageView
+bounds: [35, 821, 175, 961]
+resource-id: id/messages_first_listitem_headphoto
+tag: Image
+
+L16
+class: android.widget.TextView
+bounds: [210, 788, 986, 861]
+resource-id: id/messages_first_listitem_name
+tag: Text
+

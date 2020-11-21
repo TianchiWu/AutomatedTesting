@@ -1,0 +1,36 @@
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [202, 332, 1238, 603]
+resource-id: id/textViewProfileInfo
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [460, 673, 980, 813]
+resource-id: id/textViewRewardsNumber
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [371, 883, 1068, 986]
+resource-id: id/textViewVictory
+tag: Text
+
+L8
+class: android.support.v7.widget.AppCompatButton
+bounds: [402, 1095, 1038, 1263]
+resource-id: id/buttonContinueToApp
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

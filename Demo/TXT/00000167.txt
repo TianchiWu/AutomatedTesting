@@ -1,0 +1,162 @@
+L1
+class: com.android.internal.widget.ActionBarOverlayLayout
+bounds: [0, 0, 1440, 2392]
+resource-id: id/decor_content_parent
+tag: Image
+
+L4
+class: com.narvii.widget.SpinningView
+bounds: [576, 1052, 863, 1339]
+resource-id: id/progress
+tag: Bar
+
+L7
+class: android.widget.TextView
+bounds: [91, 364, 1349, 557]
+resource-id: id/name
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [346, 724, 1094, 893]
+resource-id: id/enter
+tag: Text
+
+L6
+class: com.narvii.widget.ThumbImageView
+bounds: [604, 119, 835, 350]
+resource-id: id/icon
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [56, 998, 576, 1074]
+resource-id: id/section_header
+tag: Header
+
+L7
+class: android.widget.Button
+bounds: [63, 1109, 1377, 1228]
+resource-id: id/search_btn
+tag: Button
+
+L8
+class: com.narvii.widget.TintButton
+bounds: [91, 1140, 150, 1196]
+resource-id: id/ic_search
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [168, 1135, 711, 1201]
+resource-id: id/hint
+tag: Text
+
+L8
+class: com.narvii.widget.PromotionalImageView
+bounds: [49, 1284, 343, 1704]
+resource-id: id/image
+tag: Image
+
+L8
+class: com.narvii.widget.ThumbImageView
+bounds: [35, 1284, 175, 1424]
+resource-id: id/community_icon
+tag: Image
+
+L8
+class: com.narvii.widget.AutoFitTextView
+bounds: [386, 1284, 1405, 1401]
+resource-id: id/community_name
+tag: Text
+
+L9
+class: com.narvii.master.community.CommunityActivenessBar
+bounds: [386, 1408, 845, 1472]
+resource-id: id/community_activeness_level
+tag: Bar
+
+L8
+class: android.widget.TextView
+bounds: [386, 1486, 1405, 1609]
+resource-id: id/community_description
+tag: Text
+
+L8
+class: com.narvii.widget.PromotionalImageView
+bounds: [49, 1764, 343, 2184]
+resource-id: id/image
+tag: Image
+
+L8
+class: com.narvii.widget.ThumbImageView
+bounds: [35, 1764, 175, 1904]
+resource-id: id/community_icon
+tag: Image
+
+L8
+class: com.narvii.widget.AutoFitTextView
+bounds: [386, 1764, 1405, 1881]
+resource-id: id/community_name
+tag: Text
+
+L9
+class: com.narvii.master.community.CommunityActivenessBar
+bounds: [386, 1888, 845, 1952]
+resource-id: id/community_activeness_level
+tag: Bar
+
+L8
+class: android.widget.TextView
+bounds: [386, 1966, 981, 2032]
+resource-id: id/community_description
+tag: Text
+
+L8
+class: com.narvii.widget.PromotionalImageView
+bounds: [49, 2284, 343, 2392]
+resource-id: id/image
+tag: Image
+
+L8
+class: com.narvii.widget.ThumbImageView
+bounds: [35, 2284, 175, 2392]
+resource-id: id/community_icon
+tag: Image
+
+L8
+class: com.narvii.widget.AutoFitTextView
+bounds: [386, 2311, 1405, 2392]
+resource-id: id/community_name
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [0, 1013, 1440, 1168]
+resource-id: id/empty_text
+tag: Text
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L5
+class: android.widget.FrameLayout
+bounds: [0, 84, 161, 252]
+resource-id: id/actionbar_left
+tag: Image
+
+L5
+class: android.widget.TextView
+bounds: [692, 121, 748, 214]
+resource-id: id/actionbar_title
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

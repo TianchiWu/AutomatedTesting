@@ -1,0 +1,108 @@
+L10
+class: android.widget.ImageButton
+bounds: [42, 2161, 1398, 2392]
+resource-id: id/bottom_action_bar_next
+tag: NavigationBar
+
+L15
+class: android.widget.TextView
+bounds: [105, 754, 629, 906]
+resource-id: id/gridview_line_two
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [63, 441, 671, 938]
+resource-id: id/peak_one
+tag: Image
+
+L15
+class: android.widget.TextView
+bounds: [811, 754, 1335, 906]
+resource-id: id/gridview_line_two
+tag: Text
+
+L13
+class: android.widget.ImageView
+bounds: [1324, 903, 1377, 938]
+resource-id: id/peak_two
+tag: Image
+
+L9
+class: com.andrew.apolloMod.ui.widgets.BottomActionBar
+bounds: [0, 2154, 1440, 2392]
+resource-id: id/bottom_action_bar
+tag: NavigationBar
+
+L11
+class: android.widget.TextView
+bounds: [42, 2197, 324, 2355]
+resource-id: id/bottom_action_bar_track_name
+tag: NavigationBar
+
+L8
+class: android.widget.Button
+bounds: [0, 252, 437, 392]
+resource-id: id/tabs
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [437, 252, 887, 392]
+resource-id: id/tabs
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [887, 252, 1336, 392]
+resource-id: id/tabs
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [1336, 252, 1440, 392]
+resource-id: id/tabs
+tag: Button
+
+L13
+class: android.widget.ImageView
+bounds: [618, 798, 671, 938]
+resource-id: id/peak_two
+tag: Image
+
+L13
+class: com.andrew.apolloMod.views.TrackBrowserImageView
+bounds: [769, 441, 1301, 938]
+resource-id: id/gridview_image
+tag: Image
+
+L7
+class: android.support.v4.app.NoSaveStateFrameLayout
+bounds: [0, 2154, 1440, 2392]
+resource-id: id/bottomactionbar_new
+tag: Bar
+
+L11
+class: android.widget.TextView
+bounds: [200, 2265, 494, 2333]
+resource-id: id/bottom_action_bar_artist_name
+tag: NavigationBar
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L6
+class: android.widget.TextView
+bounds: [169, 125, 528, 210]
+resource-id: id/action_bar_title
+tag: NavigationBar
+

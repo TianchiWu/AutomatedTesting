@@ -1,0 +1,114 @@
+L7
+class: android.view.View
+bounds: [0, 84, 1440, 284]
+resource-id: id/base_top_toolbar_shadow
+tag: Bar
+
+L14
+class: com.fareportal.corelibrary.view.CustomTextViewLight
+bounds: [214, 357, 1371, 507]
+resource-id: id/hotel_search_segment_destination_placeholder_text
+tag: Text
+
+L15
+class: com.fareportal.corelibrary.view.CustomTextViewLight
+bounds: [214, 597, 513, 747]
+resource-id: id/hotel_search_segment_check_in_date_text_view
+tag: Text
+
+L15
+class: com.fareportal.corelibrary.view.CustomTextViewLight
+bounds: [896, 597, 1195, 747]
+resource-id: id/hotel_search_segment_check_out_date_text_view
+tag: Text
+
+L15
+class: com.fareportal.corelibrary.view.CustomTextViewMedium
+bounds: [208, 813, 412, 979]
+resource-id: id/hotel_search_segment_rooms_number_text
+tag: Text
+
+L15
+class: com.fareportal.corelibrary.view.CustomTextViewMedium
+bounds: [887, 813, 1054, 979]
+resource-id: id/hotel_search_segment_guests_num_text
+tag: Text
+
+L8
+class: com.fareportal.corelibrary.view.CustomTextView
+bounds: [231, 141, 632, 223]
+resource-id: id/toolbar_title
+tag: Bar
+
+L14
+class: com.fareportal.corelibrary.view.CustomImageView
+bounds: [69, 382, 185, 498]
+resource-id: id/hotel_search_segment_destination_image
+tag: Image
+
+L15
+class: com.fareportal.corelibrary.view.CustomImageView
+bounds: [69, 622, 185, 738]
+resource-id: id/hotel_search_segment_check_in_date_calendar_image
+tag: Image
+
+L15
+class: com.fareportal.corelibrary.view.CustomImageView
+bounds: [751, 622, 867, 738]
+resource-id: id/hotel_search_segment_check_out_date_calendar_image
+tag: Image
+
+L15
+class: com.fareportal.corelibrary.view.CustomImageView
+bounds: [69, 841, 179, 951]
+resource-id: id/hotel_search_segment_room_selection_image
+tag: Image
+
+L15
+class: com.fareportal.corelibrary.view.CustomImageView
+bounds: [751, 837, 868, 954]
+resource-id: id/hotel_search_segment_guests_image
+tag: Image
+
+L15
+class: android.widget.ImageView
+bounds: [1340, 930, 1371, 979]
+resource-id: id/tempDropDown
+tag: Image
+
+L14
+class: com.fareportal.corelibrary.view.CustomImageView
+bounds: [69, 1068, 181, 1180]
+resource-id: id/hotel_search_segment_room_tonight_image
+tag: Image
+
+L14
+class: com.fareportal.corelibrary.view.CustomTextView
+bounds: [210, 1093, 826, 1155]
+resource-id: id/hotel_search_segment_room_tonight_label
+tag: Text
+
+L14
+class: com.fareportal.corelibrary.view.CustomImageView
+bounds: [1320, 1098, 1371, 1149]
+resource-id: id/hotel_search_segment_room_tonight_right_arrow_image
+tag: Image
+
+L8
+class: android.widget.RelativeLayout
+bounds: [40, 2151, 1400, 2352]
+resource-id: id/base_footer_layout
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,66 @@
+L7
+class: android.widget.TextView
+bounds: [18, 1372, 1422, 1869]
+resource-id: id/moreTV
+tag: Text
+
+L5
+class: android.widget.TextView
+bounds: [0, 84, 591, 253]
+resource-id: id/monthTV
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [57, 893, 243, 1045]
+resource-id: id/incTotal
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [766, 893, 1008, 1045]
+resource-id: id/expTotal
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [53, 1156, 262, 1308]
+resource-id: id/accTotal
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [1079, 1156, 1259, 1308]
+resource-id: id/budgetTotal
+tag: Text
+
+L5
+class: android.widget.ImageButton
+bounds: [1293, 112, 1405, 224]
+resource-id: id/settingsBtn
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [506, 885, 674, 1053]
+resource-id: id/addIncBtn
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [1215, 885, 1383, 1053]
+resource-id: id/addExpBtn
+tag: Button
+
+L8
+class: android.widget.Button
+bounds: [506, 1148, 674, 1316]
+resource-id: id/addTransferBtn
+tag: Button
+
+L8
+class: android.widget.ImageView
+bounds: [893, 1148, 1061, 1316]
+resource-id: id/budgetImg
+tag: Image
+

@@ -1,0 +1,36 @@
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L6
+class: android.widget.ImageView
+bounds: [43, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L3
+class: com.android.internal.widget.ActionBarContextView
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_context_bar
+tag: NavigationBar
+
+L4
+class: android.widget.LinearLayout
+bounds: [0, 84, 196, 252]
+resource-id: id/action_mode_close_button
+tag: Button
+
+L4
+class: android.widget.LinearLayout
+bounds: [252, 84, 1440, 252]
+resource-id: id/navigation_bar
+tag: Bar
+
+L6
+class: android.widget.Button
+bounds: [252, 84, 623, 252]
+resource-id: id/selection_menu
+tag: Button
+

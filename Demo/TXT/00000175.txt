@@ -1,0 +1,48 @@
+L7
+class: android.widget.LinearLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/screen_toolbar_container
+tag: Bar
+
+L14
+class: com.tagged.view.TaggedImageView
+bounds: [510, 736, 930, 1156]
+resource-id: id/empty_view_image
+tag: Image
+
+L14
+class: com.tagged.view.CustomFontTextView
+bounds: [352, 1240, 1088, 1324]
+resource-id: id/title
+tag: Text
+
+L14
+class: com.tagged.view.CustomFontTextView
+bounds: [140, 1366, 1300, 1495]
+resource-id: id/subtitle
+tag: Text
+
+L14
+class: com.tagged.view.CustomFontButton
+bounds: [426, 1593, 1014, 1761]
+resource-id: id/action_button
+tag: Button
+
+L12
+class: android.widget.ProgressBar
+bounds: [587, 1115, 853, 1381]
+resource-id: id/loading_progress
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

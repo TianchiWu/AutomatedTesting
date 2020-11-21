@@ -1,0 +1,12 @@
+L7
+class: android.widget.TextView
+bounds: [838, 931, 1440, 1544]
+resource-id: id/txt_choose_coin
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [670, 1153, 838, 1321]
+resource-id: id/handle
+tag: Image
+

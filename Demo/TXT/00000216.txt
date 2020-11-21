@@ -1,0 +1,186 @@
+L16
+class: android.widget.TextView
+bounds: [562, 519, 982, 892]
+resource-id: id/text_temp_unit
+tag: Text
+
+L18
+class: android.widget.TextView
+bounds: [111, 1836, 368, 1959]
+resource-id: id/text_wind_name
+tag: Text
+
+L18
+class: android.widget.TextView
+bounds: [635, 1836, 803, 1959]
+resource-id: id/text_humidity_name
+tag: Text
+
+L18
+class: android.widget.TextView
+bounds: [1117, 1836, 1282, 1959]
+resource-id: id/text_visibility_name
+tag: Text
+
+L18
+class: android.widget.TextView
+bounds: [128, 2082, 351, 2205]
+resource-id: id/text_pressure_name
+tag: Text
+
+L18
+class: android.widget.TextView
+bounds: [692, 2082, 746, 2205]
+resource-id: id/text_uv_name
+tag: Text
+
+L18
+class: android.widget.TextView
+bounds: [1011, 2086, 1388, 2207]
+resource-id: id/text_sun_name
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [522, 2042, 1152, 2286]
+resource-id: id/start_ad_app_description
+tag: Text
+
+L6
+class: android.support.v4.view.ViewPager
+bounds: [0, 0, 1440, 2231]
+resource-id: id/fragment_manager_layout_view_pager
+tag: Image
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 0, 1440, 84]
+resource-id: id/top_image_layout
+tag: Image
+
+L8
+class: android.widget.FrameLayout
+bounds: [0, 84, 1440, 252]
+resource-id: id/weather_fragment_toolbar_frame
+tag: Bar
+
+L12
+class: android.widget.ImageView
+bounds: [0, 112, 112, 224]
+resource-id: id/img_ad_wall_btn_2
+tag: Image
+
+L11
+class: android.widget.TextView
+bounds: [620, 125, 791, 210]
+resource-id: id/text_address
+tag: Text
+
+L11
+class: android.widget.ImageView
+bounds: [791, 136, 858, 199]
+resource-id: id/img_address_btn
+tag: Image
+
+L10
+class: android.widget.ImageView
+bounds: [1328, 112, 1440, 224]
+resource-id: id/img_setting_btn
+tag: Image
+
+L15
+class: android.widget.TextView
+bounds: [499, 910, 941, 1013]
+resource-id: id/text_condition
+tag: Text
+
+L16
+class: android.widget.TextView
+bounds: [483, 1059, 557, 1125]
+resource-id: id/text_low_temp
+tag: Text
+
+L16
+class: android.widget.TextView
+bounds: [625, 1059, 699, 1125]
+resource-id: id/text_high_temp
+tag: Text
+
+L15
+class: android.widget.TextView
+bounds: [476, 1605, 964, 1671]
+resource-id: id/text_update_time
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [321, 2241, 398, 2318]
+resource-id: id/iv_tab_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [283, 2325, 437, 2382]
+resource-id: id/tv_tab_title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [1041, 2241, 1118, 2318]
+resource-id: id/iv_tab_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [1004, 2325, 1156, 2382]
+resource-id: id/tv_tab_title
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [630, 823, 863, 1056]
+resource-id: id/img_star_page_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [408, 1056, 1031, 1196]
+resource-id: id/text_star_page_content
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [0, 0, 1440, 1936]
+resource-id: id/start_ad_img_ad_large_bottom
+tag: Image
+
+L10
+class: android.widget.TextView
+bounds: [1309, 140, 1384, 197]
+resource-id: id/start_ad_text_countdown
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [0, 225, 1440, 594]
+resource-id: id/start_ad_text_ad_title
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [0, 594, 1440, 1259]
+resource-id: id/start_ad_img_ad_large_top
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [0, 1259, 1440, 1754]
+resource-id: id/start_ad_text_ad_desc
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [1130, 1802, 1299, 1887]
+resource-id: id/start_ad_text_ad_action
+tag: Text
+

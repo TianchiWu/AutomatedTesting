@@ -1,0 +1,30 @@
+L6
+class: android.support.v7.widget.AppCompatTextView
+bounds: [251, 1085, 1189, 1537]
+resource-id: id/accountHideShowPasswordTextView
+tag: Text
+
+L6
+class: android.support.v7.widget.AppCompatEditText
+bounds: [251, 716, 1189, 1032]
+resource-id: id/accountUsernameText
+tag: Text
+
+L6
+class: android.support.v7.widget.AppCompatTextView
+bounds: [369, 542, 1070, 645]
+resource-id: id/titleTextView
+tag: Text
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [251, 1765, 702, 1933]
+resource-id: id/switchButton
+tag: Button
+
+L7
+class: android.support.v7.widget.AppCompatButton
+bounds: [738, 1765, 1189, 1933]
+resource-id: id/accountActionButton
+tag: Button
+

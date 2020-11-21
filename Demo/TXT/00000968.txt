@@ -1,0 +1,96 @@
+L7
+class: android.widget.ImageView
+bounds: [0, 2182, 1440, 2392]
+resource-id: id/more
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [0, 84, 1440, 1019]
+resource-id: id/banner
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [0, 84, 1440, 2392]
+resource-id: id/networkAvailability_bottom
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [123, 1195, 1317, 1491]
+resource-id: id/fishing
+tag: Image
+
+L11
+class: android.widget.ImageView
+bounds: [123, 1589, 1317, 1885]
+resource-id: id/camping
+tag: Image
+
+L5
+class: android.support.v4.app.NoSaveStateFrameLayout
+bounds: [0, 84, 1440, 285]
+resource-id: id/header_fragment
+tag: Header
+
+L7
+class: android.widget.ImageView
+bounds: [1223, 84, 1235, 270]
+resource-id: id/div1_header_home
+tag: Header
+
+L7
+class: android.widget.ProgressBar
+bounds: [0, 617, 1440, 687]
+resource-id: id/progres_bar
+tag: Bar
+
+L6
+class: android.widget.TextView
+bounds: [0, 1019, 1440, 1195]
+resource-id: id/shoptext
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [1317, 1195, 1440, 1948]
+resource-id: id/right
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [0, 1948, 1440, 2006]
+resource-id: id/none
+tag: Image
+
+L6
+class: android.widget.RelativeLayout
+bounds: [0, 2006, 1440, 2182]
+resource-id: id/manage_account
+tag: Text
+
+L7
+class: android.widget.Button
+bounds: [1188, 2006, 1440, 2182]
+resource-id: id/login_button
+tag: Button
+
+L5
+class: android.widget.LinearLayout
+bounds: [0, 285, 1440, 460]
+resource-id: id/search_bar
+tag: Bar
+
+L6
+class: android.widget.EditText
+bounds: [0, 285, 1174, 460]
+resource-id: id/searchfield
+tag: Text
+
+L6
+class: android.widget.ImageView
+bounds: [1174, 320, 1415, 425]
+resource-id: id/cancel
+tag: Image
+

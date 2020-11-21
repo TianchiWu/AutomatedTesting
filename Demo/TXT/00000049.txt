@@ -1,0 +1,78 @@
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 336, 1384, 412]
+resource-id: id/checklist_detail_items_left
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatEditText
+bounds: [56, 468, 1384, 617]
+resource-id: id/checklist_detail_add_item_edit_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 698, 263, 764]
+resource-id: id/checklist_group_divider
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [168, 863, 824, 939]
+resource-id: id/checklist_item_text
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [168, 1089, 578, 1165]
+resource-id: id/checklist_item_text
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [168, 1314, 1384, 1456]
+resource-id: id/checklist_item_text
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [168, 1606, 1245, 1682]
+resource-id: id/checklist_item_text
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [168, 1831, 1384, 1973]
+resource-id: id/checklist_item_text
+tag: Text
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 2072, 288, 2138]
+resource-id: id/checklist_group_divider
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [168, 2237, 432, 2313]
+resource-id: id/checklist_item_text
+tag: Text
+
+L4
+class: android.support.v7.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 280]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

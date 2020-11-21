@@ -1,0 +1,60 @@
+L8
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 84, 1440, 280]
+resource-id: id/appbar
+tag: Bar
+
+L13
+class: com.gpshopper.stevemadden.view.FontTextView
+bounds: [196, 84, 359, 280]
+resource-id: id/actionbar_text
+tag: Bar
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1076, 84, 1160, 280]
+resource-id: id/searchItem
+tag: Image
+
+L15
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1094, 102, 1157, 165]
+resource-id: id/cart_badge
+tag: Text
+
+L14
+class: com.gpshopper.stevemadden.view.FontTextView
+bounds: [42, 326, 438, 402]
+resource-id: id/text1
+tag: Text
+
+L14
+class: com.gpshopper.stevemadden.view.FontTextView
+bounds: [522, 326, 918, 402]
+resource-id: id/text1
+tag: Text
+
+L14
+class: com.gpshopper.stevemadden.view.FontTextView
+bounds: [1002, 326, 1398, 402]
+resource-id: id/text1
+tag: Text
+
+L14
+class: android.support.v7.widget.CardView
+bounds: [56, 1218, 619, 1373]
+resource-id: id/buttonSizeFit
+tag: Button
+
+L14
+class: android.support.v7.widget.CardView
+bounds: [619, 1218, 1384, 1373]
+resource-id: id/buttonShippingReturns
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

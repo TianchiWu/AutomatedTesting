@@ -1,0 +1,24 @@
+L6
+class: android.widget.ImageView
+bounds: [0, 112, 155, 224]
+resource-id: id/home
+tag: Image
+
+L2
+class: com.android.internal.widget.ActionBarContainer
+bounds: [0, 84, 1440, 252]
+resource-id: id/action_bar_container
+tag: NavigationBar
+
+L5
+class: android.widget.Spinner
+bounds: [169, 84, 1020, 252]
+resource-id: id/action_bar_spinner
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [183, 84, 869, 252]
+resource-id: id/text1
+tag: Text
+

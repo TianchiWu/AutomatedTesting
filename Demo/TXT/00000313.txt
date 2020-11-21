@@ -1,0 +1,72 @@
+L5
+class: android.widget.ImageView
+bounds: [35, 144, 534, 251]
+resource-id: id/imageView1
+tag: Image
+
+L6
+class: android.widget.ImageView
+bounds: [1288, 139, 1405, 256]
+resource-id: id/btn_export
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [167, 550, 552, 935]
+resource-id: id/itemImage
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [208, 935, 510, 1005]
+resource-id: id/itemSize
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [887, 550, 1272, 935]
+resource-id: id/itemImage
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [952, 935, 1207, 1005]
+resource-id: id/itemSize
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [167, 1075, 552, 1460]
+resource-id: id/itemImage
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [214, 1460, 504, 1530]
+resource-id: id/itemSize
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [887, 1075, 1272, 1460]
+resource-id: id/itemImage
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [921, 1460, 1237, 1530]
+resource-id: id/itemSize
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [167, 1600, 552, 1985]
+resource-id: id/itemImage
+tag: Image
+
+L8
+class: android.widget.TextView
+bounds: [218, 1985, 501, 2055]
+resource-id: id/itemSize
+tag: Text
+

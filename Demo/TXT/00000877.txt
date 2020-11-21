@@ -1,0 +1,186 @@
+L17
+class: android.widget.TextView
+bounds: [322, 638, 1370, 889]
+resource-id: id/pod_l1
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [322, 1198, 1370, 1495]
+resource-id: id/pod_l1
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [322, 1758, 1115, 1963]
+resource-id: id/pod_l1
+tag: Text
+
+L7
+class: com.coupons.mobile.ui.widget.LUTitleBar
+bounds: [0, 84, 1440, 252]
+resource-id: id/title_bar
+tag: Bar
+
+L8
+class: android.widget.LinearLayout
+bounds: [1048, 84, 1440, 252]
+resource-id: id/action_buttons
+tag: Button
+
+L8
+class: android.widget.LinearLayout
+bounds: [0, 84, 42, 252]
+resource-id: id/home_button
+tag: Button
+
+L8
+class: android.widget.TextView
+bounds: [392, 119, 1048, 216]
+resource-id: id/title
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [129, 256, 350, 424]
+resource-id: id/title
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [574, 256, 865, 424]
+resource-id: id/title
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [1124, 256, 1276, 424]
+resource-id: id/title
+tag: Text
+
+L13
+class: com.coupons.ciapp.ui.content.shared.NCTextWithActionToolbar
+bounds: [0, 2005, 1440, 2173]
+resource-id: id/toolbar
+tag: Text
+
+L14
+class: android.widget.Button
+bounds: [995, 2005, 1440, 2173]
+resource-id: id/button_primary
+tag: Button
+
+L17
+class: android.widget.TextView
+bounds: [77, 463, 520, 582]
+resource-id: id/pod_action_label
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [1107, 463, 1405, 582]
+resource-id: id/button_details
+tag: Button
+
+L17
+class: android.widget.ImageView
+bounds: [63, 631, 294, 939]
+resource-id: id/pod_primary_image
+tag: Image
+
+L17
+class: android.widget.TextView
+bounds: [77, 1023, 520, 1142]
+resource-id: id/pod_action_label
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [1107, 1023, 1405, 1142]
+resource-id: id/button_details
+tag: Button
+
+L17
+class: android.widget.ImageView
+bounds: [63, 1191, 294, 1499]
+resource-id: id/pod_primary_image
+tag: Image
+
+L17
+class: android.widget.TextView
+bounds: [77, 1583, 520, 1702]
+resource-id: id/pod_action_label
+tag: Text
+
+L17
+class: android.widget.TextView
+bounds: [1107, 1583, 1405, 1702]
+resource-id: id/button_details
+tag: Button
+
+L17
+class: android.widget.ImageView
+bounds: [63, 1751, 294, 2001]
+resource-id: id/pod_primary_image
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [122, 2201, 238, 2317]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [109, 2317, 250, 2364]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [482, 2201, 598, 2317]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [478, 2317, 602, 2364]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [842, 2201, 958, 2317]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [824, 2317, 975, 2364]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [1202, 2201, 1318, 2317]
+resource-id: id/icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [1203, 2317, 1317, 2364]
+resource-id: id/title
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

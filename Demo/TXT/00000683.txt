@@ -1,0 +1,12 @@
+L5
+class: android.widget.TextView
+bounds: [35, 119, 1405, 560]
+resource-id: id/textView_recordingon
+tag: Text
+
+L5
+class: android.widget.ImageView
+bounds: [1300, 119, 1405, 224]
+resource-id: id/imageView_cross
+tag: Image
+

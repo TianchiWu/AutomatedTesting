@@ -1,0 +1,36 @@
+L10
+class: org.adw.library.widgets.discreteseekbar.DiscreteSeekBar
+bounds: [357, 1063, 1251, 1175]
+resource-id: id/welcome_time_limit
+tag: Bar
+
+L10
+class: org.adw.library.widgets.discreteseekbar.DiscreteSeekBar
+bounds: [357, 1382, 1251, 1494]
+resource-id: id/welcome_data_usage_limit
+tag: Bar
+
+L12
+class: android.support.v7.widget.h
+bounds: [871, 1578, 1039, 1746]
+resource-id: id/button_minus
+tag: Button
+
+L12
+class: android.support.v7.widget.h
+bounds: [1083, 1578, 1251, 1746]
+resource-id: id/button_plus
+tag: Button
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,102 @@
+L5
+class: android.widget.TextView
+bounds: [123, 101, 1174, 764]
+resource-id: id/title
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [1230, 811, 1440, 1138]
+resource-id: id/date
+tag: Text
+
+L13
+class: android.widget.TextView
+bounds: [1230, 1657, 1440, 1984]
+resource-id: id/date
+tag: Text
+
+L12
+class: com.shush.util.ui.ImageViewLoading
+bounds: [1230, 327, 1440, 2392]
+resource-id: id/imageview
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [0, 110, 123, 233]
+resource-id: id/icon
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [1174, 147, 1202, 196]
+resource-id: id/imagearrow
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [0, 284, 123, 407]
+resource-id: id/icon
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [1174, 321, 1202, 370]
+resource-id: id/imagearrow
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [0, 458, 123, 581]
+resource-id: id/icon
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [1174, 495, 1202, 544]
+resource-id: id/imagearrow
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [0, 632, 123, 755]
+resource-id: id/icon
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [1174, 669, 1202, 718]
+resource-id: id/imagearrow
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [0, 835, 123, 958]
+resource-id: id/icon
+tag: Image
+
+L5
+class: android.widget.ImageView
+bounds: [1174, 872, 1202, 921]
+resource-id: id/imagearrow
+tag: Image
+
+L5
+class: android.widget.TextView
+bounds: [123, 826, 1174, 967]
+resource-id: id/title
+tag: Text
+
+L6
+class: android.widget.RelativeLayout
+bounds: [1230, 84, 1440, 292]
+resource-id: id/header
+tag: Header
+
+L7
+class: android.widget.ImageButton
+bounds: [1258, 118, 1398, 258]
+resource-id: id/menu
+tag: Button
+

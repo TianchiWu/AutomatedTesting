@@ -1,0 +1,60 @@
+L4
+class: com.itonline.anastasiadate.widget.navigation.bar.ActionBar
+bounds: [0, 84, 1440, 259]
+resource-id: id/action_bar
+tag: NavigationBar
+
+L6
+class: android.widget.TextView
+bounds: [401, 136, 1039, 207]
+resource-id: id/title
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [71, 136, 139, 206]
+resource-id: id/left_action
+tag: Image
+
+L7
+class: com.itonline.anastasiadate.widget.text.TextView
+bounds: [70, 259, 177, 344]
+resource-id: id/view_login_email_ID
+tag: Text
+
+L7
+class: android.widget.EditText
+bounds: [70, 344, 1370, 451]
+resource-id: id/view_login_input_email_ID
+tag: Text
+
+L7
+class: com.itonline.anastasiadate.widget.text.TextView
+bounds: [70, 451, 258, 536]
+resource-id: id/view_login_password
+tag: Text
+
+L7
+class: android.widget.EditText
+bounds: [70, 536, 1370, 643]
+resource-id: id/view_login_input_password
+tag: Text
+
+L7
+class: android.widget.Button
+bounds: [70, 713, 1370, 871]
+resource-id: id/view_login_button_login
+tag: Button
+
+L7
+class: com.itonline.anastasiadate.widget.text.TextView
+bounds: [500, 992, 939, 1049]
+resource-id: id/view_login_havnt_account
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [70, 1077, 1370, 1235]
+resource-id: id/view_login_button_join
+tag: Button
+

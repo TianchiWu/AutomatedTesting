@@ -1,0 +1,48 @@
+L9
+class: android.widget.TextView
+bounds: [440, 756, 1175, 1011]
+resource-id: id/itemtext
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [440, 1070, 1175, 1325]
+resource-id: id/itemtext
+tag: Text
+
+L8
+class: android.widget.ImageView
+bounds: [265, 756, 433, 924]
+resource-id: id/itemIcon
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [265, 1070, 433, 1238]
+resource-id: id/itemIcon
+tag: Image
+
+L8
+class: android.widget.ImageView
+bounds: [265, 1384, 433, 1552]
+resource-id: id/itemIcon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [440, 1384, 549, 1460]
+resource-id: id/itemTile
+tag: Text
+
+L9
+class: android.widget.TextView
+bounds: [440, 1460, 1175, 1582]
+resource-id: id/itemtext
+tag: Text
+
+L6
+class: android.widget.Button
+bounds: [483, 1698, 956, 1796]
+resource-id: id/moreApp
+tag: Button
+

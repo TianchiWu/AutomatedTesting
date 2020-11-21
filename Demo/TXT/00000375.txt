@@ -1,0 +1,210 @@
+L4
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 259]
+resource-id: id/main_toolbar
+tag: Bar
+
+L7
+class: android.widget.ImageView
+bounds: [56, 129, 140, 213]
+resource-id: id/img_mian_icon
+tag: Image
+
+L7
+class: android.widget.TextView
+bounds: [140, 126, 428, 216]
+resource-id: id/tv_main_title
+tag: Text
+
+L10
+class: android.widget.EditText
+bounds: [446, 101, 1087, 186]
+resource-id: id/edt_location_search
+tag: Text
+
+L10
+class: android.widget.ImageButton
+bounds: [1087, 84, 1207, 204]
+resource-id: id/ib_search
+tag: Button
+
+L9
+class: android.widget.ImageView
+bounds: [67, 294, 151, 378]
+resource-id: id/item_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [256, 298, 463, 374]
+resource-id: id/item_title
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [7, 413, 868, 417]
+resource-id: id/item_split_line
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [67, 451, 151, 535]
+resource-id: id/item_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [256, 455, 380, 531]
+resource-id: id/item_title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [67, 608, 151, 692]
+resource-id: id/item_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [256, 612, 361, 688]
+resource-id: id/item_title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [67, 765, 151, 849]
+resource-id: id/item_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [256, 769, 496, 845]
+resource-id: id/item_title
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [7, 884, 868, 888]
+resource-id: id/item_split_line
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [67, 922, 151, 1006]
+resource-id: id/item_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [256, 926, 450, 1002]
+resource-id: id/item_title
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [7, 1041, 868, 1045]
+resource-id: id/item_split_line
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [67, 1079, 151, 1163]
+resource-id: id/item_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [256, 1083, 468, 1159]
+resource-id: id/item_title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [67, 1236, 151, 1320]
+resource-id: id/item_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [256, 1240, 501, 1316]
+resource-id: id/item_title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [67, 1393, 151, 1477]
+resource-id: id/item_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [256, 1397, 728, 1473]
+resource-id: id/item_title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [67, 1550, 151, 1634]
+resource-id: id/item_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [256, 1554, 609, 1630]
+resource-id: id/item_title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [67, 1707, 151, 1791]
+resource-id: id/item_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [256, 1711, 597, 1787]
+resource-id: id/item_title
+tag: Text
+
+L7
+class: android.widget.TextView
+bounds: [7, 1826, 868, 1830]
+resource-id: id/item_split_line
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [67, 1864, 151, 1948]
+resource-id: id/item_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [256, 1868, 371, 1944]
+resource-id: id/item_title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [67, 2021, 151, 2105]
+resource-id: id/item_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [256, 2025, 460, 2101]
+resource-id: id/item_title
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [67, 2178, 151, 2262]
+resource-id: id/item_icon
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [256, 2182, 353, 2258]
+resource-id: id/item_title
+tag: Text
+

@@ -1,0 +1,102 @@
+L10
+class: com.parkme.consumer.ui.RobotoTextView
+bounds: [0, 861, 1440, 1102]
+resource-id: id/address
+tag: Text
+
+L6
+class: android.support.design.widget.AppBarLayout
+bounds: [0, 0, 1440, 826]
+resource-id: id/appbar
+tag: Image
+
+L8
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L8
+class: android.widget.ProgressBar
+bounds: [667, 360, 772, 465]
+resource-id: id/thumb_progress
+tag: Bar
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1335, 1142, 1440, 1281]
+resource-id: id/phones_arrow
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1335, 1321, 1440, 1460]
+resource-id: id/directions_arrow
+tag: Image
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1335, 1500, 1440, 1639]
+resource-id: id/update_lot_arrow
+tag: Image
+
+L13
+class: com.parkme.consumer.ui.RobotoTextView
+bounds: [214, 1679, 750, 1754]
+resource-id: id/occupancy
+tag: Text
+
+L13
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1335, 1679, 1440, 1818]
+resource-id: id/occupancy_arrow
+tag: Image
+
+L14
+class: com.parkme.consumer.ui.RobotoTextView
+bounds: [53, 2065, 222, 2140]
+resource-id: id/rate_text
+tag: Text
+
+L13
+class: com.parkme.consumer.ui.RobotoTextView
+bounds: [222, 2065, 1387, 2140]
+resource-id: id/rate_cost
+tag: Text
+
+L13
+class: com.parkme.consumer.ui.RobotoTextView
+bounds: [251, 2244, 1387, 2319]
+resource-id: id/rate_cost
+tag: Text
+
+L7
+class: com.parkme.consumer.ui.RobotoButton
+bounds: [7, 2210, 1433, 2385]
+resource-id: id/reserve
+tag: Button
+
+L8
+class: android.support.v4.view.ViewPager
+bounds: [18, 18, 1422, 2178]
+resource-id: id/full_pager
+tag: Image
+
+L8
+class: com.parkme.consumer.ui.RobotoTextView
+bounds: [1226, 2178, 1422, 2374]
+resource-id: id/later
+tag: Text
+
+L7
+class: android.widget.ProgressBar
+bounds: [636, 1154, 804, 1322]
+resource-id: id/progress_bar
+tag: Bar
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

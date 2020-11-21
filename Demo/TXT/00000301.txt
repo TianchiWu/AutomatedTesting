@@ -1,0 +1,120 @@
+L12
+class: android.support.v7.widget.AppCompatTextView
+bounds: [196, 111, 524, 253]
+resource-id: id/spins_left
+tag: Text
+
+L8
+class: android.widget.RelativeLayout
+bounds: [0, 84, 1440, 550]
+resource-id: id/search_bar_container
+tag: Bar
+
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [912, 2223, 1363, 2318]
+resource-id: id/notification_winner_decline
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [1218, 135, 1370, 228]
+resource-id: id/bar_login_btn
+tag: Bar
+
+L8
+class: android.support.v7.widget.AppCompatTextView
+bounds: [623, 126, 817, 229]
+resource-id: id/bar_title
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [88, 373, 172, 457]
+resource-id: id/search_icon
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [87, 619, 632, 676]
+resource-id: id/wishlist_tab_text
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [893, 616, 1267, 679]
+resource-id: id/wishlist_tab_text
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [229, 764, 509, 1025]
+resource-id: id/product_image
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [68, 1130, 670, 1272]
+resource-id: id/product_name
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [931, 764, 1211, 1025]
+resource-id: id/product_image
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [770, 1130, 1372, 1272]
+resource-id: id/product_name
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [229, 1620, 509, 1900]
+resource-id: id/product_image
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [68, 2005, 670, 2147]
+resource-id: id/product_name
+tag: Text
+
+L16
+class: android.support.v7.widget.AppCompatImageView
+bounds: [931, 1620, 1211, 1900]
+resource-id: id/product_image
+tag: Image
+
+L16
+class: android.support.v7.widget.AppCompatTextView
+bounds: [770, 2005, 1372, 2147]
+resource-id: id/product_name
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatTextView
+bounds: [140, 2146, 1202, 2217]
+resource-id: id/ten_items_info
+tag: Text
+
+L10
+class: de.hdodenhof.circleimageview.CircleImageView
+bounds: [77, 2048, 231, 2202]
+resource-id: id/notification_winner_image
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

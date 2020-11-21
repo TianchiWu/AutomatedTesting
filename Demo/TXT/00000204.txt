@@ -1,0 +1,72 @@
+L9
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 280, 1439, 1243]
+resource-id: id/btn_nav_login
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 280, 1440, 769]
+resource-id: id/tvCustSupportText
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [56, 1289, 1384, 1600]
+resource-id: id/tvAssistMsg
+tag: Text
+
+L6
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [215, 829, 611, 905]
+resource-id: id/tvContactNumber
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [215, 1021, 544, 1097]
+resource-id: id/tvContactEmail
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [0, 1660, 1440, 1884]
+resource-id: id/tvFAQ
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [436, 1324, 695, 1381]
+resource-id: id/tv_nav_privacyPolicy
+tag: Text
+
+L11
+class: android.support.v7.widget.AppCompatTextView
+bounds: [755, 1324, 1003, 1381]
+resource-id: id/tv_nav_termsOfUse
+tag: Text
+
+L10
+class: android.support.v7.widget.AppCompatTextView
+bounds: [465, 1383, 974, 1440]
+resource-id: id/tv_copy_right
+tag: Text
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

@@ -1,0 +1,90 @@
+L11
+class: com.stt.android.ui.utils.TopCropImageView
+bounds: [0, 84, 1440, 2196]
+resource-id: id/backgroundImage
+tag: Image
+
+L12
+class: com.stt.android.home.dashboard.toolbar.DashboardToolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/toolbar
+tag: Bar
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [56, 126, 168, 238]
+resource-id: id/profileImage
+tag: Image
+
+L14
+class: android.support.v7.widget.bn
+bounds: [189, 84, 450, 280]
+resource-id: id/toolbarTitle
+tag: Bar
+
+L15
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1321, 119, 1384, 245]
+resource-id: id/dashboardNotificationBell
+tag: Image
+
+L8
+class: com.stt.android.home.dashboard.startworkout.StartWorkoutButton
+bounds: [440, 1902, 1000, 2042]
+resource-id: id/startWorkout
+tag: Button
+
+L8
+class: android.support.v7.widget.AppCompatImageView
+bounds: [0, 2182, 1440, 2196]
+resource-id: id/bb_bottom_bar_shadow
+tag: Image
+
+L7
+class: android.view.View
+bounds: [0, 2196, 1440, 2392]
+resource-id: id/bb_bottom_bar_background_view
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [162, 2196, 246, 2301]
+resource-id: id/bb_bottom_bar_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.bn
+bounds: [138, 2305, 270, 2392]
+resource-id: id/bb_bottom_bar_title
+tag: Bar
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [506, 2196, 590, 2336]
+resource-id: id/bb_bottom_bar_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [764, 2196, 848, 2336]
+resource-id: id/bb_bottom_bar_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1022, 2196, 1106, 2336]
+resource-id: id/bb_bottom_bar_icon
+tag: Image
+
+L10
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1280, 2196, 1364, 2336]
+resource-id: id/bb_bottom_bar_icon
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+

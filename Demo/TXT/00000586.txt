@@ -1,0 +1,90 @@
+L10
+class: com.xoopsoft.apps.footballgeneral.RobotoTextView
+bounds: [235, 748, 1205, 2142]
+resource-id: id/tvExtraInfo
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [179, 974, 235, 1315]
+resource-id: id/ivLeft
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1205, 974, 1261, 1315]
+resource-id: id/ivRight
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [179, 1355, 235, 1629]
+resource-id: id/ivLeft
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1205, 1355, 1261, 1629]
+resource-id: id/ivRight
+tag: Image
+
+L7
+class: com.xoopsoft.apps.footballgeneral.RobotoTextView
+bounds: [256, 382, 1296, 580]
+resource-id: id/nativeAdSubTitle
+tag: Text
+
+L7
+class: android.widget.ImageView
+bounds: [179, 471, 349, 706]
+resource-id: id/ivIconLiveGoals
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [179, 1669, 235, 1809]
+resource-id: id/ivLeft
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1205, 1669, 1261, 1809]
+resource-id: id/ivRight
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1205, 1962, 1261, 2102]
+resource-id: id/ivRight
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [521, 587, 640, 706]
+resource-id: id/ivIconLiveDetails
+tag: Image
+
+L7
+class: android.widget.ImageView
+bounds: [812, 587, 931, 706]
+resource-id: id/ivIconLiveLineup
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1205, 765, 1261, 821]
+resource-id: id/ivRight
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1205, 878, 1261, 934]
+resource-id: id/ivRight
+tag: Image
+
+L9
+class: android.widget.ImageView
+bounds: [1205, 1866, 1261, 1922]
+resource-id: id/ivRight
+tag: Image
+

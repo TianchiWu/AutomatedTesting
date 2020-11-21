@@ -1,0 +1,168 @@
+L15
+class: com.frankly.news.widget.CustomTextView
+bounds: [522, 1082, 669, 1135]
+resource-id: id/frn_ago
+tag: Text
+
+L15
+class: com.frankly.news.widget.CustomTextView
+bounds: [522, 1432, 690, 1485]
+resource-id: id/frn_ago
+tag: Text
+
+L13
+class: android.widget.FrameLayout
+bounds: [63, 1619, 469, 2182]
+resource-id: id/frn_container
+tag: Image
+
+L15
+class: com.frankly.news.widget.CustomTextView
+bounds: [522, 2065, 670, 2118]
+resource-id: id/frn_ago
+tag: Text
+
+L9
+class: android.support.v7.widget.Toolbar
+bounds: [0, 84, 1440, 280]
+resource-id: id/frn_toolbar
+tag: Bar
+
+L11
+class: android.support.v7.widget.AppCompatImageView
+bounds: [496, 98, 916, 266]
+resource-id: id/frn_image_logo
+tag: Image
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1110, 119, 1236, 245]
+resource-id: id/frn_weather_icon
+tag: Image
+
+L12
+class: com.frankly.news.widget.CustomTextView
+bounds: [1257, 126, 1391, 237]
+resource-id: id/frn_weather_temperature
+tag: Text
+
+L13
+class: android.widget.FrameLayout
+bounds: [63, 448, 469, 499]
+resource-id: id/frn_container
+tag: Image
+
+L13
+class: android.widget.FrameLayout
+bounds: [63, 569, 469, 849]
+resource-id: id/frn_container
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [213, 656, 318, 761]
+resource-id: id/frn_play_indicator_image
+tag: Image
+
+L14
+class: com.frankly.news.widget.CustomTextView
+bounds: [522, 569, 1377, 732]
+resource-id: id/frn_text_story_headline
+tag: Text
+
+L15
+class: com.frankly.news.widget.CustomTextView
+bounds: [522, 732, 1221, 782]
+resource-id: id/frn_text_updated_at
+tag: Text
+
+L15
+class: com.frankly.news.widget.CustomTextView
+bounds: [602, 732, 690, 782]
+resource-id: id/frn_ago
+tag: Text
+
+L13
+class: android.widget.FrameLayout
+bounds: [63, 919, 469, 1199]
+resource-id: id/frn_container
+tag: Image
+
+L14
+class: com.frankly.news.widget.CustomTextView
+bounds: [522, 919, 1377, 1082]
+resource-id: id/frn_text_story_headline
+tag: Text
+
+L13
+class: android.widget.FrameLayout
+bounds: [63, 1269, 469, 1549]
+resource-id: id/frn_container
+tag: Image
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [213, 1356, 318, 1461]
+resource-id: id/frn_play_indicator_image
+tag: Image
+
+L14
+class: com.frankly.news.widget.CustomTextView
+bounds: [522, 1269, 1377, 1432]
+resource-id: id/frn_text_story_headline
+tag: Text
+
+L14
+class: com.frankly.news.widget.CustomTextView
+bounds: [63, 1619, 1377, 1782]
+resource-id: id/frn_text_story_headline
+tag: Text
+
+L15
+class: com.frankly.news.widget.CustomTextView
+bounds: [63, 1782, 762, 1832]
+resource-id: id/frn_text_updated_at
+tag: Text
+
+L14
+class: android.support.v7.widget.AppCompatImageView
+bounds: [213, 1989, 318, 2094]
+resource-id: id/frn_play_indicator_image
+tag: Image
+
+L14
+class: com.frankly.news.widget.CustomTextView
+bounds: [522, 1902, 1377, 2065]
+resource-id: id/frn_text_story_headline
+tag: Text
+
+L10
+class: android.widget.ProgressBar
+bounds: [636, 1336, 804, 1504]
+resource-id: id/frn_progress_bar_loading
+tag: Bar
+
+L12
+class: com.frankly.news.widget.CustomTextView
+bounds: [63, 490, 1377, 552]
+resource-id: id/frn_text_category_name
+tag: Text
+
+L12
+class: android.support.v7.widget.AppCompatImageView
+bounds: [1321, 490, 1377, 546]
+resource-id: id/frn_image_arrow
+tag: Image
+
+L1
+class: android.view.View
+bounds: [0, 2392, 1440, 2560]
+resource-id: id/navigationBarBackground
+tag: NavigationBar
+
+L1
+class: android.view.View
+bounds: [0, 0, 1440, 84]
+resource-id: id/statusBarBackground
+tag: StatusBar
+

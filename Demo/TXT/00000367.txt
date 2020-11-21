@@ -1,0 +1,48 @@
+L10
+class: com.dailyyoga.view.CustomRobotoLightTextView
+bounds: [53, 800, 610, 1818]
+resource-id: id/stay_healthy_tv
+tag: Text
+
+L9
+class: com.dailyyoga.view.CustomRobotoLightTextView
+bounds: [53, 716, 358, 1224]
+resource-id: id/advanced_tv
+tag: Text
+
+L9
+class: android.widget.ImageView
+bounds: [0, 84, 168, 252]
+resource-id: id/chooselevel_back_iv
+tag: Image
+
+L9
+class: android.widget.TextView
+bounds: [467, 84, 973, 252]
+resource-id: id/chooselevel_main_title_name
+tag: Text
+
+L8
+class: android.widget.TextView
+bounds: [56, 429, 1440, 541]
+resource-id: id/chooselevel_sub_tv
+tag: Text
+
+L7
+class: android.widget.Button
+bounds: [53, 1294, 1387, 1434]
+resource-id: id/chooselevel_bn
+tag: Button
+
+L8
+class: com.dailyyoga.view.CustomRobotoLightTextView
+bounds: [88, 646, 1387, 712]
+resource-id: id/choosegoal_pickup_two
+tag: Text
+
+L8
+class: android.widget.Button
+bounds: [53, 1888, 1387, 2028]
+resource-id: id/choosegoal_bn
+tag: Button
+
