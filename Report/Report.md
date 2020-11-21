@@ -87,10 +87,19 @@
 
 ![.img](Image/XML标注.png)
 
-## 视频链接
+## 视频和模型链接
 
-链接：https://pan.baidu.com/s/1cilJBvXOSYggYXvDUFmrCg 
-提取码：lo31 
+##### 视频
+
+##### 链接：https://pan.baidu.com/s/1cilJBvXOSYggYXvDUFmrCg
+ 
+##### 提取码：lo31 
+
+##### 模型
+
+##### 链接：https://pan.baidu.com/s/1gqdE7OWwapvrjiuDiBfAYQ 
+
+##### 提取码：fwr3 
 
 ### 相关参考文献
 
